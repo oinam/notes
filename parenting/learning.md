@@ -1,3 +1,8 @@
+---
+layout: page
+title: Learning
+---
+
 # Learning
 
 ## Computers

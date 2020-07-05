@@ -1,3 +1,8 @@
+---
+layout: page
+title: 10 Life Skills to Teach Your Child by Age 10
+---
+
 # 10 Life Skills to Teach Your Child by Age 10
 
 1. Doing the Laundry

@@ -1,5 +1,9 @@
-# References
+---
+layout: page
+title: References
+---
 
+# References
 
 ## Internet, Wi-Fi, Routers
 

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Leadership
+---
+
 # Leadership
 
 ## 12 Quick and Simple Ways to Become a Great Leader in 2016

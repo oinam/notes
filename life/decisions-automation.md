@@ -1,3 +1,8 @@
+---
+layout: page
+title: Decisions Automation
+---
+
 # Decisions Automation
 
 > How automating my useless decisions helps me focus on what matters.

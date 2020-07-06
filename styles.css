@@ -454,15 +454,18 @@ img {
 
 /*
  * Custom Styles
- * Edit: Jul 4, 2020
+ * Edit: Jul 6, 2020
  */
 
 :root {
   --onm-font-sans-serif: Georgia, serif;
+  --onm-border-radius: 3px;
 }
 
-html,input,select,button {
-  /* Set body font family and some finicky elements */
+html,
+input,
+select,
+button {
   font-family: var(--onm-font-sans-serif);
 }
 
@@ -473,4 +476,14 @@ body {
 
   font-size: 1.2rem;
   line-height: 1.6;
+}
+
+blockquote {
+  padding: 0.5rem 1.5rem;
+  background: var(--nc-bg-2);
+
+  border-left: 10px solid var(--nc-bg-3);
+  border-radius-right: var(--onm-border-radius);
+
+  font-family: var(--nc-font-sans);
 }

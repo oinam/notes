@@ -23,7 +23,7 @@ email: oinam@oinam.com
 description: >- # this means to ignore newlines until "baseurl:"
   A public informational tit-bits, wiki-ish collection of data, learnings, observations from the Oinam family.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://oinam.fyi" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: oinam
 github_username:  oinam

@@ -14,12 +14,22 @@
 <meta property="og:image" content="">
 <meta name="theme-color" content="#fafafa">
 
-<link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
+<link rel="stylesheet" href="{{ '/styles.css' | prepend: site.baseurl }}">
 
 </head>
 <body>
 
 {{ content }}
+
+<hr>
+
+<footer>
+  <small>
+    <p>
+      Maintained by the <a href="//oinam.com/">Oinam</a> Family.
+    </p>
+  </small>
+</footer>
 
 </body>
 </html>

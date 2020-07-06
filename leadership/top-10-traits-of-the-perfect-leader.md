@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Top 10 traits of the Perfect Manager
+category: leadership
 ---
 
 # Top 10 traits of the Perfect Manager

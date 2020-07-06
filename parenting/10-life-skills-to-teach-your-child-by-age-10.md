@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 10 Life Skills to Teach Your Child by Age 10
+category: parenting
 ---
 
 # 10 Life Skills to Teach Your Child by Age 10

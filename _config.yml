@@ -33,7 +33,6 @@ highlighter: rouge
 permalink: pretty
 
 # Build settings
-# theme: minima
 plugins:
   - jekyll-feed
 

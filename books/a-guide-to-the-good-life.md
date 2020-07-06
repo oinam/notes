@@ -1,3 +1,9 @@
+---
+layout: page
+title: A Guide to the Good Life
+category: books
+---
+
 # A Guide to the Good Life
 
 In ancient Greece, there were philosophers, later known as Stoics, who argued for a life of moderation and greater self-control in order to achieve peace of mind and avoid frustration and pain.

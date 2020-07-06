@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Why do I Swear?
+category: brajeshwar
 ---
 
 # Why do I Swear?

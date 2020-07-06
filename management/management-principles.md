@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Management Principles
+category: management
 ---
 
 # Management Principles

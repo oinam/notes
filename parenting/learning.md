@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Learning
+category: parenting
 ---
 
 # Learning

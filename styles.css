@@ -484,6 +484,18 @@ blockquote {
 
   border-left: 10px solid var(--nc-bg-3);
   border-radius-right: var(--onm-border-radius);
+}
 
-  font-family: var(--nc-font-sans);
+.logo {
+  font-size: 1.6rem;
+}
+
+.logo a,
+.logo a:visited {
+  text-decoration: none;
+}
+
+.logo a:hover,
+.logo a:active {
+  text-decoration: underline;
 }

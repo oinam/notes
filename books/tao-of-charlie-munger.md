@@ -1,6 +1,14 @@
+---
+layout: page
+title: Tao of Charlie Munger
+category: books
+---
+
 # Tao of Charlie Munger
 
 > A Compilation of Quotes from Berkshire Hathaway's Vice Chairman on Life, Business, and the Pursuit of Wealth.
+
+[Amazon](https://www.amazon.com/Tao-Charlie-Munger-Compilation-Commentary-ebook/dp/B01E4BC1EI/)
 
 Charlie Munger was born in Omaha, Nebraska, on JAN 1, 1924.
 

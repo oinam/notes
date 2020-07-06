@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Decisions Automation
+category: life
 ---
 
 # Decisions Automation

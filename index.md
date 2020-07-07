@@ -3,7 +3,7 @@ layout: default
 title: Oinam Digital Garden
 ---
 
-<h1 class="title">Oinam Digital Garden</h1>
+<h1 class="logo">Oinam Digital Garden</h1>
 
 <p>
   <blockquote>{{site.description}}</blockquote>

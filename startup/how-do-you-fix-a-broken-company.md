@@ -1,4 +1,14 @@
+---
+layout: page
+title: How do you fix a broken company
+category: startup
+---
+
 # How do you fix a broken company
+
+This appeared in a comment on HackerNews (unable to find the link yet). It is a fun read about truth of running companies. Reproduced verbatim here;
+
+---
 
 Let’s say you were just hired as the President of a furniture company. The owner says he knows it's good furniture but even despite huge investments they can't seem to sell any furniture. Your job is to turn things around.
 

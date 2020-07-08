@@ -31,5 +31,5 @@ title: Oinam Digital Garden
   + [Learning](/parenting/learning/)
 - Photography
   + [Cityscape Photography - The Comprehensive Guide](/photography/cityscape-photography-guide.pdf) (pdf)
-- References
-  + 
+- Startup
+  + [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)

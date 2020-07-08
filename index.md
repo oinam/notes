@@ -22,6 +22,7 @@ title: Oinam Digital Garden
   + [Top 10 traits of the Perfect Manager](/leadership/top-10-traits-of-the-perfect-leader/)
 - Life
   + [Decisions Automation](/life/decisions-automation/)
+  + [Ten Lessons I Wish I Had Been Taught](/life/10-lessons-i-wish-i-had-been-taught/) -- [source](https://www.ams.org/notices/199701/comm-rota.pdf) (pdf) [cached](/life/10-lessons-i-wish-i-had-been-taught.pdf) (pdf)
 - Management
   + [Management Principles](/management/management-principles)
   + [Running an All-hands](/management/running-an-all-hands.pdf) (pdf)

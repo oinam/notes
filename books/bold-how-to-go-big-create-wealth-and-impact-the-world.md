@@ -1,7 +1,12 @@
+---
+layout: page
+title: "Bold: How to Go Big, Create Wealth and Impact the World"
+category: books
+---
+
 # Bold: How to Go Big, Create Wealth and Impact the World
 
-by Peter H. Diamandis, Steven Kotler
-https://en.wikipedia.org/wiki/Bold_(book)
+[Book](https://en.wikipedia.org/wiki/Bold_(book)) by Peter H. Diamandis, Steven Kotler
 
 1. If anything can go wrong, Fix It!!… to hell with Murphy! 
 2. When given a choice… take both!! 

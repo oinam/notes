@@ -1,3 +1,9 @@
+---
+layout: page
+title: Good to Great
+category: books
+---
+
 # Good to Great: Why Some Companies Make the Leap... and Others Don't
 
 Good-to-great companies all found their own simple Hedgehog concept by asking themselves three key questions:

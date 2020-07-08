@@ -11,6 +11,8 @@ title: Oinam Digital Garden
 
 - Books
   + [A Guide to the Good Life](/books/a-guide-to-the-good-life/)
+  + [Bold: How to Go Big, Create Wealth and Impact the World](/books/bold-how-to-go-big-create-wealth-and-impact-the-world/)
+  + [Good to Great](/books/good-to-great/)
   + [Tao of Charlie Munger](/books/tao-of-charlie-munger/)
 - Brajeshwar
   + [Why do I Swear?](/brajeshwar/why-do-i-swear/)

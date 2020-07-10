@@ -15,6 +15,9 @@ title: Oinam Digital Garden
   + [Tao of Charlie Munger](/books/tao-of-charlie-munger/)
 - English
   + [Write to Express, Not to Impress](/english/write-to-express-not-to-impress/)
+- Entrepreneur
+  + [Entrepreneurs' References](/entrepreneur/entrepreneur-references)
+  + [How to create successful Products and Services](/entrepreneur/how-to-create-successful-products-and-services)
 - Leadership
   + [Top 10 traits of the Perfect Manager](/leadership/top-10-traits-of-the-perfect-leader/)
 - Life

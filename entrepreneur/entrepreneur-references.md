@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Entrepreneur
+title: Entrepreneurs' References
 ---
 
-# Entrepreneur
+# Entrepreneurs' References
 
 > Dedicated to all the entrepreneurs.
 

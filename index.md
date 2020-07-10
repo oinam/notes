@@ -4,18 +4,15 @@ title: Oinam Digital Garden
 ---
 
 <h1 class="logo">Oinam Digital Garden</h1>
+<p>{{site.description}}</p>
 
-<p>
-  <blockquote>{{site.description}}</blockquote>
-</p>
+---
 
 - Books
   + [A Guide to the Good Life](/books/a-guide-to-the-good-life/)
   + [Bold: How to Go Big, Create Wealth and Impact the World](/books/bold-how-to-go-big-create-wealth-and-impact-the-world/)
   + [Good to Great](/books/good-to-great/)
   + [Tao of Charlie Munger](/books/tao-of-charlie-munger/)
-- Brajeshwar
-  + [Why do I Swear?](/brajeshwar/why-do-i-swear/)
 - English
   + [Write to Express, Not to Impress](/english/write-to-express-not-to-impress/)
 - Leadership
@@ -31,5 +28,14 @@ title: Oinam Digital Garden
   + [Learning](/parenting/learning/)
 - Photography
   + [Cityscape Photography - The Comprehensive Guide](/photography/cityscape-photography-guide.pdf) (pdf)
+- Presentation
+  + [Presentation Rules](/presentation/presentation-rules)
 - Startup
   + [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)
+
+---
+
+## Personal
+
+- Brajeshwar
+  + [Why do I Swear?](/brajeshwar/why-do-i-swear/)

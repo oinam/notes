@@ -10,3 +10,10 @@ Currently powered by Jekyll. When something simpler, comes along, any tooling sh
 $ bundler
 $ bundle exec jekyll serve
 ```
+
+## Inspiration
+
+There are lots of other interesting digital gardens, notes, scribblings, random musings. Get inspired.
+
+- [Buster's Notes](https://notes.busterbenson.com) by Buster Benson, founder of [750Words](https://750words.com). His [Life in Weeks](https://notes.busterbenson.com/life-in-weeks) is well done, complete with template that you can use for your own.
+- [Joel Hooks](https://joelhooks.com)

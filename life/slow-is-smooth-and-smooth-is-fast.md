@@ -1,0 +1,13 @@
+---
+layout: page
+title:  Slow is Smooth; Smooth is Fast
+category: life
+---
+
+# Slow is Smooth; Smooth is Fast
+
+"Slow is smooth, and smooth is fast" is a [Navy SEAL](https://en.wikipedia.org/wiki/United_States_Navy_SEALs) saying. The meaning is pretty clear. Practice slowly so that the correct motor patterns are ingrained. And perhaps equally importantly, execute "slowly", that is to say, don't rush. Pushing your nervous system to perform faster than it's trained to will simply cause you to fumble what you're doing, and the end result is that your rushed performance is slower than if you had attempted a measured cadence in the first place.
+
+High performers, be they artists or athletes or academics, they are all slow. The skilled artists never rush through their warmup exercises. The athletes are patient with their bodies. The academics will spend ten minutes on a task that might take me two minutes, because they're doing things like checking for consistency, giving themselves time to think things through and notice irregularities, and perhaps even formatting a table or graph to look nicer even if it's not necessarily ever going to be seen by anyone but themselves. The end result of all this "slowness" at the micro level is acceleration and efficiency at the macro level, and improved overall performance.
+
+Show me somebody who gets things done at an unbelievable pace and I'll show you somebody whose life probably looks unbearably slow when you actually look at what they're doing on a daily basis.

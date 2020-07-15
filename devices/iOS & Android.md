@@ -13,5 +13,3 @@
 - Utilities
   + Dropbox
   + Grammarly
-  + 1.1.1.1
-  + NextDNS

@@ -151,6 +151,7 @@ $ killall Dock
 
 ---
 ## Block sites at /etc/hosts (replace nano with any editor you want)
+Replace `nano` with editor of your choice
 $ sudo nano /etc/hosts
 Add `0.0.0.0 site.xyz`, save and exit.
 

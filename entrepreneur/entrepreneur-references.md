@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Entrepreneurs' References
+categry: entrepreneur
 ---
 
 # Entrepreneurs' References

@@ -18,6 +18,7 @@ title: Oinam Digital Garden
 - Entrepreneur
   + [Entrepreneurs' References](/entrepreneur/entrepreneur-references)
   + [How to create successful Products and Services](/entrepreneur/how-to-create-successful-products-and-services)
+  + [10 Types of Innovation](/entrepreneur/10-types-of-innovation/)
 - Leadership
   + [Top 10 traits of the Perfect Manager](/leadership/top-10-traits-of-the-perfect-leader/)
 - Life

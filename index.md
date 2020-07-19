@@ -38,6 +38,8 @@ title: Oinam Digital Garden
   + [Presentation Rules](/presentation/presentation-rules)
 - Startup
   + [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)
+- Technology
+  + [Let them paste passwords](/technology/passwords-pasteing/)
 
 ---
 

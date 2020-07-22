@@ -13,6 +13,7 @@ title: Oinam Digital Garden
   + [Bold: How to Go Big, Create Wealth and Impact the World](/books/bold-how-to-go-big-create-wealth-and-impact-the-world/)
   + [Good to Great](/books/good-to-great/)
   + [Tao of Charlie Munger](/books/tao-of-charlie-munger/)
+  + [The Description of a New World, Called the Blazing World](/books/the-description-of-a-new-world-called-the-blazing-world/)
 - English
   + [Write to Express, Not to Impress](/english/write-to-express-not-to-impress/)
 - Entrepreneur

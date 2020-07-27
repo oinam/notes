@@ -28,6 +28,7 @@ title: Oinam Digital Garden
   + [What to Work On](/life/what-to-work-on/)
   + [Ten Lessons I Wish I Had Been Taught](/life/10-lessons-i-wish-i-had-been-taught/) -- [source](https://www.ams.org/notices/199701/comm-rota.pdf) (pdf) [cached](/life/10-lessons-i-wish-i-had-been-taught.pdf) (pdf)
   + [6 Ways to Think Long-term](/life/6-ways-to-think-long-term/)
+  + [Have a life's Mission, and Persevere](/life/have-a-life-mission-and-persevere/)
 - Management
   + [Management Principles](/management/management-principles)
   + [Running an All-hands](/management/running-an-all-hands.pdf) (pdf)
@@ -40,6 +41,7 @@ title: Oinam Digital Garden
   + [Presentation Rules](/presentation/presentation-rules)
 - Startup
   + [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)
+  + [Chekhov's Gun](/startup/chekhovs-gun/)
 - Technology
   + [Let them paste passwords](/technology/passwords-paste/)
 - Tools

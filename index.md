@@ -30,6 +30,7 @@ title: Oinam Digital Garden
   + [6 Ways to Think Long-term](/life/6-ways-to-think-long-term/)
   + [Have a life's Mission, and Persevere](/life/have-a-life-mission-and-persevere/)
 - Management
+  + [Meetings](/management/meetings/)
   + [Management Principles](/management/management-principles)
   + [Running an All-hands](/management/running-an-all-hands.pdf) (pdf)
 - Parenting

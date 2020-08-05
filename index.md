@@ -42,6 +42,7 @@ title: Oinam Digital Garden
   + [Presentation Rules](/presentation/presentation-rules)
 - Startup
   + [Pitch Deck](/startup/pitch-deck/)
+  + [The Greatest Sales Deck from Zuora](/startup/the-greatest-sales-deck-from-zuora/)
   + [Chekhov's Gun](/startup/chekhovs-gun/)
   + [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)
 - Technology

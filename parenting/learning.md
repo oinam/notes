@@ -11,4 +11,4 @@ category: parenting
 - [Scratch](https://scratch.mit.edu)
 - [Blockly](https://developers.google.com/blockly/) by Google
 - [CodeGuppy](https://codeguppy.com/)
-- Python
+- Python for absolute beginners - [FutureCoder](https://github.com/alexmojaki/futurecoder)

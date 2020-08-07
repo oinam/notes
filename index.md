@@ -45,6 +45,7 @@ title: Oinam Digital Garden
   + [The Greatest Sales Deck from Zuora](/startup/the-greatest-sales-deck-from-zuora/)
   + [Chekhov's Gun](/startup/chekhovs-gun/)
   + [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)
+  + [Y Combinator’s Startup Library](/startup/ycombinator-startup-library/)
 - Technology
   + [Let them paste passwords](/technology/passwords-paste/)
 - Tools

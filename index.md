@@ -14,6 +14,8 @@ title: Oinam Digital Garden
   + [Good to Great](/books/good-to-great/)
   + [Tao of Charlie Munger](/books/tao-of-charlie-munger/)
   + [The Description of a New World, Called the Blazing World](/books/the-description-of-a-new-world-called-the-blazing-world/)
+- Devices
+  + [macOS Apps](/devices/macos-apps/)
 - English
   + [Write to Express, Not to Impress](/english/write-to-express-not-to-impress/)
 - Entrepreneur

@@ -7,7 +7,7 @@
 - Setup with Google ID.
 - For Mi Android Phones, setup MI ID.
 
-- Google (brajeshwar@gmail.com)
+- Google
 - Tools
   + 1Password
 - Utilities

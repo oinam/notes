@@ -12,3 +12,8 @@ category: parenting
 - [Blockly](https://developers.google.com/blockly/) by Google
 - [CodeGuppy](https://codeguppy.com/)
 - Python for absolute beginners - [FutureCoder](https://github.com/alexmojaki/futurecoder)
+
+## Tools
+
+- [GitDuck](https://gitduck.com)
+- [Repl](https://repl.it)

@@ -21,7 +21,7 @@
 title: Oinam Digital Garden
 email: oinam@oinam.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A public informational tit-bits, wiki-ish collection of data, learnings, observations from the Oinam family.
+  An informational tit-bit, wiki-ish collection of data, learnings, observations by the Oinam family.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://oinam.fyi" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -55,3 +55,5 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - CNAME
+  - README.md

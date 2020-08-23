@@ -19,7 +19,7 @@ Started with [Keepass](https://keepass.info) as the entry into the world of Pass
 
 [Dropbox](https://www.dropbox.com/) (paid)
 
-[Grammarly](https://app.grammarly.com) (paid) + [Hemingway App](http://www.hemingwayapp.com) (paid) + [iA Writer](https://ia.net/writer)
+[Grammarly](https://app.grammarly.com) (paid) + [Hemingway App](http://www.hemingwayapp.com) (paid) + [iA Writer](https://ia.net/writer) (paid)
 
 [Hazel](https://www.noodlesoft.com) (paid)
 
@@ -33,9 +33,7 @@ Started with [Keepass](https://keepass.info) as the entry into the world of Pass
 
 [NextDNS](https://nextdns.io/?from=at8wqcps) (paid)
 
-[Rectangle](http://rectangleapp.com) (free) - one of the best free window management utility for macOS.
-
-[Soulver](https://www.acqualia.com/soulver/) (paid)
+[Rectangle](http://rectangleapp.com) (free)
 
 [Scapple](https://www.literatureandlatte.com/scapple/) (paid)
 

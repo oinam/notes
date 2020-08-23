@@ -3,10 +3,11 @@ layout: default
 title: Oinam Digital Garden
 ---
 
-<h1 class="logo">Oinam Digital Garden</h1>
-<p>{{site.description}}</p>
+<h1 class="logo">{{ site.title }}</h1>
 
----
+> {{ site.description }}
+
+<hr class="oHr">
 
 - Books
   + [A Guide to the Good Life](/books/a-guide-to-the-good-life/)
@@ -15,6 +16,10 @@ title: Oinam Digital Garden
   + [Good to Great](/books/good-to-great/)
   + [Tao of Charlie Munger](/books/tao-of-charlie-munger/)
   + [The Description of a New World, Called the Blazing World](/books/the-description-of-a-new-world-called-the-blazing-world/)
+- Decouple
+  + [Adobe](/decouple/adobe/)
+  + Apple
+  + [Google](/decouple/google/)
 - Devices
   + [macOS Apps](/devices/macos-apps/)
 - English
@@ -54,10 +59,9 @@ title: Oinam Digital Garden
 - Tools
   + [Note Taking and Management](/tools/note-taking-and-management/)
 
----
+<hr class="oHr">
 
-## Personal
+### Brajeshwar
 
-- Brajeshwar
-  + [My Phone Homescreen Evolution](/brajeshwar/brajeshwar-phone-home/)
-  + [Why do I Swear?](/brajeshwar/why-do-i-swear/)
+- [My Phone Homescreen Evolution](/brajeshwar/brajeshwar-phone-home/)
+- [Why do I Swear?](/brajeshwar/why-do-i-swear/)

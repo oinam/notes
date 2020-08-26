@@ -23,4 +23,4 @@ Here are the 10 types of innovation:
 9.  Brand -- Representation of your offerings and business
 10. Customer Engagement -- Distinctive interactions you foster
 
-[![10 Types of Innovation](https://public.oinam.com/oinam.fyi/images/10-types-of-innovation.jpg)](https://public.oinam.com/oinam.fyi/images/10-types-of-innovation.jpg)
+[![10 Types of Innovation](/entrepreneur/10-types-of-innovation.jpg)](/entrepreneur/10-types-of-innovation.jpg)

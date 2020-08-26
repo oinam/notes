@@ -9,4 +9,6 @@ title: Startup
 
 ## References
 
+- [Startup Canon](https://danromero.org/canon.html) Looking to make the jump into startups and Silicon Valley. This is the reading list. It is meant to be a primer for many of the popular concepts and jargon you will hear working at a startup.
 - [VC 100: The Top Investors in Early-Stage Startups](https://www.entrepreneur.com/article/242702)
+- [Startup Validation Process](https://neilcocker.com/2020/08/22/my-startup-validation-process/)

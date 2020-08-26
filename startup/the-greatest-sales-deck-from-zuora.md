@@ -6,19 +6,21 @@ category: startup
 
 # The Greatest Sales Deck from Zuora
 
-I like referring to Andy Raskin's article, [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0) for inspiration when creating any form of deck, be it a Pitch Deck, Customer Deck or a Sales Deck.
+I like referring to Andy Raskin's article, [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0) for inspiration.
 
 ## The 5 Elements of a Brilliant Sales Narrative
 
-The sales deck is from [Zuora](https://www.zuora.com) which brilliantly led prospects through the following five elements, in precisely this order:
+The [sales deck](/startup/zuora-sales-deck.pdf) (pdf) is from [Zuora](https://www.zuora.com) which brilliantly led prospects through the following five elements, in precisely this order:
 
 ### 1. Name a Big, Relevant Change in the World
 
 Don’t kick off a sales presentation by talking about your product, your headquarters locations, your investors, your clients, or anything about yourself. Instead, name the undeniable shift in the world that creates both (a) big stakes and (b) huge urgency for your prospect.
 
+The pitch do not start with “the problem.” When you assert that your prospects have a problem, you put them on the defensive. They may be unaware of the problem, or uncomfortable admitting they suffer from it.
+
 ### 2. Show There’ll Be Winners and Losers
 
-All prospects suffer from what economists call “loss aversion.” That is, they tend to avoid a possible loss by sticking to the status quo, rather than risk a possible gain by opting for change.
+All prospects suffer from [loss aversion](https://en.wikipedia.org/wiki/Loss_aversion). That is, they tend to avoid a possible loss by sticking to the status quo, rather than risk a possible gain by opting for change.
 
 To combat loss aversion, you must demonstrate how the change you cited above will create big winners and big losers. In other words, you have to show both of the following:
 
@@ -35,7 +37,7 @@ Instead, first present a “teaser” vision of the happily-ever-after that your
 
 Your Promised Land should be both desirable (obviously) and difficult for the prospect to achieve without outside help. Otherwise, why does your company exist?
 
-> Note that the Promised Land is a new future state, not your product or service.
+> The Promised Land is a new future state, not your product or service.
 
 ### 4. Introduce Features as “Magic Gifts” for Overcoming Obstacles to the Promised Land
 

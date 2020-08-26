@@ -9,6 +9,8 @@ title: Oinam Digital Garden
 
 <hr class="oHr">
 
+- Awesome
+  + [Bookmarks](/awesome/bookmarks/)
 - Books
   + [A Guide to the Good Life](/books/a-guide-to-the-good-life/)
   + [Bold: How to Go Big, Create Wealth and Impact the World](/books/bold-how-to-go-big-create-wealth-and-impact-the-world/)
@@ -25,9 +27,9 @@ title: Oinam Digital Garden
 - English
   + [Write to Express, Not to Impress](/english/write-to-express-not-to-impress/)
 - Entrepreneur
+  + [10 Types of Innovation](/entrepreneur/10-types-of-innovation/)
   + [Entrepreneurs' References](/entrepreneur/entrepreneur-references)
   + [How to create successful Products and Services](/entrepreneur/how-to-create-successful-products-and-services)
-  + [10 Types of Innovation](/entrepreneur/10-types-of-innovation/)
 - Leadership
   + [Top 10 traits of the Perfect Manager](/leadership/top-10-traits-of-the-perfect-leader/)
 - Life

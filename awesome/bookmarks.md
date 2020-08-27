@@ -8,7 +8,7 @@ category: awesome
 
 - [Our World in Data](https://ourworldindata.org) Research and data to make progress against the world's largest problems.
 - [Open Culture](http://www.openculture.com) The best free cultural & educational media on the web.
-- [Collosal](Colossal) is an international platform for contemporary art and visual expression that explores a vast range of creative disciplines.
+- [Collosal](https://www.thisiscolossal.com) is an international platform for contemporary art and visual expression that explores a vast range of creative disciplines.
 - [Head](https://htmlhead.dev) A free guide to HTML5 `<head>` elements
 - [Standard Ebooks](https://standardebooks.org) Free and liberated ebooks,
 carefully produced for the true book lover.

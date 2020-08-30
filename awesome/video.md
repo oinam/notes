@@ -4,18 +4,16 @@ title: Video
 category: awesome
 ---
 
-## YouTube
-
-### Agriculture, Farming with Technology
+## Agriculture, Farming with Technology
 
 - [Earthcube](https://www.youtube.com/channel/UCM_1OBDMCjCfUS2pe96t3nA) ([website](https://earthcube.eu), [twitter](https://twitter.com/EarthcubeEC3)) develops monitoring solutions based on an automated analysis of geospatial information.
 By combining state-of-the-art AI technics in both Computer Vision and Machine Learning, Earthcube enables its customers to access more precise information, thus ensuring faster and more economical interventions.
 
-### Education, General Learning
+## Education, General Learning
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) ([website](https://www.3blue1brown.com), [twitter](https://twitter.com/3blue1brown)) is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective. [Website](https://www.3blue1brown.com).
 
-### Science and Technology
+## Science and Technology
 
 - [ColdFusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A) ([website](https://www.coldfusioncollective.com), [twitter](https://twitter.com/ColdFusion_TV)) is run by [Dagogo Altraide](https://www.linkedin.com/in/coldfusion/) which let you experience the cutting edge of the world around us in a relaxed atmosphere where you can feel at home and have fun. 
 - [How It's Made](https://www.youtube.com/channel/UCWBkudOTaVbvkCBc0pyZFMA/) is the YouTube adaptaion of the popular TV Channel, [How It's Made](https://en.wikipedia.org/wiki/How_It's_Made) (Wikipedia). I grew up glued to the TV just to watch this Channel.

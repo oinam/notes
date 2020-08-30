@@ -32,6 +32,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 
+sass:
+  sass_dir: _sass
+  style: compressed # nested, expanded, compact, compressed
+
 # Build settings
 plugins:
   - jekyll-feed
@@ -45,15 +49,16 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - .sass-cache/
   - .jekyll-cache/
-  - gemfiles/
+  - .sass-cache/
+  - CNAME
   - Gemfile
   - Gemfile.lock
+  - gemfiles/
   - node_modules/
+  - README.md
+  - styles.css.map
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - CNAME
-  - README.md

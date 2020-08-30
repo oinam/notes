@@ -1,0 +1,18 @@
+.logo {
+  font-family: 'Rockwell', var(--onm-font-headline);
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.logo a,
+.logo a:visited {
+  color: var(--onm-color-link);
+  text-decoration: none;
+  border-bottom: 1px solid none;
+}
+
+.logo a:hover,
+.logo a:active {
+  text-decoration: none;
+  border-bottom: 1px solid var(--onm-color-link);
+}

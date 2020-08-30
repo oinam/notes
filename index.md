@@ -1,17 +1,10 @@
 ---
-layout: default
-title: Oinam Digital Garden
+layout: home
 ---
-
-<h1 class="logo">{{ site.title }}</h1>
-
-> {{ site.description }}
-
-<hr class="oHr">
 
 - Awesome
   + [Bookmarks](/awesome/bookmarks/)
-  + [Video Channels](/awesome/video/) (YouTube)
+  + [YouTube Channels & Users](/awesome/video/)
 - Books
   + [A Guide to the Good Life](/books/a-guide-to-the-good-life/)
   + [Bold: How to Go Big, Create Wealth and Impact the World](/books/bold-how-to-go-big-create-wealth-and-impact-the-world/)
@@ -61,10 +54,3 @@ title: Oinam Digital Garden
   + [Let them paste passwords](/technology/passwords-paste/)
 - Tools
   + [Note Taking and Management](/tools/note-taking-and-management/)
-
-<hr class="oHr">
-
-### Brajeshwar
-
-- [My Phone Homescreen Evolution](/brajeshwar/brajeshwar-phone-home/)
-- [Why do I Swear?](/brajeshwar/why-do-i-swear/)

@@ -1,0 +1,41 @@
+.home {
+
+  // 1st level list
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    // 1st level list-items
+    li {
+      margin: 0;
+      padding: 1rem 1.6rem;
+
+      font-weight: 600;
+
+      // 2nd level list
+      ul {
+        margin: 0;
+        padding: 0 0 1rem;
+
+        // 2nd level list-items
+        li {
+          margin: 0 2rem;
+          padding: 0;
+
+          font-weight: 200;
+          list-style: circle;
+        }
+      }
+    }
+  }
+
+  // alternate background color
+  > ul > li:nth-child(odd) {
+    background: var(--onm-color-gray-100);
+  }
+
+  > ul > li:nth-child(even) {
+    background: var(--onm-color-gray-200);
+  }
+}

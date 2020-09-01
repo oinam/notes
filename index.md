@@ -22,20 +22,20 @@ layout: home
   + [Write to Express, Not to Impress](/english/write-to-express-not-to-impress/)
 - Entrepreneur
   + [10 Types of Innovation](/entrepreneur/10-types-of-innovation/)
-  + [Entrepreneurs' References](/entrepreneur/entrepreneur-references)
-  + [How to create successful Products and Services](/entrepreneur/how-to-create-successful-products-and-services)
+  + [References](/entrepreneur/entrepreneur-references/)
+  + [How to create successful Products and Services](/entrepreneur/how-to-create-successful-products-and-services/)
 - Leadership
   + [Top 10 traits of the Perfect Manager](/leadership/top-10-traits-of-the-perfect-leader/)
 - Life
-  + [Go Bag](/life/go-bag/)
-  + [Decisions Automation](/life/decisions-automation/)
-  + [What to Work On](/life/what-to-work-on/)
-  + [Ten Lessons I Wish I Had Been Taught](/life/10-lessons-i-wish-i-had-been-taught/) -- [source](https://www.ams.org/notices/199701/comm-rota.pdf) (pdf) [cached](/life/10-lessons-i-wish-i-had-been-taught.pdf) (pdf)
   + [6 Ways to Think Long-term](/life/6-ways-to-think-long-term/)
+  + [Decisions Automation](/life/decisions-automation/)
+  + [Go Bag](/life/go-bag/)
   + [Have a life's Mission, and Persevere](/life/have-a-life-mission-and-persevere/)
+  + [Ten Lessons I Wish I Had Been Taught](/life/10-lessons-i-wish-i-had-been-taught/) -- [source](https://www.ams.org/notices/199701/comm-rota.pdf) (pdf) [cached](/life/10-lessons-i-wish-i-had-been-taught.pdf) (pdf)
+  + [What to Work On](/life/what-to-work-on/)
 - Management
+  + [Management Principles](/management/management-principles/)
   + [Meetings](/management/meetings/)
-  + [Management Principles](/management/management-principles)
   + [Running an All-hands](/management/running-an-all-hands.pdf) (pdf)
 - Parenting
   + [10 Life Skills to Teach Your Child by Age 10](/parenting/10-life-skills-to-teach-your-child-by-age-10/)
@@ -43,12 +43,13 @@ layout: home
 - Photography
   + [Cityscape Photography - The Comprehensive Guide](/photography/cityscape-photography-guide.pdf) (pdf)
 - Presentation
-  + [Presentation Rules](/presentation/presentation-rules)
+  + [Presentation Rules](/presentation/presentation-rules/)
 - Startup
-  + [Pitch Deck](/startup/pitch-deck/)
-  + [The Greatest Sales Deck from Zuora](/startup/the-greatest-sales-deck-from-zuora/)
   + [Chekhov's Gun](/startup/chekhovs-gun/)
   + [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)
+  + [Pitch Deck](/startup/pitch-deck/)
+  + [Pitch Deck Mistakes](/startup/pitch-deck-mistakes/)
+  + [The Greatest Sales Deck from Zuora](/startup/the-greatest-sales-deck-from-zuora/)
   + [Y Combinator’s Startup Library](/startup/ycombinator-startup-library/)
 - Technology
   + [Let them paste passwords](/technology/passwords-paste/)

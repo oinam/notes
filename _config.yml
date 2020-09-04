@@ -24,9 +24,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   An informational tit-bit, wiki-ish collection of data, learnings, observations by the Oinam family.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://oinam.fyi" # the base hostname & protocol for your site, e.g. http://example.com
+author: Oinam
 
-twitter_username: oinam
-github_username:  oinam
+twitter: oinam
+github: oinam
 
 markdown: kramdown
 highlighter: rouge

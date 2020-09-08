@@ -19,6 +19,8 @@ layout: home
   + [Google](/decouple/google/)
 - Devices
   + [macOS Apps](/devices/macos-apps/)
+- Education
+  + [Computer](/education/computer/)
 - English
   + [Write to Express, Not to Impress](/english/write-to-express-not-to-impress/)
 - Entrepreneur
@@ -40,7 +42,6 @@ layout: home
   + [Running an All-hands](/management/running-an-all-hands.pdf) (pdf)
 - Parenting
   + [10 Life Skills to Teach Your Child by Age 10](/parenting/10-life-skills-to-teach-your-child-by-age-10/)
-  + [Learning](/parenting/learning/)
 - Photography
   + [Cityscape Photography - The Comprehensive Guide](/photography/cityscape-photography-guide.pdf) (pdf)
 - Presentation

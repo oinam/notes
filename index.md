@@ -11,6 +11,7 @@ layout: home
   + [Bold: How to Go Big, Create Wealth and Impact the World](/books/bold-how-to-go-big-create-wealth-and-impact-the-world/)
   + [Fincurious: Startup Finance! Let's Keep it Simple](/books/fincurious/)
   + [Good to Great](/books/good-to-great/)
+  + [My Family and Other Animals](/books/my-family-and-other-animals/)
   + [Tao of Charlie Munger](/books/tao-of-charlie-munger/)
   + [The Description of a New World, Called the Blazing World](/books/the-description-of-a-new-world-called-the-blazing-world/)
 - Decouple

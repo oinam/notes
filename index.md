@@ -9,10 +9,10 @@ layout: home
   + [101 Crucial Lessons They Don't Teach You in Business School](/books/101-crucial-lessons-they-dont-teach-you-in-business-school/)
   + [A Guide to the Good Life](/books/a-guide-to-the-good-life/)
   + [Bold: How to Go Big, Create Wealth and Impact the World](/books/bold-how-to-go-big-create-wealth-and-impact-the-world/)
-  + [Fincurious: Startup Finance! Let's Keep it Simple](/books/fincurious/)
   + [Good to Great](/books/good-to-great/)
   + [My Family and Other Animals](/books/my-family-and-other-animals/)
   + [Tao of Charlie Munger](/books/tao-of-charlie-munger/)
+  + [That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea](/books/that-will-never-work-the-birth-of-netflix-and-the-amazing-life-of-an-idea/)
   + [The Description of a New World, Called the Blazing World](/books/the-description-of-a-new-world-called-the-blazing-world/)
 - Decouple
   + [Adobe](/decouple/adobe/)

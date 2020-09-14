@@ -18,3 +18,4 @@ Adobe is indeed a fantastic company that builds some of the best softwares in th
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) (free)
 - [Figma](https://www.figma.com/) (paid)
 - [Sketch](https://www.sketch.com/) (paid)
+- [Luminar](https://skylum.com/luminar) (paid)

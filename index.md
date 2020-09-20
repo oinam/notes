@@ -10,6 +10,7 @@ layout: home
   + [A Guide to the Good Life](/books/a-guide-to-the-good-life/)
   + [Bold: How to Go Big, Create Wealth and Impact the World](/books/bold-how-to-go-big-create-wealth-and-impact-the-world/)
   + [Good to Great](/books/good-to-great/)
+  + [Kakeibo: The Japanese Art of Budgeting Saving Money](/books/kakeibo/)
   + [My Family and Other Animals](/books/my-family-and-other-animals/)
   + [Tao of Charlie Munger](/books/tao-of-charlie-munger/)
   + [That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea](/books/that-will-never-work-the-birth-of-netflix-and-the-amazing-life-of-an-idea/)
@@ -20,6 +21,7 @@ layout: home
   + [Google](/decouple/google/)
 - Devices
   + [macOS Apps](/devices/macos-apps/)
+  + [Raspberry Pi](/devices/raspberry-pi/)
 - Education
   + [Computer](/education/computer/)
 - English
@@ -58,4 +60,5 @@ layout: home
 - Technology
   + [Let them paste passwords](/technology/passwords-paste/)
 - Tools
+  + [Markdown](/tools/markdown/)
   + [Note Taking and Management](/tools/note-taking-and-management/)

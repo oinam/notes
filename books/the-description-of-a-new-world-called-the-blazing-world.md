@@ -8,7 +8,7 @@ category: books
 
 Margaret Cavendish (1623 – 15 December 1673) was an outspoken aristocrat who traveled in circles of scientific thinkers (such as Thomas Hobbes, Robert Boyle, and René Descartes), and broke ground on proto-feminism, natural philosophy (the 17th century term for science), and social politics.
 
-In her lifetime, she published 20 books. But amid her poetry and essays, she also published one of the earliest examples of science fiction, in 1666. She named it _The Description of a New World, Called the Blazing World._
+In her lifetime, she published 20 books. But amid her poetry and essays, she also published one of the __earliest examples of science fiction, in 1666__. She named it _The Description of a New World, Called the Blazing World._
 
 [![Margaret Cavendish, the Duchess of Newcastle](/books/Margaret-Cavendish-the-Duchess-of-Newcastle.jpg)](https://commons.wikimedia.org/wiki/File:Margaret,_Duchess_of_Newcastle.jpg)
 __Margaret Cavendish, the Duchess of Newcastle__

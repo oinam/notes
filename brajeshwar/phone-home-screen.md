@@ -10,7 +10,8 @@ This is kinda fun thing I started - screenshot of my Phone's Homescreen evolutio
 
 ## 2020
 
-![iPhone-4S - 2020.jpeg](/brajeshwar/phone-home/iPhone-11-pro-2020-1.jpeg)
+![iPhone-11-Pro - iOS 14](/brajeshwar/phone-home/iPhone-11-pro-iOS-14-2020-09-17.jpeg)
+![iPhone-11-Pro - iOS 13](/brajeshwar/phone-home/iPhone-11-pro-2020-1.jpeg)
 
 ## 2019
 

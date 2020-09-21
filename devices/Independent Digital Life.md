@@ -10,3 +10,7 @@ Value being able to use any computer easily instead of one computer perfectly.
 	+ Storage - NextCloud
 	+ Yubikey
 	+ Dotfiles
+- Photos / Videos
+  + [PhotoSync](https://www.photosync-app.com/)
+  + Google Photos
+  + iCloud

@@ -35,8 +35,11 @@ layout: home
 - Life
   + [6 Ways to Think Long-term](/life/6-ways-to-think-long-term/)
   + [Decisions Automation](/life/decisions-automation/)
+  + Essentialism / Minimalism
+  + [First Principles](/life/first-principles/)
   + [Go Bag](/life/go-bag/)
   + [Have a life's Mission, and Persevere](/life/have-a-life-mission-and-persevere/)
+  + Stoicism
   + [Ten Lessons I Wish I Had Been Taught](/life/10-lessons-i-wish-i-had-been-taught/) -- [source](https://www.ams.org/notices/199701/comm-rota.pdf) (pdf) [cached](/life/10-lessons-i-wish-i-had-been-taught.pdf) (pdf)
   + [What to Work On](/life/what-to-work-on/)
 - Management

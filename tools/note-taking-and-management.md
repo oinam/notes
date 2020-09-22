@@ -14,3 +14,8 @@ Here is a comparision of tools with support for [Wikilink or/and Backlink or/and
 
 - [Foam](https://github.com/foambubble/foam) is a personal knowledge management and sharing system inspired by Roam Research, built on [Visual Studio Code](https://code.visualstudio.com) and GitHub.
 - A personal knowledge management tool that grows as you do. [Dendron](https://github.com/dendronhq/dendron) is a local-first, markdown based, hierarchical note-taking application built on top of VSCode.
+
+### References
+
+- [How to take meeting notes](https://barehands.substack.com/p/how-to-take-meeting-notes)
+- [My productivity app for the past 12 years has been a single .txt file](https://jeffhuang.com/productivity_text_file/)

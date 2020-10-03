@@ -92,8 +92,6 @@ $ defaults write -g NSNavPanelExpandedStateForSaveMode -bool TRUE
 
 Change default appointment duration in iCal (Calendar)
 $ defaults write com.apple.iCal 'Default duration in minutes for new event' 30
-or
-$ defaults write com.apple.iCal "Default duration in minutes for new event" -int 30
 Revert to default
 $ defaults delete com.apple.iCal "Default duration in minutes for new event"
 

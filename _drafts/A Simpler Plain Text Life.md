@@ -66,6 +66,7 @@ https://usefyi.com/evernote-history/
 - [My productivity app for the past 12 years has been a single .txt file](https://jeffhuang.com/productivity_text_file/)
 - [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing](https://fortelabs.co/blog/how-to-take-smart-notes/)
 - [Org Mode - Organize Your Life In Plain Text!](http://doc.norang.ca/org-mode.html)
+- How to: Achieve a text-only work-flow, http://donlelek.github.io/2015-03-09-text-only-workflow/
 
 Tools / Template
 

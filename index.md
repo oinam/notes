@@ -8,13 +8,16 @@ layout: home
 - Books
   + [101 Crucial Lessons They Don't Teach You in Business School](/books/101-crucial-lessons-they-dont-teach-you-in-business-school/)
   + [A Guide to the Good Life](/books/a-guide-to-the-good-life/)
+  + [Almanack of Naval Ravikant](/books/almanack-of-naval-ravikant/)
   + [Bold: How to Go Big, Create Wealth and Impact the World](/books/bold-how-to-go-big-create-wealth-and-impact-the-world/)
   + [Good to Great](/books/good-to-great/)
+  + [I am Malala](/books/i-am-malala/)
   + [Kakeibo: The Japanese Art of Budgeting Saving Money](/books/kakeibo/)
   + [My Family and Other Animals](/books/my-family-and-other-animals/)
   + [Tao of Charlie Munger](/books/tao-of-charlie-munger/)
-  + [That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea](/books/that-will-never-work-the-birth-of-netflix-and-the-amazing-life-of-an-idea/)
+  + [That Will Never Work](/books/that-will-never-work-the-birth-of-netflix-and-the-amazing-life-of-an-idea/)
   + [The Description of a New World, Called the Blazing World](/books/the-description-of-a-new-world-called-the-blazing-world/)
+  + [How To Be A Programmer](/books/how-to-be-a-programmer/)
 - Decouple
   + [Adobe](/decouple/adobe/)
   + Apple
@@ -39,7 +42,8 @@ layout: home
   + [First Principles](/life/first-principles/)
   + [Go Bag](/life/go-bag/)
   + [Have a life's Mission, and Persevere](/life/have-a-life-mission-and-persevere/)
-  + Stoicism
+  + [Stoicism](/life/stoicism/)
+  + [Privacy](/life/privacy/)
   + [Ten Lessons I Wish I Had Been Taught](/life/10-lessons-i-wish-i-had-been-taught/) -- [source](https://www.ams.org/notices/199701/comm-rota.pdf) (pdf) [cached](/life/10-lessons-i-wish-i-had-been-taught.pdf) (pdf)
   + [What to Work On](/life/what-to-work-on/)
 - Management

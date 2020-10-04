@@ -66,6 +66,7 @@ layout: home
   + [Y Combinator’s Startup Library](/startup/ycombinator-startup-library/)
 - Technology
   + [Let them paste passwords](/technology/passwords-paste/)
+  + [Wi-Fi](/technology/wi-fi/)
 - Tools
   + [Markdown](/tools/markdown/)
   + [Note Taking and Management](/tools/note-taking-and-management/)

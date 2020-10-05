@@ -70,4 +70,5 @@ layout: home
 - Tools
   + [Markdown](/tools/markdown/)
   + [Note Taking and Management](/tools/note-taking-and-management/)
+  + [Pandoc](/tools/pandoc/)
   + [SpreadSheet](/tools/spreadsheet/)

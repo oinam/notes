@@ -13,3 +13,4 @@ category: english
 ## References
 
 - [Cutting Google out of your life](https://degoogle.jmoore.dev)
+- [Purism](https://puri.sm)

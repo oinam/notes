@@ -57,11 +57,12 @@ layout: home
   + [Cityscape Photography - The Comprehensive Guide](/photography/cityscape-photography-guide.pdf) (pdf)
 - Presentation
   + [Presentation Rules](/presentation/presentation-rules/)
-- Startup
+- [Startup](/startup/)
   + [Chekhov's Gun](/startup/chekhovs-gun/)
   + [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)
   + [Pitch Deck](/startup/pitch-deck/)
   + [Pitch Deck Mistakes](/startup/pitch-deck-mistakes/)
+  + [Pitching your early stage startup](/startup/pitching-your-early-stage-startup/)
   + [The Greatest Sales Deck from Zuora](/startup/the-greatest-sales-deck-from-zuora/)
   + [Y Combinator’s Startup Library](/startup/ycombinator-startup-library/)
 - Technology

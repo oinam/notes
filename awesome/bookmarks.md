@@ -9,6 +9,8 @@ category: awesome
 - [Awesome List](https://github.com/sindresorhus/awesome) about all kinds of interesting topics.
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) is a list of topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses.
 - [Collosal](https://www.thisiscolossal.com) is an international platform for contemporary art and visual expression that explores a vast range of creative disciplines.
+- Color
+  + [Nippon Colors](https://nipponcolors.com/)
 - [Head](https://htmlhead.dev) A free guide to HTML5 `<head>` elements
 - [ICANN DOMAINS](https://publicsuffix.org/list/public_suffix_list.dat)
 - [Open Culture](http://www.openculture.com) The best free cultural & educational media on the web.

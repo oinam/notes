@@ -28,19 +28,24 @@
 <meta name="twitter:image:alt" content="Library of Books">
 <meta name="twitter:dnt" content="on">
 
-<meta name="theme-color" content="#fafafa">
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/oinam/css-zero/css-zero.min.css">
-<link rel="stylesheet" href="{{ '/styles.css' | prepend: site.baseurl }}">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
+<style type="text/css">
+  body {
+    max-width: 65ch;
+    line-height: 1.6;
+  }
+</style>
 
 </head>
 <body>
 
-<h1 class="logo"><a href="{{site.url}}">{{site.title}}</a></h1>
+<h1 class="site-title"><a href="{{site.url}}">{{site.title}}</a></h1>
 
 {{ content }}
 
-<footer class="footer">
+<hr>
+
+<footer>
   <small>
     <p>
       <a href="https://github.com/oinam/oinam.fyi">Open Source</a>

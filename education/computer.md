@@ -12,7 +12,6 @@ category: education
 - [Blockly](https://developers.google.com/blockly/) by Google
 - [CodeGuppy](https://codeguppy.com/)
 - [Minecraft Education](https://education.minecraft.net)
-- [Tynker](https://www.tynker.com/) (evaluating as of OCT 2020)
 
 ## Intermediate to Advanced
 
@@ -24,9 +23,9 @@ category: education
 
 - Python for absolute beginners; [FutureCoder](https://futurecoder.io/toc/), [FutureCoder on Github](https://github.com/alexmojaki/futurecoder)
 - Free [Python Course](https://scrimba.com/learn/python), Scrimba
-- https://github.com/mytechnotalent/Python-For-Kids
-- https://think.cs.vt.edu/blockpy/, https://blockpy-edu.github.io/BlockMirror/docs/index.html
-- https://projects.raspberrypi.org/en/codeclub/python-module-1
+- [Python-For-Kids](https://github.com/mytechnotalent/Python-For-Kids)
+- [BlockPy](https://think.cs.vt.edu/blockpy/) | [BlockMirror Example](https://blockpy-edu.github.io/BlockMirror/docs/)
+- [Raspberry Pi's CodeClub - Python](https://projects.raspberrypi.org/en/codeclub/python-module-1)
 
 ## Tools
 

@@ -22,11 +22,13 @@ category: awesome
   + [TechXplore](https://techxplore.com)
 - [Standard Ebooks](https://standardebooks.org) Free and liberated ebooks,
 - [The Daily Idea](https://thedailyidea.org/) aims to make learning about philosophy as easy as possible by bringing together the best philosophy resources from across the internet.
+- [This Person Does Not Exist](https://thispersondoesnotexist.com)
 - [Wait But Why](https://waitbutwhy.com)
 carefully produced for the true book lover.
 
 ## Open Source and/or Free
 
+- [100% free, quality CC audio](https://cchound.com).
 - [BBC Sound Effects](http://bbcsfx.acropolis.org.uk) are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence. The Sound Effects are BBC copyright, but they may be used for personal, educational or research purposes, as detailed in the license.
 - [Books - Programming](https://ebookfoundation.github.io/free-programming-books/) ([Source](https://github.com/EbookFoundation/free-programming-books))
 - [Unsplash](https://unsplash.com) Over 2 million free high-resolution images brought to you by the world’s most generous community of photographers.

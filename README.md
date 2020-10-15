@@ -18,10 +18,3 @@ Of course, of you're lazy like me, you will want to auto-reload your pages while
 Install [BrowserSync](https://www.browsersync.io) globally and then run it on the same folder on a different terminal/command-line tab/instance (assuming your Jekyll install is running on all defaults).
 
 `browser-sync start --proxy "localhost:4000" --files "_site/*.*"`
-
-## Inspiration
-
-There are lots of other interesting digital gardens, notes, scribblings, random musings. Get inspired.
-
-- [Buster's Notes](https://notes.busterbenson.com) by Buster Benson, founder of [750Words](https://750words.com). His [Life in Weeks](https://notes.busterbenson.com/life-in-weeks) is well done, complete with template that you can use for your own.
-- [Joel Hooks](https://joelhooks.com)

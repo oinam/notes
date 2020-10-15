@@ -10,6 +10,7 @@ category: education
 
 - [Scratch](https://scratch.mit.edu)
 - [Blockly](https://developers.google.com/blockly/) by Google
+- [Snap](https://snap.berkeley.edu) from Berkeley, Univesity of California
 - [CodeGuppy](https://codeguppy.com/)
 - [Minecraft Education](https://education.minecraft.net)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Decouple from Adobe
-category: english
+category: decouple
 ---
 
 # Decouple from Adobe

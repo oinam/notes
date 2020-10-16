@@ -14,3 +14,4 @@ category: devices
 ### References
 
 - How to [boot a Raspberry Pi from the Network](https://www.raspberrypi.org/documentation/hardware/raspberrypi/bootmodes/net_tutorial.md)
+- [Setup Static IP Address](https://pimylifeup.com/raspberry-pi-static-ip-address/)

@@ -20,9 +20,10 @@ category: awesome
   + [MedicalXpress](https://medicalxpress.com)
   + [Phys.org](https://phys.org)
   + [TechXplore](https://techxplore.com)
-- [Standard Ebooks](https://standardebooks.org) Free and liberated ebooks,
+- [Standard Ebooks](https://standardebooks.org) Free and liberated ebooks.
 - [The Daily Idea](https://thedailyidea.org/) aims to make learning about philosophy as easy as possible by bringing together the best philosophy resources from across the internet.
 - [This Person Does Not Exist](https://thispersondoesnotexist.com)
+- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade)
 - [Wait But Why](https://waitbutwhy.com)
 carefully produced for the true book lover.
 

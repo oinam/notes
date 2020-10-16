@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Decouple from Google
-category: english
+category: decouple
 ---
 
 # Decouple from Google

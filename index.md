@@ -18,6 +18,8 @@ layout: home
   + [That Will Never Work](/books/that-will-never-work-the-birth-of-netflix-and-the-amazing-life-of-an-idea/)
   + [The Description of a New World, Called the Blazing World](/books/the-description-of-a-new-world-called-the-blazing-world/)
   + [How To Be A Programmer](/books/how-to-be-a-programmer/)
+- Company
+  + [Tools, Services, and  Products](/company/tools-services-products/)
 - Decouple
   + [Adobe](/decouple/adobe/)
   + Apple

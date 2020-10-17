@@ -11,7 +11,7 @@
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:type" content="website">
 <meta property="og:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta property="og:image" content="/images-cover-oinam.fyi.jpg">
+<meta property="og:image" content="https://public.oinam.com/photos-cover/oinam.fyi-images-cover.jpg">
 <meta property="og:image:alt" content="Library of Books">
 <meta property="og:description" content="{{ site.description }}">
 <meta property="og:site_name" content="{{ site.title }}">
@@ -24,11 +24,33 @@
 <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
 <meta name="twitter:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta name="twitter:description" content="{{ site.description }}">
-<meta name="twitter:image" content="/images-cover-oinam.fyi.jpg">
+<meta name="twitter:image" content="https://public.oinam.com/photos-cover/oinam.fyi-images-cover.jpg">
 <meta name="twitter:image:alt" content="Library of Books">
 <meta name="twitter:dnt" content="on">
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css/new.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+
+<style type="text/css">
+  body {
+    font-family: 'Merriweather', Georgia, serif;
+    font-weight: 400;
+    line-height: 1.6;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    line-height: 1.26;
+  }
+
+  .title a {
+    text-decoration: none;
+  }
+
+  .title a:hover, .title a:active {
+    text-decoration: underline;
+  }
+</style>
 
 </head>
 <body>
@@ -46,6 +68,8 @@
     </p>
   </small>
 </footer>
+
+
 
 </body>
 </html>

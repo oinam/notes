@@ -52,6 +52,8 @@ layout: home
   + [Management Principles](/management/management-principles/)
   + [Meetings](/management/meetings/)
   + [Running an All-hands](/management/running-an-all-hands.pdf) (pdf)
+- [Marketing](/marketing/)
+  + 
 - Parenting
   + [10 Life Skills to Teach Your Child by Age 10](/parenting/10-life-skills-to-teach-your-child-by-age-10/)
   + [Learning](/parenting/learning/)

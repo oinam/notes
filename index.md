@@ -39,6 +39,7 @@ layout: home
   + [Top 10 traits of the Perfect Manager](/leadership/top-10-traits-of-the-perfect-leader/)
 - Life
   + [6 Ways to Think Long-term](/life/6-ways-to-think-long-term/)
+  + [Argue Constructively](/life/argue-constructively/)
   + [Decisions Automation](/life/decisions-automation/)
   + Essentialism / Minimalism
   + [First Principles](/life/first-principles/)

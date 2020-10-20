@@ -4,20 +4,12 @@
 
 Transfer From old MacOS
 - Root: Invisible Files/Folders
-- Applications (Take Screenshot and Install the Apps)
-- dev > Sync via SyncThing? Find a way to store online somewhere.
-- dot > Github
+- Applications (Better to install the apps afresh)
 - Library
 
 [Harden macOS](macOS-Hardening.md)
 [Setup for Development](macOS-Development.md)
 
----
-
-## Common Issues
-Unable to remove Desktop folder from Finder's Sidebar
-
----
 ## OS Defaults
 
 Dark Menubar and Dock in Light Theme
@@ -147,10 +139,7 @@ Disable workspace auto-switching
 $ defaults write com.apple.dock workspaces-auto-swoosh -bool NO
 $ killall Dock
 
----
 ## Block sites at /etc/hosts (replace nano with any editor you want)
 Replace `nano` with editor of your choice
 $ sudo nano /etc/hosts
 Add `0.0.0.0 site.xyz`, save and exit.
-
----

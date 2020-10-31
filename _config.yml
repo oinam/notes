@@ -21,7 +21,7 @@
 title: Oinam Digital Garden
 email: oinam@oinam.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An informational tit-bit, wiki-ish collection of data, learnings, and observations by the Oinam family.
+  An informational tit-bit, wiki-ish collection of data, learnings, and observations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://oinam.fyi" # the base hostname & protocol for your site, e.g. http://example.com
 author: Oinam
@@ -29,17 +29,14 @@ author: Oinam
 twitter: oinam
 github: oinam
 
+theme: null
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 
-sass:
-  sass_dir: _sass
-  style: compressed # nested, expanded, compact, compressed
-
 # Build settings
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -56,10 +53,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - gemfiles/
-  - node_modules/
   - README.md
   - styles.css.map
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - netlify.toml

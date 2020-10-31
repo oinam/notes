@@ -26,4 +26,4 @@ Next you go upstairs to the office space and find 300 people having meetings wit
 
 Then you go out behind the factory and see a massive mountain of furniture stacked up to the sky. The factory workers have been building furniture every day for years. People all agree that it is good furniture, maybe the best there is. Nobody ever buys any of it. It's not sold in any stores. No hotels buy it. No businesses buy it. Lots of people are lined up as far as you can see to pick furniture out of the pile for free.
 
-How do you fix this company?
+**How do you fix this company?**

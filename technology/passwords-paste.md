@@ -1,12 +1,18 @@
 ---
 layout: page
 title: Let them paste passwords
-category: technology
 ---
 
 # Let them paste passwords
 
-When you stumble on websites, especially those "security-conscious" ones, that stops you from pasting passwords, you know they are rather irritating, and plain idiotic.
+When you stumble on websites, especially those "security-conscious" ones, that stops you from pasting passwords, you know they are irritating, and idiotic.
+
+Making password entry difficult is like attempting weight loss by eating bland food.
+It's not the flavour that makes you fat. There is this perception that something delicious can't be good for a diet. People have this notion that to lose weight, there must be penance. An element of punishing oneself for past transgressions seems essential.
+
+Security people have the same mindset. Security must be a hassle. It must be in your face. It has to be onerous. A challenge. A hurdle to get past.
+
+Often the slickest, most hassle-free approach is the most secure.
 
 > Allow your website to accept pasted passwords - it makes your site more secure, not less.
 

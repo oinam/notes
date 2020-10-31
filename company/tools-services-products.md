@@ -60,6 +60,7 @@ title: Tools, Services, and  Products
 ## Themes & Templates
 
 - Jekyll
-  + [jekyllthemes.io](https://jekyllthemes.io/)
+  + [JekyllThemes.io](https://jekyllthemes.io/)
+  + [Jekyll-Themes](https://jekyll-themes.com)
   + [CloudCannon](https://learn.cloudcannon.com/jekyll-templates/)
   + [Themeix](https://themeix.com)

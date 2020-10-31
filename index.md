@@ -2,6 +2,8 @@
 layout: home
 ---
 
+- Agriculture
+  + [Farm Bot](/agriculture/farm-bot/)
 - Awesome
   + [Bookmarks](/awesome/bookmarks/)
   + [YouTube Channels & Users](/awesome/video/)
@@ -62,14 +64,15 @@ layout: home
   + [Cityscape Photography - The Comprehensive Guide](/photography/cityscape-photography-guide.pdf) (pdf)
 - Presentation
   + [Presentation Rules](/presentation/presentation-rules/)
+- Sales
+  + [The Greatest Sales Deck from Zuora](/sales/the-greatest-sales-deck-from-zuora/)
 - [Startup](/startup/)
   + [Chekhov's Gun](/startup/chekhovs-gun/)
-  + [Fund Raising](/startup/fund-raising)
   + [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)
-  + [Pitch Deck Mistakes](/startup/pitch-deck-mistakes/)
-  + [Pitch Deck](/startup/pitch-deck/)
-  + [Pitching your early stage startup](/startup/pitching-your-early-stage-startup/)
-  + [The Greatest Sales Deck from Zuora](/startup/the-greatest-sales-deck-from-zuora/)
+  + Pitch
+    * [Pitch Deck Mistakes](/startup/pitch-deck-mistakes/)
+    * [Pitch Deck](/startup/pitch-deck/)
+    * [Pitching your early stage startup](/startup/pitching-your-early-stage-startup/)
   + [Y Combinator’s Startup Library](/startup/ycombinator-startup-library/)
 - Technology
   + [Let them paste passwords](/technology/passwords-paste/)

@@ -1,0 +1,127 @@
+# Quotes
+
+- “Speak only if it improves upon the silence.” ― Mahatma Gandhi
+- Running a start-up is like eating glass. You just start to like the taste of your own blood.
+- Freedom is the power to say no.
+- Technology is a tool, not a vessel. It is only useful to the extent that it can get you to where you want to go.
+- “My thing is I wanted to be able to have free time. To me, having time is the most precious thing.” - Herbert Wertheim
+- I am fairly certain I am now literally unemployable in any traditional sense, by any traditional company.
+- Front End is the melting pot of design & development skills to implement accessible interfaces to accepted standards.
+- Slow is Smooth. Smooth is Fast.
+- Good judgment comes from experience and a lot of that comes from bad judgments.
+- The Problem with lies is you have to keep telling more lies to support the earlier ones.
+- Why you should start a startup? There is a certain type of person who only works at their peak capacity when there is no predictable path to follow, the odds of success are low, and they have to take personal responsibility for failure (the opposite of most jobs at a large company).
+- If you try to design something that’s idiot-proof, the universe will design a better idiot.
+- Being a designer is being a good communicator first. The rest is applying the gestalt. But it starts with putting yourself in the shoes of the audience and telling a story (visually). This is why, no matter how much technology changes, from Paint shop pro, to Photoshop, to Sketch, to Figma, etc. Nothing scares a designer, because designing is a timeless skills with very few variants over time (gradients / skeuomorphic design / flat / combination ...) It's like how would you like your water, with a slice of lemon or ice?
+- The internet can seem so intimate but ultimately it’s a thin view of an individual’s or company’s reality.
+- Anything I don't understand must be easy.
+- “The equilibrium percentage of total capacity allocated to defect-fixing is equal to the defect injection rate." or — At this point in my career I understand that a feature that only takes a few hours to build can create hundreds of hours of support and maintenance in the future. Just because it’s easy to build does not mean you should add it to your product.
+-  “Life’s not fair, it never was, it isn’t now and it won’t ever be. Do not fall into the trap, the entitlement trap, of feeling like you’re a victim. You are not.”
+- “New ideas will come along, but they will extend CSS rather than replace it. I believe that the CSS code we write today will be readable by computers 500 years from now.” — Håkon Wium Lie, co-creator of CSS.
+- Attention to quality at the beginning has a greater influence on product quality than attention at the end.
+- “Observability-Driven-Development - Never accept a Pull Request if you don’t have a way to verify that it does what it’s supposed to.” -- John Arundel, @bitfield
+- Keep your features close and your problems closer.
+- I like this solution but I ain’t marrying it.
+- Forget Buzzwords. 1. Deliver things in small, testable chunks. 2. Start with a best-effort plan, but refine weekly based on how things went. 3. If you're blocked or your work is at risk, let others know ASAP.
+- “When the people that can make the company more successful are the sales and marketing people, they end up running the companies. Then the product people get driven out of decision-making forums, and the companies forget what it means to make great products.”
+- “You're in trouble when you start believing you're as good as people tell you, you are.”
+- People constantly confuse communication with a lot of talking and collaboration with sitting in the same room or constant meetings.
+- “Simplicity is the end result of long, hard work, not the starting point.” — Frederick Maitland
+- Hiring
+	1. You want to find people with mastery, true depth.
+  2. The problem is, that isn’t enough. You need people who had failed and recovered. The core skill of innovators is error recovery, not failure avoidance.
+  3. Breadth, meaning curiosity about things beyond what you’re deep in.
+  4. Collaboration. Not a synonym for cooperation, but the ability to magnify others.
+- Hiding behind a guise of necessity, email is an infinite hamster wheel powered by other people’s priorities.
+- UI development is a deep and highly technical field, but we’re often inundated with junior-ish programmers because it’s often the entry point for folks coming out of school or boot camps.
+- Javascript Community: “Angular, React, Vue, TS, webpack, PWAs, yarn, NPM... nobody can keep up with all this change!” DevOps Community: “Hold my beer.”
+- “The best startups are good ideas that look like bad ideas. Good ideas that look like good ideas are already being worked on by big companies.” — Peter Thiel
+- “You shouldn’t keep your startup idea secret. There are at best a handful of people in the world who might actually drop everything and copy your idea."
+- “You’ve either started a company or you haven’t. ‘Started’ doesn’t mean joining as an early employee, or investing or advising or helping out. It means starting with no money, no help, no one who believes in you, and building an organization from a borrowed cubicle with credit card debt and nowhere to sleep except the office. It almost invariably means being dismissed by arrogant investors who show up a half hour late, totally unprepared and then instead of saying ‘no’ give you non-committal rejections like ‘we invest in later stage companies.’ It means looking prospective employees in the eyes and convincing them to leave safe jobs, quit everything and throw their lot in with you. It means having pundits in the press and blogs who’ve never built anything criticize you and armchair quarterback your every mistake. It means lying awake at night worrying about running out of cash and having a constant knot in your stomach during the day fearing you’ll disappoint the few people who believed in you and validate your smug doubters.”
+- No failure ever cost you as much as your doubt did.
+- Is that code you are writing a complex reinvention of an old, stable, battle-tested command that has shipped with every Unix since the 1970s?
+- Good leaders have leaders who independently run their responsibility.Poor leaders are involved in everything. A good leader will attract other leaders. A good leader will inspire, lead, and delegate to others more capable. A good leader doesn't manage, they lead.
+- Social media avatars (Profile Pictures) may sound like a spurious concern. Don’t get too stressed or overly concerned with this however; just ensure you have a professional image in place that can be easily adapted to different online mediums, and that it adequately depicts what you look like as well as what you want to consciously convey about yourself.
+- Technology is not a goal. Nobody cares about which programming language you are using, nobody cares about which frameworks your team has chosen, nobody cares about how elegant your data structures are and nobody cares about how good is your code.
+- “MVPs” are too M to be V. They’re a selfish ploy, tricking people who thought they were customers into being alpha testers.
+- If you have more than three priorities, you have none.
+- It’s better to complete 100% of 8 things than 80% of 10 things.
+- Your product must materially impact one of your customer’s top three priorities. Otherwise, they don’t have time to talk to you.
+- It’s more powerful to be 10x better at one thing, then to shore up ten weaknesses.
+- Design is important, yet many of the $1B+ SaaS public companies have poor design.
+- No one will read the Important Text in your dialog box.
+- The only cause of Writer’s Block is high standards. Type garbage. Editing is 10x easier than writing.
+- I’m not very smart, but people end up thinking I am because I ask for help with everything. It’s such an easy advantage to gain if you can let go of your ego.
+- Psychological safety as the most important factor to building a successful team.
+- There's a general misconception between being productive and being effective. One can fill their days by completing many mindless tasks and consider themselves as productive, but in the end hardly any of those tasks really matters. On the other hand, another person may only complete one or two tasks in a very short time during their day but these were critical tasks that could generate much higher values. This subsequently makes the person more effective than their peers. The output values must be weight in determining if one is really productive. Effectiveness triumphs mindless productivity. This is quite similar to the cognitive and decision fatigue principle which indicates that each of us only has a limited pool of cognitive resources and so we must be very selective in choosing what activities we engage in. To remain highly effective, not just being productive, particularly for a project manager, it's imperative to spend time only on tasks that require critical decisions to be made, and to delegate the rest. When you take on more tasks than you can handle, like some are misunderstanding this may help them appear as productive, it will undoubtedly affect the quality of each of your decisions and the project will suffer.
+- Humans are not rational, logical beings; rather we are emotional decision makers who largely don't understand our own opinions and preferences, where they come from, or how much "influence" comes from sources outside ourselves.
+- The loneliness of being in limbo while waiting for the backend team to finish building what you need.
+- The separation of design and construction into phases is a hangover from civil engineering. It has the baked in assumption that the design phase is relatively cheap, short and somewhat unpredictable the construction phase is expensive, long and predictable. The root problem is the assumption that specifications can be validated for correctness, like a blueprint for a bridge can. Nothing could be further from the truth. This is a persistent myth in software development.
+- OOP is just a mental model. Deep down everything is made of bits. The temple of OOP has failed but if something looks like a duck, walks like a duck and talks like a duck it probably is useful to make a duck class. We're now down to fighting for nuances. You can do most things with OOP or without OOP but each path has some upsides and downsides and most of the time it's good to use some things it provides where it makes sense and not get too religious about it. The great architect has the foresight on how the code will be used in five years and design it accordingly.
+- Studying logic taught me one of the more important distinctions in life is identifying when things are always true vs sometimes true. We are taught to often group things that are mostly true into the always true category. This is effectively lossy compression that can introduce serious error into your line of reasoning.
+- But what Moore's law giveth, web developers taketh away. If you want to use a computer to participate in the modern society, you need much more than a Raspberry Pi, due to web bloat.
+- “Design Thinking is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of the people, the possibilities of technology, and the requirements of business success.” — Tim Brown, CEO of IDEO
+- Managing Partner or General Partners have the mojo inside venture capital firms. If you have anyone else prospecting you or working on the deal with you (associate, senior associate, principal, venture partner or EIR), treat them with an enormous amount of respect, but insist on developing a direct relationship with an MD or a GP as well. Anyone other than an MD or a GP is unlikely to be at the firm for the long haul. The MDs and GPs are the ones who matter and who will make decisions about your company.
+- “Beware the barrenness of a busy life.” – Socrates
+- “Better a little which is well done, than a great deal imperfectly.” – Plato
+- “Pleasure in the job puts perfection in the work.” – Aristotle
+- “If you seek tranquility, do less. Or (more accurately) do what’s essential. Do less, better. Because most of what we do or say is not essential. If you can eliminate it, you’ll have more tranquility.” – Marcus Aurelius
+- “It does not matter how slowly you go as long as you do not stop.” – Confucius
+- “Great acts are made up of small deeds.” – Lao Tzu
+- “Don’t start a really big project. Start a small project and iterate on it with your users to make it big.”
+- “Design is the scientific method for business. We test, question, and iterate on features and functionality to ensure it fits within the parameters of product goals and scope.”
+- I’d rather have a hole in my team than an asshole.
+- “Without a winking smiley or other blatant display of humor, it is utterly impossible to parody a Creationist in such a way that someone won't mistake for the genuine article."
+- “People don't find great ideas, great ideas find people.” — Andy Rachleff (Founder, WealthFront)
+- "Imagine that it's 2006, and you see an iPhone sitting on the table. Is your first instinct to turn it over to see who makes it, and to try to figure out what it might cost, and how is it distributed, and how many people might want it? Or is your first instinct to ask, why doesn't it have a keyboard? And why did they sell it through their own store? Why didn't they sell it through other stores?” If you're the first person, you're an investor. If you're the second person, you're an operator. — Andy Rachleff (Founder, WealthFront)
+- Human nature leads us to want to be right every time. That's how we're evaluated in most everything in our lives. But without risk, you don't get reward. If you don't take risks, you don't get big returns. I apply the same pattern to my life —  try lots of different thing, not all of which are going to work, and I don't care. I just care about the magnitude of the ones that do. That's really, really hard for inexperienced people or regular employees to understand.
+- The workplace is currently the worst place to actually do work!
+- People like us make our money in the seams of things.
+- “Before you can make things better, you have to stop making them worse.”
+- "Relax, no one else knows what they're doing either." — Ricky Gervais
+- "Step 1: Wonder at something. Step 2: Invite others to wonder with you." — Austin Kleon
+- First, master fundamentals. Then, play infinite games. — James Stuber
+- "In today's materialistic world, there is a risk of people becoming slaves to money. As though they were simply cogs in a huge money-making machine. This does nothing for human dialogue, dignity, freedom, and genuine well-being. Wealth should serve humanity, and not the other way around." — Dalai Lamad
+- "I’ve noticed that many people compete in games they don’t understand because they are modeling the behavior of people around them. Most common is the competition for wealth as a proxy for happiness." — Michael Seibel
+- One of history’s few iron laws is that luxuries tend to become necessities and spawn new obligations.
+- “You are mortal in everything you fear and immortal in everything you desire” — Seneca
+- “Remember this. The world wants to assign you a role. And once you accept that role, you’re doomed.” Robert Greene
+- “Following your genuine intellectual curiosity is better than following whatever makes money.” “The internet has massively broadened the space of possible careers. Most people don’t understand this.” — Naval Ravikant
+- Whenever you find yourself on the side of the majority, it is time to pause and reflect.
+- Someone told me not long ago that in order to succeed, you have to understand which rules you’re supposed to break. If you break the wrong rules, you’re finished. And so the easiest thing to do is follow all the rules. But then you consign yourself to a lower status. The real trick is understanding what rules are not meant for you.
+- Put the concerns of the customer first before yours. We see the opposite happen all the time in software development. You have two systems that somehow don't talk to each other. Instead of implementing some kind of connector between them, you make the customer log in twice and transfer information between the two systems. In this case, the maker has prioritized their convenience over that of the user. This is the wrong approach.
+- A junior will create the thing or carry out the task that's asked of them with but are often tone deaf to the context that surrounds the request and outcomes desired. A senior will implicitly addresses the wider context, asking probing questions to that end, without prompt.
+- “We are not interested in creating markets. It is too expensive. We are interested in exploiting markets early.” — Don Velentine, Founder of Sequoia (Godfather of start-up community)
+- People who say it cannot be done should not interrupt those who are doing it.
+- Leadership is a choice you make rather than a place you sit. In other words, leadership comes from influence and not from your position. For this reason, even when you’re not in front, you’re still leading those around you.
+- Leadership is about influence, not control. I am not the first person to make this observation, but it is worth repeating… Aspiring leaders would do well to stop focusing on control and figure out how to expand their influence.
+- It’s lonely at the top. 99% of people are convinced they are incapable of achieving great things, so they aim for mediocre. The level of competition is thus fiercest for ‘realistic’ goals, paradoxically making them the most competitive. -- Tim Ferris
+-  “The moment you accept total responsibility for EVERYTHING in your life is the day you claim the power the change ANYTHING in your life.” -Hal Elrod
+-  "Unnecessary meetings (and most are) are a mutually-assured-destruction of time. Learning how to avoid them is a prerequisite of doing anything great." - Naval
+-  Most books, for most people, don't need to be absorbed or understood in their entirety.
+-  Read widely. As the saying goes, "Know something about everything and everything about something."
+-  Imagine you have to pick a bike to go on a trip. You're travelling on a well paved road through the woods. If you take a light & narrow wheeled racing bike, you'll travel much much faster than if you ride a knobbly wheeled mountain bike with suspension, as long as you stay on the road. As soon as you need to go off the road and cut a new path, you are going to wish you had that mountain bike, and the road bike is actually going to make you go much slower or just stop altogether. This is why, for a complex applications (most commercial software), I prefer the mountain bike. Yes, it's slower on certain paths, but when we need to "go off-road" I don't slow to a stop.
+-  “The road must be trod, but it will be very hard. And neither strength nor wisdom will carry us far upon it. This quest may be attempted by the weak with as much hope as the strong. Yet such is oft the course of deeds that move the wheels of the world: small hands do them because they must, while the eyes of the great are elsewhere.” -- Elrond
+-  It's good to see UX design problems analyzed from a technical perspective. Designers working on the web should be proficient at understanding the medium on which they work, and look beyond generating static images to toss over the wall for implementation.
+- Never have anything in your life that you can't walk out on in thirty seconds flat if you spot the heat coming around the corner.
+- If you think your idea is too big to start without funding or a full-time commitment, you're thinking too far ahead of yourself. Scale the idea back to its core and start immediately.
+- “Comparison is the thief of joy.” — Theodore Roosevelt
+- “Don’t compare yourself with anyone in this world. If you do so, you are insulting yourself.” — Bill Gates
+- I think treating conpiracy theories, such as flat earth theory and others, as a rational argument to debunk is appealing, but ultimately unproductive. Here is an interesting article, https://jameshfisher.com/2019/01/20/my-parents-are-flat-earthers/, which casted the human perspective on the problem: at the root, believing a conspiracy theory gives self-importance to the believer, and it's, in a way, "fun". Considering this perspective, this phenomenon belongs to the class of problems whose easy angle of attack is the technical (rational, in this case), and the difficult one is the human. I'd argue that if one thinks that a flat earther is metaphorically a brick wall, and consequently a fool, opposing technical arguments against it is equally as foolish. It's actually the other side of the coin: yelling arguments to a wall is the mirrored human problem. It would be more productive to think more about why this belief is appealing to people (and why it's spreading), rather than proving it's false.
+- Excuses are fabricated illusions we create to rationalize our behaviors when we’re too afraid to go after what we really want.
+- “You can not overtake 15 cars in sunny weather... but you can when it’s raining” - Ayrton Senna
+- The first time you use an initialism or acronym in your document, the words should be written out with the short form placed in parentheses immediately after.
+- Gresham’s Law: Bad Drives Out Good As Time Passes. [Whenever coins containing precious metals have been used along with base metal coins of the same denomination, both legally accepted as tender, the bad coins have driven the good coins out of circulation.]
+- "Dead Sea Effect", where good/talented employees leave the company because they don't want to work with bad/mediocre employees, and all you have left is the bad/mediocre.
+- "Some mistakes will be made along the way. That's good. Because at least some DECISIONS are being made along the way, and we'll find the mistakes and we'll fix them." -- Steve Jobs
+- “A lot of companies do things because it’s technically possible. But in the end, nobody cares. Nobody wants to buy them.” -- Steve Jobs
+- I have a little thought experiment. If you find yourself chirping at others, ask yourself these questions: (1) have I actually done the work to have an informed view or am I merely spewing; and (2) am I actually engaged in the position I’m advocating through work, activism, etc.?
+- You are not a team because you work together. You are a team because you trust, respect and care for each other.
+- 70/10/80 Principle of Delegation - "Find someone who can do what you do at 70% the success rate. Teach them the extra 10% and be okay with 80%."
+- Spend half your time learning many things shallowly and half your time learning a few things deeply -- your resourcefulness will know no bound.
+- The point of open source is not to ritualistically compile our stuff from source. It’s the awareness that technology is not magic: that there is a trail of breadcrumbs any of us could follow to liberate our digital lives in case of a potential hostage situation. Should we so desire, open source empowers us to create and run our own essential tools and services.
+- The problem is not people being uneducated. The problem is that people are educated just enough to believe what they have been taught, and not educated enough to question anything from what they have been taught.
+- “It is important to reason from first principles rather than by analogy. The normal way we conduct our lives is we reason by analogy." - Elon Musk
+- "Is entrepreneurship a trap? No; right now, it's one of the only ways to avoid being trapped." -- Colin Perciva
+- “I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me.” -- Ralph Waldo Emerson
+- We are on a rock traveling around one of the 100+ Billion stars. Our species is one of over half a billion that ever existed. Your chances of being born is about one in 400 trillion. You are not special, you are just lucky. Enjoy your life, you will never exist again. -- Ricky Garvais

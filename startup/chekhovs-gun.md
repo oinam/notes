@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Chekhov's Gun
-category: startup
 ---
 
 # Chekhov's Gun

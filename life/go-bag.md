@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Go Bag (Bug-out Bag)
-category: life
 ---
 
 # Go Bag (Bug-out Bag)
@@ -67,3 +66,7 @@ The suggested contents of a Go Bag vary, but most of the following are usually i
   + Printed copy of any insurance information such as home and contents insurance.
   + Copies of birth certificate
   + Passport
+
+### References
+
+- [The Go Bag Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-go-bag)

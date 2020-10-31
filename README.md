@@ -1,6 +1,8 @@
 # Oinam Digital Garden
 
-Visit the [Oinam Digital Garden](https://oinam.fyi/) for details. The [Source](https://github.com/oinam/oinam.fyi) is hosted on Github.
+> An informational tit-bit, wiki-ish collection of data, learnings, and observations.
+
+[Oinam Digital Garden](https://oinam.fyi/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/21c27b58-d94c-419d-ad04-bcaea2f5465d/deploy-status)](https://app.netlify.com/sites/oinam-fyi/deploys)
 

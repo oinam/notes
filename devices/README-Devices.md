@@ -2,7 +2,7 @@
 
 ## Naming
 
-ENTITY (Device Type) (Purchased Month/Year)
+ENTITY (Device Type) (Purchased YEAR/Month)
 Oinam (iMac) (2020MAY)
 
 ## USERS

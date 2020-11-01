@@ -21,7 +21,7 @@ layout: home
   + Apple
   + [Google](/decouple/google/)
 - Devices
-  + [macOS Apps](/devices/macos-apps/)
+  + [Apple Ecosystem](/devices/apple-ecosystem/)
   + [Raspberry Pi](/devices/raspberry-pi/)
 - Education
   + [Computer](/education/computer/)

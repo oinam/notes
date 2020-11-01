@@ -13,3 +13,4 @@ title: Delete, Delegate, Defer, or Do
 ### References
 
 - [Using the 4Ds of Time Management to Your Advantage](https://www.calendar.com/blog/using-the-4ds-of-time-management-to-your-advantage/)
+- [Don’t Fall Into the Urgency Trap: How to Prioritize Your Work](https://medium.com/calendar/dont-fall-into-the-urgency-trap-how-to-prioritize-your-work-86685aa66679)

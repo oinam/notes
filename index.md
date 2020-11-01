@@ -37,6 +37,7 @@ layout: home
   + [6 Ways to Think Long-term](/life/6-ways-to-think-long-term/)
   + [Argue Constructively](/life/argue-constructively/)
   + [Decisions Automation](/life/decisions-automation/)
+  + [Delete, Delegate, Defer, or Do](/life/dddd/)
   + Essentialism / Minimalism
   + [First Principles](/life/first-principles/)
   + [Go Bag](/life/go-bag/)

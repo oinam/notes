@@ -12,6 +12,7 @@ By combining state-of-the-art AI technics in both Computer Vision and Machine Le
 ## Education, General Learning
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) ([website](https://www.3blue1brown.com), [twitter](https://twitter.com/3blue1brown)) is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective. [Website](https://www.3blue1brown.com).
+- [The School of Life](https://www.youtube.com/user/schooloflifechannel) is a collective of psychologists, philosophers and writers devoted to helping people lead calmer and more resilient lives.
 
 ## Science and Technology
 

@@ -21,10 +21,14 @@ category: books
 1. Discuss and refer the book to your friends and family.
 1. Discover new books through your friends and their bookshelves.
 
-### Business
+## Business
 
 - [101 Crucial Lessons They Don't Teach You in Business School](/books/101-crucial-lessons-they-dont-teach-you-in-business-school/)
 
-### General
+## General
 
 - [I am Malala](/books/i-am-malala/)
+
+### References
+
+- [A Helpful Guide to Reading Better](https://fs.blog/reading/)

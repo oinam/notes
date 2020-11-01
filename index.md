@@ -24,6 +24,7 @@ layout: home
   + [Apple Ecosystem](/devices/apple-ecosystem/)
   + [Raspberry Pi](/devices/raspberry-pi/)
 - Education
+  + [Education](/education/education/)
   + [Computer](/education/computer/)
 - English
   + [Write to Express, Not to Impress](/english/write-to-express-not-to-impress/)
@@ -54,7 +55,6 @@ layout: home
   + 
 - Parenting
   + [10 Life Skills to Teach Your Child by Age 10](/parenting/10-life-skills-to-teach-your-child-by-age-10/)
-  + [Learning](/parenting/learning/)
 - Photography
   + [Cityscape Photography - The Comprehensive Guide](/photography/cityscape-photography-guide.pdf) (pdf)
 - Presentation

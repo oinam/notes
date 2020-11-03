@@ -11,14 +11,17 @@ title: Bookmarks
 - [BBC Sound Effects](http://bbcsfx.acropolis.org.uk) are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence. The Sound Effects are BBC copyright, but they may be used for personal, educational or research purposes, as detailed in the license.
 - [Behavioral Scientist](https://behavioralscientist.org)
 - [Books - Programming](https://ebookfoundation.github.io/free-programming-books/) ([Source](https://github.com/EbookFoundation/free-programming-books))
+- [Climate Desk](Climate Desk) is a journalistic collaboration dedicated to exploring the impact — human, enviornmental, economic, political — of a changing climate.
 - [Collosal](https://www.thisiscolossal.com) is an international platform for contemporary art and visual expression that explores a vast range of creative disciplines.
 - [Epidemic Sound](https://www.epidemicsound.com)
 - [Farnam Street](https://fs.blog)
 - [Head](https://htmlhead.dev) A free guide to HTML5 `<head>` elements
 - [High Brow](https://gohighbrow.com) Learn Something New Every Day. Each morning, wake up to a new 5-minute lesson delivered to your email inbox.
 - [ICANN DOMAINS](https://publicsuffix.org/list/public_suffix_list.dat)
+- Internet Archive
+  + [Software Library](https://archive.org/details/softwarelibrary)
+  + [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
 - [Nautilus](http://nautil.us)
-- [Nippon Colors](https://nipponcolors.com/)
 - [Open Culture](http://www.openculture.com) The best free cultural & educational media on the web.
 - [Our World in Data](https://ourworldindata.org) Research and data to make progress against the world's largest problems.
 - [Pocket Explore](https://getpocket.com/explore)

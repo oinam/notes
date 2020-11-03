@@ -5,9 +5,7 @@ title: Tools, Services, and  Products
 
 # Tools, Services, and  Products
 
-## AI, ML
-
-> General Artificial Intelligence (AI), Machine Learning (ML)
+## Artificial Intelligence (AI), Machine Learning (ML)
 
 - [Explosion](https://explosion.ai) builds developer tools for Artificial Intelligence, Machine Learning, Natural Language Processing, Data Annotation.
 - [OpenAI](https://beta.openai.com)
@@ -23,6 +21,15 @@ title: Tools, Services, and  Products
 - [Google Data Search](https://datasetsearch.research.google.com)
 - [Our World in Data](https://ourworldindata.org)
 
+## Design
+
+- Color
+  + [Color Designer](https://colordesigner.io)
+  + [Color x Color](https://colorcolor.in) ([Source](https://github.com/saneef/color-color))
+  + [Colormind](http://colormind.io) is a color scheme generator that uses deep learning.
+  + [Coolors](https://coolors.co) The super fast color schemes generator!
+  + [Nippon Colors](https://nipponcolors.com/)
+
 ## Automation
 
 - [Zapier](https://zapier.com/)
@@ -31,27 +38,27 @@ title: Tools, Services, and  Products
 
 ## Marketing
 
-- [mjml](https://mjml.io) responsive email framework
-- [MailBuster](https://mailbluster.com/) works with SES
-- [mPonics](https://mponics.com/)
-- [Hubspot](https://www.hubspot.com)
-- [MailChimp](https://mailchimp.com)
+- [Amplifr](https://amplifr.com/)
 - [AutoPilot](https://www.autopilothq.com)
 - [Drip](https://www.drip.com)
-- [Sendy](https://sendy.co/) - Self Hosted
-- [Send with SES](https://www.sendwithses.com/)
+- [Hubspot](https://www.hubspot.com)
+- [MailBuster](https://mailbluster.com/) works with AWS SES *
+- [MailChimp](https://mailchimp.com)
 - [Marketing Examples](https://marketingexamples.com)
-- [SendInBlue](https://www.sendinblue.com)
 - [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
+- [mjml](https://mjml.io) responsive email framework
+- [mPonics](https://mponics.com/)
 - [Postable](https://postable.me)
-- [Amplifr](https://amplifr.com/)
-- [Places To Post Your Startup](https://www.placestopostyourstartup.com)
+- [Send with SES](https://www.sendwithses.com/)
+- [SendInBlue](https://www.sendinblue.com)
+- [Sendy](https://sendy.co/) - Self Hosted
 
 ## Press / PR
 
 - [Get Tech Press](https://www.gettechpress.com)
-- [Startup Ranking](https://www.startupranking.com)
+- [Places To Post Your Startup](https://www.placestopostyourstartup.com)
 - [PostBag](https://postbag.co)
+- [Startup Ranking](https://www.startupranking.com)
 
 ## Remote
 

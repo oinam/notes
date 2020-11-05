@@ -4,24 +4,22 @@ title: Bookmarks
 ---
 
 - [100% free, quality CC audio](https://cchound.com).
-- [Aeon](https://aeon.co)
+- [Aeon](https://aeon.co) is a unique digital magazine, publishing some of the most profound and provocative thinking on the web.
 - [Awesome List](https://github.com/sindresorhus/awesome) about all kinds of interesting topics.
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) is a list of topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses.
 - [BBC Micro Games Archive](http://bbcmicro.co.uk) ([Source](https://github.com/pau1ie/bbcmicro.co.uk) at Github)
 - [BBC Sound Effects](http://bbcsfx.acropolis.org.uk) are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence. The Sound Effects are BBC copyright, but they may be used for personal, educational or research purposes, as detailed in the license.
 - [Behavioral Scientist](https://behavioralscientist.org)
 - [Books - Programming](https://ebookfoundation.github.io/free-programming-books/) ([Source](https://github.com/EbookFoundation/free-programming-books))
-- [Climate Desk](Climate Desk) is a journalistic collaboration dedicated to exploring the impact — human, enviornmental, economic, political — of a changing climate.
+- [Climate Desk](http://theclimatedesk.org) is a journalistic collaboration dedicated to exploring the impact — human, enviornmental, economic, political — of a changing climate.
 - [Collosal](https://www.thisiscolossal.com) is an international platform for contemporary art and visual expression that explores a vast range of creative disciplines.
 - [Epidemic Sound](https://www.epidemicsound.com)
-- [Farnam Street](https://fs.blog)
+- [Farnam Street](https://fs.blog) helps you master the best of what other people have already figured out.
 - [Head](https://htmlhead.dev) A free guide to HTML5 `<head>` elements
-- [High Brow](https://gohighbrow.com) Learn Something New Every Day. Each morning, wake up to a new 5-minute lesson delivered to your email inbox.
 - [ICANN DOMAINS](https://publicsuffix.org/list/public_suffix_list.dat)
-- Internet Archive
-  + [Software Library](https://archive.org/details/softwarelibrary)
-  + [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
-- [Nautilus](http://nautil.us)
+- Internet Archive's [Software Library](https://archive.org/details/softwarelibrary)
+- Internet Archive's [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
+- [Nautilus](http://nautil.us) tells you about science and its endless connections to our lives.
 - [Open Culture](http://www.openculture.com) The best free cultural & educational media on the web.
 - [Our World in Data](https://ourworldindata.org) Research and data to make progress against the world's largest problems.
 - [Pocket Explore](https://getpocket.com/explore)
@@ -30,7 +28,7 @@ title: Bookmarks
 - [Standard Ebooks](https://standardebooks.org) Free and liberated ebooks.
 - [The Daily Idea](https://thedailyidea.org/) aims to make learning about philosophy as easy as possible by bringing together the best philosophy resources from across the internet.
 - [This Person Does Not Exist](https://thispersondoesnotexist.com)
-- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade)
+- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) from HackerNews.
 - [Unsplash](https://unsplash.com) Over 2 million free high-resolution images brought to you by the world’s most generous community of photographers.
 - [Wait But Why](https://waitbutwhy.com) carefully produced for the true book lover.
 - Massive List of 65+ [Open Source Music Production Tools](https://midination.com/free-music-production-software/).

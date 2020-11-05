@@ -2,6 +2,7 @@
 
 - “Speak only if it improves upon the silence.” ― Mahatma Gandhi
 - Running a start-up is like eating glass. You just start to like the taste of your own blood.
+- If you're not progressing, you're regressing; so, keep moving forward.
 - Freedom is the power to say no.
 - Technology is a tool, not a vessel. It is only useful to the extent that it can get you to where you want to go.
 - “My thing is I wanted to be able to have free time. To me, having time is the most precious thing.” - Herbert Wertheim

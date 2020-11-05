@@ -33,6 +33,15 @@
 </head>
 <body>
 
+{% if page.url == "/" %}
+<h1 class="title">{{site.title}}</h1>
+<blockquote>
+	<p>“{{ site.description }}”</p>
+</blockquote>
+{% else %}
+<h1 class="title"><a href="{{site.url}}">{{site.title}}</a></h1>
+{% endif %}
+
 {{ content }}
 
 <hr>

@@ -5,6 +5,8 @@ title: Leadership
 
 # Leadership
 
+> Leaders focus on doing the right thing, managers focus on doing things right.
+
 ## 12 Quick and Simple Ways to Become a Great Leader in 2016
 
 http://www.inc.com/bill-murphy-jr/12-quick-and-simple-ways-to-become-a-great-leader-in-2016.html

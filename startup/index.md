@@ -9,6 +9,7 @@ title: Startup
 
 ## References
 
+- [Founder Library](https://www.founderlibrary.com) wisdom and resources to launch, scale, and lead with more confidence and effectiveness.
 - [OpenDeck](https://opendeck.app) 1,200+ startup slides.
 - [Seed Accelerators](https://www.seed-db.com/accelerators) a tabular data of Accelerators, with their HQ, funding, etc.
 - [Startup Playbook](https://playbook.samaltman.com) by Sam Altman.

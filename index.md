@@ -106,7 +106,8 @@ layout: home
 
 ## Technology
 
-- [Let them paste passwords](/technology/passwords-paste/)
+- [Passwords](/technology/passwords/)
+- [Passwords - Let them paste it](/technology/passwords-paste/)
 - [Wi-Fi](/technology/wi-fi/)
 
 ## Tools

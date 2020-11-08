@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Let them paste passwords
 ---
 
 # Let them paste passwords
@@ -18,7 +17,7 @@ Often the slickest, most hassle-free approach is the most secure.
 
 Here is an article from the [National Cyber Security Center](https://www.ncsc.gov.uk/) on why allowing password pasting is a much safer way -- [Let them paste passwords](https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords).
 
-![Password Strength](/technology/xkcd-password-strength.png)
+![Password Strength](/__assets/images/xkcd-password-strength.png)
 
 The main reason why password pasting improves security is because it helps to reduce password overload. Allowing the pasting of passwords makes web forms work well with password managers. [Password managers](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/password-managers) are software (or services) that choose, store and enter passwords into online forms for you.
 

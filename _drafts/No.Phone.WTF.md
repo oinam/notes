@@ -1,5 +1,7 @@
 # No.Phone.WTF
 
+A tool does its job, then gets out of the way.
+
 Digital minimalism definitively does not reject the innovations of the internet age, but instead rejects the way so many people currently engage with these tools.
 — Cal Newport
 
@@ -27,3 +29,4 @@ My solution: choose what notifications you get for every single app on your phon
 - https://medium.com/better-humans/how-to-set-up-your-iphone-for-productivity-focus-and-your-own-longevity-bb27a68cc3d8
 - https://medium.com/better-humans/a-phone-setup-that-will-make-you-more-mindful-1c5d8be7e661
 - https://medium.com/swlh/what-my-minimalist-phone-looks-like-c0fd0180b125
+- Turning my smartphone into a boring tool, https://maximevaillancourt.com/blog/turning-my-smartphone-into-a-boring-tool

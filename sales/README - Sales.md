@@ -10,3 +10,8 @@ From https://news.ycombinator.com/item?id=23285438
 7. No one cares about your quota, your payroll, your opex, your burn rate, etc. No one. They care about the problem you are solving for them.
 
 There is more than 100 trillion dollars in the global economy just waiting for you to breathe it in. Good luck.
+
+### References
+
+- [bootstrapping B2B Sales](https://laskie.co/playbooks/bootstrapping-b2b-sales)
+- Hubspot's review of the [25 Best Sales Decks](https://blog.hubspot.com/sales/sales-presentation-guidelines)

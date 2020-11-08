@@ -4,6 +4,7 @@
 - Running a start-up is like eating glass. You just start to like the taste of your own blood.
 - If you're not progressing, you're regressing; so, keep moving forward.
 - Freedom is the power to say no.
+- You have a choice in life. You can either live on-purpose, according to a plan you’ve set. Or you can live by accident, reacting to the demands of others. The first approach is proactive; the second reactive.
 - Technology is a tool, not a vessel. It is only useful to the extent that it can get you to where you want to go.
 - “My thing is I wanted to be able to have free time. To me, having time is the most precious thing.” - Herbert Wertheim
 - I am fairly certain I am now literally unemployable in any traditional sense, by any traditional company.

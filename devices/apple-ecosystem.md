@@ -12,6 +12,7 @@ Here are some of the interesting and pretty useful applications that we use regu
 - [1Password](https://1password.com) (paid). At the start of the 21st century, we started with [Keepass](https://keepass.info) as the entry into the world of Password Management but moved to 1Password (2006) since its beta and haven't looked back.
 - [Alfred](https://www.alfredapp.com) (free/paid) with its PowerPack is the primary utility that drives the regular task that happens on the MacOS.
 - [AppCleaner](https://freemacsoft.net/appcleaner/) (free)
+- [Apple One](https://one.apple.com) (paid)
 - [CarbonCopyCloner](https://bombich.com) (paid)
 - [Dropbox](https://www.dropbox.com/) (paid)
 - [Grammarly](https://app.grammarly.com) (paid) + [Hemingway App](http://www.hemingwayapp.com) (paid) + [iA Writer](https://ia.net/writer) (paid)

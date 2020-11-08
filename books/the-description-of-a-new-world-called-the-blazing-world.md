@@ -5,6 +5,7 @@ Margaret Cavendish (1623 – 15 December 1673) was an outspoken aristocrat who t
 In her lifetime, she published 20 books. But amid her poetry and essays, she also published one of the __earliest examples of science fiction, in 1666__. She named it _The Description of a New World, Called the Blazing World._
 
 [![Margaret Cavendish, the Duchess of Newcastle](/books/Margaret-Cavendish-the-Duchess-of-Newcastle.jpg)](https://commons.wikimedia.org/wiki/File:Margaret,_Duchess_of_Newcastle.jpg)
+
 __Margaret Cavendish, the Duchess of Newcastle__
 
 The book narrates the story of a woman being kidnapped by a lovesick merchant sailor, and forced to join him at sea. After a windstorm sends the ship north and kills the men, the woman walks through a portal at the North Pole into a new world: one with stars so bright, midnight could be mistaken for midday. A parallel universe where creatures are sentient, and worm-men, ape-men, fish-men, bird-men and lice-men populate the planet. They speak one language, they worship one god, and they have no wars. She becomes their Empress, and with her otherworldly subjects, she explores natural wonders and questions their observations using science.

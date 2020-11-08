@@ -1,36 +1,32 @@
 <!doctype html>
 <html lang="en">
 <head>
+
 <meta charset="utf-8">
-
-<title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css/new.min.css">
+<title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css/out/water.css">
 
 </head>
 <body>
 
 {% if page.url == "/" %}
-<h1 class="title">{{site.title}}</h1>
-<blockquote>
-	<p>“{{ site.description }}”</p>
-</blockquote>
+	<h1 class="title">{{site.title}}</h1>
+	<blockquote><p>“{{ site.description }}”</p></blockquote>
 {% else %}
-<h1 class="title"><a href="{{site.url}}">{{site.title}}</a></h1>
+	<h1 class="title"><a href="{{site.url}}">{{site.title}}</a></h1>
 {% endif %}
 
 {{ content }}
 
-<hr>
-
 <footer>
   <small>
     <p>
-      Collected by <a href="//oinam.com/">Oinam</a>
-      (<a href="//github.com/oinam/oinam.fyi">Source</a>)
+      An ever <strong>Work-in-Progress</strong> effort by <a href="//oinam.com/">Oinam</a>
+      (<a href="//github.com/oinam/oinam.fyi">Open Source</a>)
       2020-<script>document.write(new Date().getFullYear())</script>.
     </p>
   </small>

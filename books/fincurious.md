@@ -1,9 +1,3 @@
----
-layout: page
-title: Fincurious
-category: books
----
-
 # Fincurious
 
 > Startup Finance! Let's Keep it Simple

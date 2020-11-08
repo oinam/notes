@@ -1,9 +1,3 @@
----
-layout: page
-title: Pitch Deck Mistakes
-categry: startup
----
-
 # Pitch Deck Mistakes
 
 This is from a multi-part article published originally by [Hustle Fund](https://www.hustlefund.vc/).

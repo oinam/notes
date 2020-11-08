@@ -1,9 +1,3 @@
----
-layout: page
-title: Decouple from Adobe
-category: decouple
----
-
 # Decouple from Adobe
 
 Adobe is indeed a fantastic company that builds some of the best softwares in the industry. There can be many reasons for you to decouple from Adobe. This is an effort to seek alternatives that will help you decouple from Adobe.

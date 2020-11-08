@@ -1,8 +1,3 @@
----
-layout: page
-title: Tools, Services, and  Products
----
-
 # Tools, Services, and  Products
 
 ## Artificial Intelligence (AI), Machine Learning (ML)

@@ -1,9 +1,3 @@
----
-layout: page
-title: Presentation Rules
-category: presentation
----
-
 # Presentation Rules
 
 This is inspired from a well article that [Jilles Oldenbeuving](http://www.jilles.net) posted on Jun 5, 2020 -- [Presentation Rules](http://www.jilles.net/perma/2020/06/05/presentation-rules.html).

@@ -1,8 +1,3 @@
----
-layout: page
-title: Education
----
-
 # Education
 
 - [University of the People](https://www.uopeople.edu) is a Tuition-free online university that offers higher education in multiple course streams.

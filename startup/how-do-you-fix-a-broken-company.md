@@ -1,9 +1,3 @@
----
-layout: page
-title: How do you fix a broken company
-category: startup
----
-
 # How do you fix a broken company
 
 This appeared in a comment on HackerNews (unable to find the link yet). It is a fun read about truth of running companies. Reproduced verbatim here;

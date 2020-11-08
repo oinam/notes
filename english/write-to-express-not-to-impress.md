@@ -1,9 +1,3 @@
----
-layout: page
-title: Write to Express, Not to Impress
-category: english
----
-
 # Write to Express, Not to Impress
 
 Read a very clear and clean article on how to write to express oneself and not to impress other - [Write to Express, Not to Impress](https://medium.com/swlh/write-to-express-not-to-impress-465d628f39fe).

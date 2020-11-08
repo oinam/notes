@@ -1,9 +1,3 @@
----
-layout: page
-title: Kakeibo - The Japanese Art of Saving Money
-category: books
----
-
 # Kakeibo: The Japanese Art of Saving Money by Fumiko Chiba
 
 This is an introduction to the Japanese Kakeibo-method of budgeting money - a 100+ year old method. It was introduced to the public in 1904 by Hani Motoko for housewives to use, and backed by the goverment. Housewives in Japan have much power over household money.

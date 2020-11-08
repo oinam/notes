@@ -1,10 +1,4 @@
----
-layout: page
-title: Top 10 traits of the Perfect Manager
-category: leadership
----
-
-# Top 10 traits of the Perfect Manager
+# Top 10 traits of the Perfect Leader
 
 1. **Is a good coach.**Rather than solve every problem as soon as it arises, the best managers use problems as teaching moments.
 1. **Empowers team and does not micromanage.**

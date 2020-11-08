@@ -1,9 +1,3 @@
----
-layout: page
-title: Leonardo da Vinci
-category: 
----
-
 # Leonardo da Vinci
 
 Based on thousands of pages from Leonardo's notebooks and new discoveries about his life and work, [Walter Isaacson](https://en.wikipedia.org/wiki/Walter_Isaacson) weaves a narrative that connects his art to his science. He shows how Leonardo's genius was based on skills we can improve in ourselves, such as passionate curiosity, careful observation, and an imagination so playful that it flirted with fantasy.

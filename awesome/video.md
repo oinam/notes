@@ -1,8 +1,4 @@
----
-layout: page
-title: Video
-category: awesome
----
+# Video
 
 ## Agriculture, Farming with Technology
 

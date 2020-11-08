@@ -1,9 +1,3 @@
----
-layout: page
-title: Note Taking and Management
-category: tools
----
-
 # Note Taking and Management
 
 Methods, philosophies, and choices to manage notes, and to find a holistic method on how to deal with knowledge in your life.

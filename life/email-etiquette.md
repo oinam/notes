@@ -1,8 +1,3 @@
----
-layout: page
-title: Email Etiquette
----
-
 # Email Etiquette
 
 - Do not use all CAPS anywhere, subject or otherwise.

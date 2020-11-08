@@ -1,9 +1,3 @@
----
-layout: page
-title: Books
-category: books
----
-
 # Books
 
 > Here are some of the exciting books that have inspired the Oinam Family through the ages.

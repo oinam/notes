@@ -1,8 +1,3 @@
----
-layout: page
-title: Chekhov's Gun
----
-
 # Chekhov's Gun
 
 While discussing the features of our new product in the Startup that I'm working on, my co-founder told me to hold my gun and focus on the first principle -- what are we trying to solve here.

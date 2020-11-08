@@ -1,8 +1,3 @@
----
-layout: page
-title: Go Bag (Bug-out Bag)
----
-
 # Go Bag (Bug-out Bag)
 
 A [bug-out bag](https://en.wikipedia.org/wiki/Bug-out_bag) (BOB) or in a more common term, *Go Bag* is a portable kit that normally contains the items one would require to survive for 72 hours when evacuating from a disaster, although some kits are designed to last longer periods. Other names for such a bag are a 72-hour kit, battle box, grab bag, GOOD bag (get out of dodge), personal emergency relocation kit (PERK), or quick run bag (QRB).

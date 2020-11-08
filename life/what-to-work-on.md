@@ -1,9 +1,3 @@
----
-layout: page
-title: What to Work On
-category: life
----
-
 # What to Work On
 
 I love the writings of [Julian Shapiro](https://www.julian.com/) and his article, [What to Work on](https://www.julian.com/blog/life-planning) is another masterpiece.

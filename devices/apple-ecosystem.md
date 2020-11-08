@@ -1,7 +1,4 @@
----
-layout: page
-title: Apple Ecosystem
----
+# Apple Ecosystem
 
 [Apple](https://www.apple.com) has one of the best Computing Ecosystem. We leverage the ecosystem to get things done easier, smarter, and seamlessly.
 

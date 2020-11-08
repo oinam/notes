@@ -1,8 +1,3 @@
----
-layout: page
-title: Religion
----
-
 # Religion
 
 > We are not religious. We respect everyone’s religious beliefs, faiths, and practices.

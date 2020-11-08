@@ -23,7 +23,6 @@ defaults:
 
 # Build settings
 plugins:
-  - jekyll-feed
   - jekyll-titles-from-headings
   - jekyll-optional-front-matter
 
@@ -47,6 +46,3 @@ exclude:
   - README.md
   - styles.css.map
   - netlify.toml
-
-include:
-  - __assets

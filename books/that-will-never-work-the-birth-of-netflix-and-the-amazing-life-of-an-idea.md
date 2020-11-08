@@ -1,9 +1,3 @@
----
-layout: page
-title: That Will Never Work - The Birth of Netflix and the Amazing Life of an Idea
-category: books
----
-
 # That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea
 
 The incredible untold story of how Netflix went from concept to company - as revealed by co-founder and first CEO [Marc Randolph](https://en.wikipedia.org/wiki/Marc_Randolph).

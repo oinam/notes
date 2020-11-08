@@ -1,9 +1,3 @@
----
-layout: page
-title: Tao of Charlie Munger
-category: books
----
-
 # Tao of Charlie Munger
 
 > A Compilation of Quotes from Berkshire Hathaway's Vice Chairman on Life, Business, and the Pursuit of Wealth.

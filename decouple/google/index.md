@@ -1,9 +1,3 @@
----
-layout: page
-title: Decouple from Google
-category: decouple
----
-
 # Decouple from Google
 
 ## GSuite / Email / Drive

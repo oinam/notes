@@ -1,9 +1,3 @@
----
-layout: page
-title: Raspberry Pi
-category: devices
----
-
 # Raspberry Pi
 
 > The Raspberry Pi is a series of small single-board computers developed in the United Kingdom by the [Raspberry Pi](https://www.raspberrypi.org) Foundation. It is widely used in many areas, such as for weather monitoring, etc. because of its low cost and high portability.

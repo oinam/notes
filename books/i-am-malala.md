@@ -1,9 +1,3 @@
----
-layout: page
-title: I am Malala
-category: books
----
-
 # I am Malala
 
 When the Taliban took control of the Swat Valley in Pakistan, one girl spoke out. Malala Yousafzai refused to be silenced and fought for her right to an education.

@@ -1,9 +1,3 @@
----
-layout: page
-title: Computer
-category: education
----
-
 # Computers
 
 ## Beginners

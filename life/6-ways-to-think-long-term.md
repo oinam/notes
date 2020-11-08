@@ -1,9 +1,3 @@
----
-layout: page
-title:  6 Ways to Think Long-term
-category: life
----
-
 # Six Ways to Think Long-term: A Cognitive Toolkit for Good Ancestors
 
 I've been deeply interested in long-term actions and my ways are now geared towards focusing on actions that will either have long-term impacts or be a precursor to somethig that can stay for a long-long time.

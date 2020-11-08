@@ -1,8 +1,3 @@
----
-layout: page
-title: Every company is a FinTech Company
----
-
 # Every company is a FinTech Company
 
 Podcast Transcript: https://a16z.com/2020/01/21/every-company-will-be-a-fintech-company/

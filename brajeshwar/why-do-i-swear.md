@@ -1,9 +1,3 @@
----
-layout: page
-title: Why do I Swear?
-category: brajeshwar
----
-
 # Why do I Swear?
 
 Inspired by Paul Jarvis's Boook, [Everything I know](https://www.amazon.com/Everything-I-Know-Paul-Jarvis-ebook/dp/B00GRBIFH6).

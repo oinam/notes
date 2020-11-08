@@ -1,9 +1,3 @@
----
-layout: page
-title: 10 Types of Innovation
-categry: entrepreneur
----
-
 # 10 Types of Innovation: The Art of Discovering a Breakthrough Product
 
 From an article, [10 Types of Innovation](https://www.visualcapitalist.com/10-types-of-innovation-the-art-of-discovering-a-breakthrough-product/);

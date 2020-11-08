@@ -1,9 +1,3 @@
----
-layout: page
-title: Pitching your early stage startup
-category: 
----
-
 # Pitching your early stage startup
 
 Written by [Patrick McKenzie](https://www.kalzumeus.com) for Stripe, [Pitching your early stage startup](https://stripe.com/en-in/atlas/guides/pitching) is an article every early-stage founder should read, and re-read.

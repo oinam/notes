@@ -1,9 +1,3 @@
----
-layout: page
-title:  Wardrobe Minimalism, and Essentialism
-category: life
----
-
 # Wardrobe Minimalism, and Essentialism
 
 [Automating Desicions](/life/decisions-automation/)

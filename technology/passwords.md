@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Password
 
 In an ideal world, hopefully sommetime in the near future, we will never need to create or remember passwords.

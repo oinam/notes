@@ -1,9 +1,3 @@
----
-layout: page
-title: Entrepreneurs' References
-categry: entrepreneur
----
-
 # Entrepreneurs' References
 
 > Dedicated to all the entrepreneurs.

@@ -1,9 +1,3 @@
----
-layout: page
-title: Have a life's Mission, and Persevere
-category: life
----
-
 # Have a life's Mission, and Persevere
 
 I chuckled at a very [truthful comment](https://news.ycombinator.com/item?id=23935103) by Ericson Smith --

@@ -1,4 +1,4 @@
-# Monetizing Innovation by Madhavan Ramanujam and George Tacke
+# Monetizing Innovation
 
 The 9 points summarized at https://www.skmurphy.com/blog/2016/11/16/nine-rules-from-monetizing-innovation/
 

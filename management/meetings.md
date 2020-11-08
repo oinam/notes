@@ -1,9 +1,3 @@
----
-layout: page
-title: Meetings
-category: management
----
-
 # Meetings
 
 > Meetings are the death of productivity.

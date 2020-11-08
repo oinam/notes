@@ -1,9 +1,3 @@
----
-layout: page
-title: Pitch Deck
-category: startup
----
-
 # Pitch Deck
 
 Pitch Deck is one of the key tool to get in touch with Investors, and other interested parties, especially when you are raising funds.

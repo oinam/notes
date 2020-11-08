@@ -1,7 +1,4 @@
----
-layout: page
-title: Bookmarks
----
+# Bookmarks
 
 - [100% free, quality CC audio](https://cchound.com).
 - [Aeon](https://aeon.co) is a unique digital magazine, publishing some of the most profound and provocative thinking on the web.

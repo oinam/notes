@@ -1,8 +1,3 @@
----
-layout: page
-title: Delete, Delegate, Defer, or Do
----
-
 # Delete, Delegate, Defer, or Do
 
 - *Delete.* Sometimes this is referred to as “drop.” But the idea is the same. Any time commitments that are no longer necessary or aren’t crucial to the big picture should be scrapped. A perfect example of this is the lengthy and unproductive meetings you have in your schedule.

@@ -1,9 +1,3 @@
----
-layout: page
-title: The Description of a New World, Called the Blazing World
-category: books
----
-
 # The Description of a New World, Called the Blazing World
 
 Margaret Cavendish (1623 – 15 December 1673) was an outspoken aristocrat who traveled in circles of scientific thinkers (such as Thomas Hobbes, Robert Boyle, and René Descartes), and broke ground on proto-feminism, natural philosophy (the 17th century term for science), and social politics.

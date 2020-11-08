@@ -1,9 +1,3 @@
----
-layout: page
-title: SpreadSheet
-category: tools
----
-
 # SpreadSheet
 
 > A SpreadSheet is a computer application for organization, analysis and storage of data in tabular form. __If you want to start a business, run it first in a SpreadSheet.__

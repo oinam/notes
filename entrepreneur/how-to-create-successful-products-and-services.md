@@ -1,9 +1,3 @@
----
-layout: page
-title: How to create successful Products and Services
-category: entrepreneur
----
-
 # How to create successful Products and Services
 
 > A three-step process to develop products and services (both digital and physical) that have generated millions of dollars in revenue over the years.

@@ -1,8 +1,3 @@
----
-layout: page
-title: Leadership
----
-
 # Leadership
 
 > Leaders focus on doing the right thing, managers focus on doing things right.

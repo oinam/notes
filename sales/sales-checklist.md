@@ -1,7 +1,4 @@
----
-layout: page
-title: The Side Project Sales Checklist
----
+# The Side Project Sales Checklist
 
 The [Side Project Sales Checklist](https://www.sideprojectchecklist.com/sales-checklist) is a comprehensive, chronologically ordered list of sales tactics that you can try with your next side project. The list is free and open source so feel free to [suggest your own additions anytime](https://github.com/portable-cto/side-project-sales/issues).
 

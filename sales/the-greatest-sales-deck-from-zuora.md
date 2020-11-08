@@ -1,9 +1,3 @@
----
-layout: page
-title: The Greatest Sales Deck from Zuora
-category: startup
----
-
 # The Greatest Sales Deck from Zuora
 
 I like referring to Andy Raskin's article, [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0) for inspiration.

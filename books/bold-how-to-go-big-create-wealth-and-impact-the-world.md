@@ -1,9 +1,3 @@
----
-layout: page
-title: "Bold: How to Go Big, Create Wealth and Impact the World"
-category: books
----
-
 # Bold: How to Go Big, Create Wealth and Impact the World
 
 [Book](https://en.wikipedia.org/wiki/Bold_(book)) by Peter H. Diamandis, Steven Kotler

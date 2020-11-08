@@ -1,9 +1,3 @@
----
-layout: page
-title: Brajeshwar's Phone Homescreen
-category: brajeshwar
----
-
 # Brajeshwar's Phone Homescreen
 
 This is kinda fun thing I started - screenshot of my Phone's Homescreen evolution and changes over the years.

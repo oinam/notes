@@ -1,9 +1,3 @@
----
-layout: page
-title: Management Principles
-category: management
----
-
 # Management Principles
 
 [Margaret Wallace](https://twitter.com/MargaretWallace), co-founder of [Playmatics](https://playmatics.com/) wrote a beautiful [article](https://medium.com/@margaretw/management-principles-963c49badbe5), on Management Principles which she lives by.

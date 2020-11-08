@@ -1,9 +1,3 @@
----
-layout: page
-title: The Almanack of Naval Ravikant
-category: books
----
-
 # The Almanack of Naval Ravikant
 
 The [Almanack of Naval Ravikant](https://www.navalmanack.com) collects and curates [Naval](https://nav.al)’s wisdom from Twitter, Podcasts, and Essays over the past decade. The book is created and edited by [Eric Jorgenson](https://ejorgenson.com/), with Illustrations by [Jack Butcher](https://twitter.com/jackbutcher), and a Foreword by [Tim Ferriss](https://tim.blog).

@@ -1,7 +1,4 @@
----
-layout: page
-title: Marketing Checklist
----
+# Marketing Checklist
 
 The [Side Project Marketing Checklist](https://www.sideprojectchecklist.com/marketing-checklist) is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your next side project. The list is free and open source so feel free to [suggest your own additions anytime](https://github.com/portable-cto/side-project-marketing/issues).
 

@@ -1,8 +1,3 @@
----
-layout: page
-title: Guide to Arguing Constructively
----
-
 # Guide to Arguing Constructively
 
 A beautifully written article by Liam Rosen on a [Beginner’s Guide to Arguing Constructively](http://liamrosen.com/arguments.html).

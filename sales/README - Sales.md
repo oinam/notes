@@ -1,3 +1,4 @@
+# Sales
 
 From https://news.ycombinator.com/item?id=23285438
 

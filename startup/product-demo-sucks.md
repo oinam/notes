@@ -1,9 +1,3 @@
----
-layout: page
-title: Your Product Demo Sucks Because it’s Focused on Your Product
-category: 
----
-
 # Your Product Demo Sucks Because it’s Focused on Your Product
 
 “It occurred to me that I was an absolute expert at the product I was pitching — I was presenting [Monetate](https://monetate.com)'s products day in and day out to some of the biggest brands in the country — but people still didn't seem to really get it,” says Falcone. “It became abundantly clear that knowing your product doesn't make a demo successful.”

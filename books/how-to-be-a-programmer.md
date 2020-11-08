@@ -1,9 +1,3 @@
----
-layout: page
-title: How To Be A Programmer
-category: books
----
-
 # How To Be A Programmer by Robert Read
 
 "How To Be A Programmer" talks about things we need to know as a programmer. Starting from the basic technical skills one must acquire, to managerial skills to manage a team of programmers. Emphases are put on the ethics of working as a programmer and as a member of the team.

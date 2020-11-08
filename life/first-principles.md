@@ -1,9 +1,3 @@
----
-layout: page
-title:  First Principles
-category: life
----
-
 # First Principles
 
 > A first principle is a basic proposition or assumption that cannot be deduced from any other proposition or assumption.

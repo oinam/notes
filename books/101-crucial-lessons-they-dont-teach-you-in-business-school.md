@@ -1,9 +1,3 @@
----
-layout: page
-title: 101 Crucial Lessons They Don't Teach You in Business School
-category: books
----
-
 # 101 Crucial Lessons They Don't Teach You in Business School
 
 A list of 101 points by Chris Haroun of [Haroun Education Ventures](https://harouneducationventures.com/) on life-lessons that can help you run a successful business, and life.

@@ -8,17 +8,44 @@
 
 <title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css/out/water.css">
+<style type="text/css">
+  body {
+    max-width: 65ch;
+    font-family: Merriweather, Georgia, Times, serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+   font-weight: 700;
+   line-height: 1.2;
+  }
+  
+  h5, h6 {
+    font-weight: 400;
+  }
+
+  .title {
+    font-size: 1.6rem;
+  }
+</style>
 
 </head>
 <body>
 
-{% if page.url == "/" %}
-	<h1 class="title">{{site.title}}</h1>
-	<blockquote><p>“{{ site.description }}”</p></blockquote>
-{% else %}
-	<h1 class="title"><a href="{{site.url}}">{{site.title}}</a></h1>
-{% endif %}
+<header>
+  {% if page.url == "/" %}
+    <h1 class="title">{{site.title}}</h1>
+    <blockquote><p>“{{ site.description }}”</p></blockquote>
+  {% else %}
+    <h1 class="title"><a href="{{site.url}}">{{site.title}}</a></h1>
+  {% endif %}
+</header>
+
+<hr>
 
 {{ content }}
 

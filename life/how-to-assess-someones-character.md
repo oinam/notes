@@ -1,4 +1,4 @@
-# How to assess someone’s character
+# How to assess someone's character
 
 1. Listen to what they don't talk about.
 2. Pay attention to the questions they ask.

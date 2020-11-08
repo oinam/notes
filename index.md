@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: default
+title: Oinam Digital Garden
 ---
 
 

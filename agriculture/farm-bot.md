@@ -1,8 +1,3 @@
----
-layout: page
-title: Farm Bot
----
-
 # Farm Bot
 
 > [FarmBot](https://farm.bot) is an open source precision agriculture CNC (Computer Numerical Control) farming project consisting of a Cartesian coordinate robot farming machine, software and documentation including a farming data repository. The project aims to “Create an open and accessible technology aiding everyone to grow food and to grow food for everyone.”

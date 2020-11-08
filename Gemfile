@@ -13,6 +13,7 @@ gem "jekyll", "~> 4.1.1"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-titles-from-headings'
+  gem 'jekyll-optional-front-matter'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

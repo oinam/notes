@@ -1,7 +1,5 @@
 # Books
 
-> Here are some of the exciting books that have inspired the Oinam Family through the ages.
-
 ## How to read books the right way
 
 1. Pick up multiple books from the same topic or category to go deeper.

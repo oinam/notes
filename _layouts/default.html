@@ -8,24 +8,50 @@
 
 <title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css/out/water.css">
 <style type="text/css">
+  :root {
+    --color-bg: #faf8f2;
+    --color-bg-alt: #f1f1f1;
+    --color-highlight: #dadada;
+    --color-primary: #118bee;
+    --color-secondary: #920de9;
+    --color-text: #444;
+    --color-text-secondary: #999;
+    --color-link: #1f80d2;
+    --color-link-accent: #17619e;
+  }
+
   body {
-    /*max-width: 65ch;*/
-    font-family: Merriweather, Georgia, Times, serif;
-    font-weight: 400;
-    font-size: 1rem;
-    line-height: 1.8;
+    max-width: 65ch;
+
+    background: var(--color-bg);
+    color: var(--color-text);
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    line-height: 1.6;
   }
 
   h1, h2, h3, h4, h5, h6 {
-   font-weight: 700;
-   line-height: 1.3;
+    font-weight: 500;
+    line-height: 1.3;
   }
-  
-  h5, h6 {
-    font-weight: 400;
+
+  a, a:visited {
+    color: var(--color-link);
+  }
+
+  a:hover, a:active {
+   color: var(--color-link-accent); 
+  }
+
+  blockquote,
+  q {
+    border-left: 10px solid var(--color-highlight);
+    background: var(--color-bg-alt);
+    margin: 1em 0;
+    padding: 0.1em 1em;
   }
 
   .title {

@@ -69,6 +69,7 @@ title: Oinam Digital Garden
 - [Stoicism](/life/stoicism/)
 - [Privacy](/life/privacy/)
 - [Ten Lessons I Wish I Had Been Taught](/life/10-lessons-i-wish-i-had-been-taught/) [source](https://www.ams.org/notices/199701/comm-rota.pdf) (pdf) [cached](/life/10-lessons-i-wish-i-had-been-taught.pdf) (pdf)
+- [Wealthy and/or Rich](/life/wealthy-rich/)
 - [What to Work On](/life/what-to-work-on/)
 
 ## Management

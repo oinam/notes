@@ -30,6 +30,7 @@
 - [Zapier](https://zapier.com/)
 - [n8n](https://n8n.io)
 - [ActionFlow](https://actionsflow.github.io)
+- [D2C](https://d2c.io) easy deployment of app to containers.
 
 ## Marketing
 
@@ -64,5 +65,3 @@
 - Jekyll
   + [JekyllThemes.io](https://jekyllthemes.io/)
   + [Jekyll-Themes](https://jekyll-themes.com)
-  + [CloudCannon](https://learn.cloudcannon.com/jekyll-templates/)
-  + [Themeix](https://themeix.com)

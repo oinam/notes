@@ -251,3 +251,4 @@ SORT THESE
   + [Twillio](https://www.twilio.com)
   + [Seam](https://www.getseam.com/) API for controlling homes and buildings.
   + [Tasmota](http://tasmota.com/) Open source firmware for ESP8266 devices
+  + [FastoCloud](https://github.com/fastogt/fastocloud)

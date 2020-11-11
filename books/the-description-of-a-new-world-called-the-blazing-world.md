@@ -17,5 +17,3 @@ Unless, you have a genuine interest in the subject of the book, the fact that th
 Here’s the prologue written by Margaret Cavendish, Duchess of Newcastle-upon-Tyne and trailblazing sci-fi author, back in 1666:
 
 > “That though I cannot be Henry the Fifth, or Charles the Second; yet, I will endeavour to be, Margaret the First: and, though I have neither Power, Time nor Occasion, to be a great Conqueror, like Alexander, or Caesar; yet, rather than not be Mistress of a World, since Fortune and the Fates would give me none, I have made One of my own. And thus, believing, or, at least, hoping, that no Creature can, or will, Envy me for this World of mine, I remain, Noble Ladies, Your Humble Servant, M. Newcastle.”
-
-Enjoy the book.

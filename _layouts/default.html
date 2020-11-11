@@ -11,25 +11,14 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css/out/water.css">
 <style type="text/css">
   :root {
-    --color-bg: #faf8f2;
-    --color-bg-alt: #f1f1f1;
-    --color-highlight: #dadada;
-    --color-primary: #118bee;
-    --color-secondary: #920de9;
-    --color-text: #444;
-    --color-text-secondary: #999;
-    --color-link: #1f80d2;
-    --color-link-accent: #17619e;
+    --border-radius: 3px;
   }
-
   body {
     max-width: 65ch;
-
-    background: var(--color-bg);
-    color: var(--color-text);
-
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 1.2em;
+    background: #faf8f2;
+    color: #444;
+    font-family: georgia, 'times new roman', times, serif;
+    font-size: 1.2rem;
     line-height: 1.6;
   }
 
@@ -39,23 +28,45 @@
   }
 
   a, a:visited {
-    color: var(--color-link);
+    color: #1f80d2;
   }
 
   a:hover, a:active {
-   color: var(--color-link-accent); 
+   color: #17619e; 
   }
 
-  blockquote,
-  q {
-    border-left: 10px solid var(--color-highlight);
-    background: var(--color-bg-alt);
+  blockquote {
+    border: 1px solid #b9d9fe;
+    /*border-left-width: 10px;*/
+    border-radius: var(--border-radius);
+    background: #cde5fe;
     margin: 1em 0;
-    padding: 0.1em 1em;
+    padding: 0.1em 1.6em;
+    font-style: normal;
+  }
+
+  ol,
+  ul {
+    padding-left: 1.4rem;
+  }
+
+  li {
+    margin-top: 0.2rem;
+  }
+
+  ul ul,
+  ol ul,
+  ul ol,
+  ol ol {
+    margin-bottom: 0;
   }
 
   .title {
     font-size: 1.6rem;
+  }
+
+  .title a {
+    text-decoration: none;
   }
 </style>
 

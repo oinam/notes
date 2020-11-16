@@ -11,12 +11,35 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css/out/water.css">
 <style type="text/css">
   :root {
+    /*
+      nord color theme,
+      https://www.nordtheme.com
+      https://www.nordtheme.com/docs/colors-and-palettes
+    */
+    --nord0: #2e3440;
+    --nord1: #3b4252;
+    --nord2: #434c5e;
+    --nord3: #4c566a;
+    --nord4: #d8dee9;
+    --nord5: #e5e9f0;
+    --nord6: #eceff4;
+    --nord7: #8fbcbb;
+    --nord8: #88c0d0;
+    --nord9: #81a1c1;
+    --nord10: #5e81ac;
+    --nord11: #bf616a;
+    --nord12: #d08770;
+    --nord13: #ebcb8b;
+    --nord14: #a3be8c;
+    --nord15: #b48ead;
+
     --border-radius: 3px;
   }
+
   body {
     max-width: 65ch;
-    background: #faf8f2;
-    color: #444;
+    background: var(--nord6);
+    color: var(--nord0);
     font-family: georgia, 'times new roman', times, serif;
     font-size: 1.2rem;
     line-height: 1.6;
@@ -28,18 +51,19 @@
   }
 
   a, a:visited {
-    color: #1f80d2;
+    color: var(--nord10);
   }
 
   a:hover, a:active {
-   color: #17619e; 
+   color: var(--nord11);
   }
 
   blockquote {
-    border: 1px solid #b9d9fe;
+    border: 1px solid var(--nord4);
     /*border-left-width: 10px;*/
     border-radius: var(--border-radius);
-    background: #cde5fe;
+    background: var(--nord5);
+    color: var(--nord2);
     margin: 1em 0;
     padding: 0.1em 1.6em;
     font-style: normal;

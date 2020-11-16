@@ -5,17 +5,14 @@
 Transfer From old MacOS
 - Root: Invisible Files/Folders
 - Applications (Better to install the apps afresh)
-- Library
-
-[Harden macOS](macOS-Hardening.md)
-[Setup for Development](macOS-Development.md)
+- Library (both user and root)
 
 ## OS Defaults
 
 Dark Menubar and Dock in Light Theme
-Set the theme to Light, then execute the command below
-$ defaults write -g NSRequiresAquaSystemAppearance -bool Yes
-Now Logout and Choose “Dark Mode"
+1. Set theme to Light, then run
+2. `defaults write -g NSRequiresAquaSystemAppearance -bool Yes`
+3. Logout and Choose “Dark Mode".
 
 Revert to Default Dark Theme
 $ defaults write -g NSRequiresAquaSystemAppearance -bool No
@@ -32,13 +29,8 @@ Flush DNS Cache
 $ sudo dscacheutil -flushcache
 $ sudo dscacheutil -statistics (for some stats)
 
-Mail: To turn animations off (use NO to get it back)
-$ defaults write com.apple.Mail DisableReplyAnimations -bool YES
-
-Disable Local TimeMachine Backup
+Disable/Enable Local TimeMachine Backup
 $ sudo tmutil disablelocal
-
-Enable Local TimeMachine Backup
 $ sudo tmutil enablelocal
 
 Copy Mail's autocomplete database to a new Mac
@@ -83,7 +75,7 @@ Expanded Save Dialog as Default in Mac OS X
 $ defaults write -g NSNavPanelExpandedStateForSaveMode -bool TRUE
 
 Change default appointment duration in iCal (Calendar)
-$ defaults write com.apple.iCal 'Default duration in minutes for new event' 30
+$ defaults write com.apple.iCal 'Default duration in minutes for new event' 15
 Revert to default
 $ defaults delete com.apple.iCal "Default duration in minutes for new event"
 
@@ -101,15 +93,10 @@ $ defaults write com.apple.CrashReporter DialogType none
 Enable it again
 $ defaults write com.apple.CrashReporter DialogType crashreport
 
-plain text as default format in TextEdit
+Default "Plain text" in TextEdit
 $ defaults write com.apple.TextEdit RichText -int 0
 Revert to default
 $ defaults delete com.apple.TextEdit RichText
-
-Stop Photos from opening automatically
-$ defaults -currentHost write com.apple.ImageCapture disableHotPlug -bool true
-Revert to the default setting
-$ defaults -currentHost delete com.apple.ImageCapture disableHotPlug
 
 Disable animations when opening and closing windows
 $ defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false
@@ -125,19 +112,6 @@ $ defaults write com.apple.dock launchanim -bool false
 
 Make all animations faster that are used by Mission Control.
 $ defaults write com.apple.dock expose-animation-duration -float 0.1
-
-Google Chrome to use System Default Print Dialogue
-$ defaults write com.google.Chrome DisablePrintPreview -bool true
-Set it to default
-$ defaults write com.google.Chrome DisablePrintPreview -bool false
-
-Turn off Remote Disc
-$ sudo defaults write /Library/Preferences/com.apple.NetworkBrowser EnableODiskBrowsing -bool false
-$ killall Finder
-
-Disable workspace auto-switching
-$ defaults write com.apple.dock workspaces-auto-swoosh -bool NO
-$ killall Dock
 
 ## Block sites at /etc/hosts (replace nano with any editor you want)
 Replace `nano` with editor of your choice

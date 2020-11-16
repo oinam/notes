@@ -39,10 +39,12 @@
 
 - Color
   + [Color Designer](https://colordesigner.io)
+  + [Color Scheme Generator](https://adevade.github.io/color-scheme-generator/)
   + [Color x Color](https://colorcolor.in) ([Source](https://github.com/saneef/color-color))
   + [Colormind](http://colormind.io) is a color scheme generator that uses deep learning.
   + [Coolors](https://coolors.co) The super fast color schemes generator!
   + [Nippon Colors](https://nipponcolors.com/)
+  + [Nord](https://www.nordtheme.com) An arctic, north-bluish color palette.
 
 ## Automation
 
@@ -84,6 +86,11 @@
 - Jekyll
   + [JekyllThemes.io](https://jekyllthemes.io/)
   + [Jekyll-Themes](https://jekyll-themes.com)
+- [TailWind CSS](https://tailwindcss.com)
+  + [Tailwind UI](https://tailwindui.com)
+  + [Meraki UI](https://merakiui.com)
+  + [TailBlocks](https://mertjf.github.io/tailblocks/)
+  + [Tails](https://devdojo.com/tails)
 
 ---
 

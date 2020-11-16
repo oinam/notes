@@ -1,6 +1,7 @@
 # macOS Development
 
-## References
+### References
+
 - [macOS Setup Guide](http://sourabhbajaj.com/mac-setup/)
 - [macOS Dev Setup](https://github.com/nicolashery/mac-dev-setup)
 - [Set Mac for Web Development in 2020](https://medium.com/better-programming/setting-up-your-mac-for-web-development-in-2020-659f5588b883)

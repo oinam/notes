@@ -2,6 +2,8 @@
 
 > Tools, Services, and Products that we used, plan to use, or are backup alternatives (nor sorted in any particular order).
 
+_Warning: This needs a lot more information, and reviews. Right now, I'm just dropping them here as I find them which I'm likely to test. -- Brajeshwar_
+
 ## Analytics
 
 - [Google Tag Manager](https://tagmanager.google.com) / [Google Analytics](https://analytics.google.com/)
@@ -45,6 +47,19 @@
   + [Coolors](https://coolors.co) The super fast color schemes generator!
   + [Nippon Colors](https://nipponcolors.com/)
   + [Nord](https://www.nordtheme.com) An arctic, north-bluish color palette.
+- Icons
+  + [Nucleo](https://nucleoapp.com) is a beautiful library of 30,000+ icons, and a powerful application to collect, customize and export all your icons.
+
+## Development
+
+- Helpers
+  + [Prettier](https://prettier.io)
+
+## Support & Customer Care
+
+- [Intercom](https://www.intercom.com)
+- [Crisp](https://crisp.chat/)
+- [ZenDesk](https://www.zendesk.com)
 
 ## Automation
 
@@ -80,17 +95,6 @@
 ## Remote
 
 - [Asynchronous Communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
-
-## Themes & Templates
-
-- Jekyll
-  + [JekyllThemes.io](https://jekyllthemes.io/)
-  + [Jekyll-Themes](https://jekyll-themes.com)
-- [TailWind CSS](https://tailwindcss.com)
-  + [Tailwind UI](https://tailwindui.com)
-  + [Meraki UI](https://merakiui.com)
-  + [TailBlocks](https://mertjf.github.io/tailblocks/)
-  + [Tails](https://devdojo.com/tails)
 
 ---
 

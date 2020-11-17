@@ -8,7 +8,8 @@
 
 <title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css/out/water.css">
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/oinam/css-zero/css-zero.min.css"> -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/water.css/out/light.min.css">
 <style type="text/css">
   :root {
     /*
@@ -38,16 +39,23 @@
 
   body {
     max-width: 65ch;
+
     background: var(--nord6);
-    color: var(--nord0);
-    font-family: georgia, 'times new roman', times, serif;
+    color: var(--nord1);
+
+    font-family: Georgia, 'times new roman', times, serif;
     font-size: 1.2rem;
     line-height: 1.6;
   }
 
+  footer {
+    border-top: 1px solid var(--nord4);
+  }
+
   h1, h2, h3, h4, h5, h6 {
     font-weight: 500;
-    line-height: 1.3;
+    line-height: 1.2;
+    color: var(--nord1);
   }
 
   a, a:visited {
@@ -85,12 +93,43 @@
     margin-bottom: 0;
   }
 
+  figure {
+    display: table;
+    max-width: 100%;
+    margin: 1rem 0;
+    padding: 0;
+  }
+
+  figure img {
+    border-radius: var(--border-radius);
+  }
+
+  figcaption {
+    margin: 0;
+    padding: 0.5rem 0;
+
+    font-style: italic;
+    font-size: 1rem;
+    text-align: center;
+
+    border-bottom: 1px solid var(--nord5);
+  }
+
   .title {
     font-size: 1.6rem;
+    color: var(--nord3);
+    border-bottom: 1px solid var(--nord4);
+    padding: 1rem 0;
   }
 
   .title a {
     text-decoration: none;
+    padding: 1rem 0;
+    border-bottom: 1px solid transparent;
+  }
+
+  .title a:hover, .title a:active {
+    border-bottom-color: var(--nord11);
   }
 </style>
 
@@ -105,8 +144,6 @@
     <h1 class="title"><a href="{{site.url}}">{{site.title}}</a></h1>
   {% endif %}
 </header>
-
-<hr>
 
 {{ content }}
 

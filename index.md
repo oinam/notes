@@ -78,3 +78,5 @@ layout: home
   - [Note Taking and Management](/tools/note-taking-and-management/)
   - [Pandoc](/tools/pandoc/)
   - [SpreadSheet](/tools/spreadsheet/)
+- Writing
+  + [BLUF](/writing/bluf/)

@@ -8,7 +8,6 @@ layout: home
   - [Bookmarks](/awesome/bookmarks/)
   - [Video Channels](/awesome/video/)
 - [Books](/books/)
-  - [A Guide to the Good Life](/books/a-guide-to-the-good-life/)
   - [Almanack of Naval Ravikant](/books/almanack-of-naval-ravikant/)
   - [I am Malala](/books/i-am-malala/)
   - [My Family and Other Animals](/books/my-family-and-other-animals/)
@@ -20,6 +19,8 @@ layout: home
   - [Adobe](/decouple/adobe/)
   - Apple
   - [Google](/decouple/google/)
+- Design
+  + [Dieter Rams' 10 "Good Design" Principles](/design/dieter-rams-good-design/)
 - Devices
   - [Apple Ecosystem](/devices/apple-ecosystem/)
   - [Raspberry Pi](/devices/raspberry-pi/)
@@ -29,9 +30,10 @@ layout: home
 - English
   - [Write to Express, Not to Impress](/english/write-to-express-not-to-impress/)
 - Entrepreneur
-  - [10 Types of Innovation](/entrepreneur/10-types-of-innovation/)
-  - [References](/entrepreneur/entrepreneur-references/)
-  - [How to create successful Products and Services](/entrepreneur/how-to-create-successful-products-and-services/)
+  + [10 Types of Innovation](/entrepreneur/10-types-of-innovation/)
+  + [How to create successful Products and Services](/entrepreneur/how-to-create-successful-products-and-services/)
+  + [The Biggest Mistakes First-Time Founders Make](/entrepreneur/the-biggest-mistakes-first-time-founders-make/)
+  + [What a CEO should do?](/entrepreneur/CEO-job-to-do/)
 - Leadership
   - [Top 10 traits of the Perfect Manager](/leadership/top-10-traits-of-the-perfect-leader/)
 - Life
@@ -52,7 +54,11 @@ layout: home
   - [Management Principles](/management/management-principles/)
   - [Meetings](/management/meetings/)
   - [Running an All-hands](/management/running-an-all-hands.pdf) (pdf)
-  - [Marketing](/marketing/)
+- [Marketing](/marketing/)
+  + [Audience Analysis, Marketing](/marketing/marketing-audience-analysis/)
+  + [Marketing Checklist](/marketing/marketing-checklist/)
+  + [Strategy and Tactics, Marketing](/marketing/marketing-strategy-tactics/)
+  + [The Ultimate Startup Marketing Strategy Guide](/marketing/ultimate-startup-marketing-strategy-guide.pdf/) (pdf)
 - Parenting
   - [10 Life Skills to Teach Your Child by Age 10](/parenting/10-life-skills-to-teach-your-child-by-age-10/)
 - Photography
@@ -61,14 +67,17 @@ layout: home
   - [Presentation Rules](/presentation/presentation-rules/)
 - Sales
   - [The Greatest Sales Deck from Zuora](/sales/the-greatest-sales-deck-from-zuora/)
+  - [The Side Project Sales Checklist](/sales/the-side-project-sales-checklist/)
 - [Startup](/startup/)
-  - [Chekhov's Gun](/startup/chekhovs-gun/)
-  - [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)
-  - Pitch
-    - [Pitch Deck Mistakes](/startup/pitch-deck-mistakes/)
-    - [Pitch Deck](/startup/pitch-deck/)
-    - [Pitching your early stage startup](/startup/pitching-your-early-stage-startup/)
-  - [Y Combinator’s Startup Library](/startup/ycombinator-startup-library/)
+  + [Chekhov's Gun](/startup/chekhovs-gun/)
+  + [Co-Founder](/startup/co-founder/)
+  + [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)
+  + [Validation Cheat Sheet](/startup/validation-cheat-sheet.pdf/) (pdf)
+  + Pitch
+    * [Pitch Deck Mistakes](/startup/pitch-deck-mistakes/)
+    * [Pitch Deck](/startup/pitch-deck/)
+    * [Pitching your early stage startup](/startup/pitching-your-early-stage-startup/)
+  + [Y Combinator’s Startup Library](/startup/ycombinator-startup-library/)
 - Technology
   - [Passwords](/technology/passwords/)
   - [Passwords - Let them paste it](/technology/passwords-paste/)
@@ -80,3 +89,4 @@ layout: home
   - [SpreadSheet](/tools/spreadsheet/)
 - Writing
   + [BLUF](/writing/bluf/)
+  + [Writing in Business](/writing/writing-business/)

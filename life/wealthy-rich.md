@@ -28,7 +28,12 @@ You can grow your wealth by;
 
 ## The Ladders of Wealth Creation
 
-![The Ladders of Wealth Creation](/life/the-leaders-of-wealth-creation.png "The Ladders of Wealth Creation")
+<figure>
+  <img src="/life/the-leaders-of-wealth-creation.png" alt="The Ladders of Wealth Creation">
+  <figcaption>
+    The Ladders of Wealth Creation
+  </figcaption>
+</figure>
 
 _Inspired by an article by Nathan Barry, [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/)._
 
@@ -49,13 +54,13 @@ You should always trade your time for money if:
 
 ### Your Own Service Business
 
-This next rung on the ladder requires skills such as setting up a company, finding clients, creating proposals, pricing services, hiring employees, establishing an online presence, accounting, finance, business ops, etc. 
+This next rung on the ladder requires skills such as setting up a company, finding clients, creating proposals, pricing services, hiring employees, establishing an online presence, accounting, finance, business ops, etc.
 
 However, these two are probably the most important -- (i) follow up with customers and (ii) doing what you said you were going to do.
 
 ### Productized Services
 
-To reach new levels of income you need to learn a different lesson: how to sell without ever talking to the customer. This rung of the ladder requires you to learn how to write quality sales copy, design a sales page, process online payments, and create systems to deliver repeatable quality with each service. 
+To reach new levels of income you need to learn a different lesson: how to sell without ever talking to the customer. This rung of the ladder requires you to learn how to write quality sales copy, design a sales page, process online payments, and create systems to deliver repeatable quality with each service.
 
 ### Selling Products
 

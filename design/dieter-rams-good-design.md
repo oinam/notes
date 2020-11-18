@@ -1,4 +1,4 @@
-# Dieter Rams’ 10 “Good Design” principles
+# Dieter Rams' 10 "Good Design" Principles
 
 Dieter Rams is one of the greatest designers of our times.
 

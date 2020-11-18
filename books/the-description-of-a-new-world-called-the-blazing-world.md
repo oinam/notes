@@ -5,7 +5,7 @@ Margaret Cavendish (1623 – 15 December 1673) was an outspoken aristocrat who t
 In her lifetime, she published 20 books. But amid her poetry and essays, she also published one of the __earliest examples of science fiction, in 1666__. She named it _The Description of a New World, Called the Blazing World._
 
 <figure>
-  <img src="/books/Margaret-Cavendish-the-Duchess-of-Newcastle.jpg" alt="Margaret Cavendish, the Duchess of Newcastle">
+  <img src="/books/margaret-cavendish-the-duchess-of-newcastle.jpg" alt="Margaret Cavendish, the Duchess of Newcastle">
   <figcaption>
     Margaret Cavendish, the Duchess of Newcastle
   </figcaption>
@@ -20,7 +20,7 @@ The book narrates the story of a woman being kidnapped by a lovesick merchant sa
   </figcaption>
 </figure>
 
-Unless, you have a genuine interest in the subject of the book, the fact that this is from the 17th century, written by a woman, it will be heard for most modern-day expectations of a science fiction. Read it to have a sense of gratification that you read the “the first ever” and origin of science fiction stories.
+Unless, you have a genuine interest in the subject of the book, the fact that this is from the 17th century, written by a woman, it will be hard for most modern-day expectations of a science fiction. Read it to have a sense of gratification that you read the “the first ever” and the origin of science fiction stories.
 
 Here’s the prologue written by Margaret Cavendish, Duchess of Newcastle-upon-Tyne and trailblazing sci-fi author, back in 1666:
 

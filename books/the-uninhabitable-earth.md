@@ -67,4 +67,3 @@ Biomass absorbs carbon dioxide from the atmosphere during its lifetime, so on it
 So by growing and burning biomass and capturing and storing the carbon emitted, we can actively reduce carbon levels in the air.
 
 The situation is much worse than we think. Many different climate-related disasters threaten the wellbeing of humanity, some of which act like mutually reinforcing cascades, causing further warming and human misery. Even our best hope of averting disaster, negative emissions technologies, is a pipe dream at the moment. Time has run out, but we still have a choice over how severe the consequences of climate change will be.
-

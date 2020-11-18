@@ -49,6 +49,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Nord](https://www.nordtheme.com) An arctic, north-bluish color palette.
 - Icons
   + [Nucleo](https://nucleoapp.com) is a beautiful library of 30,000+ icons, and a powerful application to collect, customize and export all your icons.
+  + [macOS Icons](https://macosicons.com)
 
 ## Development
 

@@ -35,16 +35,18 @@
     --nord15: #b48ead;
 
     --border-radius: 3px;
+    --font-family-serif: Georgia, 'Times New Roman', Times, serif;
+    --font-family-monospace: Consolas, monaco, 'Ubuntu Mono', 'Liberation Mono', 'Courier New', Courier, monospace;
   }
 
   body {
     max-width: 65ch;
 
     background: var(--nord6);
-    color: var(--nord1);
+    color: var(--nord0);
 
-    font-family: Georgia, 'times new roman', times, serif;
-    font-size: 1.2rem;
+    font-family: var(--font-family-serif);
+    font-size: 1.4rem;
     line-height: 1.6;
   }
 
@@ -72,13 +74,15 @@
 
   blockquote {
     border: 1px solid var(--nord4);
-    /*border-left-width: 10px;*/
     border-radius: var(--border-radius);
+
     background: var(--nord5);
     color: var(--nord2);
     margin: 1em 0;
     padding: 0.1em 1.6em;
+
     font-style: normal;
+    font-family: var(--font-family-monospace);
   }
 
   ol,

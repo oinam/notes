@@ -27,6 +27,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
 - [OpenAI](https://beta.openai.com)
 - [Plotly](https://plotly.com)
 - [StreamLit](https://www.streamlit.io)
+- [Replicate](https://replicate.ai) Version control for machine learning
 
 ## Data, Big Data
 

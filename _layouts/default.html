@@ -8,152 +8,26 @@
 
 <title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/oinam/css-zero/css-zero.min.css"> -->
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/water.css/out/light.min.css">
-<style type="text/css">
-  :root {
-    /*
-      nord color theme,
-      https://www.nordtheme.com
-      https://www.nordtheme.com/docs/colors-and-palettes
-    */
-    --nord0: #2e3440;
-    --nord1: #3b4252;
-    --nord2: #434c5e;
-    --nord3: #4c566a;
-    --nord4: #d8dee9;
-    --nord5: #e5e9f0;
-    --nord6: #eceff4;
-    --nord7: #8fbcbb;
-    --nord8: #88c0d0;
-    --nord9: #81a1c1;
-    --nord10: #5e81ac;
-    --nord11: #bf616a;
-    --nord12: #d08770;
-    --nord13: #ebcb8b;
-    --nord14: #a3be8c;
-    --nord15: #b48ead;
-
-    --border-radius: 3px;
-    --font-family-serif: Georgia, 'Times New Roman', Times, serif;
-    --font-family-monospace: Consolas, monaco, 'Ubuntu Mono', 'Liberation Mono', 'Courier New', Courier, monospace;
-  }
-
-  body {
-    max-width: 65ch;
-
-    background: var(--nord6);
-    color: var(--nord0);
-
-    font-family: var(--font-family-serif);
-    font-size: 1.4rem;
-    line-height: 1.6;
-  }
-
-  ::selection {
-    background-color: var(--nord13);
-  }
-
-  footer {
-    border-top: 1px solid var(--nord4);
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-    font-weight: 500;
-    line-height: 1.2;
-    color: var(--nord1);
-  }
-
-  a, a:visited {
-    color: var(--nord10);
-  }
-
-  a:hover, a:active {
-   color: var(--nord11);
-  }
-
-  blockquote {
-    border: 1px solid var(--nord4);
-    border-radius: var(--border-radius);
-
-    background: var(--nord5);
-    color: var(--nord2);
-    margin: 1em 0;
-    padding: 0.1em 1.6em;
-
-    font-style: normal;
-    font-family: var(--font-family-monospace);
-  }
-
-  ol,
-  ul {
-    padding-left: 1.4rem;
-  }
-
-  li {
-    margin-top: 0.2rem;
-  }
-
-  ul ul,
-  ol ul,
-  ul ol,
-  ol ol {
-    margin-bottom: 0;
-  }
-
-  figure {
-    display: table;
-    max-width: 100%;
-    margin: 1rem 0;
-    padding: 0;
-  }
-
-  figure img {
-    border-radius: var(--border-radius);
-  }
-
-  figcaption {
-    margin: 0;
-    padding: 0.5rem 0;
-
-    font-style: italic;
-    font-size: 1rem;
-    text-align: center;
-
-    border-bottom: 1px solid var(--nord5);
-  }
-
-  .title {
-    font-size: 1.6rem;
-    color: var(--nord3);
-    border-bottom: 1px solid var(--nord4);
-    padding: 1rem 0;
-  }
-
-  .title a {
-    text-decoration: none;
-    padding: 1rem 0;
-    border-bottom: 1px solid transparent;
-  }
-
-  .title a:hover, .title a:active {
-    border-bottom-color: var(--nord11);
-  }
-</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/oinam/css-zero@latest/css-zero.min.css">
+<style type="text/css"> body { width: 65ch; } </style>
 
 </head>
 <body>
 
 <header>
   {% if page.url == "/" %}
-    <h1 class="title">{{site.title}}</h1>
+    <h2>{{site.title}}</h2>
     <blockquote><p>“{{ site.description }}”</p></blockquote>
   {% else %}
-    <h1 class="title"><a href="{{site.url}}">{{site.title}}</a></h1>
+    <h2><a href="{{site.url}}">{{site.title}}</a></h2>
   {% endif %}
 </header>
 
+<hr>
+
 {{ content }}
+
+<hr>
 
 <footer>
   <small>

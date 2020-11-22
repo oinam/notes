@@ -14,7 +14,6 @@ Here are some of the interesting and useful applications that we use regularly.
 - [Grammarly](https://app.grammarly.com) + [Hemingway App](http://www.hemingwayapp.com) + [iA Writer](https://ia.net/writer)
 - [MindNode](https://mindnode.com)
 - [NextDNS](https://nextdns.io/?from=at8wqcps)
-- [Rectangle](http://rectangleapp.com)
 
 ## Evaluating (as of 2020)
 

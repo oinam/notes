@@ -2,6 +2,7 @@
 
 - [100% free, quality CC audio](https://cchound.com).
 - [Aeon](https://aeon.co) is a unique digital magazine, publishing some of the most profound and provocative thinking on the web.
+- [Atlas Obscura](https://www.atlasobscura.com/) The definitive guide to the world’s hidden wonders.
 - [Awesome List](https://github.com/sindresorhus/awesome) about all kinds of interesting topics.
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) is a list of topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses.
 - [BBC Micro Games Archive](http://bbcmicro.co.uk) ([Source](https://github.com/pau1ie/bbcmicro.co.uk) at Github)

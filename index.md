@@ -46,6 +46,7 @@ layout: home
   - [Go Bag](/life/go-bag/)
   - [Have a life's Mission, and Persevere](/life/have-a-life-mission-and-persevere/)
   - [Stoicism](/life/stoicism/)
+  - [Slow is Smooth; Smooth is Fast](/life/slow-is-smooth-and-smooth-is-fast/)
   - [Privacy](/life/privacy/)
   - [Ten Lessons I Wish I Had Been Taught](/life/10-lessons-i-wish-i-had-been-taught/) [source](https://www.ams.org/notices/199701/comm-rota.pdf) (pdf) [cached](/life/10-lessons-i-wish-i-had-been-taught.pdf) (pdf)
   - [Wealthy and/or Rich](/life/wealthy-rich/)

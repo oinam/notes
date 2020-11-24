@@ -26,6 +26,7 @@
 - [Standard Ebooks](https://standardebooks.org) Free and liberated ebooks.
 - [The Daily Idea](https://thedailyidea.org/) aims to make learning about philosophy as easy as possible by bringing together the best philosophy resources from across the internet.
 - [This Person Does Not Exist](https://thispersondoesnotexist.com)
+- [This X Does Not Exist](https://thisxdoesnotexist.com)
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) from HackerNews.
 - [Unsplash](https://unsplash.com) Over 2 million free high-resolution images brought to you by the world’s most generous community of photographers.
 - [Wait But Why](https://waitbutwhy.com) carefully produced for the true book lover.

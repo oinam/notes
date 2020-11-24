@@ -261,6 +261,7 @@ SORT THESE
 - Others
   + [Verkada](https://www.verkada.com) for physical location security
   + https://zoneminder.com
+  + [Home Assistant](https://www.home-assistant.io)
   + [Twillio](https://www.twilio.com)
   + [Seam](https://www.getseam.com/) API for controlling homes and buildings.
   + [Tasmota](http://tasmota.com/) Open source firmware for ESP8266 devices

@@ -8,12 +8,16 @@
 
 <title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/oinam/css-zero@latest/css-zero.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/oinam/css-zero/css-zero.min.css">
 <style type="text/css">
   body {
     width: 65ch;
+    font-size: 1.1rem;
     font-family: Georgia, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", serif;
-    font-size: 1.16rem;
+  }
+
+  .title {
+    font-size: 1.6rem;
   }
 </style>
 
@@ -22,10 +26,10 @@
 
 <header>
   {% if page.url == "/" %}
-    <h3>{{site.title}}</h3>
+    <h1 class="title">{{site.title}}</h1>
     <blockquote><p>“{{ site.description }}”</p></blockquote>
   {% else %}
-    <h3><a href="{{site.url}}">{{site.title}}</a></h3>
+    <h1 class="title"><a href="{{site.url}}">{{site.title}}</a></h1>
   {% endif %}
 </header>
 

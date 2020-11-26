@@ -6,6 +6,7 @@ layout: home
   - [Farm Bot](/agriculture/farm-bot/)
 - Awesome
   - [Bookmarks](/awesome/bookmarks/)
+  - [Interesting](/awesome/interesting/)
   - [Video Channels](/awesome/video/)
 - [Books](/books/)
   - [Almanack of Naval Ravikant](/books/almanack-of-naval-ravikant/)

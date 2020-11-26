@@ -68,8 +68,9 @@ layout: home
 - Presentation
   - [Presentation Rules](/presentation/presentation-rules/)
 - Sales
-  - [The Greatest Sales Deck from Zuora](/sales/the-greatest-sales-deck-from-zuora/)
-  - [The Side Project Sales Checklist](/sales/the-side-project-sales-checklist/)
+  + [Founders doing Sales](/sales/sales-by-founders/)
+  + [The Greatest Sales Deck from Zuora](/sales/the-greatest-sales-deck-from-zuora/)
+  + [The Side Project Sales Checklist](/sales/the-side-project-sales-checklist/)
 - [Startup](/startup/)
   + [Chekhov's Gun](/startup/chekhovs-gun/)
   + [Co-Founder](/startup/co-founder/)

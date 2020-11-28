@@ -113,7 +113,8 @@ $ defaults write com.apple.dock launchanim -bool false
 Make all animations faster that are used by Mission Control.
 $ defaults write com.apple.dock expose-animation-duration -float 0.1
 
-## Block sites at /etc/hosts (replace nano with any editor you want)
-Replace `nano` with editor of your choice
+## Block Sites
+
 $ sudo nano /etc/hosts
-Add `0.0.0.0 site.xyz`, save and exit.
+Add `0.0.0.0 siteToBlock.com`
+Save > Exit

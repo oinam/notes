@@ -98,9 +98,13 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
 
 - [Asynchronous Communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
 
+## Administration / Operations
+
+- [Earth Class Mail](https://www.earthclassmail.com) - Virtual Mail Service
+
 ---
 
-SORT THESE
+SORT ’EM
 
 - Decision
   + [Satchel](https://satchel.com) - Make more informed decisions about SaaS
@@ -117,6 +121,7 @@ SORT THESE
 - Banking & Finances
   + [Brex](https://brex.com)
   + [Qonto](https://qonto.eu/en)
+  + [Kite](https://kite.work) (India)
 - Tools / Product
   + [WRKSHP](https://wrkshp.tools)
   + [Xtensio](https://xtensio.com) Apply for Startup Pricing
@@ -142,8 +147,6 @@ SORT THESE
   + [Retool](https://retool.com)
   + [MemberStack](https://www.memberstack.io)
 - Communication / Collaboration
-  + [Miro](https://miro.com)
-  + [MatterMark](https://mattermost.com)
   + [Discord](https://discordapp.com)
   + [Slack](https://slack.com/)
   + [Pragli](https://pragli.com)

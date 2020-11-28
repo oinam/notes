@@ -15,12 +15,14 @@
 - [Collosal](https://www.thisiscolossal.com) is an international platform for contemporary art and visual expression that explores a vast range of creative disciplines.
 - [Epidemic Sound](https://www.epidemicsound.com)
 - [Farnam Street](https://fs.blog) helps you master the best of what other people have already figured out.
+- [Hacker News](https://news.ycombinator.com/)
 - [Head](https://htmlhead.dev) A free guide to HTML5 `<head>` elements
 - [ICANN DOMAINS](https://publicsuffix.org/list/public_suffix_list.dat)
 - Internet Archive's [Software Library](https://archive.org/details/softwarelibrary)
 - Internet Archive's [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
 - [Nautilus](http://nautil.us) tells you about science and its endless connections to our lives.
 - [Open Culture](http://www.openculture.com) The best free cultural & educational media on the web.
+- [Open Sustainable Technology](https://opensustain.tech), [Github Source](https://github.com/protontypes/awesome-sustainable-technology)
 - [Our World in Data](https://ourworldindata.org) Research and data to make progress against the world's largest problems.
 - [Pocket Explore](https://getpocket.com/explore)
 - [Sci-Hub](https://sci-hub.st) provide mass and public access to tens of millions of research papers.

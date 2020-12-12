@@ -63,7 +63,7 @@ layout: home
   + [The Ultimate Startup Marketing Strategy Guide](/marketing/ultimate-startup-marketing-strategy-guide.pdf/) (pdf)
 - Parenting
   - [10 Life Skills to Teach Your Child by Age 10](/parenting/10-life-skills-to-teach-your-child-by-age-10/)
-- Photography
+- [Photography](/photography/photography/)
   - [Cityscape Photography: The Comprehensive Guide](/photography/cityscape-photography-guide.pdf) (pdf)
 - Presentation
   - [Presentation Rules](/presentation/presentation-rules/)

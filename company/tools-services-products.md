@@ -51,6 +51,19 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
 - Icons
   + [Nucleo](https://nucleoapp.com) is a beautiful library of 30,000+ icons, and a powerful application to collect, customize and export all your icons.
   + [macOS Icons](https://macosicons.com)
+- Illustrations
+  + [Free Illustrations](https://freeillustrations.xyz)
+  + [Handz](https://www.handz.design)
+  + [Humaaans](https://www.humaaans.com)
+  + [Illlustrations](https://illlustrations.co)
+  + [Illustratious](https://illustratious.com)
+  + [Isometric](https://isometric.online)
+  + [Open Doodles](https://www.opendoodles.com)
+  + [PixelTrue](https://www.pixeltrue.com/illustrations)
+  + [unDraw](https://undraw.co)
+- ClipArt
+  + [Open ClipArt](https://openclipart.org)
+  + [ArtVee](https://artvee.com/)
 
 ## Development
 

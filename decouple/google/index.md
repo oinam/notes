@@ -7,4 +7,5 @@
 ## References
 
 - [Cutting Google out of your life](https://degoogle.jmoore.dev)
+- [Google Alternatives](https://justprivacy.org/google-alternatives/) by JustPrivacy
 - [Purism](https://puri.sm)

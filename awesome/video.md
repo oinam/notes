@@ -2,8 +2,8 @@
 
 ## Agriculture, Farming with Technology
 
-- [Earthcube](https://www.youtube.com/channel/UCM_1OBDMCjCfUS2pe96t3nA) ([website](https://earthcube.eu), [twitter](https://twitter.com/EarthcubeEC3)) develops monitoring solutions based on an automated analysis of geospatial information.
-By combining state-of-the-art AI technics in both Computer Vision and Machine Learning, Earthcube enables its customers to access more precise information, thus ensuring faster and more economical interventions.
+- [AgPhD](https://www.youtube.com/channel/UCNMZF39LBB-E1DIkxnD6cbA) Brian and Darren Hefty host this half-hour television show from Baltic, SD. This channel contains full episodes of AgPhD, as well as show segments, such as Farm Basics, Iron Talk, and the Weed of the Week.
+- [Preligens](https://www.youtube.com/c/Preligens) (ex-Earthcube) develops pioneering technology to empower analysts to take smart actions for a safer world. Its artificial intelligence solutions are based on an automated analysis of geospatial intelligence (GEOINT) workflows.
 
 ## Education, General Learning
 

@@ -11,8 +11,10 @@
 - [Behavioral Scientist](https://behavioralscientist.org)
 - [Better Explained](https://betterexplained.com)
 - [Books - Programming](https://ebookfoundation.github.io/free-programming-books/) ([Source](https://github.com/EbookFoundation/free-programming-books))
+- [Book Search](https://books-search.typesense.org) search over 28+ Million Books from [Open Library](https://openlibrary.org).
 - [Climate Desk](http://theclimatedesk.org) is a journalistic collaboration dedicated to exploring the impact — human, enviornmental, economic, political — of a changing climate.
 - [Collosal](https://www.thisiscolossal.com) is an international platform for contemporary art and visual expression that explores a vast range of creative disciplines.
+- [Datasette](https://datasette.io) is an open source multi-tool for exploring and publishing data.
 - [Epidemic Sound](https://www.epidemicsound.com)
 - [Farnam Street](https://fs.blog) helps you master the best of what other people have already figured out.
 - [Hacker News](https://news.ycombinator.com/)
@@ -22,6 +24,7 @@
 - Internet Archive's [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
 - [Nautilus](http://nautil.us) tells you about science and its endless connections to our lives.
 - [Open Culture](http://www.openculture.com) The best free cultural & educational media on the web.
+- [Open Source Stash](https://opensourcestash.com)
 - [Open Sustainable Technology](https://opensustain.tech), [Github Source](https://github.com/protontypes/awesome-sustainable-technology)
 - [Our World in Data](https://ourworldindata.org) Research and data to make progress against the world's largest problems.
 - [Pocket Explore](https://getpocket.com/explore)

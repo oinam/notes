@@ -20,7 +20,7 @@ The book narrates the story of a woman being kidnapped by a lovesick merchant sa
   </figcaption>
 </figure>
 
-Unless, you have a genuine interest in the subject of the book, the fact that this is from the 17th century, written by a woman, it will be hard for most modern-day expectations of a science fiction. Read it to have a sense of gratification that you read the “the first ever” and the origin of science fiction stories.
+Unless, you have a genuine interest in the subject of the book, the fact that this is from the 17th century, it will be hard for most modern-day expectations of a science fiction. Read it to have a sense of gratification that you read the “the first ever” and the origin of science fiction stories, written by a woman.
 
 Here’s the prologue written by Margaret Cavendish, Duchess of Newcastle-upon-Tyne and trailblazing sci-fi author, back in 1666:
 

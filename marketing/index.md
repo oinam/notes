@@ -11,3 +11,4 @@
 - [Growth Marketing](https://www.julian.com/guide/growth/) by Julian Shapiro
 - Jotform on [How to Create a Marketing Plan](https://www.jotform.com/how-to-create-a-marketing-plan/)
 - [Share your startup with the world](https://sizle.io/how-to-maximise-traffic-to-a-bootstrapped-product-hunt-launch/)
+- [Positioning Your Startup is Vital — Here’s How to Nail It](https://firstround.com/review/Positioning-Your-Startup-is-Vital-Heres-How-to-Do-It-Right/)

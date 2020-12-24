@@ -38,6 +38,12 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
 - [Google Data Search](https://datasetsearch.research.google.com)
 - [Our World in Data](https://ourworldindata.org)
 
+## Satellite Data
+
+- [Planet](https://www.planet.com)
+- [UP42](https://up42.com)
+- [Sentinel Hub](https://www.sentinel-hub.com)
+
 ## Design
 
 - Color
@@ -110,6 +116,16 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
 ## Remote
 
 - [Asynchronous Communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
+
+## Location / Geo
+
+- [Pelias](https://pelias.io) is a modular open-source geocoder using Elasticsearch. ([Source](https://github.com/pelias/pelias))
+- [AWS Location](https://aws.amazon.com/location/)
+
+## Video Conferencing
+
+- [Galène](https://galene.org) ([Open Source](https://github.com/jech/galene))
+- [Jitsi](https://jitsi.org)
 
 ## Administration / Operations
 
@@ -199,7 +215,7 @@ SORT ’EM
   + [Abstract](https://www.abstract.com)
   + [ZeroHeight](https://zeroheight.com/)
 - Services & API
-  + [Postman](https://www.postman.com)
+  + [SuperTokens](https://github.com/supertokens/supertokens-core)
   + [xKit](https://xkit.co)
   + [Canonic](https://canonic.dev) A low code platform to craft APIs
   + [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management
@@ -222,6 +238,7 @@ SORT ’EM
   + [CloudCraft](https://cloudcraft.co)
   + [Pulumi](https://www.pulumi.com)
   + [LayerCI](https://layerci.com)
+  + [HealthChecks](https://healthchecks.io) - Cron Job Monitoring
 - Virtual Machines
   + [Vagon](https://www.vagon.io)
   + [WorkStream](https://workstream.paperspace.com/)

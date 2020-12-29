@@ -91,4 +91,3 @@ Inspired by the exhaustive [100 Tips for a Better Life](https://www.lesswrong.co
 - It’s possible to get people to do things that make you like them more but respect them less. Avoid this, it destroys relationships.
 - When you ask people, “What’s your favorite book / movie / band?” and they stumble, ask them instead what book / movie / band they’re currently enjoying most. They’ll almost always have one and be able to talk about it.
 - A norm of eating with your family without watching something will lead to better conversations. If this idea fills you with dread, consider getting a new family.
--

@@ -1,22 +1,28 @@
 # Video
 
-## Agriculture, Farming with Technology
+## Agriculture Technology
 
 - [AgPhD](https://www.youtube.com/channel/UCNMZF39LBB-E1DIkxnD6cbA) Brian and Darren Hefty host this half-hour television show from Baltic, SD. This channel contains full episodes of AgPhD, as well as show segments, such as Farm Basics, Iron Talk, and the Weed of the Week.
-- [Preligens](https://www.youtube.com/c/Preligens) (ex-Earthcube) develops pioneering technology to empower analysts to take smart actions for a safer world. Its artificial intelligence solutions are based on an automated analysis of geospatial intelligence (GEOINT) workflows.
+- [NASA Harvest](https://www.youtube.com/channel/UC3zAA7T6jfkFiZ9lHqnhnKA) is a multidisciplinary Consortium commissioned by NASA and led by the University of Maryland.
 
-## Education, General Learning
+## Education, Learning
 
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) ([website](https://www.3blue1brown.com), [twitter](https://twitter.com/3blue1brown)) is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective. [Website](https://www.3blue1brown.com).
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective.
 - [The School of Life](https://www.youtube.com/user/schooloflifechannel) is a collective of psychologists, philosophers and writers devoted to helping people lead calmer and more resilient lives.
 
-## Science and Technology
+## Life, Philosophy
 
-- [ColdFusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A) ([website](https://www.coldfusioncollective.com), [twitter](https://twitter.com/ColdFusion_TV)) is run by [Dagogo Altraide](https://www.linkedin.com/in/coldfusion/) which let you experience the cutting edge of the world around us in a relaxed atmosphere where you can feel at home and have fun.
+- [The School of Life](https://www.youtube.com/c/theschooloflifetv/) is a collective of psychologists, philosophers and writers devoted to helping people lead calmer and more resilient lives.
+
+## Technology, Science, and Space
+
+- [ColdFusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A) let you experience the cutting edge of the world around us in a relaxed atmosphere where you can feel at home and have fun.
+- [Geospatial World](https://www.youtube.com/channel/UC2UaNw8A-fQhIBBnaZPKEmA) GIS, GPS, LiDAR, UAVs, BIM, Maps, Smart Cities, Artificial Intelligence, IoT, Autonomous vehicles, etc.
 - [How It's Made](https://www.youtube.com/channel/UCWBkudOTaVbvkCBc0pyZFMA/) is the YouTube adaptaion of the popular TV Channel, [How It's Made](https://en.wikipedia.org/wiki/How_It's_Made) (Wikipedia). I grew up glued to the TV just to watch this Channel.
-- [Israel](https://www.youtube.com/user/Israel/) ([website](https://israel.org), [twitter](https://twitter.com/Israel)) is the official YouTube Channel of the State of Israel, dedicated to promoting diplomatic relations, economic growth and friendship between the State of Israel and the world. One of the most innovative region on earth and lot to learn from.
-- [Jim Browning](https://www.youtube.com/channel/UCBNG0osIBAprVcZZ3ic84vw) ([twitter](https://twitter.com/JimBrowning11)) is the hacker who hacks, tracks, and identify scammers. [Browning](https://en.wikipedia.org/wiki/Jim_Browning_(YouTuber)) carries out investigative scam baits in which he infiltrates computer networks run by technical support scammers and fraudsters posing as US IRS agents and random aliases through the use of remote access software and social engineering.
+- [Jim Browning](https://www.youtube.com/channel/UCBNG0osIBAprVcZZ3ic84vw) is the hacker who hacks, tracks, and identify scammers. [Browning](https://en.wikipedia.org/wiki/Jim_Browning_(YouTuber)) carries out investigative scam baits in which he infiltrates computer networks run by technical support scammers and fraudsters posing as US IRS agents and random aliases through the use of remote access software and social engineering.
 - [Mark Rober](https://www.youtube.com/c/MarkRober) is a former NASA engineer.
-- [Physics Girl](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA) ([twitter](https://twitter.com/thephysicsgirl)) is a YouTube channel by [Dianna Cowern](https://en.wikipedia.org/wiki/Dianna_Cowern) that adventures into the physical sciences with experiments, demonstrations, and cool new discoveries.
+- [Physics Girl](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA) is a YouTube channel by [Dianna Cowern](https://en.wikipedia.org/wiki/Dianna_Cowern) that adventures into the physical sciences with experiments, demonstrations, and cool new discoveries.
+- [Planet](https://www.youtube.com/channel/UCiyS6coRsDQ17b3Kj9bl8jw)
+- [Preligens](https://www.youtube.com/c/Preligens) (ex-Earthcube) develops pioneering technology to empower analysts to take smart actions for a safer world. Its artificial intelligence solutions are based on an automated analysis of geospatial intelligence (GEOINT) workflows.
 - [Real Science](https://www.youtube.com/channel/UC176GAQozKKjhz62H8u9vQQ) is a science channel by [Stephanie Sammann](https://twitter.com/stephaniesamma) exploring the world’s life science subjects.
-- [Vsauce](https://www.youtube.com/user/Vsauce) ([twitter](https://twitter.com/tweetsauce)) is created by [Michael Stevens](https://en.wikipedia.org/wiki/Michael_Stevens_(educator)). The channels feature videos on scientific, psychological, mathematical, and philosophical topics, as well as gaming, technology, popular culture, and other general interest subjects.
+- [Vsauce](https://www.youtube.com/user/Vsauce) is created by [Michael Stevens](https://en.wikipedia.org/wiki/Michael_Stevens_(educator)). The channels feature videos on scientific, psychological, mathematical, and philosophical topics, as well as gaming, technology, popular culture, and other general interest subjects.

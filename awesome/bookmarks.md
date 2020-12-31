@@ -1,8 +1,5 @@
 # Bookmarks
 
-- [100% free, quality CC audio](https://cchound.com).
-- [Aeon](https://aeon.co) is a unique digital magazine, publishing some of the most profound and provocative thinking on the web.
-- [Annoying Technology](https://annoying.technology)
 - [Atlas Obscura](https://www.atlasobscura.com/) The definitive guide to the world’s hidden wonders.
 - [Awesome List](https://github.com/sindresorhus/awesome) about all kinds of interesting topics.
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) is a list of topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses.
@@ -10,24 +7,23 @@
 - [BBC Sound Effects](http://bbcsfx.acropolis.org.uk) are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence. The Sound Effects are BBC copyright, but they may be used for personal, educational or research purposes, as detailed in the license.
 - [Behavioral Scientist](https://behavioralscientist.org)
 - [Better Explained](https://betterexplained.com)
+- [Book Search](https://books-search.typesense.org) over 28+ Million Books from [Open Library](https://openlibrary.org).
 - [Books - Programming](https://ebookfoundation.github.io/free-programming-books/) ([Source](https://github.com/EbookFoundation/free-programming-books))
-- [Book Search](https://books-search.typesense.org) search over 28+ Million Books from [Open Library](https://openlibrary.org).
+- [CC Hound](https://cchound.com) 100% free, quality CC audio.
 - [Climate Desk](http://theclimatedesk.org) is a journalistic collaboration dedicated to exploring the impact — human, enviornmental, economic, political — of a changing climate.
 - [Collosal](https://www.thisiscolossal.com) is an international platform for contemporary art and visual expression that explores a vast range of creative disciplines.
 - [Datasette](https://datasette.io) is an open source multi-tool for exploring and publishing data.
 - [Epidemic Sound](https://www.epidemicsound.com)
-- [Farnam Street](https://fs.blog) helps you master the best of what other people have already figured out.
 - [Hacker News](https://news.ycombinator.com/)
 - [Head](https://htmlhead.dev) A free guide to HTML5 `<head>` elements
 - [ICANN DOMAINS](https://publicsuffix.org/list/public_suffix_list.dat)
-- Internet Archive's [Software Library](https://archive.org/details/softwarelibrary)
-- Internet Archive's [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
 - [Nautilus](http://nautil.us) tells you about science and its endless connections to our lives.
 - [Open Culture](http://www.openculture.com) The best free cultural & educational media on the web.
+- [Open Source Music Production Tools](https://midination.com/free-music-production-software/)
 - [Open Source Stash](https://opensourcestash.com)
 - [Open Sustainable Technology](https://opensustain.tech), [Github Source](https://github.com/protontypes/awesome-sustainable-technology)
 - [Our World in Data](https://ourworldindata.org) Research and data to make progress against the world's largest problems.
-- [Pocket Explore](https://getpocket.com/explore)
+- [Purism](https://puri.sm) is a company dedicated to digital freedom, privacy, and security.
 - [Sci-Hub](https://sci-hub.st) provide mass and public access to tens of millions of research papers.
 - [Science X](https://sciencex.com/) is a leading web-based science, research and technology news service which covers a full range of topics -- physics, earth science, medicine, nanotechnology, electronics, space, biology, chemistry, computer sciences, engineering, mathematics and other sciences and technologies.
 - [Standard Ebooks](https://standardebooks.org) Free and liberated ebooks.
@@ -37,4 +33,5 @@
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) from HackerNews.
 - [Unsplash](https://unsplash.com) Over 2 million free high-resolution images brought to you by the world’s most generous community of photographers.
 - [Wait But Why](https://waitbutwhy.com) carefully produced for the true book lover.
-- Massive List of 65+ [Open Source Music Production Tools](https://midination.com/free-music-production-software/).
+- Internet Archive's [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
+- Internet Archive's [Software Library](https://archive.org/details/softwarelibrary)

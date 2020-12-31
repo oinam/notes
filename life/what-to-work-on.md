@@ -6,12 +6,12 @@ I love the writings of [Julian Shapiro](https://www.julian.com/) and his article
 
 ## Here are the questions to ask yourself.
 
-Knowledge — Do you become more knowledgeable and skilled when doing it?
-Adventure — Do you accrue novel, memorable experiences?
-‍Fame — Do you build an audience you can later leverage?
-‍Power — Do you acquire resources and connections?
-Money — Do you increase your financial wealth?
-Exercising Talent — Do you leverage your skill and creativity?
-Human Connection — Do you bond with others?
+- Knowledge — Do you become more knowledgeable and skilled when doing it?
+- Adventure — Do you accrue novel, memorable experiences?
+- Fame — Do you build an audience you can later leverage?
+- Power — Do you acquire resources and connections?
+- Money — Do you increase your financial wealth?
+- Exercising Talent — Do you leverage your skill and creativity?
+- Human Connection — Do you bond with others?
 
-Go, read the article. It can be pretty eye-opening - [What to Work on](https://www.julian.com/blog/life-planning).
+[Read the Article](https://www.julian.com/blog/life-planning). It can be pretty eye-opening.

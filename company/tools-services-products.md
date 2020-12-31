@@ -234,8 +234,12 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [BitWarden](https://bitwarden.com)
   + [GitGuardian](https://www.gitguardian.com)
 - Writing
-  + [TextBroker](https://www.textbroker.com)
   + [CoSchedule](https://coschedule.com/)
+  + [Ghost Blog Writers](https://ghostblogwriters.com)
+  + [My Blog Squad](https://myblogsquad.com)
+  + [Scripted](https://www.scripted.com)
+  + [TextBroker](https://www.textbroker.com)
+  + [Verblio](https://www.verblio.com)
 - Media
   + [Unsplash]()
 - Form, Surveys

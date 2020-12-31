@@ -6,20 +6,14 @@ layout: home
   - [Farm Bot](/agriculture/farm-bot/)
 - Awesome
   - [Bookmarks](/awesome/bookmarks/)
-  - [Interesting](/awesome/interesting/)
   - [Video Channels](/awesome/video/)
 - [Books](/books/)
   - [Almanack of Naval Ravikant](/books/almanack-of-naval-ravikant/)
-  - [I am Malala](/books/i-am-malala/)
   - [My Family and Other Animals](/books/my-family-and-other-animals/)
   - [The Description of a New World, Called the Blazing World](/books/the-description-of-a-new-world-called-the-blazing-world/)
   - [How To Be A Programmer](/books/how-to-be-a-programmer/)
 - Company
   - [Tools, Services, and  Products](/company/tools-services-products/)
-- Decouple
-  - [Adobe](/decouple/adobe/)
-  - Apple
-  - [Google](/decouple/google/)
 - Design
   + [Dieter Rams' 10 "Good Design" Principles](/design/dieter-rams-good-design/)
 - Devices
@@ -36,7 +30,7 @@ layout: home
   + [The Biggest Mistakes First-Time Founders Make](/entrepreneur/the-biggest-mistakes-first-time-founders-make/)
   + [What a CEO should do?](/entrepreneur/CEO-job-to-do/)
 - Leadership
-  - [Top 10 traits of the Perfect Manager](/leadership/top-10-traits-of-the-perfect-leader/)
+  - [Top 10 traits of the Perfect Leader](/leadership/top-10-traits-of-the-perfect-leader/)
 - Life
   - [6 Ways to Think Long-term](/life/6-ways-to-think-long-term/)
   - [Argue Constructively](/life/argue-constructively/)
@@ -56,7 +50,6 @@ layout: home
 - Management
   - [Management Principles](/management/management-principles/)
   - [Meetings](/management/meetings/)
-  - [Running an All-hands](/management/running-an-all-hands.pdf) (pdf)
 - [Marketing](/marketing/)
   + [Audience Analysis, Marketing](/marketing/marketing-audience-analysis/)
   + [Marketing Checklist](/marketing/marketing-checklist/)
@@ -65,7 +58,7 @@ layout: home
 - Parenting
   - [10 Life Skills to Teach Your Child by Age 10](/parenting/10-life-skills-to-teach-your-child-by-age-10/)
 - [Photography](/photography/photography/)
-  - [Cityscape Photography: The Comprehensive Guide](/photography/cityscape-photography-guide.pdf) (pdf)
+  - [Cityscape Photography: The Comprehensive Guide](/photography/cityscape-photography-guide.pdf) (pdf - 40MB)
 - Presentation
   - [Presentation Rules](/presentation/presentation-rules/)
 - Sales
@@ -76,11 +69,10 @@ layout: home
   + [Chekhov's Gun](/startup/chekhovs-gun/)
   + [Co-Founder](/startup/co-founder/)
   + [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)
-  + [Validation Cheat Sheet](/startup/validation-cheat-sheet.pdf/) (pdf)
-  + Pitch
-    * [Pitch Deck Mistakes](/startup/pitch-deck-mistakes/)
-    * [Pitch Deck](/startup/pitch-deck/)
-    * [Pitching your early stage startup](/startup/pitching-your-early-stage-startup/)
+  + [Pitch Deck Mistakes](/startup/pitch-deck-mistakes/)
+  + [Pitch Deck](/startup/pitch-deck/)
+  + [Pitching your early stage startup](/startup/pitching-your-early-stage-startup/)
+  + [Validation Cheat Sheet](/startup/validation-cheat-sheet.pdf) (pdf)
   + [Y Combinator’s Startup Library](/startup/ycombinator-startup-library/)
 - Technology
   - [Passwords](/technology/passwords/)
@@ -90,7 +82,6 @@ layout: home
   - [Markdown](/tools/markdown/)
   - [Note Taking and Management](/tools/note-taking-and-management/)
   - [Pandoc](/tools/pandoc/)
-  - [SpreadSheet](/tools/spreadsheet/)
 - Writing
   + [BLUF](/writing/bluf/)
   + [Writing in Business](/writing/writing-business/)

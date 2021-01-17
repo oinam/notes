@@ -11,8 +11,8 @@
 Currently powered by Jekyll. When something simpler, comes along, it will likely be swapped. Any tooling should be easily swappable while the content remains intact. May need a bit of parsing of the Markdown/Text files but they should be simple and should not contain any markups that is akin to any processor.
 
 ```
-$ bundler
-$ bundle exec jekyll serve
+$ bundle install
+$ bundle exec jekyll serve --incremental
 ```
 
 Of course, of you're lazy like me, you will want to auto-reload your pages while you write. But at the same time, I don't want to add anything additional to the existing codebase, so I usually run BrowserSync on the `_site` folder.

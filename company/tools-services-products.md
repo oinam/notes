@@ -2,7 +2,7 @@
 
 > Tools, Services, and Products that we used, plan to use, or are backup alternatives (nor sorted in any particular order).
 
-_Warning: This needs a lot more information, and reviews. Right now, I'm just dropping them here as I find them which I'm likely to test. -- Brajeshwar_
+_Warning: This needs a lot more information, and reviews. Right now, I'm just dropping them here as I find them which I'm likely to test. -- [Brajeshwar](//brajeshwar.com/)_
 
 - Analytics
   + [Google Tag Manager](https://tagmanager.google.com) / [Google Analytics](https://analytics.google.com/)
@@ -49,6 +49,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
     * [Nucleo](https://nucleoapp.com) (paid) is a beautiful library of 30,000+ icons, and a powerful application to collect, customize and export all your icons.
     * [macOS Icons](https://macosicons.com)
   + Illustrations
+    * [Vektors](https://www.vektors.pro)
     * [Free Illustrations](https://freeillustrations.xyz)
     * [Handz](https://www.handz.design)
     * [Humaaans](https://www.humaaans.com)
@@ -178,6 +179,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Abstract](https://www.abstract.com)
   + [ZeroHeight](https://zeroheight.com/)
   + [Prettier](https://prettier.io)
+  + [Pull Request](https://www.pullrequest.com) Code Review as a Service (On Deck Perk)
 - Services & API
   + [SuperTokens](https://github.com/supertokens/supertokens-core)
   + [xKit](https://xkit.co)
@@ -251,12 +253,19 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + Bonvoy Business Amex Card — You can earn Marriott Bonvoy points for luxury hotels and flights. It’s the best credit card points for traveling.
   + Brex for charge card — you can get incremental $5000 AWS credits, which can be applied on top of the AWS credits from WeWork or Stripe Atlas.
   + [Is it Worth the Cost](https://isitworththecost.com)
+- Blockchain
+  + [Ethereum](https://ethereum.org)
+  + [Cosmos](https://cosmos.network)
 - Community & Support
   + [Element](https://element.io)
   + [Talkyard](https://www.talkyard.io/plans#discounts)
   + [Commsor](https://www.commsor.com)
   + [BirdSeed](https://www.birdseed.io) (I have a lifetime Pro account.)
   + [Papercups](https://papercups.io)
+- Virtual Assistants
+  + [Double](https://withdouble.com)
+  + [Fancy Hands](https://www.fancyhands.com)
+  + [Wing](https://getwingapp.com)
 - Others
   + [Verkada](https://www.verkada.com) for physical location security
   + [ZoneMinder](https://zoneminder.com) A full-featured, open source, state-of-the-art video surveillance software system.
@@ -265,3 +274,5 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Seam](https://www.getseam.com/) API for controlling homes and buildings.
   + [Tasmota](http://tasmota.com/) Open source firmware for ESP8266 devices
   + [FastoCloud](https://github.com/fastogt/fastocloud)
+- Device Management
+  + [FleetSmith](https://www.fleetsmith.com)

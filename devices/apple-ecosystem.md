@@ -1,6 +1,6 @@
 # Apple Ecosystem
 
-[Apple](https://www.apple.com) has closely knit computing ecosystem. We leverage the ecosystem to get things done easier, smarter, and seamlessly.
+[Apple](https://www.apple.com) has a closely knit computing ecosystem. We leverage the ecosystem to get things done easier, smarter, and seamlessly.
 
 We try to stay with the default native apps and programs that comes with the OSes as much as possible. However, you still need few must-have tools, utilities, and programs that you need to get things done.
 

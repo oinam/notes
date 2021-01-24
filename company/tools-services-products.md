@@ -46,6 +46,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
     * [Nippon Colors](https://nipponcolors.com/)
     * [Nord](https://www.nordtheme.com) An arctic, north-bluish color palette.
   + Icons
+    * [Icon Duck](https://iconduck.com) free open source icons
     * [Nucleo](https://nucleoapp.com) (paid) is a beautiful library of 30,000+ icons, and a powerful application to collect, customize and export all your icons.
     * [macOS Icons](https://macosicons.com)
   + Illustrations
@@ -266,6 +267,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Double](https://withdouble.com)
   + [Fancy Hands](https://www.fancyhands.com)
   + [Wing](https://getwingapp.com)
+  + [Persona](https://www.personatalent.com) (founder in ODF)
 - Others
   + [Verkada](https://www.verkada.com) for physical location security
   + [ZoneMinder](https://zoneminder.com) A full-featured, open source, state-of-the-art video surveillance software system.

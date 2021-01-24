@@ -15,12 +15,6 @@ $ bundle install
 $ bundle exec jekyll serve --incremental
 ```
 
-Of course, of you're lazy like me, you will want to auto-reload your pages while you write. But at the same time, I don't want to add anything additional to the existing codebase, so I usually run BrowserSync on the `_site` folder.
-
-Install [BrowserSync](https://www.browsersync.io) globally and then run it on the same folder on a different terminal/command-line tab/instance (assuming your Jekyll install is running on all defaults).
-
-`browser-sync start --proxy "localhost:4000" --files "_site/*.*"`
-
 ## References & Inspiration
 
 > Here are some interesting digital garden-ish collection of other informational randomness.

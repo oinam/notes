@@ -9,9 +9,13 @@ layout: home
   - [Video Channels](/awesome/video/)
 - [Books](/books/)
   - [Almanack of Naval Ravikant](/books/almanack-of-naval-ravikant/)
+  - [How To Be A Programmer](/books/how-to-be-a-programmer/)
+  - [How to Win Friends and Influence People](/books/how-to-win-friends-and-influence-people/)
   - [My Family and Other Animals](/books/my-family-and-other-animals/)
   - [The Description of a New World, Called the Blazing World](/books/the-description-of-a-new-world-called-the-blazing-world/)
-  - [How To Be A Programmer](/books/how-to-be-a-programmer/)
+  - [The Great Gatsby](/books/the-great-gatsby/)
+  - [The Story of My Experiments with Truth](/books/the-story-of-my-experiments-with-truth/)
+  - [The Uninhabitable Earth](/books/the-uninhabitable-earth/)
 - Company
   - [Tools, Services, and  Products](/company/tools-services-products/)
 - Design

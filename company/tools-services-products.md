@@ -92,6 +92,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   - [Send with SES](https://www.sendwithses.com/)
   - [SendInBlue](https://www.sendinblue.com)
   - [Sendy](https://sendy.co/) - Self Hosted
+  - [BuzzSumo](https://buzzsumo.com)
 - Press / PR
   - [Get Tech Press](https://www.gettechpress.com)
   - [Places To Post Your Startup](https://www.placestopostyourstartup.com)

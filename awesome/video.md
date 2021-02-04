@@ -1,8 +1,11 @@
 # Video
 
-## Agriculture Technology
+## #!
 
-- [AgPhD](https://www.youtube.com/channel/UCNMZF39LBB-E1DIkxnD6cbA) Brian and Darren Hefty host this half-hour television show from Baltic, SD. This channel contains full episodes of AgPhD, as well as show segments, such as Farm Basics, Iron Talk, and the Weed of the Week.
+- [YTT Tech](https://www.ytt-tech.com/) exists to organize, curate, and surface the wealth of instructional content on YouTube.
+
+## Agriculture
+
 - [NASA Harvest](https://www.youtube.com/channel/UC3zAA7T6jfkFiZ9lHqnhnKA) is a multidisciplinary Consortium commissioned by NASA and led by the University of Maryland.
 
 ## Education, Learning

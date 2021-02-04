@@ -5,20 +5,20 @@
 _Warning: This needs a lot more information, and reviews. Right now, I'm just dropping them here as I find them which I'm likely to test. -- [Brajeshwar](//brajeshwar.com/)_
 
 - Analytics
-  + [Google Tag Manager](https://tagmanager.google.com) / [Google Analytics](https://analytics.google.com/)
-  + [Plausible](https://plausible.io) Open Source
-  + [userTrack](https://www.usertrack.net) Lifetime License Available
-  + [Umani](https://umami.is), [Source](https://github.com/mikecao/umami)
-  + [Shynet](https://github.com/milesmcc/shynet) Free and Open Source, Self Hosted
+  + [Amplitude](https://amplitude.com)
+  + [DataDog](https://www.datadoghq.com)
   + [Fathom](https://usefathom.com)
-  + [Amplitude](https://amplitude.com) (Product Features)
-  + [Segment](https://segment.com)
-  + [RudderStack](https://github.com/rudderlabs/rudder-server/) Open Source Segment
-  + [PostHog](https://posthog.com) Open Source Analytics
+  + [GoAccess](https://goaccess.io)
+  + [Google Tag Manager](https://tagmanager.google.com) / [Google Analytics](https://analytics.google.com/)
   + [Intercom](https://www.intercom.com) (Communication, Lead Gen)
   + [Mixpanel](https://mixpanel.com/) (I have a lifetime free account)
-  + [GoAccess](https://goaccess.io)
-  + [DataDog](https://www.datadoghq.com)
+  + [Plausible](https://plausible.io) Open Source
+  + [PostHog](https://posthog.com) Open Source Analytics
+  + [RudderStack](https://github.com/rudderlabs/rudder-server/) Open Source Segment
+  + [Segment](https://segment.com)
+  + [Shynet](https://github.com/milesmcc/shynet) Free and Open Source, Self Hosted
+  + [Umani](https://umami.is), [Source](https://github.com/mikecao/umami)
+  + [userTrack](https://www.usertrack.net) Lifetime License Available
 - Artificial Intelligence (AI), Machine Learning (ML)
   + [Explosion](https://explosion.ai) builds developer tools for Artificial Intelligence, Machine Learning, Natural Language Processing, Data Annotation.
   + [OpenAI](https://beta.openai.com)
@@ -182,7 +182,8 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [ZeroHeight](https://zeroheight.com/)
   + [Prettier](https://prettier.io)
   + [Pull Request](https://www.pullrequest.com) Code Review as a Service (On Deck Perk)
-- Services & API
+- Services &
+  + [FastAPI](https://fastapi.tiangolo.com)
   + [SuperTokens](https://github.com/supertokens/supertokens-core)
   + [xKit](https://xkit.co)
   + [Canonic](https://canonic.dev) A low code platform to craft APIs

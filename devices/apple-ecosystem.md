@@ -10,17 +10,17 @@ Here are some of the non-apple applications that we use.
 - [Alfred](https://www.alfredapp.com) with its PowerPack is the primary utility that drives the regular task that happens on the MacOS. If you do have PowerPack, look into its [WorkFlows](https://www.alfredapp.com/workflows/).
 - [Carbon Copy Cloner](https://bombich.com)
 - [Dropbox](https://www.dropbox.com/)
-- [ExpanDrive](https://www.expandrive.com) (life-time upgrades)
+- [ExpanDrive](https://www.expandrive.com)
 - [Grammarly](https://app.grammarly.com) + [Hemingway App](http://www.hemingwayapp.com) + [iA Writer](https://ia.net/writer)
 - [MindNode](https://mindnode.com)
 - [NextDNS](https://nextdns.io/?from=at8wqcps)
+- [Lulu](https://objective-see.com/products/lulu.html) is a free, open-source firewall that aims to block unknown outgoing connections.
 
 ## Evaluating (as of 2020)
 
 - [Textastic](https://www.textasticapp.com)
 - [Working Copy](https://workingcopyapp.com)
 - [Objecttive See](https://objective-see.com/) Products
-  + [Lulu](https://objective-see.com/products/lulu.html) is a free, open-source firewall that aims to block unknown outgoing connections.
 
 ### Icebox
 

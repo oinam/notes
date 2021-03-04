@@ -8,7 +8,7 @@
 
 ---
 ## Install Xcode
-$ sudo xcode-select --install
+$ xcode-select --install
 
 ## Setup Dotfiles in the root folder
 git clone git@github.com:brajeshwar/dotfiles.git dot

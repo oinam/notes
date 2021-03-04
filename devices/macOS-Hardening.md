@@ -72,3 +72,7 @@ Also, hardening a system is not a one-time job, you must actively backup your da
 3. Encrypt sensitive data on rest and on transit
 4. Backup your data, multiple, encrypted (of course) copies of your data in different physical locations
 5. Keep your guard up, you are your system’s (and your data’s) last line of defense
+
+### References
+
+- [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide)

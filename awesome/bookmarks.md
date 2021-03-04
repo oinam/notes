@@ -2,6 +2,7 @@
 
 - [Atlas Obscura](https://www.atlasobscura.com/) The definitive guide to the world’s hidden wonders.
 - [Awesome List](https://github.com/sindresorhus/awesome) about all kinds of interesting topics.
+- [Awesome CTO](https://github.com/kuchin/awesome-cto) is a curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups.
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) is a list of topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses.
 - [BBC Micro Games Archive](http://bbcmicro.co.uk) ([Source](https://github.com/pau1ie/bbcmicro.co.uk) at Github)
 - [BBC Sound Effects](http://bbcsfx.acropolis.org.uk) are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence. The Sound Effects are BBC copyright, but they may be used for personal, educational or research purposes, as detailed in the license.

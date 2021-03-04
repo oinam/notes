@@ -86,6 +86,7 @@ layout: home
   - [Markdown](/tools/markdown/)
   - [Note Taking and Management](/tools/note-taking-and-management/)
   - [Pandoc](/tools/pandoc/)
+  - [SpreadSheet](/tools/spreadsheet/)
 - Writing
   + [BLUF](/writing/bluf/)
   + [Writing in Business](/writing/writing-business/)

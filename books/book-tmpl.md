@@ -1,9 +1,5 @@
 # TMPL - Book
 
-Author:
-Rating:
-Genre:
-
 ## The Book in 3 Sentences
 ## Impressions
 ## Who should read it

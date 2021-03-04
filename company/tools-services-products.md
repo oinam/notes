@@ -4,14 +4,17 @@
 
 _Warning: This needs a lot more information, and reviews. Right now, I'm just dropping them here as I find them which I'm likely to test. -- [Brajeshwar](//brajeshwar.com/)_
 
+[Free for Developers](https://free-for.dev) have collected an exhaustive list of services that has free tiers ([view source](https://github.com/ripienaar/free-for-dev)).
+
 - Analytics
   + [Amplitude](https://amplitude.com)
   + [DataDog](https://www.datadoghq.com)
+  + [SigNoz](https://signoz.io) Open Source alternative to DataDog
   + [Fathom](https://usefathom.com)
   + [GoAccess](https://goaccess.io)
   + [Google Tag Manager](https://tagmanager.google.com) / [Google Analytics](https://analytics.google.com/)
   + [Intercom](https://www.intercom.com) (Communication, Lead Gen)
-  + [Mixpanel](https://mixpanel.com/) (I have a lifetime free account)
+  + [Mixpanel](https://mixpanel.com/) _(I have a lifetime free account)_
   + [Plausible](https://plausible.io) Open Source
   + [PostHog](https://posthog.com) Open Source Analytics
   + [RudderStack](https://github.com/rudderlabs/rudder-server/) Open Source Segment
@@ -134,23 +137,14 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
 - Audio / Video
   + [Loom](https://www.loom.com)
   + [Screen](https://screen.so/)
-  + [Pragli](https://pragli.com)
 - Dashboard
   + [OneMetric](https://www.onemetric.io)
   + [GeckoBoard](https://www.geckoboard.com)
   + [ChartMogul](https://www.chartmogul.com)
-- Project Management
-  + [Basecamp](https://basecamp.com)
-  + [Trello](http://trello.com)
-  + [ClickUp](https://clickup.com/)
-  + [Asana](https://asana.com/)
 - Communication / Collaboration
   + [Discord](https://discordapp.com)
   + [Slack](https://slack.com/)
   + [Pragli](https://pragli.com)
-  + [Almanac](https://askalmanac.com/) $10 /mo
-  + https://tettra.co
-  + [Zulip](https://zulip.com)
 - Meetings
   + [Zoom](https://zoom.us)
   + [Calendly](https://calendly.com)
@@ -163,7 +157,6 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
 - Accounting / Book Keeping
   + [Pilot](https://pilot.com/)
 - Leadership / Management / Team
-  + [PeopleBox](https://www.peoplebox.ai)
   + [Know your Team](https://knowyourteam.com)
   + [Fellow](https://www.fellow.app/)
   + [Manager's Playbook](https://github.com/ksindi/managers-playbook)
@@ -213,6 +206,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Vagon](https://www.vagon.io)
   + [WorkStream](https://workstream.paperspace.com/)
 - Documentation
+  + [Read the Docs](https://readthedocs.org)
   + https://docsify.js.org
   + https://docusaurus.io
 - Legal
@@ -249,7 +243,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
 - Media
   + [Unsplash]()
 - Form, Surveys
-  + [Paperform](https://paperform.co) (I have a lifetime Pro account.)
+  + [Paperform](https://paperform.co) _(I have a lifetime Pro account.)_
 - Comment System
   + [RemarkBox](https://www.remarkbox.com) Free
 - ECommerce
@@ -257,7 +251,6 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
 - Finance and Money
   + Capital One Spark for checking account
   + Bonvoy Business Amex Card — You can earn Marriott Bonvoy points for luxury hotels and flights. It’s the best credit card points for traveling.
-  + Brex for charge card — you can get incremental $5000 AWS credits, which can be applied on top of the AWS credits from WeWork or Stripe Atlas.
   + [Is it Worth the Cost](https://isitworththecost.com)
 - Blockchain
   + [Ethereum](https://ethereum.org)
@@ -266,7 +259,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Element](https://element.io)
   + [Talkyard](https://www.talkyard.io/plans#discounts)
   + [Commsor](https://www.commsor.com)
-  + [BirdSeed](https://www.birdseed.io) (I have a lifetime Pro account.)
+  + [BirdSeed](https://www.birdseed.io) _(I have a lifetime Pro account.)_
   + [Papercups](https://papercups.io)
 - Virtual Assistants
   + [Double](https://withdouble.com)

@@ -8,8 +8,8 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
 
 - Analytics
   + [Amplitude](https://amplitude.com)
+  + [Counter](https://counter.dev) ([Open Source](https://github.com/ihucos/counter.dev), DonateWare)
   + [DataDog](https://www.datadoghq.com)
-  + [SigNoz](https://signoz.io) Open Source alternative to DataDog
   + [Fathom](https://usefathom.com)
   + [GoAccess](https://goaccess.io)
   + [Google Tag Manager](https://tagmanager.google.com) / [Google Analytics](https://analytics.google.com/)
@@ -20,6 +20,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [RudderStack](https://github.com/rudderlabs/rudder-server/) Open Source Segment
   + [Segment](https://segment.com)
   + [Shynet](https://github.com/milesmcc/shynet) Free and Open Source, Self Hosted
+  + [SigNoz](https://signoz.io) Open Source alternative to DataDog
   + [Umani](https://umami.is), [Source](https://github.com/mikecao/umami)
   + [userTrack](https://www.usertrack.net) Lifetime License Available
 - Artificial Intelligence (AI), Machine Learning (ML)
@@ -72,6 +73,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   - [ZenDesk](https://www.zendesk.com)
 - Automation, (almost) No-Code
   - [Zapier](https://zapier.com/)
+  - [Integromat](https://www.integromat.com/)
   - [n8n](https://n8n.io)
   - [ActionFlow](https://actionsflow.github.io)
   - [D2C](https://d2c.io) easy deployment of app to containers.
@@ -177,6 +179,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Prettier](https://prettier.io)
   + [Pull Request](https://www.pullrequest.com) Code Review as a Service (On Deck Perk)
 - Services &
+  + [Authelia](https://www.authelia.com) Open Source Single Sign-On and 2 Factor.
   + [FastAPI](https://fastapi.tiangolo.com)
   + [SuperTokens](https://github.com/supertokens/supertokens-core)
   + [xKit](https://xkit.co)
@@ -245,6 +248,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
 - Form, Surveys
   + [Paperform](https://paperform.co) _(I have a lifetime Pro account.)_
 - Comment System
+  + [Cactus](https://cactus.chat) federated comment system, based on the Matrix protocol.
   + [RemarkBox](https://www.remarkbox.com) Free
 - ECommerce
   + [Podia](https://www.podia.com) - sell online courses, webinars, downloads, and memberships

@@ -6,6 +6,7 @@
 
 - [Customizing Pandoc to Generate Beautiful PDF and ePub from Markdown](https://learnbyexample.github.io/customizing-pandoc/)
 - [A Pandoc LaTeX template - Markdown to PDF or LaTeX](https://github.com/Wandmalfarbe/pandoc-latex-template)
+- [Automona Blog](https://dave.autonoma.ca/blog/)
 
 ## Commands
 

@@ -265,7 +265,9 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Commsor](https://www.commsor.com)
   + [BirdSeed](https://www.birdseed.io) _(I have a lifetime Pro account.)_
   + [Papercups](https://papercups.io)
+  + [Forem](https://github.com/forem/forem) open source software for building communities
 - Virtual Assistants
+  + [Magic](https://getmagic.com)
   + [Double](https://withdouble.com)
   + [Fancy Hands](https://www.fancyhands.com)
   + [Wing](https://getwingapp.com)

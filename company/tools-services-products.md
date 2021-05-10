@@ -109,8 +109,8 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Pelias](https://pelias.io) is a modular open-source geocoder using Elasticsearch. ([Source](https://github.com/pelias/pelias))
   + [AWS Location](https://aws.amazon.com/location/)
 - Administration / Operations
-  +  [Earth Class Mail](https://www.earthclassmail.com) Virtual Mail Service
-  +  [PostScanMail](https://www.postscanmail.com)
+  + [Earth Class Mail](https://www.earthclassmail.com) Virtual Mail Service
+  + [PostScanMail](https://www.postscanmail.com)
 - Search
   + [Stork](https://github.com/jameslittle230/stork)
   + [Algolia](https://www.algolia.com)
@@ -128,7 +128,6 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + TechStar
 - Banking & Finances
   + [Brex](https://brex.com)
-  + [Qonto](https://qonto.eu/en)
   + [Kite](https://kite.work) (India)
 - Tools / Product
   + [WRKSHP](https://wrkshp.tools)
@@ -144,9 +143,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [GeckoBoard](https://www.geckoboard.com)
   + [ChartMogul](https://www.chartmogul.com)
 - Communication / Collaboration
-  + [Discord](https://discordapp.com)
   + [Slack](https://slack.com/)
-  + [Pragli](https://pragli.com)
 - Meetings
   + [Zoom](https://zoom.us)
   + [Calendly](https://calendly.com)
@@ -185,7 +182,6 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [xKit](https://xkit.co)
   + [Canonic](https://canonic.dev) A low code platform to craft APIs
   + [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management
-  + [Unsplash](https://unsplash.com/developers)
   + [Auth0](https://auth0.com)
   + [Paragon](https://www.useparagon.com)
   + [Azure Director](https://azure.microsoft.com/en-ca/services/active-directory/)
@@ -244,7 +240,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [TextBroker](https://www.textbroker.com)
   + [Verblio](https://www.verblio.com)
 - Media
-  + [Unsplash]()
+  +
 - Form, Surveys
   + [Paperform](https://paperform.co) _(I have a lifetime Pro account.)_
 - Comment System

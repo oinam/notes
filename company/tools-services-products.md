@@ -144,6 +144,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [ChartMogul](https://www.chartmogul.com)
 - Communication / Collaboration
   + [Slack](https://slack.com/)
+  + [Zulip](https://zulip.com) Threated Chat, Open Source.
 - Meetings
   + [Zoom](https://zoom.us)
   + [Calendly](https://calendly.com)
@@ -176,6 +177,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Prettier](https://prettier.io)
   + [Pull Request](https://www.pullrequest.com) Code Review as a Service (On Deck Perk)
 - Services &
+  + [OpenID Connect Credential Provider](https://mattrglobal.github.io/oidc-client-bound-assertions-spec/)
   + [Authelia](https://www.authelia.com) Open Source Single Sign-On and 2 Factor.
   + [FastAPI](https://fastapi.tiangolo.com)
   + [SuperTokens](https://github.com/supertokens/supertokens-core)

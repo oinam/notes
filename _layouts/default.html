@@ -8,36 +8,7 @@
 
 <title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/oinam/css-zero/css-zero.min.css">
-<!-- <link rel="stylesheet" href="http://localhost:3000/css-zero.css"> -->
-<style type="text/css">
-  :root {
-    --font-family-serif-sans: system-ui, -apple-system, "Segoe UI", "Roboto", "Ubuntu", "Cantarell", "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  }
-  body {
-    background: var(--color-gray-1);
-
-    font-size: 1.12rem;
-    font-family: Georgia, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", serif;
-  }
-
-  main {
-    padding: 2rem 4rem;
-    background: var(--color-white);
-
-    border-radius: 10px;
-  }
-
-  header, footer {
-    margin: 2rem auto;
-    text-align: center;
-    font-family: var(--font-family-serif-sans);
-  }
-
-  .title {
-    font-size: 1.6rem;
-  }
-</style>
+<link rel="stylesheet" href="https://oinam.github.io/simple.css/simple.min.css">
 
 </head>
 <body>
@@ -45,7 +16,7 @@
 <header>
   {% if page.url == "/" %}
     <h1 class="title">{{site.title}}</h1>
-    <blockquote><p>“{{ site.description }}”</p></blockquote>
+    <p>“{{ site.description }}”</p>
   {% else %}
     <h1 class="title"><a href="{{site.url}}">{{site.title}}</a></h1>
   {% endif %}

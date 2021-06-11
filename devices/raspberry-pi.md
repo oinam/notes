@@ -5,6 +5,7 @@
 - [Pi-hole](https://pi-hole.net) is a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.
 - [Twister OS](https://twisteros.com/) is built on the official Raspbian Pi OS with themes designed to appear like operating systems they are themed after, but they are no operating systems by themselves.
 - [TorBox](https://www.torbox.ch) is an easy to use, anonymizing router based on a Raspberry Pi. TorBox creates a separate WiFi that routes the encrypted network data over the Tor network.
+- [TinyPilot](https://mtlynch.io/tinypilot/) Build a KVM Over IP.
 
 ### References
 

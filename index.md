@@ -26,8 +26,6 @@ layout: home
 - Education
   - [Education](/education/education/)
   - [Computer](/education/computer/)
-- English
-  - [Write to Express, Not to Impress](/english/write-to-express-not-to-impress/)
 - Entrepreneur
   + [10 Types of Innovation](/entrepreneur/10-types-of-innovation/)
   + [How to create successful Products and Services](/entrepreneur/how-to-create-successful-products-and-services/)
@@ -90,4 +88,5 @@ layout: home
   - [Text](/tools/text/)
 - Writing
   + [BLUF](/writing/bluf/)
+  + [Write to Express, Not to Impress](/writing/write-to-express-not-to-impress/)
   + [Writing in Business](/writing/writing-business/)

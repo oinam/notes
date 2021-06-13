@@ -2,9 +2,7 @@
 
 > Tools, Services, and Products that we used, plan to use, or are backup alternatives (nor sorted in any particular order).
 
-_Warning: This needs a lot more information, and reviews. Right now, I'm just dropping them here as I find them which I'm likely to test. -- [Brajeshwar](//brajeshwar.com/)_
-
-[Free for Developers](https://free-for.dev) have collected an exhaustive list of services that has free tiers ([view source](https://github.com/ripienaar/free-for-dev)).
+_Warning: This needs a lot more information, and reviews. Right now, I'm just dropping them here as I find them. -- [Brajeshwar](//brajeshwar.com/)_
 
 - Analytics
   + [Amplitude](https://amplitude.com)
@@ -12,7 +10,6 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [DataDog](https://www.datadoghq.com)
   + [Fathom](https://usefathom.com)
   + [GoAccess](https://goaccess.io)
-  + [Google Tag Manager](https://tagmanager.google.com) / [Google Analytics](https://analytics.google.com/)
   + [Intercom](https://www.intercom.com) (Communication, Lead Gen)
   + [Mixpanel](https://mixpanel.com/) _(I have a lifetime free account)_
   + [Plausible](https://plausible.io) Open Source
@@ -24,11 +21,12 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Umani](https://umami.is), [Source](https://github.com/mikecao/umami)
   + [userTrack](https://www.usertrack.net) Lifetime License Available
 - Artificial Intelligence (AI), Machine Learning (ML)
+  + [Deep AI](https://deepai.org)
   + [Explosion](https://explosion.ai) builds developer tools for Artificial Intelligence, Machine Learning, Natural Language Processing, Data Annotation.
   + [OpenAI](https://beta.openai.com)
   + [Plotly](https://plotly.com)
-  + [StreamLit](https://www.streamlit.io)
   + [Replicate](https://replicate.ai) Version control for machine learning
+  + [StreamLit](https://www.streamlit.io)
 - Data, Big Data
   + [MetaPlane](https://metaplane.dev)
   + [DataFrame](https://www.dataframe.ai)
@@ -119,13 +117,13 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [BizPlan](https://www.bizplan.com)
 - Incubators & Accelerators
   + [The 50 Best Startup Accelerators in the World](https://www.growthmentor.com/blog/best-startup-accelerators/)
-  + Y Combinator
+  + [Y Combinator](https://www.ycombinator.com)
   + [Network Catalyst](https://www.villageglobal.vc/network-catalyst/)
   + [BoostVC](https://www.boost.vc) - Invest $500k in Sci-Fi Founders for 15% equity.
   + [NextVentures](https://nextviewventures.com/the-everyday-economy-accelerator/)
   + Sequoia [Surge](https://www.surgeahead.com)
-  + [OnDeck](https://www.beondeck.com)
-  + TechStar
+  + [TechStar](https://techstar.com)
+  + [XX](https://www.xx.team)
 - Banking & Finances
   + [Brex](https://brex.com)
   + [Kite](https://kite.work) (India)
@@ -151,7 +149,6 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
 - HR & Healthcare
   + [Gusto]()
   + [PaPayGlobal](https://www.productboard.com)
-  + Freshwork's [HRM](https://www.freshworks.com/hrms/)
   + [Plum](https://www.plumhq.com)
   + [Qandle](https://www.qandle.com)
 - Accounting / Book Keeping
@@ -208,15 +205,15 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [WorkStream](https://workstream.paperspace.com/)
 - Documentation
   + [Read the Docs](https://readthedocs.org)
-  + https://docsify.js.org
-  + https://docusaurus.io
+  + [Docsify](https://docsify.js.org)
+  + [Docusaurus](https://docusaurus.io)
 - Legal
   + [Lexion](https://lexion.ai)
   + [Clerky](https://www.clerky.com) generate legal documents for fund raising (SAFE) and hiring contractors.
   + [CapTable](https://captable.io/) by [LTSE](https://ltse.com/)
 - Phone, telephony, VOIP
   + [Asterisk](https://www.asterisk.org) open source framework for building communications applications
-  + [Phone](https://www.phone.com) - use [FoundersCard](https://founderscard.com/membership?code=FCBRAJESHWAR844) discount.
+  + [Phone](https://www.phone.com)
   + [VOIP.ms](https://voip.ms/)
   + [Ting](https://ting.com)
   + [FreePBX](https://www.freepbx.org)
@@ -241,8 +238,6 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Scripted](https://www.scripted.com)
   + [TextBroker](https://www.textbroker.com)
   + [Verblio](https://www.verblio.com)
-- Media
-  +
 - Form, Surveys
   + [Paperform](https://paperform.co) _(I have a lifetime Pro account.)_
 - Comment System
@@ -254,9 +249,6 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + Capital One Spark for checking account
   + Bonvoy Business Amex Card — You can earn Marriott Bonvoy points for luxury hotels and flights. It’s the best credit card points for traveling.
   + [Is it Worth the Cost](https://isitworththecost.com)
-- Blockchain
-  + [Ethereum](https://ethereum.org)
-  + [Cosmos](https://cosmos.network)
 - Community & Support
   + [Element](https://element.io)
   + [Talkyard](https://www.talkyard.io/plans#discounts)
@@ -280,3 +272,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [FastoCloud](https://github.com/fastogt/fastocloud)
 - Device Management
   + [FleetSmith](https://www.fleetsmith.com)
+
+### References
+
+- [Free for Developers](https://free-for.dev) have collected an exhaustive list of services that has free tiers ([view source](https://github.com/ripienaar/free-for-dev)).

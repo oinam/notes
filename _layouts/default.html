@@ -9,9 +9,23 @@
 <title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/oinam/simple.css/simple.min.css">
-
 <style type="text/css">
-:root {}
+:root {
+  --base-fontsize: 1.2rem;
+  --line-height: 1.618;
+}
+
+html {
+  font-family: var(--serif-font);
+}
+
+header h1, h1 {
+  line-height: 1.2;
+}
+
+.title {
+  font-size: xx-large;
+}
 
 .title a {
   text-decoration: none;

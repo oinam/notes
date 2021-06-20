@@ -5,7 +5,6 @@
 .jekyll-cache
 .jekyll-metadata
 .obsidian
-.sass-cache
 _site
 Gemfile.lock
 tmp.md

@@ -2,11 +2,13 @@
 
 This is kinda fun thing I started - screenshot of my Phone's Homescreen evolution and changes over the years.
 
+## 2021
+
+![iPhone-11-Pro - iOS 14](/brajeshwar/phone-home/iPhone-11-pro-iOS-14-2021.jpeg)
+
 ## 2020
 
-![iPhone-11-Pro - iOS 14](/brajeshwar/phone-home/iPhone-11-pro-iOS-14-2020-OCT.jpeg)
-![iPhone-11-Pro - iOS 14](/brajeshwar/phone-home/iPhone-11-pro-iOS-14-2020-SEP.jpeg)
-![iPhone-11-Pro - iOS 13](/brajeshwar/phone-home/iPhone-11-pro-2020-1.jpeg)
+![iPhone-11-Pro - iOS 14](/brajeshwar/phone-home/iPhone-11-pro-iOS-14-2020.jpeg)
 
 ## 2019
 
@@ -14,8 +16,7 @@ This is kinda fun thing I started - screenshot of my Phone's Homescreen evolutio
 
 ## 2014
 
-![iPhone-4S - 2014.jpeg](/brajeshwar/phone-home/iPhone-4S-2014-2.jpeg)
-![iPhone-4S - 2014.jpeg](/brajeshwar/phone-home/iPhone-4S-2014-1.jpeg)
+![iPhone-4S - 2014.jpeg](/brajeshwar/phone-home/iPhone-4S-2014.jpeg)
 
 ## 2013
 
@@ -27,8 +28,7 @@ This is kinda fun thing I started - screenshot of my Phone's Homescreen evolutio
 
 ## 2011
 
-![iPhone-4S - 2011.jpeg](/brajeshwar/phone-home/iPhone-4S-2011-2.jpeg)
-![iPhone-4S - 2011.jpeg](/brajeshwar/phone-home/iPhone-4S-2011-1.jpeg)
+![iPhone-4S - 2011.jpeg](/brajeshwar/phone-home/iPhone-4S-2011.jpeg)
 
 ## 2008
 

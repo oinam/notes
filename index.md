@@ -16,6 +16,10 @@ layout: home
   - [The Great Gatsby](/books/the-great-gatsby/)
   - [The Story of My Experiments with Truth](/books/the-story-of-my-experiments-with-truth/)
   - [The Uninhabitable Earth](/books/the-uninhabitable-earth/)
+- Business
+  + [Build a Crypto Company](/business/crypto/)
+  + [Evaluation a Business Plan in an Industry](/business/evaluation-a-business-plan-in-an-industry/)
+  + [Every company is a FinTech Company](/business/every-company-is-a-fintech-company/)
 - Company
   - [Tools, Services, and  Products](/company/tools-services-products/)
 - Design

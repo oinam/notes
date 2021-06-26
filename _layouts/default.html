@@ -11,16 +11,49 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/oinam/simple.css/simple.min.css">
 <style type="text/css">
 :root {
-  --base-fontsize: 1.2rem;
+  --base-fontsize: 1.26rem;
   --line-height: 1.618;
+
+  /* cards */
+  --card-spacing: 20px;
+  --card-color-bg: #fafafa;
+  --card-border-color: #e4e4e7;
+  --card-border-color-dark: #d4d4d8;
+  --card-border-radius: 5px;
+}
+
+/* Dark Theme */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --card-color-bg: #3f3f46;
+    --card-border-color: #27272a;
+    --card-border-color-dark: #18181b;
+  }
 }
 
 html {
-  font-family: var(--serif-font);
+  font-family: Georgia, 'Times New Roman', serif;
 }
 
 header h1, h1 {
   line-height: 1.2;
+  font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale));
+}
+
+/* let's try a little different style */
+blockquote {
+  margin: 1rem 2rem;
+  padding: 0.1rem 2rem;
+  background: var(--accent-bg);
+  border-left: 0.7rem solid var(--accent-light);
+
+  font-weight: 500;
+  font-style: normal;
+}
+
+ol,
+ul {
+  padding-left: 2rem;
 }
 
 .title {
@@ -30,6 +63,74 @@ header h1, h1 {
 .title a {
   text-decoration: none;
 }
+
+/*
+  A different Table of Content for larger screens.
+*/
+@media (min-width: 40em) {
+
+  /* set to max with of the viewport */
+  .toc {
+    box-sizing: border-box;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    padding: var(--card-spacing);
+  }
+
+  .toc ul,
+  .toc li,
+  .toc ul li ul li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .toc ul li ul li {
+    list-style: initial;
+    margin-left: 1.6rem;
+    
+    /*border: 1px solid red;*/
+  }
+
+  .toc > ul {
+    display: flex;
+    flex-wrap: wrap;
+
+    margin-left: calc(-1 * var(--card-spacing));
+    margin-top: calc(-1 * var(--card-spacing));
+  }
+
+  /* cards -- applies only to the immediate list after TOC wrapper */
+  .toc > ul > li {
+    box-sizing: border-box;
+    flex: 1 0 20rem; /*width*/
+    max-height: 30rem; /*let's try and make this masonry in future.*/
+    overflow: scroll; /*content scroll as we have a strict height.*/
+    
+    padding: var(--card-spacing);
+    margin-left: var(--card-spacing);
+    margin-top: var(--card-spacing);
+    
+    /*interface*/
+    background: var(--card-color-bg);
+
+    border: 1px solid var(--card-border-color);
+    border-radius: var(--card-border-radius);
+  }
+
+  .toc > ul > li:hover {
+    border-color: var(--card-border-color-dark);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.16);
+    transition: box-shadow 0.3s ease-in-out;
+  }
+}
+
 </style>
 
 </head>
@@ -37,10 +138,10 @@ header h1, h1 {
 
 <header>
   {% if page.url == "/" %}
-    <h1 class="title">{{site.title}}</h1>
-    <p>“{{ site.description }}”</p>
+  <h1 class="title">{{site.title}}</h1>
+  <p>“{{ site.description }}”</p>
   {% else %}
-    <h1 class="title"><a href="{{site.url}}">{{site.title}}</a></h1>
+  <h1 class="title"><a href="{{site.url}}">{{site.title}}</a></h1>
   {% endif %}
 </header>
 

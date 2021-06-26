@@ -42,10 +42,10 @@ header h1, h1 {
 
 /* let's try a little different style */
 blockquote {
-  margin: 1rem 2rem;
+  margin: 1rem 0.2rem;
   padding: 0.1rem 2rem;
   background: var(--accent-bg);
-  border-left: 0.7rem solid var(--accent-light);
+  border-left: 0.5rem solid var(--accent-light);
 
   font-weight: 500;
   font-style: normal;
@@ -137,12 +137,8 @@ ul {
 <body>
 
 <header>
-  {% if page.url == "/" %}
-  <h1 class="title">{{site.title}}</h1>
-  <p>“{{ site.description }}”</p>
-  {% else %}
   <h1 class="title"><a href="{{site.url}}">{{site.title}}</a></h1>
-  {% endif %}
+  <p>“{{ site.description }}”</p>
 </header>
 
 <main>

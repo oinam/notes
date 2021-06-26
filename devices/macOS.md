@@ -118,3 +118,14 @@ $ defaults write com.apple.dock expose-animation-duration -float 0.1
 $ sudo nano /etc/hosts
 Add `0.0.0.0 siteToBlock.com`
 Save > Exit
+
+## Rectangle App
+https://rectangleapp.com
+https://github.com/rxhanson/Rectangle
+
+Custom Window Size, Find out Key Combo with 'Key Codes' app
+```
+defaults write com.knollsoft.Rectangle specified -dict-add keyCode -float 8 modifierFlags -float 786721
+defaults write com.knollsoft.Rectangle specifiedHeight -float 1500
+defaults write com.knollsoft.Rectangle specifiedWidth -float 1000
+```

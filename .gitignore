@@ -6,7 +6,6 @@
 .jekyll-metadata
 .obsidian
 _site
-Gemfile.lock
 
 # Ignore hidden folders #
 # This takes care of .tmp, .sass-cache, and many others #

@@ -5,6 +5,7 @@ layout: home
 - Agriculture
   - [Farm Bot](/agriculture/farm-bot/)
 - Awesome
+  - [Articles](/awesome/articles/)
   - [Bookmarks](/awesome/bookmarks/)
   - [Video Channels](/awesome/video/)
 - [Books](/books/)

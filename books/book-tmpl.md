@@ -1,4 +1,4 @@
-# TMPL - Book
+# TMPL - Book Review/Notes
 
 ## The Book in 3 Sentences
 ## Impressions

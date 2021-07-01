@@ -19,4 +19,3 @@
 
 - [A Helpful Guide to Reading Better](https://fs.blog/reading/)
 - [Good Books](https://www.goodbooks.io) -- recommended by successful people.
-- [Book Summaries, Notes, and Reviews](https://www.nateliason.com/notes) by Nat Eliason

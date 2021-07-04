@@ -14,12 +14,26 @@
   --base-fontsize: 1.26rem;
   --line-height: 1.618;
 
+  /* Default (light) theme */
+  --bg: #ebecf0;
+  --accent-bg: #f4f4f5;
+  --text: #212121;
+  --text-light: #585858;
+  --border: #b3b8c5;
+  --accent: #0e78be;
+  --accent-light: #90caf9;
+  --accent-dark: #0d47a1;
+  --code: #d81b60;
+  --preformatted: #444;
+  --marked: #ffdd33;
+  --disabled: #efefef;
+
   /* cards */
   --card-spacing: 20px;
   --card-color-bg: #fafafa;
   --card-border-color: #e4e4e7;
   --card-border-color-dark: #d4d4d8;
-  --card-border-radius: 5px;
+  --card-border-radius: 7px;
 }
 
 /* Dark Theme */
@@ -94,8 +108,6 @@ ul {
   .toc ul li ul li {
     list-style: initial;
     margin-left: 1.6rem;
-    
-    /*border: 1px solid red;*/
   }
 
   .toc > ul {
@@ -119,14 +131,13 @@ ul {
     
     /*interface*/
     background: var(--card-color-bg);
-
-    border: 1px solid var(--card-border-color);
     border-radius: var(--card-border-radius);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
   }
 
   .toc > ul > li:hover {
     border-color: var(--card-border-color-dark);
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.16);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     transition: box-shadow 0.3s ease-in-out;
   }
 }

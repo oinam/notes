@@ -13,3 +13,7 @@
 *Markdown to HTML with CSS*
 
 `pandoc -s -f markdown -t html5 -o output.html input.md -c style.css`
+
+*batch process Markdown to HTML*
+
+`find . -name \*.md -type f -exec pandoc -o {}.txt {} \;`

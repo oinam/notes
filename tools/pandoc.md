@@ -16,4 +16,4 @@
 
 *batch process Markdown to HTML*
 
-`find . -name \*.md -type f -exec pandoc -o {}.txt {} \;`
+`find . -name \*.md -type f -exec pandoc -o {}.html {} \;`

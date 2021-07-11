@@ -3,7 +3,8 @@ layout: home
 ---
 
 - Agriculture
-  - [Farm Bot](/agriculture/farm-bot/)
+  + [Farming](/agriculture/farming/)
+  + [Farm Bot](/agriculture/farm-bot/)
 - Awesome
   - [Articles](/awesome/articles/)
   - [Bookmarks](/awesome/bookmarks/)

@@ -15,4 +15,4 @@
 - [Techstars Entrepreneur's Toolkit](https://toolkit.techstars.com)
 - [The Art of Fundraising](https://trello.com/b/TSv8YPKQ/the-art-of-fundraising) is a well laid our Trello Board with a categorized process.
 - [The Non-Obvious Guide to Fundraising](https://www.nfx.com/post/the-non-obvious-guide-to-fundraising/)
-- [Y Combinator Deed Deck Template](https://docs.google.com/presentation/d/17nFIwCyf2Kz-Ao5HGnmvNZ74L8eSKA2C2Qdaoe-47OM/)
+- [Y Combinator Seed Deck Template](https://docs.google.com/presentation/d/17nFIwCyf2Kz-Ao5HGnmvNZ74L8eSKA2C2Qdaoe-47OM/)

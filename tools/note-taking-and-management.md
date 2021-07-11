@@ -6,7 +6,9 @@ Methods, philosophies, and choices to manage notes, and to find a holistic metho
 
 - [Dendron](https://github.com/dendronhq/dendron) is a local-first, markdown based, hierarchical note-taking application built on top of VSCode.
 - [Foam](https://github.com/foambubble/foam) is a personal knowledge management and sharing system inspired by Roam Research, built on [Visual Studio Code](https://code.visualstudio.com) and GitHub.
-- [Zettelkasten Method](https://zettelkasten.de/introduction/)
+- [Obsidian](https://obsidian.md) is a powerful knowledge base that works on top of
+a local folder of plain text Markdown files.
+- [Zettelkasten](https://zettelkasten.de/introduction/) is a personal tool for thinking and writing. It has hypertextual features to make a web of thought possible. The difference to other systems is that you create a web of thoughts instead of notes of arbitrary size and form, and emphasize connection, not a collection.
 
 ### References
 

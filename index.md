@@ -43,6 +43,7 @@ layout: home
   - [Delete, Delegate, Defer, or Do](/life/dddd/)
   - Essentialism / Minimalism
   - [First Principles](/life/first-principles/)
+  - [Ganbaru](/life/ganbaru/)
   - [Go Bag](/life/go-bag/)
   - [Have a life's Mission, and Persevere](/life/have-a-life-mission-and-persevere/)
   - [Stoicism](/life/stoicism/)

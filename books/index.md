@@ -1,5 +1,13 @@
 # Books
 
+## Why
+
+1. Reading well will deepen your appreciation of literature; you’ll gain new experiences and enrich your knowledge of the world and other people.
+2. Reading well requires noticing details, reflecting on them and questioning them.
+3. One key to reading well and pleasurably is to slow down, take your time and read deliberatively.
+4. Re-reading literary texts will allow you to pick up on what you missed the first time around and deepen your reading pleasure.
+5. Reading aloud, whether a sentence or an entire page, will help you notice more about a writer’s craft and art, especially how the tone and texture complement the meaning.
+
 ## How to read books the right way
 
 1. Pick up multiple books (physical, digital, or audio) from the same topic or category to go deeper.
@@ -19,3 +27,4 @@
 
 - [A Helpful Guide to Reading Better](https://fs.blog/reading/)
 - [Good Books](https://www.goodbooks.io) -- recommended by successful people.
+- [How to gain more from your reading](https://psyche.co/guides/how-to-gain-more-from-reading-by-taking-it-all-in-more-slowly)

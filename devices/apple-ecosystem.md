@@ -8,7 +8,7 @@ Here are some of the non-apple applications that we use.
 
 - [1Password](https://1password.com). At the start of the 21st century, we started with [Keepass](https://keepass.info) as the entry into the world of Password Management but moved to 1Password (2006) since its beta and haven't looked back.
 - [Alfred](https://www.alfredapp.com) with its PowerPack is the primary utility that drives the regular task that happens on the MacOS. If you do have PowerPack, look into its [WorkFlows](https://www.alfredapp.com/workflows/).
-- [Bartender](https://www.macbartender.com)
+- [Bartender](https://www.macbartender.com) (Free Alternatives: [Hidden Bar](https://superbits.co/hidden/))
 - [Carbon Copy Cloner](https://bombich.com)
 - [Dropbox](https://www.dropbox.com/)
 - [ExpanDrive](https://www.expandrive.com)
@@ -22,8 +22,3 @@ Here are some of the non-apple applications that we use.
 ### Evaluating (2021)
 
 - [Working Copy](https://workingcopyapp.com)
-
-#### Icebox
-
-- [Little Snitch](https://www.obdev.at/products/littlesnitch/) is a really good firewall but is proving to be a bit of an overkill.
-- [Spectacle](https://www.spectacleapp.com) was replaced by Rectangle.

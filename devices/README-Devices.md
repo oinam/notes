@@ -3,15 +3,16 @@
 ## Naming
 
 ENTITY (Device Type) (Purchased YEAR/Month)
-Oinam (iMac) (2020MAY)
+`Oinam (iMac) (2020MAY)` = `oinam-imac-2020may`
 
 ## USERS
 
-oinam: Primary Admin / God / Alpha. Do recovery, reset etc. NO Password Hint.
-brajeshwar: Admin User
-shanta: Admin User
-laaija: Standard User
-amara: Standard User
+- oinam (Primary SuperAdmin)
+  + Alpha, God (Do recovery, reset etc. NO Password Hint.)
+- brajeshwar (Admin)
+- shanta (Admin)
+- laaija (Standard till she is ready, after 16+?)
+- amara (Standard till she is ready, after 16+?)
 
 ### ERTHMA Remote for VU TV
 

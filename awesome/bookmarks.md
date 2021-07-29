@@ -16,8 +16,10 @@
 - [Datasette](https://datasette.io) is an open source multi-tool for exploring and publishing data.
 - [Downpour](https://www.downpour.com) DRM-Free AudioBooks (paid)
 - [Epidemic Sound](https://www.epidemicsound.com)
+- [Free Software and Self-Hosted Web Apps](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [Hacker News](https://news.ycombinator.com/)
 - [Head](https://htmlhead.dev) A free guide to HTML5 `<head>` elements
+- [History of the Web](https://thehistoryoftheweb.com), [Timeline View](https://thehistoryoftheweb.com/timeline/)
 - [ICANN DOMAINS](https://publicsuffix.org/list/public_suffix_list.dat)
 - [Nautilus](http://nautil.us) tells you about science and its endless connections to our lives.
 - [Open Culture](http://www.openculture.com) The best free cultural & educational media on the web.

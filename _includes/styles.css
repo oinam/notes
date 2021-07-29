@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/oinam/simple.css/simple.min.css">
-<style type="text/css">
 :root {
   --base-fontsize: 1.26rem;
   --line-height: 1.618;
@@ -135,5 +133,3 @@ a:hover, a:focus {
     transition: box-shadow 0.3s ease-in-out;
   }
 }
-
-</style>

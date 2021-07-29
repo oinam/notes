@@ -9,7 +9,7 @@ Transfer From old MacOS
 
 ## OS Defaults
 
-Dark Menubar and Dock in Light Theme
+Dark Menubar and Dock in an Overall Light Theme
 1. Set theme to Light, then run
 2. `defaults write -g NSRequiresAquaSystemAppearance -bool Yes`
 3. Logout and Choose “Dark Mode".

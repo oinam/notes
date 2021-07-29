@@ -116,6 +116,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Satchel](https://satchel.com) - Make more informed decisions about SaaS
   + [BizPlan](https://www.bizplan.com)
 - Incubators & Accelerators
+  + [Accelerators](https://seed-db.com/accelerators)
   + [The 50 Best Startup Accelerators in the World](https://www.growthmentor.com/blog/best-startup-accelerators/)
   + [Y Combinator](https://www.ycombinator.com)
   + [Network Catalyst](https://www.villageglobal.vc/network-catalyst/)
@@ -267,6 +268,7 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Verkada](https://www.verkada.com) for physical location security
   + [ZoneMinder](https://zoneminder.com) A full-featured, open source, state-of-the-art video surveillance software system.
   + [Home Assistant](https://www.home-assistant.io)
+  + [Tight Home Contro](https://github.com/Drolla/thc)
   + [Twillio](https://www.twilio.com)
   + [Seam](https://www.getseam.com/) API for controlling homes and buildings.
   + [Tasmota](http://tasmota.com/) Open source firmware for ESP8266 devices
@@ -277,3 +279,4 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
 ### References
 
 - [Free for Developers](https://free-for.dev) have collected an exhaustive list of services that has free tiers ([view source](https://github.com/ripienaar/free-for-dev)).
+- [Open Source Alternatives to B2B Tools](https://www.btw.so/open-source-alternatives)

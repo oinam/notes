@@ -13,7 +13,6 @@ Here are some of the non-apple applications that we use.
 - [Dropbox](https://www.dropbox.com/)
 - [ExpanDrive](https://www.expandrive.com)
 - [Grammarly](https://app.grammarly.com) + [Hemingway App](http://www.hemingwayapp.com) + [iA Writer](https://ia.net/writer)
-- [Hazel](https://www.noodlesoft.com)
 - [MindNode](https://mindnode.com)
 - [NextDNS](https://nextdns.io/?from=at8wqcps)
 - [Lulu](https://objective-see.com/products/lulu.html) is a free, open-source firewall that aims to block unknown outgoing connections.

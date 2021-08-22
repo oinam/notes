@@ -19,7 +19,6 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Shynet](https://github.com/milesmcc/shynet) Free and Open Source, Self Hosted
   + [SigNoz](https://signoz.io) Open Source alternative to DataDog
   + [Umani](https://umami.is), [Source](https://github.com/mikecao/umami)
-  + [userTrack](https://www.usertrack.net) Lifetime License Available
 - Artificial Intelligence (AI), Machine Learning (ML)
   + [Deep AI](https://deepai.org)
   + [Explosion](https://explosion.ai) builds developer tools for Artificial Intelligence, Machine Learning, Natural Language Processing, Data Annotation.

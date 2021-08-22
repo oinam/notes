@@ -14,6 +14,7 @@ layout: home
   + [How To Be A Programmer](/books/how-to-be-a-programmer/)
   + [How to Win Friends and Influence People](/books/how-to-win-friends-and-influence-people/)
   + [The Description of a New World, Called the Blazing World](/books/the-description-of-a-new-world-called-the-blazing-world/)
+  + [The Psychology of Money](/book/the-psychology-of-money/)
   + [The Story of My Experiments with Truth](/books/the-story-of-my-experiments-with-truth/)
 - Business
   + [Build a Crypto Company](/business/crypto/)

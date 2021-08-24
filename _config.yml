@@ -1,19 +1,17 @@
 title: Oinam Digital Garden
-email: hi@oinam.com
 description: "An informational tit-bit, wiki-ish collection of data, learnings, and observations."
 
-thisSite:
-  source: https://github.com/oinam/oinam.fyi
+remote_theme: oinam/oinam-jekyll
 
-author:
+oinam:
   title: Oinam
   twitter: oinam
   github: oinam
   website: https://oinam.com
+  source: https://github.com/oinam/oinam.fyi
 
 theme: null
 markdown: kramdown
-highlighter: rouge
 permalink: pretty
 
 defaults:
@@ -24,6 +22,8 @@ defaults:
       layout: "default"
 
 plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-optional-front-matter
 
@@ -34,6 +34,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - gemfiles/
-  - README.md
-  - styles.css.map
   - netlify.toml
+  - README.*
+  - vendor/

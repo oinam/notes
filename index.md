@@ -48,6 +48,7 @@ layout: home
   + [Ganbaru](/life/ganbaru/)
   + [Go Bag](/life/go-bag/)
   + [Have a life's Mission, and Persevere](/life/have-a-life-mission-and-persevere/)
+  + [Hedonic Treadmill or Adaptation](/life/hedonic-treadmill)
   + [Stoicism](/life/stoicism/)
   + [Slow is Smooth; Smooth is Fast](/life/slow-is-smooth-and-smooth-is-fast/)
   + [Privacy](/life/privacy/)

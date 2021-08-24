@@ -1,13 +1,15 @@
 title: Oinam Digital Garden
 email: hi@oinam.com
 description: "An informational tit-bit, wiki-ish collection of data, learnings, and observations."
-url: ""
-baseurl: ""
+
+thisSite:
+  source: https://github.com/oinam/oinam.fyi
 
 author:
   title: Oinam
   twitter: oinam
   github: oinam
+  website: https://oinam.com
 
 theme: null
 markdown: kramdown

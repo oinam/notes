@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+
 - Agriculture
   + [Farming](/agriculture/farming/)
   + [Farm Bot](/agriculture/farm-bot/)

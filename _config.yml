@@ -1,6 +1,9 @@
 title: Oinam Digital Garden
 description: "An informational tit-bit, wiki-ish collection of data, learnings, and observations."
 
+url: ''
+baseurl: ''
+
 remote_theme: oinam/oinam-jekyll
 
 oinam:
@@ -10,7 +13,6 @@ oinam:
   website: https://oinam.com
   source: https://github.com/oinam/oinam.fyi
 
-theme: null
 markdown: kramdown
 permalink: pretty
 

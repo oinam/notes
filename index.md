@@ -10,7 +10,7 @@ layout: home
   - [Articles](/awesome/articles/)
   - [Audio / Podcasts](/awesome/audio-podcasts/)
   - [Bookmarks](/awesome/bookmarks/)
-  - [Video Channels](/awesome/video/)
+  - [Video](/awesome/video/)
 
 # [Books](/books/)
   - [Almanack of Naval Ravikant](/books/almanack-of-naval-ravikant/)

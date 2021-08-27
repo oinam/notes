@@ -8,6 +8,7 @@ layout: home
 
 # Awesome
   - [Articles](/awesome/articles/)
+  - [Audio / Podcasts](/awesome/audio-podcasts/)
   - [Bookmarks](/awesome/bookmarks/)
   - [Video Channels](/awesome/video/)
 
@@ -24,7 +25,7 @@ layout: home
   - [Evaluation a Business Plan in an Industry](/business/evaluation-a-business-plan-in-an-industry/)
   - [Every company is a FinTech Company](/business/every-company-is-a-fintech-company/)
 
-# Climate
+[//]: # # Climate
 
 # Company
   - [Tools, Services, and  Products](/company/tools-services-products/)

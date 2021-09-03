@@ -9,8 +9,12 @@ footer:
 
 footer_custom: 'An ever Work-in-Progress effort by <a href="https://oinam.com">Oinam</a> (<a href="https://github.com/oinam/oinam.fyi">Source</a>). Since 2020.'
 
+layout:
+  theme: default # default, nord
+
 styles:
   font_family: serif
+
 
 oinam:
   title: Oinam

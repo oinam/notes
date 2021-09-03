@@ -50,6 +50,8 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
     * [Icon Duck](https://iconduck.com) free open source icons
     * [Nucleo](https://nucleoapp.com) (paid) is a beautiful library of 30,000+ icons, and a powerful application to collect, customize and export all your icons.
     * [macOS Icons](https://macosicons.com)
+    * [OpenMoji](https://hfg-gmuend.github.io/openmoji/)
+    * [SVG Repo](https://www.svgrepo.com)
   + Illustrations
     * [Vektors](https://www.vektors.pro)
     * [Free Illustrations](https://freeillustrations.xyz)

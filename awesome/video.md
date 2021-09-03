@@ -11,7 +11,6 @@
 ## Education, Learning
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective.
-- [The School of Life](https://www.youtube.com/user/schooloflifechannel) is a collective of psychologists, philosophers and writers devoted to helping people lead calmer and more resilient lives.
 
 ## Life, Philosophy
 

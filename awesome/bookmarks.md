@@ -4,6 +4,7 @@
 - [Awesome CTO](https://github.com/kuchin/awesome-cto) is a curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups.
 - [Awesome Github Actions](https://github.com/sdras/awesome-actions)
 - [Awesome List](https://github.com/sindresorhus/awesome) about all kinds of interesting topics.
+- [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) is a list of topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses.
 - [BBC Micro Games Archive](http://bbcmicro.co.uk) ([Source](https://github.com/pau1ie/bbcmicro.co.uk) at Github)
 - [BBC Sound Effects](http://bbcsfx.acropolis.org.uk) are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence. The Sound Effects are BBC copyright, but they may be used for personal, educational or research purposes, as detailed in the license.
@@ -28,6 +29,7 @@
 - [Open Source Stash](https://opensourcestash.com)
 - [Open Sustainable Technology](https://opensustain.tech), [Github Source](https://github.com/protontypes/awesome-sustainable-technology)
 - [Our World in Data](https://ourworldindata.org) Research and data to make progress against the world's largest problems.
+- [Produpedia](https://produpedia.org) Lists of everything
 - [Purism](https://puri.sm) is a company dedicated to digital freedom, privacy, and security.
 - [Sci-Hub](https://sci-hub.st) provide mass and public access to tens of millions of research papers.
 - [Science X](https://sciencex.com/) is a leading web-based science, research and technology news service which covers a full range of topics -- physics, earth science, medicine, nanotechnology, electronics, space, biology, chemistry, computer sciences, engineering, mathematics and other sciences and technologies.

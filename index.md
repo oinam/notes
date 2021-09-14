@@ -42,6 +42,7 @@ title: Oinam Digital Garden
   - [ADEPT](/education/adept/)
   - [Education](/education/education/)
   - [Computer](/education/computer/)
+  - [How to Learn Something New](/education/learn-new/)
 
 # Entrepreneur
   - [10 Types of Innovation](/entrepreneur/10-types-of-innovation/)

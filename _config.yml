@@ -4,10 +4,10 @@ description: 'Tit-bit, wiki-ish, data, learnings, and observations.'
 remote_theme: oinam/oinam-jekyll
 
 footer:
-  credit: false
+  credit: true
   custom: true
 
-footer_custom: 'An ever Work-in-Progress effort by <a href="https://oinam.com">Oinam</a> (<a href="https://github.com/oinam/oinam.fyi">Source</a>). Since 2020.'
+footer_custom: 'An ever work-in-progress by <a href="https://oinam.com">Oinam</a> (<a href="https://github.com/oinam/oinam.fyi">Source</a>).'
 
 layout:
   theme: default # default, nord

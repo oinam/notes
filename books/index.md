@@ -25,6 +25,7 @@
 
 ### References
 
+- [HackerNews Book Recommendations](https://hacker-recommended-books.vercel.app)
 - [A Helpful Guide to Reading Better](https://fs.blog/reading/)
 - [Good Books](https://www.goodbooks.io) -- recommended by successful people.
 - [How to gain more from your reading](https://psyche.co/guides/how-to-gain-more-from-reading-by-taking-it-all-in-more-slowly)

@@ -67,6 +67,7 @@ title: Oinam Digital Garden
   - [Hedonic Treadmill or Adaptation](/life/hedonic-treadmill)
   - [Stoicism](/life/stoicism/)
   - [Slow is Smooth; Smooth is Fast](/life/slow-is-smooth-and-smooth-is-fast/)
+  - [Smart Enough to Look Stupid](/life/smart-enough-to-look-stupid/)
   - [Privacy](/life/privacy/)
   - [Ten Lessons I Wish I Had Been Taught](/life/10-lessons-i-wish-i-had-been-taught/) [source](https://www.ams.org/notices/199701/comm-rota.pdf) (pdf) [cached](/life/10-lessons-i-wish-i-had-been-taught.pdf) (pdf)
   - [Tips for a Better Life](/life/tips-for-a-better-life/)

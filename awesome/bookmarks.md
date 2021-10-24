@@ -36,6 +36,7 @@
 - [Standard Ebooks](https://standardebooks.org) Free and liberated ebooks.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) is a collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 - [The Daily Idea](https://thedailyidea.org/) aims to make learning about philosophy as easy as possible by bringing together the best philosophy resources from across the internet.
+- [The Pudding](https://pudding.cool) is a digital publication that explains ideas debated in culture with visual essays.
 - [This X Does Not Exist](https://thisxdoesnotexist.com)
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) from HackerNews.
 - [Unsplash](https://unsplash.com) Over 2 million free high-resolution images brought to you by the world’s most generous community of photographers.

@@ -36,6 +36,7 @@ title: Oinam Digital Garden
 
 # Devices
   - [Apple Ecosystem](/devices/apple-ecosystem/)
+  - [Device Ecosystem](/devices/device-ecosystem/)
   - [Raspberry Pi](/devices/raspberry-pi/)
 
 # Education

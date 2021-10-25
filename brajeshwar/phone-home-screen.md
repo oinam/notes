@@ -1,39 +1,41 @@
 # Brajeshwar's Phone Homescreen
 
-This is kinda fun thing I started - screenshot of my Phone's Homescreen evolution and changes over the years.
+This is kinda fun thing - screenshots of my Phone's Homescreen evolution and changes over the years.
 
-## 2021
+## 2021 (iPhone 13 Mini)
 
 ![iPhone-13-Mini - iOS 15](/brajeshwar/phone-home/iPhone-13-mini-iOS15-2021OCT16.jpeg)
 
-## 2021
+## 2021 (iPhone 11 Pro)
 
 ![iPhone-11-Pro - iOS 14](/brajeshwar/phone-home/iPhone-11-pro-iOS-14-2021.jpeg)
 
-## 2020
+## 2020 (iPhone 11 Pro)
 
 ![iPhone-11-Pro - iOS 14](/brajeshwar/phone-home/iPhone-11-pro-iOS-14-2020.jpeg)
 
-## 2019
+## 2019 (iPhone 11 Pro)
 
-![iPhone-4S - 2019.jpeg](/brajeshwar/phone-home/iPhone-11-pro-2019-1.jpeg)
+![iPhone-11-Pro - iOS 14](/brajeshwar/phone-home/iPhone-11-pro-2019-1.jpeg)
 
-## 2014
+## 2015-2018 (iPhone 6) (find out if I have screenshots)
 
-![iPhone-4S - 2014.jpeg](/brajeshwar/phone-home/iPhone-4S-2014.jpeg)
+## 2014 (iPhone 4S)
 
-## 2013
+![iPhone 4S](/brajeshwar/phone-home/iPhone-4S-2014.jpeg)
 
-![iPhone-4S - 2013.jpeg](/brajeshwar/phone-home/iPhone-4S-2013-1.jpeg)
+## 2013 (iPhone 4S)
 
-## 2012
+![iPhone 4S](/brajeshwar/phone-home/iPhone-4S-2013-1.jpeg)
 
-![iPhone-4S - 2012.jpeg](/brajeshwar/phone-home/iPhone-4S-2012-1.jpeg)
+## 2012 (iPhone 4S)
 
-## 2011
+![iPhone 4S](/brajeshwar/phone-home/iPhone-4S-2012-1.jpeg)
 
-![iPhone-4S - 2011.jpeg](/brajeshwar/phone-home/iPhone-4S-2011.jpeg)
+## 2011 (iPhone 4S)
 
-## 2008
+![iPhone 4S](/brajeshwar/phone-home/iPhone-4S-2011.jpeg)
 
-![iPhone 3G - 2008](/brajeshwar/phone-home/iPhone-3g-2008.jpeg)
+## 2008 (iPhone 3G)
+
+![iPhone 3G](/brajeshwar/phone-home/iPhone-3G-2008.jpeg)

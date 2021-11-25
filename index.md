@@ -25,6 +25,7 @@ title: Oinam Digital Garden
   - [Build a Crypto Company](/business/crypto/)
   - [Evaluation a Business Plan in an Industry](/business/evaluation-a-business-plan-in-an-industry/)
   - [Every company is a FinTech Company](/business/every-company-is-a-fintech-company/)
+  - [Timeless Strategies](/business/timeless-strategies/)
 
 [//]: # # Climate
 

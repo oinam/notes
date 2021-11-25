@@ -20,15 +20,16 @@ Dotfiles References
 ---
 ## Terminal
 
-[Terminals Are Sexy](https://terminalsare.sexy)
-
 Setup to make the default Apple Terminal work with the basic theme, zsh, etc.
 Then move up to [iTerm2](https://www.iterm2.com) for much heavier development setup.
 
 One should be able to do quick stuffs with terminal and still continue to serve as the default Terminal.
 
-### Brew
-[Homebrew](https://brew.sh/)
+Tools
+
+- [Terminals Are Sexy](https://terminalsare.sexy)
+
+### [Brew](https://brew.sh/)
 
 Installing from a text file list
 ```
@@ -37,10 +38,6 @@ or
 $ brew install $(<packages.txt)
 ```
 
-Formulae
-- brew install tree
-
----
 ## IDE
 
 - [Sublime Text](https://www.sublimetext.com)

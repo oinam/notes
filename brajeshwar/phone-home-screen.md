@@ -4,7 +4,7 @@ This is kinda fun thing - screenshots of my Phone's Homescreen evolution and cha
 
 ## 2021 (iPhone 13 Mini)
 
-![iPhone-13-Mini - iOS 15](/brajeshwar/phone-home/iPhone-13-mini-iOS15-2021OCT16.jpeg)
+![iPhone-13-Mini - iOS 15](/brajeshwar/phone-home/iPhone-13-mini-iOS15-2021.jpeg)
 
 ## 2021 (iPhone 11 Pro)
 

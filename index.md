@@ -106,6 +106,7 @@ title: Oinam Digital Garden
   - [Chekhov's Gun](/startup/chekhovs-gun/)
   - [Co-Founder](/startup/co-founder/)
   - [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)
+  - [Ideas](/startup/ideas/)
   - [Pitch Deck Mistakes](/startup/pitch-deck-mistakes/)
   - [Pitch Deck](/startup/pitch-deck/)
   - [Pitching your early stage startup](/startup/pitching-your-early-stage-startup/)

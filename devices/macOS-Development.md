@@ -25,9 +25,10 @@ Then move up to [iTerm2](https://www.iterm2.com) for much heavier development se
 
 One should be able to do quick stuffs with terminal and still continue to serve as the default Terminal.
 
-Tools
+Remove the "Last Login Message" in terminal
+$ touch .hushlogin
 
-- [Terminals Are Sexy](https://terminalsare.sexy)
+[Terminals Are Sexy](https://terminalsare.sexy)
 
 ### [Brew](https://brew.sh/)
 

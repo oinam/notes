@@ -11,6 +11,6 @@ Value being able to use any computer easily instead of one computer perfectly.
 	+ Yubikey
 	+ Dotfiles
 - Photos / Videos
-  + [PhotoSync](https://www.photosync-app.com/)
+	+ Local
   + Google Photos
   + iCloud

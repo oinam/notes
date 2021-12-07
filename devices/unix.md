@@ -6,6 +6,7 @@
 `cat /etc/*release`
 
 ### Laptop Clampshell mode
+
 https://askubuntu.com/questions/15520/how-can-i-tell-ubuntu-to-do-nothing-when-i-close-my-laptop-lid
 
 `sudo -H gedit /etc/systemd/logind.conf`

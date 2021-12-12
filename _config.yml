@@ -1,4 +1,4 @@
-title: Oinam Digital Garden
+title: Oinam's Notebook
 description: 'Tit-bit, wiki-ish, data, learnings, and observations.'
 
 remote_theme: oinam/oinam-jekyll
@@ -10,7 +10,7 @@ footer:
 footer_custom: 'An ever work-in-progress by <a href="https://oinam.com">Oinam</a> (<a href="https://github.com/oinam/oinam.fyi">Source</a>).'
 
 layout:
-  theme: default # default, nord
+  theme: default
 
 styles:
   font_family: serif
@@ -18,8 +18,6 @@ styles:
 
 oinam:
   title: Oinam
-  twitter: oinam
-  github: oinam
   website: https://oinam.com
   source: https://github.com/oinam/oinam.fyi
 

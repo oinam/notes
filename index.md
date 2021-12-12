@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Oinam Digital Garden
 ---
 
 # Agriculture
@@ -84,7 +83,6 @@ title: Oinam Digital Garden
   - [Audience Analysis, Marketing](/marketing/marketing-audience-analysis/)
   - [Marketing Checklist](/marketing/marketing-checklist/)
   - [Strategy and Tactics, Marketing](/marketing/marketing-strategy-tactics/)
-  - [The Ultimate Startup Marketing Strategy Guide](/marketing/ultimate-startup-marketing-strategy-guide.pdf/) (pdf)
 
 # Parenting
   - [10 Life Skills to Teach Your Child by Age 10](/parenting/10-life-skills-to-teach-your-child-by-age-10/)

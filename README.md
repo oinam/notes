@@ -1,9 +1,9 @@
-# Oinam Digital Garden
+# Oinam's Notebook
 
-[Oinam Digital Garden](https://oinam.fyi/)
+[Oinam's Notebook](https://oinam.fyi/)
 
-## References & Inspiration
+### References & Inspiration
 
-> Here are some interesting digital garden-ish collection of other informational randomness.
+Interesting digital garden-ish, notebook, and collections;
 
 - [Startup Toolchain](https://startuptoolchain.com)

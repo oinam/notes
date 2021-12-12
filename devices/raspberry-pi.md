@@ -9,6 +9,18 @@
 - [TorBox](https://www.torbox.ch) is an easy to use, anonymizing router based on a Raspberry Pi. TorBox creates a separate WiFi that routes the encrypted network data over the Tor network.
 - [Twister OS](https://twisteros.com/) is built on the official Raspbian Pi OS with themes designed to appear like operating systems they are themed after, but they are no operating systems by themselves.
 
+## Common Commands
+
+Upgrade Raspberry Pi OS\
+`sudo apt-get update`
+`sudo apt-get upgrade`
+
+Edit Config\
+`sudo raspi-config`
+
+[Connect from macOS](https://www.jimbobbennett.io/screen-sharing-a-raspberry-pi-from-a-mac/)
+`Go > Connect to Server > $ vnc://[IP]` (Use the VNC Password)
+
 ### References
 
 - How to [boot a Raspberry Pi from the Network](https://www.raspberrypi.org/documentation/hardware/raspberrypi/bootmodes/net_tutorial.md)

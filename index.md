@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Oinam's Notebook
 ---
 
 # Agriculture

@@ -12,19 +12,20 @@
 ## Common Commands
 
 Upgrade Raspberry Pi OS\
-`sudo apt-get update`
+`sudo apt-get update`\
 `sudo apt-get upgrade`
 
 Edit Config\
 `sudo raspi-config`
 
-[Connect from macOS](https://www.jimbobbennett.io/screen-sharing-a-raspberry-pi-from-a-mac/)
+Add SSH Key to login without password (change raspberrypi.local to IP or your local Pi address)
+`cat ~/.ssh/id_rsa.pub | ssh pi@raspberrypi.local 'mkdir .ssh/ && cat >> .ssh/authorized_keys'`
+
+[Connect from macOS](https://www.jimbobbennett.io/screen-sharing-a-raspberry-pi-from-a-mac/)\
 `Go > Connect to Server > $ vnc://[IP]` (Use the VNC Password)
 
 ### References
 
-- How to [boot a Raspberry Pi from the Network](https://www.raspberrypi.org/documentation/hardware/raspberrypi/bootmodes/net_tutorial.md)
 - [Setup Static IP Address](https://pimylifeup.com/raspberry-pi-static-ip-address/)
 - [Raspberry Pi PCIe Devices](https://pipci.jeffgeerling.com)
 - [CutiePi Tablet](https://cutiepi.io)
-- [Setting up ghost in raspberry pi](https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/)

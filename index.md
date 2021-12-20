@@ -102,8 +102,7 @@ title: Oinam's Notebook
   - [The Greatest Sales Deck from Zuora](/sales/the-greatest-sales-deck-from-zuora/)
   - [The Side Project Sales Checklist](/sales/the-side-project-sales-checklist/)
 
-# Startup
-  - [Startup](/startup/)
+# [Startup](/startup/)
   - [Chekhov's Gun](/startup/chekhovs-gun/)
   - [Co-Founder](/startup/co-founder/)
   - [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)

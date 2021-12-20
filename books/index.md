@@ -23,9 +23,13 @@
 
 - [Tsundoku](https://en.wikipedia.org/wiki/Tsundoku) (Japanese: 積ん読) is the art of buying books and never reading them.
 
-### References
+#### References
 
-- [HackerNews Book Recommendations](https://hacker-recommended-books.vercel.app)
-- [A Helpful Guide to Reading Better](https://fs.blog/reading/)
-- [Good Books](https://www.goodbooks.io) -- recommended by successful people.
-- [How to gain more from your reading](https://psyche.co/guides/how-to-gain-more-from-reading-by-taking-it-all-in-more-slowly)
+- [HackerNews Book Recommendations](https://hacker-recommended-books.vercel.app).
+- [A Helpful Guide to Reading Better](https://fs.blog/reading/).
+- [Good Books](https://www.goodbooks.io) recommended by successful people.
+- [How to gain more from your reading](https://psyche.co/guides/how-to-gain-more-from-reading-by-taking-it-all-in-more-slowly).
+- Brajeshwar's books of
+  [2019](https://brajeshwar.com/2019/books-of-2019/),
+  [2020](https://brajeshwar.com/2020/books-of-2020/),
+  [2021](https://brajeshwar.com/2021/books-of-2021/).

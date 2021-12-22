@@ -30,6 +30,7 @@
 - [Good Books](https://www.goodbooks.io) recommended by successful people.
 - [How to gain more from your reading](https://psyche.co/guides/how-to-gain-more-from-reading-by-taking-it-all-in-more-slowly).
 - Brajeshwar's books of
+  [2018](https://brajeshwar.com/2019/books-of-2018/),
   [2019](https://brajeshwar.com/2019/books-of-2019/),
   [2020](https://brajeshwar.com/2020/books-of-2020/),
   [2021](https://brajeshwar.com/2021/books-of-2021/).

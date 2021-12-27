@@ -39,11 +39,9 @@ plugins:
 
 exclude:
   - .jekyll-cache/
+  - .obsidian
   - .sass-cache/
-  - CNAME
   - Gemfile
   - Gemfile.lock
   - gemfiles/
-  - netlify.toml
   - README.*
-  - vendor/

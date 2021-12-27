@@ -1,11 +1,8 @@
 ---
-layout: home
+layout: default
 title: Oinam's Notebook
 ---
-
-# Agriculture
-  - [Farming](/agriculture/farming/)
-  - [Farm Bot](/agriculture/farm-bot/)
+<div class="items-list" markdown="1">
 
 # Awesome
   - [Articles](/awesome/articles/)
@@ -27,7 +24,10 @@ title: Oinam's Notebook
   - [Every company is a FinTech Company](/business/every-company-is-a-fintech-company/)
   - [Timeless Strategies](/business/timeless-strategies/)
 
-[//]: # # Climate
+# Climate & Earth
+
+  - [Farming](/agriculture/farming/)
+  - [Farm Bot](/agriculture/farm-bot/)
 
 # Company
   - [Tools, Services, and  Products](/company/tools-services-products/)
@@ -35,10 +35,10 @@ title: Oinam's Notebook
 # Design
   - [Dieter Rams' 10 "Good Design" Principles](/design/dieter-rams-good-design/)
 
-# Devices
-  - [Apple Ecosystem](/devices/apple-ecosystem/)
-  - [Device Ecosystem](/devices/device-ecosystem/)
-  - [Raspberry Pi](/devices/raspberry-pi/)
+# [Digital](/digital/)
+  - [Apple](/digital/apple/)
+  - [Device Ecosystem](/digital/device-ecosystem/)
+  - [Raspberry Pi](/digital/raspberry-pi/)
 
 # Education
   - [ADEPT](/education/adept/)
@@ -61,7 +61,6 @@ title: Oinam's Notebook
   - [Argue Constructively](/life/argue-constructively/)
   - [Decisions Automation](/life/decisions-automation/)
   - [Delete, Delegate, Defer, or Do](/life/dddd/)
-  - Essentialism / Minimalism
   - [First Principles](/life/first-principles/)
   - [Ganbaru](/life/ganbaru/)
   - [Go Bag](/life/go-bag/)
@@ -92,7 +91,7 @@ title: Oinam's Notebook
 
 # Photography
   - [Photography](/photography/photography/)
-  - [Cityscape Photography: The Comprehensive Guide](/photography/cityscape-photography-guide.pdf) (pdf 40MB)
+  - [Cityscape Photography: The Comprehensive Guide](/backup/cityscape-photography-guide.pdf) (pdf 40MB)
 
 # Presentation
   - [Presentation Rules](/presentation/presentation-rules/)
@@ -131,3 +130,5 @@ title: Oinam's Notebook
   - [BLUF](/writing/bluf/)
   - [Write to Express, Not to Impress](/writing/write-to-express-not-to-impress/)
   - [Writing in Business](/writing/writing-business/)
+  
+</div>

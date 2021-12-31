@@ -14,14 +14,18 @@
 2. It is OK not to finish a book you don’t like.
 3. Some books are more flexible and might not be read linearly. It does depend on the topic of book you’re reading. It’s okay to pick up chapters if the book is meant to be a collection of answers to unrelated topics.
 4. Write notes, highlight them, or stick tiny stickies on pages (for physical books).
-5. You can [speed-read](https://en.wikipedia.org/wiki/Speed_reading) parts and sections that might not be useful to remember.
+5. You can speed-read[^speed-read] parts and sections that might not be useful to remember.
 6. While reading you might come across topics you don’t know much about. While you’re still finishing the book, read a brief summary to get through the current content. Write them down separately to research more later.
 7. Try to write a summary after you’ve read the whole book.
 8. Find your format/style or mix them up - digital, physical, audio.
 
-## Fun
+### Tips
 
-- [Tsundoku](https://en.wikipedia.org/wiki/Tsundoku) (Japanese: 積ん読) is the art of buying books and never reading them.
+Here are a few personal tips that worked for me while trying to read/learn the contents of books and get the best out of them. This will help you to overcome the habit of practicing `Tsundoku`[^tsundoku].
+
+- Read reviews, from multiple sources, of a book and try to know a general idea of the content and idea of that book.
+- Or listen to audio books at about 1.2x speed. You can use whatever you are comfortable with -- a headphone, or in your car.
+- Once you have either read the reviews or heard the audio book, decide if you wan to read the book or not. When you do read it, either physical or digital, but now you know which part to browse and which part to concentrate.
 
 #### References
 
@@ -34,3 +38,7 @@
   [2019](https://brajeshwar.com/2019/books-of-2019/),
   [2020](https://brajeshwar.com/2020/books-of-2020/),
   [2021](https://brajeshwar.com/2021/books-of-2021/).
+
+
+[^speed-read]: [Speed Reading](https://en.wikipedia.org/wiki/Speed_reading) is the technique of chunking and minimizing subvocalization. The many available speed-reading training programs may utilize books, videos, software, and seminars. There is little scientific evidence regarding speed reading, and as a result its value seems uncertain.
+[^tsundoku]: [Tsundoku](https://en.wikipedia.org/wiki/Tsundoku) (Japanese: 積ん読) is the art of buying books and never reading them.

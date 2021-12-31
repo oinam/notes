@@ -12,10 +12,9 @@ title: Oinam's Notebook
 
 # [Books](/books/)
   - [Almanack of Naval Ravikant](/books/almanack-of-naval-ravikant/)
-  - [How To Be A Programmer](/books/how-to-be-a-programmer/)
+  - [Essentialism: The Disciplined Pursuit of Less](/books/essentialism-the-disciplined-pursuit-of-less/)
   - [How to Win Friends and Influence People](/books/how-to-win-friends-and-influence-people/)
-  - [The Description of a New World, Called the Blazing World](/books/the-description-of-a-new-world-called-the-blazing-world/)
-  - [The Psychology of Money](/book/the-psychology-of-money/)
+  - [The Psychology of Money](/books/the-psychology-of-money/)
   - [The Story of My Experiments with Truth](/books/the-story-of-my-experiments-with-truth/)
 
 # Business

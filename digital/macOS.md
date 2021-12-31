@@ -6,6 +6,7 @@ Transfer From old MacOS
 - Root: Invisible Files/Folders
 - Applications (Better to install the apps afresh)
 - Library (both user and root)
+- Brew, NPM, and Ruby Modules
 
 ## OS Defaults
 
@@ -132,9 +133,16 @@ Make all animations faster that are used by Mission Control\
 `sudo nano /etc/hosts`
 
 Add `0.0.0.0 siteToBlock.com`\
-Save > Exit
+Save > Exit (CTRL + x > y)
 
 ## [Rectangle App](https://rectangleapp.com) / [Source on Github](https://github.com/rxhanson/Rectangle)
+
+Custom Almost Maximize
+```
+defaults write com.knollsoft.Rectangle almostMaximizeHeight -float <VALUE_BETWEEN_0_&_1>
+defaults write com.knollsoft.Rectangle almostMaximizeWidth -float <VALUE_BETWEEN_0_&_1>
+```
+
 
 Custom Window Size, Find out Key Combo with 'Key Codes' app
 ```

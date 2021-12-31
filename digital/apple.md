@@ -4,9 +4,9 @@
 
 We try to stay with the default native apps and programs that comes with the OSes as much as possible. However, you still need few must-have tools, utilities, and programs that you need to get things done.
 
-We also try to backups of our content in non-Apple accessible formats to be able to move and decouple smoothly, if needed.
+We also try to backups of our content in either open or universal formats to be able to move and decouple from Apple smoothly, if needed.
 
-Besides many others, here are some of the key non-apple applications that we use on a regular basis;
+Here are some of the key non-apple applications that we use regularly;
 
 - [1Password](https://1password.com)\
   At the start of the 21st century, we started with [Keepass](https://keepass.info) as the entry into the world of Password Management but moved to 1Password (2006) since its beta and haven't looked back.
@@ -17,8 +17,14 @@ Besides many others, here are some of the key non-apple applications that we use
 - [Dropbox](https://www.dropbox.com/)\
   used for file storage management and sync across devices. App specific, settings, common family files and documents are left on iCloud.
 - [Grammarly](https://app.grammarly.com) + [Hemingway App](http://www.hemingwayapp.com) + [iA Writer](https://ia.net/writer)\
+- Hazel from [NoodleSoft](https://www.noodlesoft.com) is a nice automated organizational tool for your Mac.
   for a simpler, cleaner, and clearer writing.
 - [Lulu](https://objective-see.com/products/lulu.html)\
   is a free, open-source firewall that aims to block unknown outgoing connections.
 - [Rectangle](https://rectangleapp.com)\
   for windows management and positioning.
+
+## In the Lab (testing)
+
+- [Obsidian](https://obsidian.md) is a powerful knowledge base on top of a local folder of plain text Markdown files.
+- [Bitwarden](https://bitwarden.com)

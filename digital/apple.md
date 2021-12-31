@@ -17,8 +17,9 @@ Here are some of the key non-apple applications that we use regularly;
 - [Dropbox](https://www.dropbox.com/)\
   used for file storage management and sync across devices. App specific, settings, common family files and documents are left on iCloud.
 - [Grammarly](https://app.grammarly.com) + [Hemingway App](http://www.hemingwayapp.com) + [iA Writer](https://ia.net/writer)\
-- Hazel from [NoodleSoft](https://www.noodlesoft.com) is a nice automated organizational tool for your Mac.
   for a simpler, cleaner, and clearer writing.
+- [Hazel](https://www.noodlesoft.com)\
+  automation organizational tool.
 - [Lulu](https://objective-see.com/products/lulu.html)\
   is a free, open-source firewall that aims to block unknown outgoing connections.
 - [Rectangle](https://rectangleapp.com)\

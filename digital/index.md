@@ -10,6 +10,6 @@ Here are the assumptions so you can be able to maintain something like our setup
 - You can search your problems, and try available options.
 - You are comfortable tinkering with your device settings and preferences.
 
-We leverage the [Apple Ecosystem](/digital/apple/) to get things done. We do maintain backups of most options, so we can walk out of the ecosystem when needed. We we lose the seamlessness but things should still work.
+We leverage the [Apple Ecosystem](/digital/apple/) to get things done. We do maintain backups of most options, so we can walk out of the ecosystem when needed. We will lose the seamlessness but things should still work.
 
-We run most other services in a [Unix Ecosystem](/digital/unix/), while leaving the content part easily accessible across environments.
+We run most other services in the [Linux Ecosystem](/digital/linux/), while leaving the content part easily accessible across environments.

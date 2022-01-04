@@ -23,6 +23,7 @@
 - [Head](https://htmlhead.dev) A free guide to HTML5 `<head>` elements
 - [History of the Web](https://thehistoryoftheweb.com), [Timeline View](https://thehistoryoftheweb.com/timeline/)
 - [ICANN DOMAINS](https://publicsuffix.org/list/public_suffix_list.dat)
+- [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games) (Internet Archive)
 - [Nautilus](http://nautil.us) tells you about science and its endless connections to our lives.
 - [Open Culture](http://www.openculture.com) The best free cultural & educational media on the web.
 - [Open Source Music Production Tools](https://midination.com/free-music-production-software/)
@@ -33,6 +34,7 @@
 - [Purism](https://puri.sm) is a company dedicated to digital freedom, privacy, and security.
 - [Sci-Hub](https://sci-hub.st) provide mass and public access to tens of millions of research papers.
 - [Science X](https://sciencex.com/) is a leading web-based science, research and technology news service which covers a full range of topics -- physics, earth science, medicine, nanotechnology, electronics, space, biology, chemistry, computer sciences, engineering, mathematics and other sciences and technologies.
+- [Software Library](https://archive.org/details/softwarelibrary) (Internet Archive)
 - [Standard Ebooks](https://standardebooks.org) Free and liberated ebooks.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) is a collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 - [The Daily Idea](https://thedailyidea.org/) aims to make learning about philosophy as easy as possible by bringing together the best philosophy resources from across the internet.
@@ -41,5 +43,4 @@
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) from HackerNews.
 - [Unsplash](https://unsplash.com) Over 2 million free high-resolution images brought to you by the world’s most generous community of photographers.
 - [Wait But Why](https://waitbutwhy.com) carefully produced for the true book lover.
-- Internet Archive's [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
-- Internet Archive's [Software Library](https://archive.org/details/softwarelibrary)
+- [WinWorld Library](https://winworldpc.com/library/)

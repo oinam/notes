@@ -2,7 +2,7 @@
 
 This is one of the most popular and most recommended book ever. Of course, almost everyone claims to have read it and is indeed worth a few re-reads.
 
-How to Win Friends and Influence People, by [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie), was first released in November of 1936. The book is a timeless bestseller, packed with rock-solid advice that has carried thousands of now famous people up the ladder of success in their business and personal lives.
+[How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People) by [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie), was first released in November of 1936. The book is a timeless bestseller, packed with rock-solid advice that has carried thousands of now famous people up the ladder of success in their business and personal lives.
 
 ## Summary
 
@@ -62,9 +62,3 @@ _The book has four major sections._
 7. Give the other person a fine reputation to live up to.
 8. Use encouragement. Make the fault seem easy to correct.
 9. Make the other person happy about doing what you suggest.
-
-### References
-
-- [Wikipedia](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)
-- [GoodReads](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
-- Amazon: [Kindle](https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B08N6NR4H7/), [Hardcover](https://www.amazon.com/Friends-Influence-People-Deluxe-Hardbound/dp/9387669173/), [Paperback](https://www.amazon.com/How-Win-Friends-Influence-People/dp/938787320X/)

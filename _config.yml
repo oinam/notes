@@ -9,13 +9,6 @@ footer:
 
 footer_custom: 'An ever work-in-progress by <a href="https://oinam.com">Oinam</a> (<a href="https://github.com/oinam/oinam.fyi">Source</a>).'
 
-layout:
-  theme: default
-
-styles:
-  font_family: serif
-
-
 oinam:
   title: Oinam
   website: https://oinam.com
@@ -31,11 +24,19 @@ defaults:
     values:
       layout: "default"
 
+optional_front_matter:
+  remove_originals: true
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
+
 plugins:
+  - jekyll-optional-front-matter
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-titles-from-headings
-  - jekyll-optional-front-matter
 
 exclude:
   - .jekyll-cache/

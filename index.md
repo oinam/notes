@@ -37,6 +37,7 @@ title: Oinam's Notebook
 # [Digital](/digital/)
   - [Apple](/digital/apple/)
   - [Device Ecosystem](/digital/device-ecosystem/)
+  - [Linux](/digital/linux/)
   - [Raspberry Pi](/digital/raspberry-pi/)
 
 # Education

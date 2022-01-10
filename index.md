@@ -34,11 +34,10 @@ title: Oinam's Notebook
 # Design
   - [Dieter Rams' 10 "Good Design" Principles](/design/dieter-rams-good-design/)
 
-# [Digital](/digital/)
+# Digital
   - [Apple](/digital/apple/)
   - [Device Ecosystem](/digital/device-ecosystem/)
   - [Linux](/digital/linux/)
-  - [Raspberry Pi](/digital/raspberry-pi/)
 
 # Education
   - [ADEPT](/education/adept/)
@@ -89,6 +88,9 @@ title: Oinam's Notebook
   - [10 Life Skills to Teach Your Child by Age 10](/parenting/10-life-skills-to-teach-your-child-by-age-10/)
   - [Digital Literacy](/parenting/digital-literacy/)
 
+# People
+  - [Mary Somerville](/people/mary-somerville/)
+
 # Photography
   - [Photography](/photography/photography/)
   - [Cityscape Photography: The Comprehensive Guide](/backup/cityscape-photography-guide.pdf) (pdf 40MB)
@@ -113,10 +115,10 @@ title: Oinam's Notebook
   - [Y Combinator’s Startup Library](/startup/ycombinator-startup-library/)
 
 # Technology
-  - [Mobile Device Best Practices](/technology/mobile-device-best-practices/)
   - [Passwords](/technology/passwords/)
   - [Passwords, Let them paste it](/technology/passwords-paste/)
   - [Wi-Fi](/technology/wi-fi/)
+  - [Raspberry Pi](/technology/raspberry-pi/)
 
 # Tools
   - [LaTeX](/tools/latex/)

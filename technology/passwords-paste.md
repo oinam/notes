@@ -1,4 +1,4 @@
-# Let them paste passwords
+# Passwords, Let them paste it
 
 When you stumble on websites, especially those "security-conscious" ones, that stops you from pasting passwords, you know they are irritating, and idiotic.
 

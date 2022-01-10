@@ -143,10 +143,18 @@ defaults write com.knollsoft.Rectangle almostMaximizeHeight -float <VALUE_BETWEE
 defaults write com.knollsoft.Rectangle almostMaximizeWidth -float <VALUE_BETWEEN_0_&_1>
 ```
 
+## Add SSH Key to Keychain
 
-Custom Window Size, Find out Key Combo with 'Key Codes' app
+Add your SSH Key's Password to the Keychain.
+
+`ssh-add -K /path/to/private_key`\
+e.g. `ssh-add -K ~/.ssh/id_rsa`
+
+Taking care of Restart. Add these to ssh config (commonly located at ~/.ssh/config)
+
 ```
-defaults write com.knollsoft.Rectangle specified -dict-add keyCode -float 8 modifierFlags -float 786721
-defaults write com.knollsoft.Rectangle specifiedHeight -float 1500
-defaults write com.knollsoft.Rectangle specifiedWidth -float 1000
+Host *
+  UseKeychain yes
+  AddKeysToAgent yes
+  IdentityFile ~/.ssh/id_rsa
 ```

@@ -1,6 +1,6 @@
 # Oinam's Notebook
 
-[Oinam's Notebook](https://oinam.fyi/)
+[oinam.fyi](https://oinam.fyi/)
 
 ### References & Inspiration
 

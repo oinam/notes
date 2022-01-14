@@ -19,6 +19,9 @@ The prospect for another federated, Internet wide communication system seem very
 
 I think a corollary of this is that it's to the advantage of all of the big centralized systems to keep email alive. If they kill email, on the one hand it could drive people to their central system, but on the other hand it might force people to someone else's central system, because people will be forced to do something and they probably won't join everyone's system (especially if there's a cost associated). As long as there's no obvious winning central communication system, all of them have a lot to potentially lose if email dies.
 
-## Setup and Maintenance
+## Tools, Setup, and Maintenance
+`DMARC, SPF, DKIM`
 
-An interactive tutorial on how email's [DMARC, SPF, and DKIM work](https://www.learndmarc.com).
+- An interactive tutorial on how email's [DMARC, SPF, and DKIM work](https://www.learndmarc.com).
+- https://dmarcian.com
+- https://easydmarc.com

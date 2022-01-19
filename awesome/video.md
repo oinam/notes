@@ -11,6 +11,7 @@
 ## Education, Learning
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective.
+- [5 Levels](https://www.youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N) from Wired is a Channel where an expert explains a complex subject in five levels of complexity. The levels are usually to a child, a teen, a college student, a grad student, and finally to an expert.
 
 ## Life, Philosophy
 

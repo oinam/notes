@@ -45,12 +45,6 @@ title: Oinam's Notebook
   - [Computer](/education/computer/)
   - [How to Learn Something New](/education/learn-new/)
 
-# Entrepreneur
-  - [10 Types of Innovation](/entrepreneur/10-types-of-innovation/)
-  - [How to create successful Products and Services](/entrepreneur/how-to-create-successful-products-and-services/)
-  - [The Biggest Mistakes First-Time Founders Make](/entrepreneur/the-biggest-mistakes-first-time-founders-make/)
-  - [What a CEO should do?](/entrepreneur/CEO-job-to-do/)
-
 # Leadership
   - [Top 10 traits of the Perfect Leader](/leadership/top-10-traits-of-the-perfect-leader/)
 
@@ -103,15 +97,19 @@ title: Oinam's Notebook
   - [The Greatest Sales Deck from Zuora](/sales/the-greatest-sales-deck-from-zuora/)
   - [The Side Project Sales Checklist](/sales/the-side-project-sales-checklist/)
 
-# [Startup](/startup/)
+# [Startup](/startup/) and Entrepreneurship
+  - [10 Types of Innovation](/entrepreneur/10-types-of-innovation/)
   - [Chekhov's Gun](/startup/chekhovs-gun/)
   - [Co-Founder](/startup/co-founder/)
   - [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)
+  - [How to create successful Products and Services](/entrepreneur/how-to-create-successful-products-and-services/)
   - [Ideas](/startup/ideas/)
   - [Pitch Deck Mistakes](/startup/pitch-deck-mistakes/)
   - [Pitch Deck](/startup/pitch-deck/)
   - [Pitching your early stage startup](/startup/pitching-your-early-stage-startup/)
+  - [The Biggest Mistakes First-Time Founders Make](/entrepreneur/the-biggest-mistakes-first-time-founders-make/)
   - [Validation Cheat Sheet](/startup/validation-cheat-sheet.pdf) (pdf)
+  - [What a CEO should do?](/entrepreneur/CEO-job-to-do/)
   - [Y Combinator’s Startup Library](/startup/ycombinator-startup-library/)
 
 # Technology

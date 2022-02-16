@@ -1,6 +1,6 @@
 # Books
 
-## Why
+## Why Read?
 
 1. Reading well will deepen your appreciation of literature; you’ll gain new experiences and enrich your knowledge of the world and other people.
 2. Reading well requires noticing details, reflecting on them and questioning them.
@@ -27,13 +27,20 @@ Here are a few personal tips that worked for me while trying to read/learn the c
 - Or listen to audio books at about 1.2x speed. You can use whatever you are comfortable with -- a headphone, or in your car.
 - Once you have either read the reviews or heard the audio book, decide if you wan to read the book or not. When you do read it, either physical or digital, but now you know which part to browse and which part to concentrate.
 
+## Free Books
+
+- [Global Grey’s Books](https://www.globalgreyebooks.com/) is a growing library of high-quality, public domain, free ebooks.
+- [Standard Ebooks](https://standardebooks.org) has free and liberated ebooks.
+- Project [Gutenberg](https://www.gutenberg.org) is a library of over 60,000 free eBooks
+carefully produced for the true book lover.
+
 #### References
 
-- [HackerNews Book Recommendations](https://hacker-recommended-books.vercel.app).
-- [A Helpful Guide to Reading Better](https://fs.blog/reading/).
-- [Good Books](https://www.goodbooks.io) recommended by successful people.
-- [How to gain more from your reading](https://psyche.co/guides/how-to-gain-more-from-reading-by-taking-it-all-in-more-slowly).
-- Brajeshwar's books of
+- [HackerNews Book Recommendations](https://hacker-recommended-books.vercel.app)
+- [A Helpful Guide to Reading Better](https://fs.blog/reading/)
+- [Good Books](https://www.goodbooks.io) Recommended by Successful People.
+- [How to Gain More From Your Reading](https://psyche.co/guides/how-to-gain-more-from-reading-by-taking-it-all-in-more-slowly)
+- Brajeshwar's Books of
   [2018](https://brajeshwar.com/2019/books-of-2018/),
   [2019](https://brajeshwar.com/2019/books-of-2019/),
   [2020](https://brajeshwar.com/2020/books-of-2020/),

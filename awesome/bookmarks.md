@@ -35,7 +35,6 @@
 - [Sci-Hub](https://sci-hub.st) provide mass and public access to tens of millions of research papers.
 - [Science X](https://sciencex.com/) is a leading web-based science, research and technology news service which covers a full range of topics -- physics, earth science, medicine, nanotechnology, electronics, space, biology, chemistry, computer sciences, engineering, mathematics and other sciences and technologies.
 - [Software Library](https://archive.org/details/softwarelibrary) (Internet Archive)
-- [Standard Ebooks](https://standardebooks.org) Free and liberated ebooks.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) is a collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 - [The Daily Idea](https://thedailyidea.org/) aims to make learning about philosophy as easy as possible by bringing together the best philosophy resources from across the internet.
 - [The Pudding](https://pudding.cool) is a digital publication that explains ideas debated in culture with visual essays.

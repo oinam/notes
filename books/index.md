@@ -27,12 +27,15 @@ Here are a few personal tips that worked for me while trying to read/learn the c
 - Or listen to audio books at about 1.2x speed. You can use whatever you are comfortable with -- a headphone, or in your car.
 - Once you have either read the reviews or heard the audio book, decide if you wan to read the book or not. When you do read it, either physical or digital, but now you know which part to browse and which part to concentrate.
 
-## Free Books
+## Free and Open Source Books
 
+- [Downpour](https://www.downpour.com) DRM-Free AudioBooks (paid)
 - [Global Grey’s Books](https://www.globalgreyebooks.com/) is a growing library of high-quality, public domain, free ebooks.
 - [Standard Ebooks](https://standardebooks.org) has free and liberated ebooks.
-- Project [Gutenberg](https://www.gutenberg.org) is a library of over 60,000 free eBooks
-carefully produced for the true book lover.
+- Project [Gutenberg](https://www.gutenberg.org) is a library of over 60,000 free eBooks carefully produced for the true book lover.
+- [Open Textbook Initiative](https://aimath.org/textbooks/) from The American Institute of Mathematics.
+- [LibriVox](https://librivox.org) free public domain Audiobooks.
+- [Wikisource](https://en.wikisource.org/wiki/Main_Page) is the free library that anyone can improve.
 
 #### References
 

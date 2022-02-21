@@ -16,7 +16,6 @@
 - [Climate Desk](http://theclimatedesk.org) is a journalistic collaboration dedicated to exploring the impact — human, enviornmental, economic, political — of a changing climate.
 - [Collosal](https://www.thisiscolossal.com) is an international platform for contemporary art and visual expression that explores a vast range of creative disciplines.
 - [Datasette](https://datasette.io) is an open source multi-tool for exploring and publishing data.
-- [Downpour](https://www.downpour.com) DRM-Free AudioBooks (paid)
 - [Epidemic Sound](https://www.epidemicsound.com)
 - [Free Software and Self-Hosted Web Apps](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [Hacker News](https://news.ycombinator.com/)

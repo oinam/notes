@@ -2,9 +2,9 @@
 
 <meta name="robots" content="noindex">
 
-We bought the entire collection of books from [Global Grey](https://www.globalgreyebooks.com/). Global Grey is a one-woman operation and she has a growing library of high-quality, public domain, free ebooks.
+We bought the entire collection of books from [Global Grey](https://www.globalgreyebooks.com/). Global Grey is a one-woman operation and she has a growing library of high-quality, public domain, free ebooks (3,000+ books). You can browse and download the books you like individually. You can also help her out by buying the collections.
 
-You can browse and download the books you like individually. You can also help her out by buying the collections. If you have stumbled here, this is the [Oinam](https://oinam.com) Family's Collection.
+_If you have stumbled here, this is the [Oinam](https://oinam.com) Family's Collection._
 
 ---
 

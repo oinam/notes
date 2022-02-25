@@ -1,0 +1,3494 @@
+# Books Library (TOC)
+
+<meta name="robots" content="noindex">
+
+We bought the entire collection of books from [Global Grey](https://www.globalgreyebooks.com/). Global Grey is a one-woman operation and she has a growing library of high-quality, public domain, free ebooks.
+
+You can browse and download the books you like individually. You can also help her out by buying the collections. If you have stumbled here, this is the [Oinam](https://oinam.com) Family's Collection.
+
+---
+
+## Africa
+
+- African Camp Fires By Stewart Edward White
+- At the Back of the Black Man's Mind By Richard Edward Dennett
+- The Black Man's Place in South Africa By Peter Nielsen
+- The Crime of the Congo By Arthur Conan Doyle
+- Fetichism in West Africa By Robert Hamill Nassau
+- Folk Stories from Southern Nigeria By Elphinstone Dayrell
+- Great African Travellers By William H. G. Kingston
+- Hausa Folklore By Maalam Shaihu
+- The Holy Piby By Robert Athlyi Rogers
+- In the Heart of Africa By Samuel W. Baker
+- Kaffir (Xhosa) Folk-Lore By George McCall Theal
+- The Last Journals of David Livingstone Volume I By Horace Waller
+- The Last Journals of David Livingstone Volume II By Horace Waller
+- The Man-Eaters of Tsavo By J. H. Patterson
+- Myths and Legends of the Bantu By Alice Werner
+- Myths of Ife By John Wyndham
+- Native Life in South Africa By Solomon Tshekisho Plaatje
+- The Negro By William Edward Burghardt Du Bois
+- The Nile Tributaries of Abyssinia By Samuel W. Baker
+- Notes on the Folklore of the Fjort By Richard Edward Dennett
+- People of Africa By Edith A. How
+- The Promised Key By G. G. Maragh
+- The Queen of Sheba and Her Only Son Menyelek By E. A. Wallis Budge
+- Religion and Myth By James Macdonald
+- The Religious System of the Amazulu By H. Callaway
+- The Royal Parchment Scroll of Black Supremacy By Fitz Balintine Pettersburg
+- South-African Folk-Tales By James A. Honey
+- Specimens of Bushman Folklore By W. H. I. Bleek And L. C. Lloyd
+- The Spell of Egypt By Robert Hichens
+- Sport in Abyssinia By Dermot Mayo
+- Travels in West Africa By Mary H. Kingsley
+- A Voyage to Abyssinia By Jeronimo Lobo
+- Woman's Mysteries of a Primitive People By D. Amaury Talbot
+- Wonderful Ethiopians of the Ancient Cushite Empire By Drusilla Dunjee Houston
+- Yoruba Legends By M. I. Ogumefu
+- Yoruba Speaking Peoples of the Slave Coast of West Africa By A. B. Ellis
+
+## Americas
+
+- The American Crisis By Thomas Paine
+- American Notes By Rudyard Kipling
+- The American Prejudice Against Color By William G. Allen
+- The Amish By Ammon Monroe Aurand, Jr
+- A Century of Negro Migration By Carter G. Woodson
+- Coffee in the Gourd By J. Frank Dobie
+- The Communistic Societies of the United States By Charles Nordhoff
+- Complete Story of the San Francisco Horror By Trumbull White
+- Curious Punishments of Bygone Days By Alice Morse Earle
+- Darkwater, Voices from Within the Veil By William Edward Burghardt Du Bois
+- Democracy in America By Alexis de Tocqueville
+- Drums and Shadows By Mary Granger
+- Early Life of the Pennsylvania Germans By Ammon Monroe Aurand, Jr
+- The Education of the Negro By Charles Dudley Warner
+- The Englishwoman in America By Isabella Bird
+- The Federalist Papers by Alexander Hamilton, John Jay, and James Madison
+- Folk-Lore of the Pennsylvania Germans By W. J. Hoffman
+- Fusang, The Discovery of America By Charles G. Leland
+- Hawaiian Folk Tales By Thomas G. Thrum
+- Hawaiian Historical Legends By William D. Westervelt
+- Hawaiian Legends of Old Honolulu By William D. Westervelt
+- Hawaiian Legends of Volcanoes By William D. Westervelt
+- Hawaiian Mythology By Martha Warren Beckwith
+- Historic Events of Colonial Days By Rupert Sargent Holland
+- History of the Civil War, 1861–1865 by James Ford Rhodes
+- The History of the Conquest of Mexico By William Hickling Prescott
+- An Inquiry into the Animism and Folk-Lore of the Guiana Indians By Walter E. Roth
+- Jamaica Anansi Stories By Martha Warren Beckwith
+- The Kumulipo By Queen Liliuokalani
+- Kumulipo, A Hawaiian Creation Chant By Martha Warren Beckwith
+- Legends of Gods and Ghosts By William D. Westervelt
+- The Life of George Washington, Vol. 1 By John Marshall
+- Mankind United By Arthur Bell
+- Mob Rule in New Orleans By Ida B. Wells-Barnett
+- Myths and Legends of Our Own Land By Charles M. Skinner
+- Pow-Wows By John George Hohman
+- Psychic Phenomena of Jamaica By Joseph J. Williams
+- The Realness of Witchcraft in America By Ammon Monroe Aurand, Jr
+- The Red Record By Ida B. Wells-Barnett
+- The Souls of Black Folk By William Edward Burghardt Du Bois
+- Southern Horrors: Lynch Law in All Its Phases By Ida B. Wells-Barnett
+- Tenderfoot Days By George Robert Bird
+- Te Pito Te Henua, Or Easter Island By William J. Thomson
+- United States Presidents' Inaugural Speeches By Various
+- Unwritten Literature of Hawaii By Nathaniel B. Emerson
+- With Americans of Past and Present Days by J. J. Jusserand
+
+## ANCIENT GREECE
+
+- Alexander The Great By Jacob Abbott
+- Ancient Art and Ritual By Jane Harrison
+- Apollonius Of Tyana By G. R. S. Mead
+- The Eleusinian and Bacchic Mysteries By Thomas Taylor
+- The Eleusinian Mysteries and Rites By Dudley Wright
+- Five Stages of Greek Religion By Gilbert Murray
+- Fragments of the Lost Writings of Proclus By Thomas Taylor
+- Greek Popular Religion By Martin P. Nilsson
+- Helen of Troy By Andrew Lang
+- The Heroes By Charles Kingsley
+- The History of Herodotus By G. C. Macaulay
+- The History of the Peloponnesian War By Thucydides
+- Homer and His Age By Andrew Lang
+- The Hymns of Orpheus By Thomas Taylor
+- Lives of the Greek Heroines By Louisa Menzies
+- The Mycenaean Origin of Greek Mythology By Martin P. Nilsson
+- Myths and Legends of Ancient Greece and Rome by E.M. Berens
+- Myths of Crete and Pre-Hellenic Europe By Donald A. Mackenzie
+- Myths of Greece and Rome By Jane Harrison
+- Religion and Art in Ancient Greece By Ernest Arthur Gardner
+- Religious Cults Associated With the Amazons By Florence Mary Bennett
+- Stories of Old Greece and Rome By Emilie K. Baker
+- Studies in Greek Scenery, Legend and History By James George Frazer
+- The Theogony of Hesiod By Hesiod
+
+## ANCIENT EGYPT
+
+- The Book of the Dead By E. A. Wallis Budge
+- The Burden of Isis By James Teackle Dennis
+- Cleopatra By Jacob Abbott
+- Development of Religion and Thought in Ancient Egypt By James Henry Breasted
+- The Egyptian Heaven and Hell Volume I By E. A. Wallis Budge
+- The Egyptian Heaven and Hell Volume II By E. A. Wallis Budge
+- The Egyptian Heaven and Hell Volume III By E. A. Wallis Budge
+- Egyptian Ideas of the Future Life By E. A. Wallis Budge
+- Egyptian Magic By E. A. Wallis Budge
+- Egyptian Myth and Legend By Donald A. Mackenzie
+- Egyptian Myths and Mysteries By Rudolf Steiner
+- The Hieroglyphics of Horapollo Nilous By Alexander Turner Cory
+- The House of the Hidden Places By W. Marsham Adams
+- Legends of the Gods By E. A. Wallis Budge
+- The Leyden Papyrus By F. L. Griffith and Herbert Thompson
+- The Life and Times of Cleopatra, Queen of Egypt By Arthur E. P. Brome Weigall
+- The Literature of the Ancient Egyptians By E. A. Wallis Budge
+- The Liturgy of Funerary Offerings By E. A. Wallis Budge
+- A Miracle in Stone, Or, the Great Pyramid of Egypt By Joseph A. Seiss
+- Origin and Significance of the Great Pyramid By C. Staniland Wake
+- Peeps At Many Lands: Ancient Egypt By James Baikie
+- The Pyramid Texts By Samuel A. B. Mercer
+- Stolen Legacy By George G. M. James
+- Tutankhamen: Amenism, Atenism and Egyptian Monotheism By E. A. Wallis Budge
+- The Wisdom of the Egyptians By Brian Brown
+
+## ANCIENT NEAR EAST
+
+- Ancient Babylonia By C. H. W. Johns
+- The Ancient East By D. G. Hogarth
+- Ancient Fragments By I. P. Cory
+- The Archaeology of the Cuneiform Inscriptions By A. H. Sayce
+- An Assyrian Doomsday Book By C. H. W. Johns
+- Babylonian and Assyrian Laws, Contracts and Letters By C. H. W. Johns
+- Babylonian Influence on the Bible and Popular Beliefs By Abram Smythe Palmer
+- The Babylonian Legends of Creation By E. A. Wallis Budge
+- Babylonian Life and History By E. A. Wallis Budge
+- Babylonian Magic and Sorcery By Leonard William King
+- Babylonian Religion and Mythology By Leonard William King
+- The Babylonian Story of the Deluge and the Epic of Gilgamish By E. A. Wallis Budge
+- Babylonian-Assyrian Birth Omens and Their Cultural Significance By Morris Jastrow
+- The Chaldean Account of Genesis By George Smith
+- The Chaldean Account of the Deluge By George Smith
+- The Chaldean Oracles of Zoroaster By William Wynn Westcott
+- The Civilization of Babylonia and Assyria By Morris Jastrow
+- The Code of Hammurabi By Leonard William King
+- The Cyropaedia, The Education of Cyrus By Xenophon
+- The Devils and Evil Spirits of Babylonia Volume I By R. Campbell Thompson
+- An Elementary Grammar By A. H. Sayce
+- The Epic of Gilgamish By R. Campbell Thompson
+- The Epic of Kings, Hero Tales of Ancient Persia By Firdausi
+- The Excavation of Gezer, Volume 1 By R. A. S. Macalister
+- The Excavation of Gezer, Volume 2 By R. A. S. Macalister
+- The Excavation of Gezer, Volume 3 By R. A. S. Macalister
+- Fresh Light from the Ancient Monuments By A. H. Sayce
+- The History of Assurbanipal By George Smith
+- The History of Babylonia By George Smith
+- The History of Sennacherib By George Smith
+- Ishtar and Izdubar By Leonidas Le Cenci Hamilton
+- Lectures on the Origin and Growth of Religion By A. H. Sayce
+- Legends of Babylon and Egypt in Relation to Hebrew Tradition By Leonard William King
+- Materials for a Sumerian Lexicon By John Dyneley Prince
+- Media, Babylon and Persia By Zenaide A. Ragozin
+- Mesopotamia and Assyria By J. Baillie Fraser
+- Myths of Babylonia and Assyria By Donald A. Mackenzie
+- A New Decipherment of the Hittite Hieroglyphics By R. Campbell Thompson
+- Ninevah and its Remains By Austen Henry Layard
+- Nineveh and Babylon By Austen Henry Layard
+- The Oath in Babylonian and Assyrian Literature By Samuel A. B. Mercer
+- The Oldest Code of Laws in the World By C. H. W. Johns
+- On Traces of an Indefinite Article in Assyrian By R. Campbell Thompson
+- The Pahlavi Texts Part 3 By E. W. West
+- Patriarchal Palestine By A. H. Sayce
+- The Philistines, Their History and Civilization By R. A. S. Macalister
+- Records of the Past, 2nd Series, Volume I By A. H. Sayce
+- Records of the Past, 2nd Series, Volume II By A. H. Sayce
+- Records of the Past, 2nd Series, Volume III By A. H. Sayce
+- Records of the Past, 2nd Series, Volume IV By A. H. Sayce
+- The Relations Between the Laws of Babylonia and the Laws of the Hebrew Peoples By C. H. W. Johns
+- The Religion of Babylonia and Assyria By Theophilus G. Pinches
+- Religious and Moral Ideas in Babylonia and Assyria By Samuel A. B. Mercer
+- The Seven Tablets of Creation By Leonard William King
+- Social Life among the Assyrians and Babylonians By A. H. Sayce
+- Sumerian Mythology By Samuel Noah Kramer
+- A Sumerian Palace and the 'A' Cemetery at Kish, Mesopotamia, Part 2 By Ernest Mackay
+- A Sumerian Reading Book By C. J. Gadd
+- The Tablet from Yuzgat By A. H. Sayce
+- The Teachings of Zoroaster By S. A. Kapadia
+- Xerxes By Jacob Abbott
+- The Zend Avesta Part 1 By James Darmesteter
+- The Zend Avesta Part 2 By James Darmesteter
+- The Zend Avesta Part 3 By L. H. Mills
+
+## ANCIENT ROME
+
+- A Bridge Of Roman Histories From Titus Livius To Cornelius Tacitus By William Fulbecke
+- A Compleat Collection of the Works of Flavius Josephus By Roger L'Estrange
+- Etruscan Roman Remains in Popular Tradition By Charles G. Leland
+- The History of Nero By Jacob Abbott
+- History of Rome by Livy
+- The History of The Decline and Fall of the Roman Empire, Vol. 1 By Edward Gibbon
+- Julian, Philosopher and Emporer and the Last Struggle of Paganism Against Christianity By Alice Gardner
+- The Lives of the Twelve Caesars By C. Suetonius Tranquillus
+- The Mysteries of Mithra By Franz Cumont
+- The Oriental Religions in Roman Paganism By Franz Cumont
+- Pagan and Christian Rome By Rodolfo Lanciani
+- The Religion of Numa By Jesse Benedict Carter
+- The Royal Museum at Naples By Colonel Fanin
+- The Secret History of Procopius By Richard Atwater
+- Taboo, Magic, Spirits: A Study Of Primitive Elements In Roman Religion By Eli Edward Burriss
+- Two Orations of the Emperor Julian By Thomas Taylor
+- The Works of Julius Caesar By Julius Caesar
+
+
+## APOCRYPHA
+
+- The Apocrypha By Unknown (scanned)
+- The Apocrypha By Unknown (Global Grey edition)
+- Apocrypha Arabica By Margaret Dunlop Gibson
+- The Apocryphal Acts of Paul, Peter, John, Andrew and Thomas By Bernhard Pick
+- The Biblical Antiquities of Philo By Montague Rhodes James
+- The Book of Enoch By R. H. Charles
+- The Book of Enoch the Prophet By Richard Laurence
+- The Book of Jasher By Unknown
+- The Book of Jubilees By R. H. Charles
+- The Extra-Canonical Life of Christ By Bernhard Pick
+- The First Book of Adam and Eve By Rutherford H. Platt
+- The Forgotten Books of Eden By Rutherford H. Platt
+- The Kolbrin By Unknown
+- The Lost Apocrypha of the Old Testament By Montague Rhodes James
+- The Lost Books of the Bible By Unknown
+
+
+## ARABIA AND THE MIDDLE EAST
+
+- Arabian Poetry By W. A. Clouston
+- Devil Worship, The Sacred Books and Traditions of the Yezidiz By Isya Joseph
+- Eastern Sketches By Benjamin Disraeli
+- Folklore and Legends, Oriental By Charles John Tibbitts
+- Folk-lore of the Holy Land By J. E. Hanauer
+- Forty-four Turkish Fairy Tales By Ignacz Kunos
+- The Heart of Arabia, Volume 1 By Harry St John Bridger Philby
+- In Mesopotamia By Martin Swayne
+- Jerusalem, The City Of Herod And Saladin By Walter Besant and E. H. Palmer
+- Origins of the Druze People and Religion By Philip K. Hitti
+- The Persian Mystics: Jami By Frederick Hadland Davis
+- Travels in Arabia Deserta By Charles M. Doughty
+- Travels in Assyria, Media and Persia By J. S. Buckingham
+
+## ARTICLES AND ESSAYS
+
+- All Things Considered By G. K. Chesterton
+- Clarence Darrow Essays By Clarence Darrow
+- Collected Essays By George Orwell
+- A Cynic Looks at Life By Ambrose Bierce
+- Essays By Michel de Montaigne
+- The Gift of Friendship By Various
+- The Gods By Robert G. Ingersoll
+- Intentions By Oscar Wilde
+- Letters on England By Voltaire
+- Letters to Dead Authors By Andrew Lang
+- Mark Twain Essays By Mark Twain
+- Modern Essays By Various
+- The Moment and Other Essays By Virginia Woolf
+- The Oxford Book of American Essays By Various
+- Representative Men By Ralph Waldo Emerson
+- Serpent-Worship and Other Essays By C. Staniland Wake
+- Suspiria de Profundis By Thomas De Quincey
+- Through the Magic Door By Arthur Conan Doyle
+- The Transcendentalist By Ralph Waldo Emerson
+- What Is Man? And Other Stories By Mark Twain
+- The Works of Robert G. Ingersoll Volume I By Robert G. Ingersoll
+- The Works of Robert G. Ingersoll Volume II By Robert G. Ingersoll
+- Write It Right By Ambrose Bierce
+
+
+## ASIA
+
+- Across Asia On A Bicycle By Allen and William Lewis Sachtleben
+- Aryan Word-Building By George O. Holbrooke
+- The Laughable Stories of Bar-Hebraeus By E. A. Wallis Budge
+- Tamil Self-Taught By Don M. De Zilva Wickremasinghe
+- Tibetan Folk Tales By A. L. Shelton
+
+
+## ASTROLOGY
+
+- Anima Astrologiae Or a Guide for Astrologers By William Lilly
+- Astral Worship By J. H. Hill
+- Astrology and Marriage By Sepharial
+- Astrology and Religion Among the Greeks and Romans By Franz Cumont
+- Astrology in a Nutshell By C. H. Webber
+- Astrology, Its Technics and Ethics By C. AQ. Libra
+- Choice Aphorisms from the Seven Segments of Cardan By William Lilly
+- Everybody's Astrology By Magnus Jensen
+- General Book of the Tarot By A. E. Thierens
+- The Guide to Astrology By Raphael
+- The Hindu Book of Astrology By Bhakti Seva
+- An Introduction to Astrology By William Lilly
+- A Manual of Astrology By Raphael
+- The Mysteries of Astrology and the Wonders of Magic By Charles W. Roback
+- Practical Astrology By Edgar De Valcourt-Vermont
+- Simplified Scientific Astrology By Max Heindel
+- The Solar Biology By Hiram Butler
+- Tetrabiblos By Claudius Ptolemy
+
+
+## ATLANTIS AND EARTH MYSTERIES
+
+- Atlantis the Antediluvian World By Ignatius Donnelly
+- Atlantis, the Book of the Angels By D. Bridgman-Metchim
+- The Cellular Cosmogony By Cyrus Reed Teed
+- A Discovery of a New World By John Wilkins
+- A Dweller on Two Planets By Frederick S. Oliver
+- The Enlightenment of the World By John G. Abizaid
+- Heaven and Earth By Gabrielle Henriet
+- How I Found the Lost Atlantis, The Source of All Civilization By Paul Schliemann
+- Is the Bible From Heaven, Is the Earth a Globe? By Alex Gleason
+- A Journey to the Earths Interior By Marshall B. Gardner
+- The Lost Lemuria By William Scott-Elliot
+- The Oera Linda Book By Wiliam R. Sandbach
+- Our Story of Atlantis By W. P. Phelon
+- Paradise Found By William F. Warren
+- The Phantom of the Poles By William Reed
+- Ragnarok: The Age Of Fire And Gravel By Ignatius Donnelly
+- The Sacred Symbols of Mu By James Churchward
+- The Sacred Theory of the Earth By Thomas Burnet
+- Selestor's Men of Atlantis By Clara Iza von Ravn
+- The Story of Atlantis By William Scott-Elliot
+- Submerged Atlantis Restored By J. Ben Leslie
+- Zetetic Astronomy, Earth Not a Globe By Parallax (Samuel Birley Rowbotham)
+
+## AUTOBIOGRAPHIES AND BIOGRAPHIES
+
+- Akbar, the Great Mogul By Vincent A. Smith
+- Annie Besant, An Autobiography By Annie Besant
+- An Autobiography By Margaret Sanger
+- The Autobiography of a Winnebago Indian By Paul Radin
+- Autobiography of a Yogi By Paramhansa Yogananda
+- The Autobiography of Benjamin Franklin By Benjamin Franklin
+- An Autobiography of Buffalo Bill By Buffalo Bill (William Frederick Cody)
+- The Autobiography of Charles Darwin By Charles Darwin
+- Confessions of an English Opium-Eater By Thomas De Quincey
+- The Education of Henry Adams By Henry Adams
+- Famous Men of the Middle Ages By John Henry Haaren
+- Frederick Douglass By Charles W. Chesnutt
+- How They Succeeded by Orison Swett Marden
+- Julia Ward Howe by Maud Howe Elliott, Florence Howe Hall, Laura E. Richards
+- The Life of Charlotte Bronte By Elizabeth Cleghorn Gaskell
+- Life of Chopin By Franz Liszt
+- The Life of Christopher Columbus By Edward Everett Hale
+- Life of Samuel Johnson By James Boswell
+- The Memoirs of Casanova By Giacomo Casanova
+- Memoirs of the Author of A Vindication Of The Rights Of Woman By William Godwin
+- The Mirror of the Sea By Joseph Conrad
+- My Bondage and My Freedom By Frederick Douglass
+- My Life By Leon Trotsky
+- Narrative of the Life of Frederick Douglass by Frederick Douglass
+- Nostradamus, The Man Who Saw Through Time By Lee McCann
+- Personal Memoirs of U. S. Grant, Complete By Ulysses S. Grant
+- The Promised Land By Mary Antin
+- Reminiscences of a South African Pioneer By W. C. Scully
+- The Road to Wigan Pier By George Orwell
+- Seven Pillars of Wisdom By T. E. Lawrence
+- A Sketch of the Life of Apollonius of Tyana By Daniel M. Tredwell
+- The Story of Cole Younger By Cole Younger
+- The Story of My Life By Helen Keller
+- The Story of My Misfortunes By Peter Abelard
+- Washington, The Man and the Mason By Charles Hilliard Callahan
+
+## BUDDHISM
+
+- 31 Planes of Existence By Suvanno Mahathera
+- Amitabha, A Story of Buddhist Theology By Paul Carus
+- The Awakening of Faith By Ashvagosha
+- Buddha's Way of Virtue By W. D. C. Wagiswara And K. J. Saunders
+- Buddhism and Buddhists in China By Lewis Hodus
+- Buddhism in Tibet By Emil Schlagintweit
+- A Buddhist Bible By Dwight Goddard
+- The Buddhist Catechism By Henry S. Olcott
+- Buddhist Mahayana Texts By E. B. Cowell
+- Buddhist Psalms By S. Yamabe and Lily Adams Beck
+- Buddhist Scriptures By E. J. Thomas
+- Chinese Buddhism By Joseph Edkins
+- The Creed of Buddha By Edmond Holmes
+- The Dhammapada by F. Max Muller
+- Esoteric Teachings of the Tibetan Tantra By C. A. Muses
+- The Gateless Gate By Nyogen Senzaki And Paul Reps
+- The Gospel of Buddha By Paul Carus
+- The Jataka Tales By Ellen C. Babbitt
+- The Jataka Volume I By Robert Chalmers
+- The Jataka Volume II By Robert Chalmers
+- Jinacarita By W. H. D. Rouse
+- The Life and Work of Buddhaghosa By Bimala Charan Law
+- A Life Of Buddha By Samuel Beal
+- The Life of Buddha By Andre Ferdinand Herold
+- The Life of Buddha and Its Lessons By Henry S. Olcott
+- Light of Asia By Edwin Arnold
+- Manual of Zen Buddhism By Daisetsu Teitaro Suzuki
+- More Jataka Tales By Ellen C. Babbitt
+- The Path of Light By Lionel D. Barnett
+- Principal Teachings of the True Sect of Pure Land By Yejitsu Okusa
+- The Quintessence of Secret Esoteric Buddhism By Trieu Phuoc
+- A Record of Buddhistic Kingdoms By James Legge
+- The Religion of the Samurai By Kaiten Nukariya
+- The Saddharma Pundarika Or, The Lotus of the True Law By H. Kern
+- Sermons of a Buddhist Abbot (Zen For Americans) By Soyen Shaku
+- Shinran and His Work By Arthur Lloyd
+- Teachings in Chinese Buddhism By Neng Rong
+- The Tree of Wisdom By Nargarjuna
+- The Udana By Dawsonne Melanchthon Strong
+- Venerable Acariya Mun By Acariya Maha Boowa Nanasampanno
+- Vinaya Texts Part I By T. W. Rhys Davids and Hermann Oldenberg
+- Vinaya Texts Part II By T. W. Rhys Davids and Hermann Oldenberg
+- Vinaya Texts Part III By T. W. Rhys Davids and Hermann Oldenberg
+- The Way of the Buddha By Herbert Baynes
+- The Way to Nirvana By L. De La Vallee Poussin
+
+
+## CELTIC
+
+- The Book of Kells By Edward Sullivan
+- The Celtic Dragon Myth By J. F. Campbell
+- Celtic Fairy Tales By Joseph Jacobs
+- Celtic Folklore, Welsh and Manx By John Rhys
+- Celtic Mythology and Religion By Alexander Macbain
+- Celtic Wonder Tales By Ella Young
+- The Fairy-Faith in Celtic Countries By W. Y. Evans-Wentz
+- Fairy Legends and Traditions of the South of Ireland By Thomas Crofton Croker
+- Legendary Fictions of the Irish Celts By Patrick Kennedy
+- More Celtic Fairy Tales By Joseph Jacobs
+- Myths and Legends of the Celtic Race By T. W. Rolleston
+- On the Study of Celtic Literature By Matthew Arnold
+- Popular Tales of the West Highlands, Vols 1-4 By J. F. Campbell
+- The Religion of the Ancient Celts By J. A. Macculloch
+- The Secret Commonwealth of Elves, Fauns and Fairies By Robert Kirk
+- Survivals in Belief Among the Celts By George Henderson
+
+
+## CHINA
+
+- The Book Of Poetry By James Legge
+- A Brief History Of Early Chinese Philosophy By Daisetsu Teitaro Suzuki
+- China and the Manchus By Herbert A. Giles
+- Chinese Literature By Epiphanius Wilson
+- Chinese Occultism By Paul Carus
+- Confucianism and its Rivals By Herbert A. Giles
+- A Description of the Empire of China, Volume 1 By J. B. Du Halde
+- A Description of the Empire of China, Volume 2 By J. B. Du Halde
+- A Feast of Lanterns By L. Cranmer-Byng
+- Feng Shui By Ernest J. Eitel
+- Kung-Fu, or Tauist Medical Gymnastics By John Dudgeon
+- Myths and Legends of China By Edward T.C. Werner
+- Myths of China and Japan By Donald A. Mackenzie
+- Religions of Ancient China By Herbert A. Giles
+- Sacred Places in China By Carl F. Kupfer
+- Some Chinese Ghosts By Lafcadio Hearn
+- Symbolism in Chinese Art By W. Perceval Yetts
+- Yang Chu's Garden of Pleasure By Anton Forke
+
+
+## CHRISTIANITY
+
+- The Age of Reason By Thomas Paine
+- Alexandrines from The Cherubinic Pilgrim by Angelus Silesius
+- The Ancient Catholic Church By Robert Rainy
+- Ancient, Medieval and Modern Christianity By Charles Guignebert
+- The Anti-Christ By George W. Carey
+- Ante-Nicene Fathers, Vol. I by Alexander Roberts and James Donaldson
+- The Anti-Universalist, or, History of the Fallen Angels of the Scriptures By Josiah Priest
+- Applied Theology By Francis Cassatte Monfort
+- Ascent of Mount Carmel By St. John of the Cross
+- Babylon By R. H. Mount, Jr.
+- The Believer's Victory Over Satan's Devices By William L. Parsons
+- Beyond Belief, A Buddhist Critique of Fundamentalist Christianity By A. L. DeSilva
+- The Bible Triumphant: Twelve Dozen Sceptical Arguments Refuted By Elizabeth Armstrong Reed
+- The Bible: The King James Version
+- The Biography of the Bible By Ernest Sutherland Bates
+- The Book of Genesis for Bible Classes and Private Study By Samuel A. B. Mercer
+- The Book of Job By E. W. Bullinger
+- The Book of Revelation By Clarence Larkin
+- The Book of Saints and Friendly Beasts by Abbie Farwell Brown
+- The Book of the Bee By E. A. Wallis Budge
+- The Book of the Cave of Treasures By E. A. Wallis Budge
+- The Pilgrim's Progress By John Bunyan
+- Christian Symbolism By Katherine Lee Jenner
+- A Commentary upon the Prophet Ezekiel By William Lowth
+- The Complete Sayings of Jesus By Arthur Hinds
+- The Confessions of Saint Augustine By Saint Augustine
+- The Difficulties of Infidelity By George Stanley Faber
+- Easton's Bible Dictionary By M.G. Easton
+- Evidence from Scripture and History of the Second Coming of Christ By William Miller
+- Faith and its Psychology By William Ralph Inge
+- Fifty Years in the Church of Rome By Charles Chiniquy
+- Fox's Book of Martyrs By John Foxe
+- Foxe's Book of Martyrs By John Foxe
+- The Garden of Eden and the Flood By John C. Keener
+- God, the Bible, Truth and Christian Theology By L. W. De Laurence
+- God the Invisible King By H. G. Wells
+- The Gospel of Barnabas By Lonsdale and Laura Ragg
+- The Great Controversy between Christ and Satan By Ellen G. White
+- Handbook of Christian Symbolism By W. And G. Audsley
+- The Hidden Church of the Holy Graal By Arthur Edward Waite
+- The History of Protestantism By James A. Wylie
+- History of the Christian Religion By Charles B. Waite
+- History of the Cross By Henry Dana Ward
+- The History of the Reformation of the Church of England By Gilbert Burnet
+- The History, Principles and Practise of Symbolism in Christian Art By F. Edward Hulme
+- The Holy War By John Bunyan
+- Hymns of the Eastern Church By J. M. Neale
+- The Imitation of Christ By Thomas à Kempis
+- The Immanence of God By L. W. De Laurence
+- Jesus An Essene By Edward Planta Nesbit
+- Jesus Christ Heals By Charles Fillmore
+- Jesus, The Last Great Initiate By Edouard Schure
+- John Wesley's Place in History By Woodrow Wilson
+- Keep a True Lent By Charles Fillmore
+- The Legends of Genesis By Hermann Gunkel
+- The Life and Morals of Jesus of Nazareth (The Jefferson Bible) By Thomas Jefferson
+- The Life and Times of Jesus the Messiah Vol 1 By Alfred Edersheim
+- The Life and Times of Jesus the Messiah Vol 2 By Alfred Edersheim
+- The Little Flowers of St. Francis By W. Heywood
+- The Lives of the Saints By Alban Butler
+- The Magical Message According to Ioannes By James Morgan Pryse
+- The Man of Sorrows By John Nelson Darby
+- A Manual of Church Decoration and Symbolism By Ernest Geldart
+- Molinos the Quietist By John Bigelow
+- Myth, Magic, and Morals: A Study of Christian Origins By Frederick Cornwallis Conybeare
+- The New England Primer By Massachusetts Sabbath School Society
+- The Oldest Church Manual By Philip Schaff
+- The Oldest History of the World By Benny Evangelist
+- The Old Testament in the Light of the Ancient East By Alfred Jeremias
+- Old Testament Legends By Montague Rhodes James
+- The Origin of the New Testament By William Wrede
+- Orthodoxy By G. K. Chesterton
+- Pageant of the Popes by John Farrow
+- The Practice of the Presence of God by Brother Lawrence
+- Prayers of the Early Church By J. Manning Potts
+- The Pre-Adamite, Or, Who Tempted Eve? By A. Hoyle Lester
+- Remarks on the Distinguishing Doctrine of Modern Universalism By Adam Empie
+- The Restored New Testament By James Morgan Pryse
+- The Second Helvetic Confession By Heinrich Bullinger
+- Secret Enemies of True Republicanism By Andrew B. Smolnikar
+- Secret Power By Dwight L. Moody
+- Selected Writings and Sermons By Martin Luther
+- A Select Library of the Nicene and Post Nicene Fathers of the Christian Church By Philip Schaff
+- Self-Contradictions of the Bible By William Henry Burr
+- A Short History of the Order of Saint John of Jerusalem By E. M. Tenison
+- Sod: The Mysteries of Adoni By S. F. Dunlap
+- The Spiritual Exercises of St. Ignatius of Loyola By Elder Mullan
+- St. Paul's Ethical Teaching By William Martin
+- Subconscious Religion By Russell H. Conwell
+- Summa Theologica, Part I (Prima Pars) By Thomas Aquinas
+- Summa Theologica, Part I-II (Pars Prima Secundae) By Thomas Aquinas
+- Summa Theologica, Part II-II (Secunda Secundae) By Thomas Aquinas
+- Summa Theologica, Part III (Tertia Pars) By Thomas Aquinas
+- Synopsis of the Books of the Bible By John Nelson Darby
+- The Theology of Holiness By Dougan Clark
+- The Traveller's Guide from Death to Life By Mrs Stephen Menzies
+- The Trial of Christ By David K. Breed
+- Unitarian Christianity By William Ellery Channing
+- The Westminster Catechisms By Westminster Assembly
+- The Works of St. Anselm By St. Anselm
+- The Works of Stephen Charnock By Stephen Charnock
+- The Writings of St. Francis of Assisi By St. Francis of Assisi
+
+## CLASSICS
+
+- Agamemnon By Aeschylus
+- Ajax By Sophocles
+- Alcestis By Euripides
+- Andromache By Euripides
+- Antigone By Sophocles
+- The Apology By Plato
+- The Argonautica By Apollonius
+- The Birds By Aristophanes
+- The Categories By Aristotle
+- Choephori By Aeschylus
+- Critias By Plato
+- Crito By Plato
+- Cupid and Psyche By Apuleius
+- The Cyclops By Euripides
+- Dialogues By Seneca
+- The Discourses of Epictetus By Epictetus
+- The Eclogues By Virgil
+- Enchiridion By Epictetus
+- The Eumenides By Aeschylus
+- Euthydemus By Plato
+- Euthyphro By Plato
+- The Golden Asse By Apuleius
+- The Golden Sayings of Epictetus By Epictetus
+- The Golden Verses of Pythagoras By Pythagoras
+- Heracles By Euripides
+- The History of Animals By Aristotle
+- The Iliad By Homer
+- The Iliad By Homer
+- Iphigenia At Aulis By Euripides
+- Laws By Plato
+- The Love Books By Ovid
+- Lysistrata By Aristophanes
+- Meditations By Marcus Aurelius
+- Metamorphoses By Ovid
+- Metaphysics By Aristotle
+- The Mimes of the Courtesans By Lucian
+- Nicomachean Ethics By Aristotle
+- The Odyssey By Homer (translated by Alexander Pope)
+- Of the Nature of Things By Lucretius
+- On Benefits By Seneca
+- On Generation and Corruption By Aristotle
+- On Sophistical Refutations By Aristotle
+- On the Heavens By Aristotle
+- On the Shortness of Life By Seneca
+- On the Soul By Aristotle
+- On Youth And Old Age, On Life And Death, On Breathing By Aristotle
+- Parmenides By Plato
+- The Persians By Aeschylus
+- Philebus By Plato
+- Plutarch's Lives By Plutarch
+- The Poems of Sappho By Sappho
+- Poetics By Aristotle
+- Politics By Aristotle
+- Prometheus Bound By Aeschylus
+- The Republic By Plato
+- The Satyricon By Petronius
+- The Seven Against Thebes By Aeschylus
+- The Seventh Letter By Plato
+- The Six Enneads By Plotinus
+- The Statesman By Plato
+- The Suppliants By Aeschylus
+- Symposium By Plato
+- The Syrian Goddess By Lucian
+- Theaetetus By Plato
+- Timaeus By Plato
+- The Trachiniae By Sophocles
+- The Trojan Women By Euripides
+- A True Story By Lucian
+- The Works of Lucian of Samosata By Lucian
+
+
+## COMPARATIVE
+
+- Ancient Calendars and Constellations By Emmeline M. Plunket
+- Ancient Pagan and Modern Christian Symbolism By Thomas Inman
+- Babel and Bible By Friedrich Delitzsch
+- A Comparative View of Religions By Johannes Henricus Scholten
+- Cuneiform Parallels to the Old Testament By Robert William Rogers
+- Egyptian Mythology and Egyptian Christianity By Samuel Sharpe
+- Gerald Massey's Lectures By Gerald Massey
+- India in Primitive Christianity By Arthur Lillie
+- The Mystery Religions and the New Testament By Henry C. Sheldon
+- Non-Christian Religions of the World By William Muir
+- The Origin of Pagan Idolatry By George Stanley Faber
+- Pagan and Christian Creeds: Their Origin and Meaning By Edward Carpenter
+- Pagan Christs By John M. Robertson
+- Pagan Prayers By Marah Ellis Ryan
+- Pantheism Its Story and Significance By J. Allanson Picton
+- The Sacred Anthology; A Book of Ethnical Scriptures By Moncure Daniel Conway
+- Symbolism of the East and West By H. Murray-Aynsley
+- Symbols of 'The Way': Far East and West By Elizabeth Anna Gordon
+- Ten Great Religions: An Essay in Comparative Theology By James Freeman Clarke
+- The World's Sixteen Crucified Saviors By Kersey Graves
+
+
+## CONFUCIANISM AND TAOISM
+
+- The Analects By Confucius
+- The Book of Filial Duty By Confucius
+- Book of Odes By Confucius
+- The Canon of Reason and Virtue By Daisetsu Teitaro Suzuki and Paul Carus
+- The Doctrine of the Mean By Confucius
+- The Ethics of Confucius By Miles Menander Dawson
+- The Great Learning By Confucius
+- Laotzu's Tao and Wu Wei By Henri Borel
+- The Mencius By James Legge
+- Musings of a Chinese Mystic By Lionel Giles
+- The Sacred Books of China Part 1 By James Legge
+- The Sacred Books of China Part 2 By James Legge
+- The Sacred Books of China Part 3 By James Legge
+- The Sacred Books of China Part 4 By James Legge
+- The Sayings Of Lao Tzu By Lao Tzu
+- Tao Te Ching By Lao Tzu
+- The Tao Teh King: A Short Study in Comparative Religion By C. Spurgeon Medhurst
+- The Texts of Taoism, Part 1 By James Legge
+- The Texts of Taoism, Part 2 By James Legge
+- Yin Chih Wen, The Tract of the Quiet Way By Daisetsu Teitaro Suzuki and Paul Carus
+
+## CONSPIRACIES
+
+- The Dulce Book By Branton
+- The History of a Lie By Herman Bernstein
+- The Jesuit Conspiracy, The Secret Plan of the Order By Abbate M. Leone
+- Majestic 12 and the Secret Government By William Cooper
+- Memoirs Illustrating the History of Jacobinism, Volume 1 By Abbe Barruel
+- Memoirs Illustrating the History of Jacobinism, Volume 2 By Abbe Barruel
+- Memoirs Illustrating the History of Jacobinism, Volume 3 By Abbe Barruel
+- Memoirs Illustrating the History of Jacobinism, Volume 4 By Abbe Barruel
+- The Papal Conspiracy Exposed and Protestantism Defended By Edward Beecher
+- Proofs of a Conspiracy By John Robison
+- The Secret World Government By Arthur Cherep-Spiridovich
+
+
+## COOKERY AND HOUSEHOLD
+
+- The Art of German Cooking and Baking By Lina Meier
+- The Belgian Cook-Book By Mrs. Brian Luck
+- The Cook's Decameron: A Study in Taste By Mrs. W. G. Waters
+- The Curiosities of Ale and Beer By John Bickerdyke
+- Diabetic Cookery, Recipes and Menus By Rebecca W. Oppenheimer
+- An Encyclopaedia of Practical Recipes and Processes By Sidney Morse
+- The Encyclopedia of Gardening By T. W. Sanders
+- A Guide to Modern Cookery By A. Escoffier
+- The New Dr. Price Cookbook By Unknown
+- No Animal Food By Rupert H. Wheldon
+- Old Cookery Books and Ancient Cuisine By William Carew Hazlitt
+- Practical Farming and Gardening By Willis MacGerald
+- Rare and Excellent Receipts By Mary Tillinghast
+- Seventy-Five Receipts for Pastry Cakes, and Sweetmeats By Miss Leslie
+
+## DEVILS AND DEMONS
+
+- All About Devils By Moses Hull
+- Assamese Demonology By Benudhar Rajkhowa
+- The Autobiography of Satan By John R. Beard
+- The Biography of Satan By Kersey Graves
+- The Certainty of the Worlds of Spirits By Richard Baxter
+- Daemonologie By King James The First
+- Demoniality: Or, Incubi and Succubi By Ludovico Maria Sinistrari
+- Demonology And Devil-Lore, Volume 1 By Moncure Daniel Conway
+- Demonology And Devil-Lore, Volume 2 By Moncure Daniel Conway
+- Demonology, or, The Scripture Doctrine of Devils By Joseph Young
+- Demon Possession and Allied Themes By John Livingstone Nevius
+- Demons and Tongues By Alma White
+- The Devils of Loudun By Edmund Goldsmid
+- An Essay on Evil Spirits By William Carlisle
+- The History of the Devil By Paul Carus
+- Is the Devil a Myth? By C. F. Wimberly
+- Letters on Demonology and Witchcraft By Walter Scott
+- The Pedigree of the Devil By Frederic Thomas Hall
+- The Political History of the Devil By Daniel Defoe
+
+
+## ESOTERIC AND OCCULT
+
+- Absolute Key To Occult Science, The Tarot Of The Bohemians By Papus
+- Albertus Magnus: Egyptian Secrets, White and Black Art for Man and Beast By L. W. De Laurence
+- Alchemical Catechism By Unknown
+- Alchemy: Ancient and Modern By H. Stanley Redgrove
+- Alchemy Rediscovered and Restored By Archibald Cockren
+- Applied Magic By Dion Fortune
+- Arbatel of Magick By Robert Turner
+- Art Magic By William Britten
+- The Aurora of the Philosophers By Paracelsus
+- The Bi-literal Cypher of Francis Bacon By Elizabeth Wells Gallup
+- The Black Pullet By Anonymous
+- The Book of Aquarius By Anonymous
+- The Book of Black Magic By Arthur Edward Waite
+- The Book of Ceremonial Magic By Arthur Edward Waite
+- Book of Magic By Unknown
+- Bygone Beliefs By H. Stanley Redgrove
+- Ceremonial Magic Unveiled By Dion Fortune
+- A Chymicall Treatise By Arnold de Villa Nova
+- The Chymical Wedding of Christian Rosenkreutz By Johann Valentin Andreae
+- Collectanea Chemica By Arthur Edward Waite
+- The Collected Writings of Jack Parsons By Jack Parsons
+- Compendium Heptarchia Mystica By John Dee
+- Compendium rarissimum totius Artis Magicae By Unknown
+- A Compleat System Of Magick Or The History Of The Black Art By Unknown
+- The Complete Treatise on Gold By Unknown
+- De Heptarchia Mystica By John Dee
+- The Devil's Legacy to Earth Mortals By Unknown
+- Dogme et Rituel de la Haute Magie Part I By Eliphas Levi
+- Dogme et Rituel de la Haute Magie Part II By Eliphas Levi
+- An Encyclopaedia of Occultism By Lewis Spence
+- Encyclopedia of Ancient and Forbidden Secrets By Nye
+- Euphrates, or, The Waters of the East By Thomas Vaughan
+- Francis Bacon's Cryptic Rhymes and the Truth They Reveal By Edwin Bormann
+- A Golden and Blessed Casket of Nature's Marvels By Benedictus Figulus
+- The Grand Grimoire with the Great Clavicle of Solomon By Unknown
+- The Great Art By Antoine-Joseph Pernety
+- The Great Cryptogram, Francis Bacons Cipher in the So Called Shakespeare Plays By Ignatius Donnelly
+- Hermetic and Alchemical Essays By Various Authors
+- The Hermetic and Alchemical Writings of Paracelsus By Paracelsus
+- The Hermetic Arcanum By Anonymous
+- The Hermetic Museum By Arthur Edward Waite
+- The Hidden Side of Things By Charles Webster Leadbeater
+- The Hieroglyphic Monad By John Dee
+- The History of Magic By Eliphas Levi
+- A History of Magic and Experimental Science Vol II By Lynn Thorndike
+- An History of Magic, Witchcraft, and Animal Magnetism, Volume 1 By John Campbell Colquhoun
+- An History of Magic, Witchcraft, and Animal Magnetism, Volume 2 By John Campbell Colquhoun
+- A History of the Art of Magic By T. T. Timayenis
+- The Human Aura By Swami Panchadasi (William Walker Atkinson)
+- The Illustrated Key to the Tarot By L. W. De Laurence
+- The Initiates of the Flame by Manly P. Hall
+- The Isiac Tablet of Cardinal Bembo By William Wynn Westcott
+- The Key of Solomon the King By Samuel Liddell MacGregor Mathers
+- The Lesser Key of Solomon By Samuel Liddell MacGregor Mathers
+- Letters On Occult Meditation By Alice Bailey
+- Lives of Alchemystical Philosophers By Arthur Edward Waite
+- Lives of the Necromancers By William Godwin
+- Magic By A. S. Raleigh
+- The Magical Ritual of the Sanctum Regnum By Eliphas Levi
+- The Magical Writings of Thomas Vaughan By Thomas Vaughan
+- Magic and Mystery: Popular History By Alfred Thompson
+- Magic, Black and White; Charms and Counter Charms By T. Witton Davies
+- The Magic of the Middle Ages by Viktor Rydberg
+- The Magic Presence By Godfre Ray King
+- Magic, White and Black or the Science of Finate and Infinite Life By Franz Hartmann
+- The Magus, A Complete System of Occult Philosophy, Book 1 By Francis Barrett
+- The Magus, A Complete System of Occult Philosophy, Book 2 By Francis Barrett
+- A Manual of Occultism By Sepharial
+- Modern Magic By Maximilian Schele de Vere
+- The Mysteries and Secrets of Magic By C. J. S Thompson
+- A New Model of the Universe By P. D. Ouspensky
+- Numbers, Their Occult Power and Mystic Virtues By William Wynn Westcott
+- Occultism for Beginners By William H. Dower
+- Occult Principles Of Health And Healing By Max Heindel
+- Occult Science in India and Among the Ancients By Louis Jacolliot
+- Occult Science in Medicine By Franz Hartmann
+- The Occult Sciences By Arthur Edward Waite
+- The Occult Sciences, The Philosophy of Magic, Prodigies, and Apparent Miracles By Anthony Todd Thomson
+- The Occult Significance of Blood By Rudolf Steiner
+- Occult Tales By William Q. Judge
+- Of Antimony Vulgar, The Second Treatise By Alexander van Suchten
+- An Open Entrance to the Closed Palace of the King By Eirenaeus Philalethes
+- An Outline of Occult Science By Rudolf Steiner
+- The Paradoxes of the Highest Science By Eliphas Levi
+- Paths to Power By Floyd B. Wilson
+- The Philosophy of Natural Magic By Henry Cornelius Agrippa
+- The Pictorial Key to the Tarot By Arthur Edward Waite
+- The Possibility and Reality of Magick, Sorcery, and Witchcraft By Richard Boulton
+- Practical Guide to the Investigation of Spiritualism, Healing, and The Occult Sciences By George W. Walrond
+- Practical Occultism By Walter Winston Kenilworth
+- Practical Occultism By J. J. Morse
+- Principia Discordia By Greg Hill and Kerry Wendell Thornley
+- The Private Diary of Dr. John Dee By John Dee
+- Problems of Mysticism and Its Symbolism By Herbert Silberer
+- Psychic Self-Defense By Dion Fortune
+- Pythagoras and the Delphic Mysteries by Edouard Schuré
+- A Road to Self Knowledge By Rudolf Steiner
+- The Rosary of the Philosophers By Arnold de Villa Nova
+- The Sacred Magic of Abramelin the Mage By Samuel Liddell MacGregor Mathers
+- Scientific Occultism By David Hatch
+- The Secret Book of Artephius By Artephius
+- The Secret Book of the Black Arts By Unknown
+- The Secret Science Behind Miracles By Max Freedom Long
+- Secret Shakespearean Seals By Fratres Roseae Crucis
+- The Secrets of Black Arts! By I.& M. Ottenheimer
+- The Secrets of the Kaula Circle By Elizabeth Sharpe
+- The Secret Teachings of All Ages By Manly P. Hall
+- Semitic Magic By R. Campbell Thompson
+- The Simon Necronomicon By Unknown
+- The Sixth and Seventh Books of Moses By Johann Scheibel
+- A Study of the Magic Elements in the Romans D'aventure and the Romans Bretons By De La Warr Benjamin Easter
+- The Symbolism Of The Tarot By P. D. Ouspensky
+- The Tarot By Samuel Liddell MacGregor Mathers
+- Tertium Organum By P. D. Ouspensky
+- Thaumaturgia by An Oxonian
+- The Tree of Life: An Expose of Physical Regenesis By George W. Carey
+- A True and Faithful Relation of What Passed for Many Yeers Between Dr. John Dee and some Spirits By John Dee
+- The Turba Philosophorum By Arthur Edward Waite
+- Twelve Keys By Basil Valentine
+- The Unveiled Mysteries By Godfre Ray King
+- Voodoos and Obeahs By Joseph J. Williams
+- The Way of Power: Studies in the Occult By Lily Adams Beck
+- The Web of Destiny By Max Heindel
+- Wisdom of the Ages By George A. Fuller
+- The Wonders of the Human Body By George W. Carey
+
+
+## FEMINISM AND WOMEN
+
+- Anarchism and Other Essays By Emma Goldman
+- An Essay in Defence of the Female Sex By Judith Drake
+- The Man Made World, or, Our Androcentric Culture By Charlotte Perkins Gilman
+- Mobilizing Woman-Power By Harriot Stanton Blatch
+- A Room of One's Own By Virginia Woolf
+- Sex Equality, A Solution of the Woman Problem By Emmet Densmore
+- The Subjection of Women By John Stuart Mill
+- A Vindication of the Rights of Woman By Mary Wollstonecraft
+- Woman and the New Race By Margaret Sanger
+- Woman, Church and State By Matilda Joslyn Gage
+- The Woman's Bible By Elizabeth Cady Stanton
+- Women and Economics By Charlotte Perkins Gilman
+- Women of all Nations By Thomas Athol Joyce
+- Women of History By Various
+
+## Fiction
+
+### ADVENTURE
+
+- 20,000 Leagues Under The Sea By Jules Verne
+- Adventure By Jack London
+- The Adventures of Three Englishmen and Three Russians in Southern Africa By Jules Verne
+- Allan and the Holy Flower By H. Rider Haggard
+- Allan and the Ice Gods By H. Rider Haggard
+- Allan Quatermain By H. Rider Haggard
+- Allan's Wife By H. Rider Haggard
+- Annette, The Metis Spy By Edmund Collins
+- An Antarctic Mystery By Jules Verne
+- Around the World in 80 Days By Jules Verne
+- Back to the Stone Age By Edgar Rice Burroughs
+- The Beasts of Tarzan By Edgar Rice Burroughs
+- Benita, An African Romance By H. Rider Haggard
+- The Boats of the Glen Carrig By William Hope Hodgson
+- Burning Daylight By Jack London
+- The Call of the Wild By Jack London
+- Captain Blood by Rafael Sabatini
+- Captains Courageous By Rudyard Kipling
+- The Castaways of the Flag By Jules Verne
+- The Child of the Cavern By Jules Verne
+- The Dealings of Captain Sharkey and Other Tales of Pirates By Arthur Conan Doyle
+- Dick Sand, A Captain at Fifteen By Jules Verne
+- Eight Hundred Leagues on the Amazon By Jules Verne
+- The Empire Makers By Hume Nisbet
+- The English at the North Pole By Jules Verne
+- The Field of Ice By Jules Verne
+- A Final Reckoning By G. A. Henty
+- Five Weeks In A Balloon By Jules Verne
+- A Floating City and The Blockade Runners By Jules Verne
+- The Fur Country By Jules Verne
+- The Ghost Kings by H. Rider Haggard
+- Godfrey Morgan: A Californian Mystery By Jules Verne
+- The Green Ray By Jules Verne
+- The House of the Four Winds By John Buchan
+- Huntingtower By John Buchan
+- In Search of the Castaways By Jules Verne
+- Jungle Tales of Tarzan By Edgar Rice Burroughs
+- King Solomon's Mines By H. Rider Haggard
+- Land of Terror By Edgar Rice Burroughs
+- The Mark of Zorro By Johnston McCulley
+- Michael Strogoff Or, The Courier of the Czar By Jules Verne
+- Moby Dick By Herman Melville
+- The Most Dangerous Game By Richard Connell
+- The Mysterious Island By Jules Verne
+- The Mystery on the Snow By Lester Dent
+- The Prisoner of Zenda By Anthony Hope
+- Ranson's Folly By Richard Harding Davis
+- The Return of Tarzan By Edgar Rice Burroughs
+- The Riddle of the Sands By Erskine Childers
+- Robinson Crusoe By Daniel Defoe
+- The Sea-Wolf By Jack London
+- The Secret of the Australian Desert By Ernest Favenc
+- She By H. Rider Haggard
+- The Son of Tarzan By Edgar Rice Burroughs
+- The Survivors of the Chancellor By Jules Verne
+- A Tale of Three Lions By H. Rider Haggard
+- Tanar of Pellucidar By Edgar Rice Burroughs
+- Tarzan and the Ant-Men By Edgar Rice Burroughs
+- Tarzan and the Castaways By Edgar Rice Burroughs
+- Tarzan and the City of Gold By Edgar Rice Burroughs
+- Tarzan and the Forbidden City By Edgar Rice Burroughs
+- Tarzan and the Foreign Legion By Edgar Rice Burroughs
+- Tarzan and the Golden Lion By Edgar Rice Burroughs
+- Tarzan and the Jewels of Opar By Edgar Rice Burroughs
+- Tarzan and the Leopard Men By Edgar Rice Burroughs
+- Tarzan and the Lion Man By Edgar Rice Burroughs
+- Tarzan and the Lost Empire By Edgar Rice Burroughs
+- Tarzan and the Madman By Edgar Rice Burroughs
+- Tarzan and the Tarzan Twins with Jad-bal-ja the Golden Lion By Edgar Rice Burroughs
+- Tarzan at the Earth's Core By Edgar Rice Burroughs
+- Tarzan of the Apes By Edgar Rice Burroughs
+- Tarzan, Lord of the Jungle By Edgar Rice Burroughs
+- Tarzan's Quest By Edgar Rice Burroughs
+- Tarzan the Invincible By Edgar Rice Burroughs
+- Tarzan the Magnificent By Edgar Rice Burroughs
+- Tarzan the Terrible By Edgar Rice Burroughs
+- Tarzan the Untamed By Edgar Rice Burroughs
+- Tarzan Triumphant By Edgar Rice Burroughs
+- The Tarzan Twins By Edgar Rice Burroughs
+- Ticket No. '9672' By Jules Verne
+- The Treasure of Atlantis By J. Allan Dunn
+- Typhoon and Other Stories By Joseph Conrad
+- A Voyage In A Balloon By Jules Verne
+- The War in the Air By H. G. Wells
+- White Fang By Jack London
+
+### CHILDREN'S LITERATURE
+
+- Across the Years By Eleanor H. Porter
+- Adventures in Africa By William H. G. Kingston
+- The Adventures of Pinocchio By Carlo Collodi
+- The Adventures of Ulysses By Charles Lamb
+- The Aesop for Children By Aesop
+- Alice's Adventures in Wonderland By Lewis Carroll
+- American Fairy Tales by L. Frank Baum
+- Among the Farmyard People By Clara Dillingham Pierson
+- Andersen's Fairy Tales By Hans Christian Andersen
+- Anne of Avonlea By Lucy Maud Montgomery
+- Anne of Green Gables By Lucy Maud Montgomery
+- Anne of Ingleside By Lucy Maud Montgomery
+- Anne of the Island By Lucy Maud Montgomery
+- Anne of Windy Poplars By Lucy Maud Montgomery
+- Anne's House of Dreams By Lucy Maud Montgomery
+- Arabian Nights Entertainments By Andrew Lang
+- Beauty and the Beast By Marie Le Prince de Beaumont
+- Betty's Bright Idea By Harriet Beecher Stowe
+- Black Beauty By Anna Sewell
+- The Blue Bird for Children By Georgette Leblanc and Maurice Maeterlinck
+- The Blue Fairy Book By Andrew Lang
+- The Blue Poetry Book By Andrew Lang
+- The Book of Dragons By Edith Nesbit
+- The Brown Fairy Book By Andrew Lang
+- Captain Boldheart and the Latin-Grammar Master By Charles Dickens
+- The Children of the New Forest By Captain Marryat
+- A Child's Garden of Verses By Robert Louis Stevenson
+- Christmas Stories By Charles Dickens
+- Christmas Stories and Legends By Phebe A. Curtiss
+- Cinderella By Jacob and Wilhelm Grimm
+- The Crimson Fairy Book By Andrew Lang
+- The Crystal Hunters By George Manville Fenn
+- Daddy Long-Legs By Jean Webster
+- A Dear Little Girl By Amy Ella Blanchard
+- A Dear Little Girl at School By Amy Ella Blanchard
+- Dorothy and the Wizard in Oz By L. Frank Baum
+- Dream Days By Kenneth Grahame
+- Eight Cousins By Louisa May Alcott
+- Elsie's Children By Martha Finley
+- The Emerald City of Oz By L. Frank Baum
+- The Enchanted Castle By Edith Nesbit
+- The Fairy Tale of the Green Snake and the Beautiful Lily By Johann Wolfgang Von Goethe
+- Fifty Christmas Poems for Children By Florence B. Hyett
+- Five Children and It By Edith Nesbit
+- Flower Fables By Louisa May Alcott
+- Glinda of Oz By L. Frank Baum
+- The Green Fairy Book By Andrew Lang
+- The Grey Fairy Book By Andrew Lang
+- Grimms' Fairy Tales By Jacob and Wilhelm Grimm
+- The Happy Prince and Other Tales By Oscar Wilde
+- Heidi By Johanna Spyri
+- Household Tales by Jacob and Wilhelm Grimm
+- A House of Pomegranates By Oscar Wilde
+- The Hunting of the Snark By Lewis Carroll
+- Jewish Fairy Tales and Legends By Gertrude Landa
+- Jo's Boys By Louisa May Alcott
+- Just So Stories for Children By Rudyard Kipling
+- The Jumblies and Other Nonsense Verses By Edward Lear
+- The Jungle Book By Rudyard Kipling
+- A Kidnapped Santa Claus By L. Frank Baum
+- The Life and Adventures of Santa Claus By L. Frank Baum
+- The Lilac Fairy Book By Andrew Lang
+- A Little Country Girl By Susan Coolidge
+- Little Lord Fauntleroy By Frances Hodgson Burnett
+- Little Men By Louisa May Alcott
+- A Little Princess By Frances Hodgson Burnett
+- Little Women By Louisa May Alcott
+- The Lost Princess of Oz By L. Frank Baum
+- Lulu's Library by Louisa May Alcott
+- The Magic of Oz By L. Frank Baum
+- The Marvelous Land of Oz By L. Frank Baum
+- Men of Iron By Howard Pyle
+- The Merry Adventures of Robin Hood By Howard Pyle
+- An Old-Fashioned Girl By Louisa May Alcott
+- The Olive Fairy Book By Andrew Lang
+- The Orange Fairy Book By Andrew Lang
+- Ozma of Oz By L. Frank Baum
+- The Patchwork Girl of Oz By L. Frank Baum
+- Peter Pan By James M. Barrie
+- The Phoenix and the Carpet By E. Nesbit
+- The Pink Fairy Book By Andrew Lang
+- Pollyanna By Eleanor H. Porter
+- The Prince and the Pauper By Mark Twain
+- The Princess and the Goblin By George MacDonald
+- Queer Little Folks By Harriet Beecher Stowe
+- The Railway Children By Edith Nesbit
+- The Red Fairy Book By Andrew Lang
+- The Red True Story Book By Andrew Lang
+- Rinkitink in Oz By L. Frank Baum
+- The Road to Oz By L. Frank Baum
+- Robin Hood and His Adventures By Paul Creswick
+- The Scarecrow of Oz By L. Frank Baum
+- The Second Jungle Book By Rudyard Kipling
+- The Secret Garden By Frances Hodgson Burnett
+- Short Stories By Beatrix Potter
+- Sky Island By L. Frank Baum
+- The Story of the Amulet By E. Nesbit
+- Sylvie And Bruno By Lewis Carroll
+- Sylvie And Bruno Concluded By Lewis Carroll
+- Short Fiction By Beatrix Potter
+- Tales from Chaucer By Charles Cowden Clarke
+- Tales from Shakespeare By Charles Lamb and Mary Lamb
+- A Tangled Tale By Lewis Carroll
+- Through the Looking Glass By Lewis Carroll
+- Tik-Tok of Oz By L. Frank Baum
+- The Tin Woodman of Oz By L. Frank Baum
+- Tom Brown's Schooldays By Thomas Hughes
+- Treasure Island By Robert Louis Stevenson
+- The True Story Book By Andrew Lang
+- Twas the Night before Christmas: A Visit from St. Nicholas By Clement Clarke Moore
+- The Velveteen Rabbit By Margery Williams
+- The Violet Fairy Book By Andrew Lang
+- The Wind in the Willows By Kenneth Grahame
+- The Wonderful Wizard of Oz By L. Frank Baum
+- The Yellow Fairy Book By Andrew Lang
+- The Young Visiters By Daisy Ashford
+
+### EROTICA
+
+- Aphrodite By Pierre Louys
+- Arabella By Anonymous
+- Gamiani By Alfred de Musset
+- The Indiscreet Jewels By Denis Diderot
+- Justine By Marquis De Sade
+- The Memoirs of Fanny Hill By John Cleland
+- Miss Coote's Confession By Anonymous
+- My Life and Loves By Frank Harris
+- My Secret Life, Complete, Volumes 1-11 By Anonymous
+- The Pearl, Complete 19 Volumes By Anonymous
+- Philosophy in the Bedroom By Marquis De Sade
+- The Romance of Lust By Anonymous
+- The Songs of Bilitis By Pierre Louys
+- Venus in Furs By Leopold Von Sacher-Masoch
+- Venus in India By Charles Devereaux
+- The Way of a Man with a Maid By Anonymous
+
+### FEMINIST FICTION
+
+- Anna of the Five Towns By Arnold Bennett
+- Ann Veronica By H. G. Wells
+- Ann Vickers By Sinclair Lewis
+- The Awakening and Selected Short Stories By Kate Chopin
+- Herland By Charlotte Perkins Gilman
+- Night and Day By Virginia Woolf
+- Orlando, A Biography By Virginia Woolf
+- Unveiling a Parallel, A Romance By Alice Ilgenfritz Jones and Ella Merchant
+- The Wife of Sir Isaac Harman By H. G. Wells
+- The Yellow Wallpaper By Charlotte Perkins Gilman
+
+## GENERAL
+
+- Aaron's Rod By D. H. Lawrence
+- Abbe Mouret's Transgression By Émile Zola
+- Against the Grain By Joris-Karl Huysmans
+- The Age of Innocence By Edith Wharton
+- Agnes Grey By Anne Bronte
+- Alexander's Bridge By Willa Cather
+- Alice Adams By Booth Tarkington
+- Alice, The Mysteries By Edward Bulwer-Lytton
+- Almayer's Folly By Joseph Conrad
+- The Ambassadors By Henry James
+- And Now Goodbye By James Hilton
+- The Autobiography of an Ex-Colored Man By James Weldon Johnson
+- Barchester Towers By Anthony Trollope
+- Barnaby Rudge By Charles Dickens
+- The Baron Trump Novels, and The Last President By Ingersoll Lockwood
+- The Battle Of Life By Charles Dickens
+- The Beautiful and Damned By F. Scott Fitzgerald
+- Before Adam By Jack London
+- Bel-Ami By Guy De Maupassant
+- Between the Acts By Virginia Woolf
+- The Black Sheep By Honore de Balzac
+- Bleak House By Charles Dickens
+- The Bostonians By Henry James
+- The Brotherhood of Consolation By Honore de Balzac
+- Burmese Days By George Orwell
+- Caleb Williams By William Godwin
+- Cane By Jean Toomer
+- Can You Forgive Her? By Anthony Trollope
+- Captain Singleton By Daniel Defoe
+- The Captive By Marcel Proust
+- Castle Richmond By Anthony Trollope
+- The Caxtons By Edward Bulwer-Lytton
+- A Change of Air By Anthony Hope
+- The Charterhouse of Parma By Stendhal
+- The Chimes By Charles Dickens
+- A Christmas Carol By Charles Dickens
+- Cities of the Plain By Marcel Proust
+- Clarissa, Or, The History of a Young Lady By Samuel Richardson
+- A Clergyman's Daughter By George Orwell
+- Coningsby By Benjamin Disraeli
+- Cousin Bette By Honore de Balzac
+- Cousin Henry By Anthony Trollope
+- Cranford By Elizabeth Cleghorn Gaskell
+- The Cricket on the Hearth By Charles Dickens
+- The Croquet Player By H. G. Wells
+- Dangerous Liaisons By Pierre Choderlos De Laclos
+- Daniel Deronda By George Eliot
+- A Daughter of the Snows By Jack London
+- David Copperfield By Charles Dickens
+- David Harum By Edward Noyes Westcott
+- The Decameron Volume 1 By Giovanni Boccaccio
+- Desperate Remedies By Thomas Hardy
+- Doctor Thorne By Anthony Trollope
+- Dombey and Son By Charles Dickens
+- Don Quixote By Miguel de Cervantes
+- A Drama in Muslin By George Moore
+- East Lynne By Ellen Wood
+- The Efficiency Expert By Edgar Rice Burroughs
+- The Egoist By George Meredith
+- Emma By Jane Austen
+- Ethan Frome By Edith Wharton
+- Eugenie Grandet By Honore de Balzac
+- The Europeans By Henry James
+- The Eustace Diamonds By Anthony Trollope
+- The Evil Genius By Wilkie Collins
+- The Expedition of Humphry Clinker By Tobias Smollett
+- Far from the Madding Crowd By Thomas Hardy
+- Finnegans Wake By James Joyce
+- The Forsyte Saga By John Galsworthy
+- The Fortune of the Rougons By Émile Zola
+- Framley Parsonage By Anthony Trollope
+- The Further Adventures of Robinson Crusoe By Daniel Defoe
+- The Garies and Their Friends By Frank J. Webb
+- Germinal By Émile Zola
+- The Golden Bowl By Henry James
+- Great Expectations By Charles Dickens
+- The Great Gatsby By F. Scott Fitzgerald
+- Greyfriars Bobby by Eleanor Atkinson
+- The Guermantes Way By Marcel Proust
+- The Hand of Ethelberta By Thomas Hardy
+- Hard Times By Charles Dickens
+- The Haunted Man and the Ghost's Bargain By Charles Dickens
+- Heart of Darkness By Joseph Conrad
+- Hester by Margaret Oliphant
+- His Family By Ernest Poole
+- His Masterpiece By Émile Zola
+- The House of Mirth By Edith Wharton
+- The Inferno By August Strindberg
+- In the Shadow of Young Girls in Flower By Marcel Proust
+- Into the Unknown By Lawrence Fletcher
+- Jacob's Room By Virginia Woolf
+- Jane Eyre By Charlotte Bronte
+- A Journal of the Plague Year By Daniel Defoe
+- Jude the Obscure By Thomas Hardy
+- The Jungle By Upton Sinclair
+- Kangaroo By D. H. Lawrence
+- The Kellys and the O'Kellys By Anthony Trollope
+- Khaled, A Tale of Arabia By F. Marion Crawford
+- Kim By Rudyard Kipling
+- The King of the Mountains By Edmond About
+- Kipps By H. G. Wells
+- Lady Audley's Secret By Mary Elizabeth Braddon
+- A Lady of Quality By Frances Hodgson Burnett
+- Lady Susan By Jane Austen
+- A Laodicean By Thomas Hardy
+- The Last Chronicle of Barset By Anthony Trollope
+- The Last Man By Mary Wollstonecraft Shelley
+- Le Colonel Chabert By Honore de Balzac
+- The Life and Adventures of Martin Chuzzlewit By Charles Dickens
+- Little Dorrit By Charles Dickens
+- Lord Jim By Joseph Conrad
+- Lorna Doone, A Romance of Exmoor By R. D. Blackmore
+- A Lost Lady By Willa Cather
+- Love and Freindship and other Early Works By Jane Austen
+- Love and Mr Lewisham By H. G. Wells
+- The Luck of Barry Lyndon By William Makepeace Thackeray
+- Madame Bovary By Gustave Flaubert
+- Madame de Treymes By Edith Wharton
+- The Magic Skin By Honore de Balzac
+- The Magnificent Ambersons By Booth Tarkington
+- Mansfield Park By Jane Austen
+- A Man's Woman By Frank Norris
+- The Man Who Laughs By Victor Hugo
+- The Man with the Broken Ear By Edmond About
+- Marie by H. Rider Haggard
+- Marriage By H. G. Wells
+- Marriage By Susan Ferrier
+- The Marriage Contract By Honore de Balzac
+- Mary Barton, A Tale of Manchester Life By Elizabeth Cleghorn Gaskell
+- The Mayor of Casterbridge By Thomas Hardy
+- McTeague: A Story of San Francisco By Frank Norris
+- Melmoth the Wanderer By Charles Robert Maturin
+- The Metropolis By Upton Sinclair
+- Middlemarch By George Eliot
+- The Mill on the Floss By George Eliot
+- Miss Marjoribanks by Margaret Oliphant
+- A Modern Comedy By John Galsworthy
+- Moll Flanders By Daniel Defoe
+- The Moorland Cottage By Elizabeth Cleghorn Gaskell
+- Mr. Poskitt's Nightcaps By J. S. Fletcher
+- Mrs Dalloway By Virginia Woolf
+- The Mudfog Papers By Charles Dickens
+- My Antonia By Willa Cather
+- My Brilliant Career By Miles Franklin
+- The Mystery of Edwin Drood By Charles Dickens
+- The Napoleon of Notting Hill By G. K. Chesterton
+- New Grub Street By George Gissing
+- The New Race of Devils By John Bernard
+- Nicholas Nickleby By Charles Dickens
+- No Name By Wilkie Collins
+- North and South By Elizabeth Cleghorn Gaskell
+- Nostromo: A Tale of the Seaboard By Joseph Conrad
+- The Old Curiosity Shop By Charles Dickens
+- The Old Wives' Tale By Arnold Bennett
+- Oliver Twist By Charles Dickens
+- Oroonoko: or, the Royal Slave By Aphra Behn
+- Our Mutual Friend By Charles Dickens
+- An Outcast of the Islands By Joseph Conrad
+- The Outcry By Henry James
+- Pamela, or Virtue Rewarded By Samuel Richardson
+- The Passionate Friends: A Novel By H. G. Wells
+- A Pair of Blue Eyes By Thomas Hardy
+- The Perpetual Curate By Margaret Oliphant
+- The Pickwick Papers By Charles Dickens
+- The Picture of Dorian Gray By Oscar Wilde
+- The Plumed Serpent By D. H. Lawrence
+- The Portrait of a Lady By Henry James
+- A Portrait of the Artist as a Young Man By James Joyce
+- A Prayer for my Son By Hugh Walpole
+- Prince Otto, a Romance By Robert Louis Stevenson
+- The Professor By Charlotte Bronte
+- The Prophet By Kahlil Gibran
+- The Quest of the Silver Fleece By William Edward Burghardt Du Bois
+- The Rainbow By D. H. Lawrence
+- Rasselas By Samuel Johnson
+- The Red and the Black By Stendhal
+- The Red Room By August Strindberg
+- The Research Magnificent By H. G. Wells
+- Return of the Native By Thomas Hardy
+- Roxana: The Fortunate Mistress By Daniel Defoe
+- Ruth By Elizabeth Cleghorn Gaskell
+- The Sacred Fount By Henry James
+- The Sad Fortunes of the Reverend Amos Barton By George Eliot
+- Scenes of Clerical Life By George Eliot
+- The Secret Rose By William Butler Yeats
+- Sentimental Education Vol 1 By Gustave Flaubert
+- A Sentimental Journey Through France and Italy By Laurence Sterne
+- The Shadow-Line By Joseph Conrad
+- Shirley By Charlotte Bronte
+- Siddhartha By Herman Hesse
+- Silas Marner By George Eliot
+- Sister Carrie By Theodore Dreiser
+- The Small House at Allington By Anthony Trollope
+- Song of the Lark By Willa Cather
+- Sons and Lovers By D. H. Lawrence
+- The Sorrows of Young Werther by Johann Wolfgang Von Goethe
+- The Spoils of Poynton By Henry James
+- The Sport of the Gods By Paul Laurence Dunbar
+- The Story of Gösta Berling By Selma Lagerlöf
+- Strong as Death By Guy De Maupassant
+- Summer By Edith Wharton
+- The Surprising Adventures of Baron Munchausen By Rudolph Erich Raspe
+- Swann's Way By Marcel Proust
+- The Sweet Cheat Gone By Marcel Proust
+- Sybil By Benjamin Disraeli
+- Sylvia's Lovers By Elizabeth Cleghorn Gaskell
+- The Tenant of Wildfell Hall By Anne Bronte
+- Tender is the Night By F. Scott Fitzgerald
+- Tess of the d’Urbervilles By Thomas Hardy
+- Therese Raquin By Émile Zola
+- This Side of Paradise By F. Scott Fitzgerald
+- Time Regained By Marcel Proust
+- Tono-Bungay By H. G. Wells
+- To The Lighthouse By Virginia Woolf
+- Trilby By George Du Maurier
+- Ulysses By James Joyce
+- Uncle Tom's Cabin By Harriet Beecher Stowe
+- Under Western Eyes By Joseph Conrad
+- Venetia By Benjamin Disraeli
+- Villette By Charlotte Bronte
+- The Voyage of Captain Popanilla By Benjamin Disraeli
+- The Voyage Out By Virginia Woolf
+- The Warden By Anthony Trollope
+- The Waves By Virginia Woolf
+- The Way of All Flesh By Samuel Butler
+- The Wings of the Dove By Henry James
+- Wives and Daughters By Elizabeth Cleghorn Gaskell
+- Women in Love By D. H. Lawrence
+- The Woodlanders by Thomas Hardy
+- Wuthering Heights By Emily Bronte
+- The Years By Virginia Woolf
+- Zadig Or, The Book of Fate By Voltaire
+- Zastrozzi By Percy Bysshe Shelley
+
+### HISTORICAL
+
+- 100%: The Story Of A Patriot By Upton Sinclair
+- Adam Bede By George Eliot
+- Ben-Hur: A Tale of the Christ By Lew Wallace
+- Beric the Briton: A Story of the Roman Invasion By G. A. Henty
+- The Black Arrow By Robert Louis Stevenson
+- A Bride of the Plains By Baroness Orczy
+- Castle Rackrent By Maria Edgeworth
+- Chicot the Jester By Alexandre Dumas
+- Cleopatra By H. Rider Haggard
+- The Countess of Charny By Alexandre Dumas
+- The Count of Monte Cristo By Alexandre Dumas
+- Death Comes for the Archbishop By Willa Cather
+- Father Goriot By Honore de Balzac
+- The Fifth Queen Trilogy By Ford Madox Ford
+- The Forty Five Guardsmen By Alexandre Dumas
+- The Gadfly By Ethel Voynich
+- The Garden of Vision By Lily Adams Beck
+- Gone with the Wind By Margaret Mitchell
+- The Heart of Mid-Lothian By Walter Scott
+- The Home and the World By Rabindranath Tagore
+- Ivanhoe, A Romance By Walter Scott
+- Kidnapped By Robert Louis Stevenson
+- The Knight of the Red House By Alexandre Dumas
+- The Knights of the Cross By Henryk Sienkiewicz
+- The Last Days of Pompeii By Edward Bulwer-Lytton
+- Leatherface, A Tale of Old Flanders By Baroness Orczy
+- A Legend of Montrose By Walter Scott
+- Les Miserables By Victor Hugo
+- Louise De La Valliere By Alexandre Dumas
+- The Man in the Iron Mask By Alexandre Dumas
+- Marius the Epicurean By Walter Pater
+- The Master of Ballantrae By Robert Louis Stevenson
+- The Memoirs of a Physician By Alexandre Dumas
+- A Monk of Fife By Andrew Lang
+- Nada the Lily by H. Rider Haggard
+- One of Ours By Willa Cather
+- O Pioneers! By Willa Cather
+- Personal Recollections of Joan of Arc By Mark Twain
+- The Queen's Necklace By Alexandre Dumas
+- Quo Vadis By Henryk Sienkiewicz
+- Rob Roy By Walter Scott
+- Romola By George Eliot
+- Rookwood by William Harrison Ainsworth
+- Salammbô By Gustave Flaubert
+- The Scarlet Letter By Nathaniel Hawthorne
+- The Scarlet Pimpernel By Baroness Orczy
+- Storming the Bastille By Alexandre Dumas
+- A Tale Of Two Cities By Charles Dickens
+- The Talisman By Walter Scott
+- The Temptation of Saint Anthony By Gustave Flaubert
+- Ten Years Later By Alexandre Dumas
+- The Three Musketeers By Alexandre Dumas
+- Twenty Years After By Alexandre Dumas
+- The Vicomte De Bragelonne By Alexandre Dumas
+- Waverley By Walter Scott
+- The White Company By Arthur Conan Doyle
+- With Fire and Sword By Henryk Sienkiewicz
+
+### HORROR AND PARANORMAL
+
+- All Souls' Night, A Book of Stories By Hugh Walpole
+- At the Mountains of Madness By H. P. Lovecraft
+- The Beast in the Cave By H. P. Lovecraft
+- The Beetle By Richard Marsh
+- The Best Psychic Stories By Various
+- Burn, Witch, Burn! By Abraham Merritt
+- The Call of Cthulhu By H. P. Lovecraft
+- Can Such Things Be? By Ambrose Bierce
+- Carmilla By Sheridan Le Fanu
+- Carnacki, The Ghost Finder By William Hope Hodgson
+- The Case of Charles Dexter Ward By H. P. Lovecraft
+- The Castle of Otranto By Horace Walpole
+- The Color Out Of Space By H. P. Lovecraft
+- Creep, Shadow! By Abraham Merritt
+- Curious, if True By Elizabeth Cleghorn Gaskell
+- Dagon By H. P. Lovecraft
+- The Dark Other By Stanley G. Weinbaum
+- The Death Mask: And Other Ghosts By H. D. Everett
+- Devil Stories; An Anthology By Maximilian J. Rudwin
+- Dracula By Bram Stoker
+- Dracula's Guest By Bram Stoker
+- The Dream-Quest of Unknown Kadath By H. P. Lovecraft
+- The Dunwich Horror By H. P. Lovecraft
+- Famous Modern Ghost Stories By Various
+- Frankenstein By Mary Shelley
+- The Ghost Pirates By William Hope Hodgson
+- Ghost Stories of an Antiquary By Montague Rhodes James
+- The Great God Pan By Arthur Machen
+- The Haunted and the Haunters By Edward Bulwer-Lytton
+- The Haunted Baronet By Sheridan Le Fanu
+- The Haunted Hotel: A Mystery of Modern Venice By Wilkie Collins
+- The Haunted House By Charles Dickens
+- The Haunter of the Dark By H. P. Lovecraft
+- The Headless Horseman By Mayne Reid
+- Holy Terrors By Arthur Machen
+- The House of the Seven Gables By Nathaniel Hawthorne
+- The House on the Borderland By William Hope Hodgson
+- In a Glass Darkly By Sheridan Le Fanu
+- The Jewel of Seven Stars By Bram Stoker
+- The King in Yellow By Robert W. Chambers
+- The Lady of the Shroud By Bram Stoker
+- The Lair of the White Worm By Bram Stoker
+- The Legend of Sleepy Hollow By Washington Irving
+- The Lifted Veil By George Eliot
+- The Lost Stradivarius By J. Meade Falkner
+- The Monk: A Romance By Matthew Lewis
+- The Monkey's Paw By W. W. Jacobs
+- The Narrative of Arthur Gordon Pym of Nantucket By Edgar Allan Poe
+- The Night Land By William Hope Hodgson
+- Notre-Dame de Paris By Victor Hugo
+- The Phantom of the Opera By Gaston Leroux
+- A Romance of Two Worlds By Marie Corelli
+- The Shadow Out of Time By H. P. Lovecraft
+- The Shadow over Innsmouth By H. P. Lovecraft
+- Short Stories By Arthur Machen
+- Strange Case of Dr. Jekyll and Mr. Hyde By Robert Louis Stevenson
+- Tales of Men and Ghosts By Edith Wharton
+- Three Ghost Stories By Charles Dickens
+- The Turn of the Screw By Henry James
+- The Vampyre, A Tale By John Polidori
+- Vathek; An Arabian Tale By William Beckford
+- Wandering Ghosts By F. Marion Crawford
+- The Works of Edgar Allan Poe, Volume 1 By Edgar Allan Poe
+- The Works of Edgar Allan Poe, Volume 2 By Edgar Allan Poe
+- The Works of Edgar Allan Poe, Volume 3 By Edgar Allan Poe
+- The Works of Edgar Allan Poe, Volume 4 By Edgar Allan Poe
+- The Works of Edgar Allan Poe, Volume 5 By Edgar Allan Poe
+
+### HUMOUR AND SATIRE
+
+- The £1,000,000 Bank Note and Other New Stories By Mark Twain
+- The $30,000 Bequest and Other Stories By Mark Twain
+- Adventures of Huckleberry Finn By Mark Twain
+- The Adventures of Tom Sawyer By Mark Twain
+- The American Claimant By Mark Twain
+- Babbitt By Sinclair Lewis
+- The Battle of the Books and other Short Pieces By Jonathan Swift
+- Bealby By H. G. Wells
+- The Book of Snobs By William Makepeace Thackeray
+- Boon By H. G. Wells
+- Candide By Voltaire
+- The Chronicles of Clovis By Saki
+- Cobwebs from an Empty Skull By Ambrose Bierce
+- A Connecticut Yankee in King Arthur's Court By Mark Twain
+- The Crock of Gold By James Stephens
+- The Diary of a Nobody By George Grossmith and Weedon Grossmith
+- Erewhon, Or Over The Range By Samuel Butler
+- The Exploits of Brigadier Gerard By Arthur Conan Doyle
+- Flatland By Edwin A. Abbott
+- Gargantua and Pantagruel By Francois Rabelais
+- Gentlemen Prefer Blondes by Anita Loos
+- Gulliver's Travels By Jonathan Swift
+- Headlong Hall By Thomas Love Peacock
+- The History Of Mr. Polly By H. G. Wells
+- The History of Tom Jones, A Foundling By Henry Fielding
+- The Inventions of the Idiot By John Kendrick Bangs
+- Knickerbocker's History of New York Vol I By Washington Irving
+- Knickerbocker's History of New York Vol II By Washington Irving
+- The Life and Opinions of Tristram Shandy By Laurence Sterne
+- Lord Arthur Savile's Crime, And Other Stories By Oscar Wilde
+- Nightmare Abbey By Thomas Love Peacock
+- Northanger Abbey By Jane Austen
+- Pablo de Segovia, the Spanish Sharper By Francisco de Quevedo
+- A Political Romance By Laurence Sterne
+- Sartor Resartus By Thomas Carlyle
+- Sunshine Sketches of a Little Town By Stephen Leacock
+- A Tale of a Tub By Jonathan Swift
+- Three Men in a Boat By Jerome K. Jerome
+- Tom Sawyer Abroad By Mark Twain
+- Twilight Sleep By Edith Wharton
+- Vanity Fair By William Makepeace Thackeray
+- The Way We Live Now By Anthony Trollope
+- The Wheels of Chance By H. G. Wells
+- Xingu By Edith Wharton
+
+### MYSTERY AND THRILLER
+
+- 813 By Maurice Leblanc
+- Above the Dark Circus By Hugh Walpole
+- Adventures of Sherlock Holmes By Arthur Conan Doyle
+- Again Sanders By Edgar Wallace
+- Again the Three Just Men By Edgar Wallace
+- Armadale By Wilkie Collins
+- Arsene Lupin By Maurice Leblanc and Edgar Jepson
+- Arsène Lupin versus Herlock Sholmes By Maurice Leblanc
+- A Bid for Fortune By Guy Boothby
+- The Casebook of Sherlock Holmes By Arthur Conan Doyle
+- The Clique of Gold By Émile Gaboriau
+- The Club of Queer Trades By G. K. Chesterton
+- The Clue of the Twisted Candle By Edgar Wallace
+- The Confessions of Arsène Lupin By Maurice Leblanc
+- The Count's Millions By Émile Gaboriau
+- The Crystal Stopper By Maurice Leblanc
+- The Devil Man By Edgar Wallace
+- The Eight Strokes of the Clock By Maurice Leblanc
+- Arsène Lupin, Gentleman Burglar By Maurice Leblanc
+- File No. 113 By Émile Gaboriau
+- The Golden Triangle By Maurice Leblanc
+- Greenmantle By John Buchan
+- The Haunted Bookshop by Christopher Morley
+- His Last Bow By Arthur Conan Doyle
+- The Hollow Needle By Maurice Leblanc
+- The Hound of the Baskervilles By Arthur Conan Doyle
+- The House by the Church-Yard By Sheridan Le Fanu
+- The House of a Thousand Candles By Meredith Nicholson
+- The House of the Whispering Pines By Anna Katharine Green
+- The Incredulity of Father Brown By G. K. Chesterton
+- The Innocence of Father Brown By G. K. Chesterton
+- The Inquisitor By Hugh Walpole
+- The Island of Sheep By John Buchan
+- The Lerouge Case By Émile Gaboriau
+- The Man Who Knew Too Much By G. K. Chesterton
+- The Man Who Was Thursday: A Nightmare By G. K. Chesterton
+- The Mélamare Mystery By Maurice Leblanc
+- The Memoirs of Sherlock Holmes By Arthur Conan Doyle
+- Monsieur Lecoq By Émile Gaboriau
+- The Moonstone By Wilkie Collins
+- Mr. Standfast By John Buchan
+- Murder in the Gunroom By H. Beam Piper
+- The Mysterious Key and What it Opened By Louisa May Alcott
+- The Mystery of a Hansom Cab By Fergus Hume
+- The Mystery of Orcival By Émile Gaboriau
+- The Mystery of the Yellow Room By Gaston Leroux
+- The Old English Baron by Clara Reeve
+- Other People's Money By Émile Gaboriau
+- The Pagan's Cup By Fergus Hume
+- The Private Memoirs and Confessions of a Justified Sinner By James Hogg
+- The Return of Sherlock Holmes By Arthur Conan Doyle
+- The Scandal of Father Brown By G. K. Chesterton
+- The Secret of Father Brown By G. K. Chesterton
+- The Secret of Sarek By Maurice Leblanc
+- The Secret Tomb By Maurice Leblanc
+- The Sign of the Four By Arthur Conan Doyle
+- The Slaves of Paris By Émile Gaboriau
+- A Study in Scarlet By Arthur Conan Doyle
+- Tales of Terror and Mystery By Arthur Conan Doyle
+- The Teeth of the Tiger By Maurice Leblanc
+- The Thirty-Nine Steps By John Buchan
+- The Three Hostages By John Buchan
+- Uncle Silas By Sheridan Le Fanu
+- The Valley of Fear By Arthur Conan Doyle
+- Victory By Joseph Conrad
+- The Wisdom of Father Brown By G. K. Chesterton
+- Within an Inch of His Life By Émile Gaboriau
+- The Woman in White By Wilkie Collins
+- The Woman of Mystery By Maurice Leblanc
+
+### OCCULT FICTION
+
+- Brother of the Third Degree By Will L. Garver
+- In the Land of the Living Dead By Prentiss Tucker
+
+- The Parasite By Arthur Conan Doyle
+- The Secrets of Dr. John Taverner By Dion Fortune
+- Tilak of Tibet Reveals Life's Purpose By Ann Hackett
+- Vril, The Power of the Coming Race By Edward Bulwer-Lytton
+- War in Heaven By Charles Williams
+- Within The Temple Of Isis By Belle M. Wagner
+- With the Adepts By Franz Hartmann
+- Zanoni By Edward Bulwer-Lytton
+
+### PLAYS
+
+- The Alchemist by Ben Jonson
+- Cato, a Tragedy By Joseph Addison
+- Cyrano de Bergerac By Edmond Rostand
+- A Doll's House By Henrik Ibsen
+- An Enemy of the People By Henrik Ibsen
+- Faust By Johann Wolfgang Von Goethe
+- Ghosts By Henrik Ibsen
+- Hedda Gabler By Henrik Ibsen
+- An Ideal Husband By Oscar Wilde
+- The Importance of Being Earnest By Oscar Wilde
+- Life is a Dream By Pedro Calderon de la Barca
+- Man and Superman By George Bernard Shaw
+- The Master Builder By Henrik Ibsen
+- Mrs. Warren's Profession By George Bernard Shaw
+- Our American Cousin By Tom Taylor
+- Plays Pleasant By George Bernard Shaw
+- The Post Office By Rabindranath Tagore
+- Proserpine and Midas By Mary Wollstonecraft Shelley
+- Pygmalion By George Bernard Shaw
+- The Robbers By Friedrich Schiller
+- Romeus and Juliet By Arthur Brooke
+- Saint Joan by George Bernard Shaw
+- Salome By Oscar Wilde
+- Tartuffe; Or, The Hypocrite By Molière
+- The Tragical History of Doctor Faustus By Christopher Marlowe
+- Vera; Or, The Nihilists By Oscar Wilde
+- When We Dead Awaken By Henrik Ibsen
+- Woman's Witchcraft, or, The Curse of Coquetry By Corinne L'Estrange
+
+### POLITICAL FICTION
+
+- Democracy, An American Novel By Henry Adams
+- The Duke's Children By Anthony Trollope
+- A Lodge in the Wilderness By John Buchan
+- The New Machiavelli By H. G. Wells
+- Phineas Finn By Anthony Trollope
+- Phineas Redux By Anthony Trollope
+- The Prime Minister By Anthony Trollope
+- The Secret Agent By Joseph Conrad
+- Spirits Rebellious By Kahlil Gibran
+- Vivian Grey By Benjamin Disraeli
+
+### ROMANCE
+
+- The Black Tulip by Alexandre Dumas
+- The Broken Wings By Kahlil Gibran
+- The Cavalier By George Washington Cable
+- Lady Chatterley's Lover By D. H. Lawrence
+- The Man By Bram Stoker
+- The Mysteries of Udolpho By Ann Radcliffe
+- Persuasion By Jane Austen
+- Pride and Prejudice By Jane Austen
+- The Rescue, A Romance of the Shallows By Joseph Conrad
+- Sense and Sensibility By Jane Austen
+- Two on a Tower by Thomas Hardy
+- Wired Love By Ella Cheever Thayer
+
+### RUSSIAN LITERATURE
+
+- Anna Karenina By Leo Tolstoy
+- Best Russian Short Stories By Various Authors
+- The Bishop and Other Stories By Anton Chekhov
+- Boyhood By Leo Tolstoy
+- The Brothers Karamazov By Fyodor Dostoevsky
+- Childhood By Leo Tolstoy
+- The Chorus Girl and Other Stories By Anton Chekhov
+- The Cook's Wedding and Other Stories By Anton Chekhov
+- Crime and Punishment By Fyodor Dostoevsky
+- The Darling and Other Stories By Anton Chekhov
+- Dead Souls By Nikolai Gogol
+- The Death of Ivan Ilych By Leo Tolstoy
+- The Double By Fyodor Dostoevsky
+- The Duel By Aleksandr Kuprin
+- The Duel and Other Stories By Anton Chekhov
+- Fathers and Children By Ivan Sergeevich Turgenev
+- The Gambler By Fyodor Dostoevsky
+- The Horse-Stealers and Other Stories By Anton Chekhov
+- The Idiot By Fyodor Dostoevsky
+- The Kreutzer Sonata By Leo Tolstoy
+- The Lady with the Dog and Other Stories By Anton Chekhov
+- The Little Demon By Fyodor Sologub
+- Love and Other Stories By Anton Chekhov
+- Master and Man By Leo Tolstoy
+- Marie, A Story of Russian Love By Aleksandr Pushkin
+- Notes From the Underground By Fyodor Dostoevsky
+- The Party and Other Stories By Anton Chekhov
+- The Pit By Aleksandr Kuprin
+- Poor Folk By Fyodor Dostoevsky
+- The Possessed By Fyodor Dostoevsky
+- The River of Life, and Other Stories By Aleksandr Kuprin
+- The Schoolmaster and Other Stories By Anton Chekhov
+- The Schoolmistress and Other Stories By Anton Chekhov
+- The Seagull By Anton Chekhov
+- Short Stories By Vsevolod Garshin
+- A Slav Soul, and Other Stories By Aleksandr Kuprin
+- Sulamith: A Romance of Antiquity By Aleksandr Kuprin
+- Through Russia By Maksim Gorky
+- Uncle Vanya By Anton Chekhov
+- War and Peace By Leo Tolstoy
+- What Men Live By, and Other Tales By Leo Tolstoy
+- White Nights and Other Stories By Fyodor Dostoevsky
+- The Wife and Other Stories By Anton Chekhov
+- The Witch and Other Stories By Anton Chekhov
+- Youth By Leo Tolstoy
+
+### SCI-FI AND FANTASY
+
+- All Around the Moon By Jules Verne
+- The Arcot, Morey, and Wade Trilogy By John Wood Campbell
+- Armageddon 2419 A.D. By Philip Francis Nowlan
+- Atlantida By Pierre Benoit
+- At the Earth's Core By Edgar Rice Burroughs
+- Beyond the Black River By Robert E. Howard
+- The Big Time By Fritz Leiber
+- The Book of Wonder By Lord Dunsany
+- The Chessmen of Mars By Edgar Rice Burroughs
+- Child Christopher and Goldilind the Fair By William Morris
+- The Disintegration Machine By Arthur Conan Doyle
+- The Door in the Wall And Other Stories By H. G. Wells
+- Etidorhpa By John Uri Lloyd
+- Face in the Abyss By Abraham Merritt
+- A Fighting Man of Mars By Edgar Rice Burroughs
+- The First Men In The Moon By H. G. Wells
+- Four-Day Planet By H. Beam Piper
+- The Food of the Gods and How It Came to Earth By H. G. Wells
+- From the Earth to the Moon By Jules Verne
+- Gladiator By Philip Wylie
+- The Gods of Mars By Edgar Rice Burroughs
+- The Gods of Pegana By Lord Dunsany
+- Gulliver of Mars By Edwin L. Arnold
+- The Hollow Land By William Morris
+- The House of the Wolfings By William Morris
+- The Invisible Man By H. G. Wells
+- In the Days of the Comet By H. G. Wells
+- The Island of Dr. Moreau By H. G. Wells
+- John Carter of Mars By Edgar Rice Burroughs
+- A Journey To The Center Of The Earth By Jules Verne
+- Kai Lung's Golden Hours By Ernest Bramah
+- The Land of Mist By Arthur Conan Doyle
+- The Land that Time Forgot By Edgar Rice Burroughs
+- Lilith By George MacDonald
+- Llana of Gathol By Edgar Rice Burroughs
+- Lord of the World By Robert Hugh Benson
+- The Lost Continent By Cutcliffe Hyne
+- The Lost World By Arthur Conan Doyle
+- A Martian Odyssey By Stanley G. Weinbaum
+- The Master Mind of Mars By Edgar Rice Burroughs
+- The Master of the World By Jules Verne
+- The Metal Monster By Abraham Merritt
+- The Moon Pool By Abraham Merritt
+- The Mummy! A Tale of the Twenty-Second Century By Jane Webb-Loudon
+- Niels Klim's Underground Travels By Ludvig Holberg
+- The Night of the Long Knives By Fritz Reuter Leiber
+- Off On a Comet By Jules Verne
+- The Omnibus Collection By Andre Norton
+- The Omnibus Collection By Harry Harrison
+- Out of Time's Abyss By Edgar Rice Burroughs
+- Pagan Passions By Randall Garrett
+- Pellucidar By Edgar Rice Burroughs
+- The People that Time Forgot By Edgar Rice Burroughs
+- Phantastes By George MacDonald
+- The Poison Belt By Arthur Conan Doyle
+- A Princess of Mars By Edgar Rice Burroughs
+- Robur the Conqueror By Jules Verne
+- The Roots of the Mountains By William Morris
+- Savage Pellucidar By Edgar Rice Burroughs
+- The Scarlet Plague By Jack London
+- The Sea Lady By H. G. Wells
+- The Shaving of Shagpat By George Meredith
+- The Ship of Ishtar By Abraham Merritt
+- Short Stories By C. M. Kornbluth
+- Short Stories By Frederik Pohl
+- Short Stories By Philip K. Dick
+- Short Stories By Stanley G. Weinbaum
+- The Smoky God By Willis George Emerson
+- Space Viking By H. Beam Piper
+- A Strange Manuscript Found in a Copper Cylinder By James De Mille
+- Swords of Mars By Edgar Rice Burroughs
+- Symzonia; Voyage of Discovery By Adam Seaborn
+- Synthetic Men of Mars By Edgar Rice Burroughs
+- The Three Eyes By Maurice Leblanc
+- Thuvia, Maid of Mars By Edgar Rice Burroughs
+- The Time Machine By H. G. Wells
+- The Tremendous Event By Maurice Leblanc
+- Uller Uprising By H. Beam Piper
+- A Voyage to Arcturus By David Lindsay
+- The Warlord of Mars By Edgar Rice Burroughs
+- The War of the Worlds By H. G. Wells
+- The Water of the Wondrous Isles By William Morris
+- The Well at the World's End By William Morris
+- When the World Shook by H. Rider Haggard
+- When the World Screamed By Arthur Conan Doyle
+- Wisdom's Daughter By H. Rider Haggard
+- A Witch Shall Be Born By Robert E. Howard
+- The Wonderful Visit by H. G. Wells
+- The Wood Beyond the World By William Morris
+- The Worm Ourorobos By E. R. Eddison
+
+### SHORT STORIES
+
+- Actions and Reactions By Rudyard Kipling
+- After Dark By Wilkie Collins
+- All the Sad Young Men By F. Scott Fitzgerald
+- The Altar of the Dead By Henry James
+- Animal Farm By George Orwell
+- Atlantic Narratives: Modern Short Stories By Various
+- Bartleby, The Scrivener By Herman Melville
+- Beauty and the Beast and Tales of Home By Bayard Taylor
+- Brother Jacob By George Eliot
+- The Canterville Ghost By Oscar Wilde
+- The Christmas Books of Mr. M. A. Titmarsh By William Makepeace Thackeray
+- The Crayon Papers By Washington Irving
+- The Curious Case of Benjamin Button By F. Scott Fitzgerald
+- Daisy Miller, A Study in Two Parts By Henry James
+- The Day's Work By Rudyard Kipling
+- A Deal in Wheat And Other Stories By Frank Norris
+- Dubliners By James Joyce
+- England, My England and Other Stories By D. H. Lawrence
+- The Entire Original Maupassant Short Stories By Guy De Maupassant
+- Fables By Robert Louis Stevenson
+- The Face and the Mask By Robert Barr
+- Flappers and Philosophers By F. Scott Fitzgerald
+- The Four Million by O. Henry
+- Gallegher and other Stories By Richard Harding Davis
+- A Haunted House and Other Short Stories By Virginia Woolf
+- The Heart of Happy Hollow By Paul Laurence Dunbar
+- An International Episode By Henry James
+- In the Penal Colony By Franz Kafka
+- Island Nights' Entertainments By Robert Louis Stevenson
+- The Lady of the Barge By W. W. Jacobs
+- The Last Galley By Arthur Conan Doyle
+- The Lion and the Unicorn By Richard Harding Davis
+- Lost Face By Jack London
+- The Madman By Kahlil Gibran
+- The Man Who Would Be King By Rudyard Kipling
+- The Metamorphosis By Franz Kafka
+- Micromegas, Philosophical History By Voltaire
+- The Misadventures of John Nicholson By Robert Louis Stevenson
+- Monday or Tuesday By Virginia Woolf
+- Mosses From an Old Manse By Nathaniel Hawthorne
+- An Occurrence at Owl Creek Bridge By Ambrose Bierce
+- The Phantom 'Rickshaw and other Eerie Tales By Rudyard Kipling
+- The Piazza Tales By Herman Melville
+- Plain Tales from the Hills By Rudyard Kipling
+- The Pupil By Henry James
+- The Purcell Papers By Sheridan Le Fanu
+- A Round of Visits By Henry James
+- The Secret Sharer By Joseph Conrad
+- A Set of Six By Joseph Conrad
+- Short Stories By F. Scott Fitzgerald
+- Short Stories By Stacy Aumonier
+- Sketches by Boz By Charles Dickens
+- A Smile of Fortune By Joseph Conrad
+- Tales of the Jazz Age By F. Scott Fitzgerald
+- Tales of Unrest By Joseph Conrad
+- A Thief in the Night by E. W. Hornung
+- Those Extraordinary Twins By Mark Twain
+- Three Short Works By Gustave Flaubert
+- Traffics and Discoveries By Rudyard Kipling
+- Twice Told Tales By Nathaniel Hawthorne
+- Twixt Land And Sea By Joseph Conrad
+- When God Laughs and Other Stories By Jack London
+- Youth and the Bright Medusa By Willa Cather
+
+### UTOPIA AND DYSTOPIA
+
+- The Blazing World By Margaret Cavendish
+- Caesar's Column By Ignatius Donnelly
+- The Iron Heel By Jack London
+- Looking Backward By Edward Bellamy
+- Men Like Gods By H. G. Wells
+- A Modern Utopia By H. G. Wells
+- New Atlantis By Francis Bacon
+- News from Nowhere By William Morris
+- Nineteen Eighty-Four By George Orwell
+- The Sleeper Awakes By H. G. Wells
+- The Trial By Franz Kafka
+- Utopia By Thomas More
+
+### WAR
+
+- Blue Lights By R. M. Ballantyne
+- Bob Cook and the German Spy By Paul G. Tomlinson
+- The Frontier By Maurice Leblanc
+- The Good Soldier By Ford Madox Ford
+- Last Post By Ford Madox Ford
+- A Man Could Stand Up By Ford Madox Ford
+- Mr. Britling Sees It Through By H. G. Wells
+- No More Parades By Ford Madox Ford
+- The Red Badge of Courage By Stephen Crane
+- Soldiers Three By Rudyard Kipling
+- Some Do Not... By Ford Madox Ford
+- The World Set Free By H. G. Wells
+- The Young Buglers By G. A. Henty
+
+### WESTERN
+
+- Apache Devil By Edgar Rice Burroughs
+- The Coming of Cassidy and the Others By Clarence E. Mulford
+- A Daughter of the Sioux By Charles King
+- Injun and Whitey to the Rescue By William S. Hart
+- The Last of the Mohicans By James Fenimore Cooper
+- The Trail of '98: A Northland Romance By Robert W. Service
+
+## FOLK-LORE AND MYTHOLOGY
+
+- 1000 Mythological Characters Briefly Described By Edward S. Ellis
+- The Amazons By Guy Cadogan Rothery
+- Animism Or Thought Currents of Primitive Peoples By George William Gilmore
+- A Book Of Folk-Lore By Sabine Baring-Gould
+- The Book of Hallowe'en By Ruth Edna Kelley
+- The Book of Nature Myths By Florence Holbrook
+- The Book of Talismans, Amulets and Zodiacal Gems By William Thomas and Kate Pavitt
+- The Book of Were-Wolves By Sabine Baring-Gould
+- Bulfinch's Mythology, Legends of Charlemagne By Thomas Bulfinch
+- Bulfinch's Mythology, The Age of Chivalry By Thomas Bulfinch
+- Bulfinch's Mythology, The Age of Fable By Thomas Bulfinch
+- Christmas in Ritual and Tradition By Clement A. Miles
+- Christmas, Its Origin and Associations By W. F. Dawson
+- Curious Myths of the Middle Ages By Sabine Baring-Gould
+- Dragons and Dragon Lore By Ernest Ingersoll
+- The Evil Eye By Frederick Thomas Elworthy
+- The Evolution of the Dragon By G. Elliot Smith
+- Fairies By Gertrude M. Faulding
+- The Fairy Mythology By Thomas Keightley
+- The Fallen Angels and the Heroes of Mythology By John Fleming
+- Fictitious and Symbolic Creatures in Art By John Vinycomb
+- Folk-lore of Shakespeare By Thomas Firminger Thiselton-Dyer
+- Folk-Lore of Women By Thomas Firminger Thiselton-Dyer
+- Funeral Customs By Bertram S. Puckle
+- Goblin Tales of Lancashire By James Bowker
+- The Golden Bough By James George Frazer
+- The Grateful Dead, The History of a Folk Story By Gordon Hall Gerould
+- A Guide to Mythology By Helen A. Clarke
+- Gypsy Folk Tales By Francis Hindes Groome
+- Human Animals By Frank Hamel
+- An Introduction to Mythology By Lewis Spence
+- The Lore of the Unicorn By Odell Shepard
+- Magic and Fetishism By Alfred C. Haddon
+- Magic And Religion By Andrew Lang
+- The Magic of the Horse-Shoe By Robert Means Lawrence
+- Manners, Customs, and Observances: Their Origin and Significance By Leopold Wagner
+- The Migration of Symbols By Goblet d'Alviella
+- Moon Lore By Timothy Harley
+- Mythical Monsters By Charles Gould
+- The Myth of the Birth of the Hero By Otto Rank
+- The Mythology of All Races, Celtic and Slavic By Louis Herbert Gray
+- The Mythology of all Races, Indian and Iranian By Louis Herbert Gray
+- Myths and Dreams By Edward Clodd
+- Myths and Myth-Makers By John Fiske
+- Myths of the Norsemen By H. A. Guerber
+- On the Migration of Fables By F. Max Muller
+- Ophiolatreia or Serpent Worship By Anonymous
+- The Origins of Popular Superstitions and Customs By T. Sharper Knowlson
+- Ritual and Belief By Edwin Sidney Hartland
+- The Science of Fairy Tales, An Enquiry Into Fairy Mythology By Edwin Sidney Hartland
+- The Stories of the Months and Days By Reginald C. Couzens
+- A Study of Fairy Tales By Laura F. Kready
+- Sun Lore of All Ages By William Tyler Olcott
+- Tales of Folk and Fairies By Katharine Pyle
+- Tales of the Enchanted Islands of the Atlantic by Thomas Wentworth Higginson
+- Tales of the Fairies and of the Ghost World By Jeremiah Curtin
+- Tom Tit Tot, An Essay on Savage Philosophy in Folk-Tale By Edward Clodd
+- Tower Legends By Bertha Palmer Lane
+- The Unicorn: A Mythological Investigation By Robert Brown
+- The Vampire, His Kith and Kin By Montague Summers
+- The Worship of the Serpent By John Bathurst Deane
+
+## FORTUNE TELLING AND DIVINATION
+
+- The Book of Forbidden Knowledge By Unknown
+- Crystal Gazing By Northcote W. Thomas
+- Crystal Vision Through Crystal Gazing By Frater Achad
+- Fortunes and Dreams By Astra Cielo
+- Fortune-Telling by Cards By Professor P. R. S. Foli
+- Gypsy Sorcery and Fortune Telling By Charles G. Leland
+- How to Read the Crystal By Sepharial
+- Innocent Amusement, Or The Heiroglyphical Fortune Teller By Unknown
+- A Manual of Cartomancy and Occult Divination By Grand Orient
+- Palmistry For All By Cheiro
+- Signs, Omens and Superstitions By Astra Cielo
+- Tea-Cup Reading, and the Art of Fortune-Telling By A Highland Seer
+- The Witches' Dream Book and Fortune Teller By A. H. Noe
+
+## GNOSTICISM AND HERMETICA
+
+- The Chaldaean Oracles Volume 1 By G. R. S. Mead
+- The Chaldaean Oracles Volume 2 By G. R. S. Mead
+- Clothed With the Sun By Anna Kingsford
+- Collectanea Hermetica Volume I By William Wynn Westcott
+- Collectanea Hermetica Volume II By William Wynn Westcott
+- Collectanea Hermetica Volume III By William Wynn Westcott
+- Collectanea Hermetica Volume IV By William Wynn Westcott
+- Collectanea Hermetica Volume V By William Wynn Westcott
+- Collectanea Hermetica Volume VI By William Wynn Westcott
+- Collectanea Hermetica Volume VII By William Wynn Westcott
+- The Corpus Hermeticum By G. R. S. Mead
+- The Divine Pymander of Hermes Mercurius Trismegistus By John Everard
+- The Doctrine of the Subtle Body in Western Tradition By G. R. S. Mead
+- The Emerald Tablet of Hermes By Unknown
+- Fragments of a Faith Forgotten By G. R. S. Mead
+- The Gnosis of the Mind By G. R. S. Mead
+- The Gnostic Crucifixion By G. R. S. Mead
+- The Gnostic Handbook By The Institute for Gnostic Studies
+- The Gnostic Heresies of the First and Second Centuries By J. B. Lightfoot
+- Gnostic John the Baptizer By G. R. S. Mead
+- The Gnostics and Their Remains By C. W. King
+- Gnostic Theurgy By The Institute for Gnostic Studies
+- The Hymn of Jesus By G. R. S. Mead
+- The Hymns of Hermes By G. R. S. Mead
+- The Kybalion By The Three Initiates
+- Logos, Mantram, Theurgy By Samael Aun Weor
+- A Mithriac Ritual By G. R. S. Mead
+- The Path of Knowledge (Jnana Marga) By Unknown
+- Pistis Sophia By G. R. S. Mead
+- The Revolution of the Dialectic By Samael Aun Weor
+- A Suggestive Inquiry into the Hermetic Mystery by Mary Anne Atwood
+- The Theological and Philosophical Works of Hermes Trismegistus By John David Chambers
+- Thrice Greatest Hermes, Volume 1 By G. R. S. Mead
+- Thrice Greatest Hermes, Volume 2 By G. R. S. Mead
+- Thrice Greatest Hermes, Volume 3 By G. R. S. Mead
+- The Virgin of the World of Hermes Mercurius Trismagistus By Anna Kingsford and Edward Maitland
+- The Yellow Book By Samael Aun Weor
+
+## GREAT BRITAIN
+
+- Ancient Streets and Homesteads of England By Alfred Rimmer
+- The Barddas of Iolo Morganwg Volume 1 By J. Williams (Ab Ithel)
+- The Barddas of Iolo Morganwg, Volume 2 By J. Williams (Ab Ithel)
+- Bede's Ecclesiastical History of England By A. M. Sellar
+- Bill Nye's History of England By Bill Nye
+- A Book Of Old English Ballads By George Wharton Edwards
+- British Goblins By Wirt Sikes
+- The Canterbury Tales and Other Poems By Geoffrey Chaucer
+- Carmina Gadelica, Ortha Nan Gaidheal Volume I By Alexander Carmichael
+- Carmina Gadelica, Ortha Nan Gaidheal Volume II By Alexander Carmichael
+- A Child's History of England By Charles Dickens
+- Chronicle of the Kings of England By William of Malmesbury
+- The Coming of the Fairies By Arthur Conan Doyle
+- Cornish Feasts and Folk-lore By M. A. Courtney
+- Elizabeth and Essex By Lytton Strachey
+- Eminent Victorians By Lytton Strachey
+- English Fairy and Other Folk Tales By Edwin Sidney Hartland
+- English Fairy Tales By Flora Annie Steel
+- English Fairy Tales By Joseph Jacobs
+- The English Gipsies and their Language By Charles G. Leland
+- English Gipsy Songs By Charles G. Leland
+- English Traits By Ralph Waldo Emerson
+- The Feuds of the Clans By Alexander MacGregor
+- Folk-Lore and Legends: Scotland By Anonymous
+- The Folk-Lore of the Isle of Man By A. W. Moore
+- The Folk-Lore of the North-East of Scotland By Walter Gregor
+- Folk Tales and Fairy Lore in Gaelic and English By James MacDougall
+- The Four Ancient Books of Wales By William F. Skene
+- Hero-Myths and Legends of the British Race By Maud Isabel Ebbutt
+- Histories of the Kings of Britain By Geoffrey of Monmouth
+- The History of Charles the First By Jacob Abbott
+- The History of England By David Hume
+- History of English Literature By Andrew Lang
+- Idylls of the King By Alfred Tennyson
+- In the Days of Queen Victoria By Eva March Tappan
+- King Arthur, Tales of the Round Table By Andrew Lang
+- The Legends Of King Arthur And His Knights By James Knowles
+- Legends of Lancashire By Peter Landreth
+- Le Morte d'Arthur By Sir Thomas Malory
+- The Mabinogion By Lady Charlotte Guest
+- Medieval Wales By A. G. Little
+- More English Fairy Tales By Joseph Jacobs
+- The Mythology of Ancient Britain and Ireland By Charles Squire
+- North Cornwall Fairies and Legends By Enys Tregarthen
+- A Peep at the Pixies, or Legends of the West By Anna Eliza Bray
+- A Phonetic Dictionary of the English Language By Hermann Michaelis
+- The Piskey-Purse: Legends and Tales of North Cornwall By Enys Tregarthen
+- Poems of Ossian By James Macpherson
+- Popular Romances of the West of England by Robert Hunt
+- Queen Victoria by Lytton Strachey
+- The Romance of Tristan And Iseult By Joseph Bédier
+- A Scot's Dialect Dictionary By Alexander Warrack
+- Scottish Fairy and Folk Tales By George Douglas
+- The Scottish Fairy Book By Elizabeth W. Grierson
+- Sir Gawain and the Green Knight By Unknown
+- Sports and Pastimes of the People of England By Joseph Strutt
+- Stonehenge: To-Day and Yesterday By Frank Stevens
+- The Story of the British Race By John Munro
+- The Story of the Champions of the Round Table By Howard Pyle
+- Tales of the Dartmoor Pixies By William Crossing
+- A Tour Through The Whole Island of Great Britain By Daniel Defoe
+- Traces of the Norse Mythology in the Isle of Man By P. M. C. Kermode
+- Traditions and Hearthside Stories of West Cornwall Vol. 1 By William Bottrell
+- Traditions and Hearthside Stories of West Cornwall Vol. 2 By William Bottrell
+- Traditions of Lancashire By John Roby
+- The Underground Life By David MacRitchie
+- The Vita Merlini By Geoffrey of Monmouth
+- The Welsh Fairy Book By W. Jenkyn Thomas
+- Wild Wales: Its People, Language and Scenery By George Borrow
+- Wonder Tales from Scottish Myth and Legend By Donald A. Mackenzie
+- Yorkshire Oddities By Sabine Baring-Gould
+
+## HEALTH
+
+- Death Defeated: Or, The Psychic Secret of How to Keep Young By J. M. Peebles
+- Eating for Health and Strength By Bernarr Macfadden
+- The Law of Natural Healing By Charles L. Gilson
+- Perfect Health By Charles C. Haskell
+- The Perfect Way in Diet By Anna Kingsford
+- The Possibility of Living 200 Years By F. C. Havens
+- Practical Visions, A Book of Inspiration By Frederick Payne Millard
+- Self-Healing by Thought Force By William Walker Atkinson
+
+## HINDUISM
+
+- The Asuri-Kalpa: A Witchcraft Practice of the Atharva-Veda By H. W. Magoun
+- The Bhagavad Gita By Edwin Arnold
+- The Bhagavadgita By Kashinath Trimbak Telang
+- A Classical Dictionary of Hindu Mythology and Religion By John Dowson
+- The Cosmology of the Rigveda By H. W. Wallis
+- Dakshinamurti Stotra By Alladi Mahadeva Sastri
+- The Descent of the Sun By F. W. Bain
+- Excerpts from a Vedic Reader for Students By Arthur Anthony Macdonell
+- From the Upanishads By Charles Johnston
+- Gaina Sutras Part 1 By Hermann Jacobi
+- Gaina Sutras Part 2 By Hermann Jacobi
+- The Garuda Purana By Ernest Wood and S.V. Subrahmanyam
+- The Gospel of Ramakrishna By Swami Abhedananda
+- The Grihya Sutras Part 1 By Hermann Oldenberg
+- The Grihya Sutras Part 2 By Hermann Oldenberg
+- A Heifer of the Dawn By F. W. Bain
+- Hindu Mysticism By S. N. Dasgupta
+- Hindu Mythology, Vedic and Puranic By W.J. Wilkins
+- Hindu Tales from the Sanskrit By S. M. Mitra and Nancy Bell
+- The Hymns of the Atharva Veda By Maurice Bloomfield
+- The Hymns of the Atharva Veda By Ralph T. H. Griffith
+- Hymns of the Samaveda By Ralph T. H. Griffith
+- Hymns to the Goddess By Arthur Avalon (John Woodroffe)
+- Hymn to Kali By Arthur Avalon (John Woodroffe)
+- Indian Idylls By Edwin Arnold
+- The Institutes of Vishnu By Julius Jolly
+- In the Great God's Hair By F. W. Bain
+- Kalidasa, Translations of Shakuntala, and Other Works By Arthur W. Ryder
+- Kali the Mother By Sister Nivedita
+- The Laws of Manu By Georg Buhler
+- Love and Death By Sri Aurobindo
+- The Mahabharata By Kisari Mohan Ganguli
+- The Minor Law Books By Julius Jolly
+- The Mythological History of Rama By Unknown
+- The Nighantu and the Nirukta By Lakshman Sarup
+- The Prem Sagur of Lallu Lal By W. Hollings
+- Ramakrishna, His Life and Sayings By F. Max Muller
+- The Ramayana and Mahabharata By Romesh C. Dutt
+- The Ramayan of Valmiki By Ralph T. H. Griffith
+- The Rig Veda By Ralph T. H. Griffith
+- The Sacred Laws of the Aryas Part 1 By Georg Buhler
+- The Sacred Laws of the Aryas Part 2 By Georg Buhler
+- Sacred Nadi Readings By Sri Sathya Sai Baba And Sri Vasantha Sai
+- Sadhana, The Realisation of Life By Rabindranath Tagore
+- The Satapatha Brahmana Part 1 By Julius Eggeling
+- The Satapatha Brahmana Part 2 By Julius Eggeling
+- The Satapatha Brahmana Part 3 By Julius Eggeling
+- The Satapatha Brahmana Part 4 By Julius Eggeling
+- The Satapatha Brahmana Part 5 By Julius Eggeling
+- Select Works of Sri Sankaracharya By S. Venkataramanan
+- Six Lectures on Vedanta Philosophy By Swami Abhedananda
+- The S'rimad Devi Bhagawatam By Swami Vijnanananda
+- The Story of Vedic India as Embodied Principally in the Rig-Veda By Zenaide A. Ragozin
+- The Texts of the White Yajurveda By Ralph T. H. Griffith
+- The Transmigration of the Seven Brahmans By Henry David Thoreau
+- The Upanishads Part 1 By F. Max Muller
+- The Upanishads Part 2 By F. Max Muller
+- The Vedanta Sutras Part 1 By George Thibaut
+- The Vedanta Sutras Part 2 By George Thibaut
+- The Vedanta Sutras Part 3 By George Thibaut
+- Vedic Hymns Part 1 By F. Max Muller
+- Vedic Hymns Part 2 By Hermann Oldenberg
+- Vedic Mythology By Arthur Anthony Macdonell
+- Verses of Vemana By C. P. Brown
+- The Village Gods of South India By Henry Whitehead
+- The Yajur Veda (Taittiriya Sanhita) By Arthur Berriedale Keith
+- The Yoga-Upanisads By T. R. Srinivasa
+- Yoga Vashisht Or Heaven Found By Rishi Singh Gherwal
+
+## HUMOUROUS NON-FICTION
+
+- The Devil's Dictionary By Ambrose Bierce
+- Idle Thoughts of an Idle Fellow By Jerome K. Jerome
+- The Innocents Abroad By Mark Twain
+- In Praise of Folly By Desiderius Erasmus
+- Letters from the Earth By Mark Twain
+- Literary Lapses By Stephen Leacock
+- A Modest Proposal By Jonathan Swift
+- Only a Ghost! By Sabine Baring-Gould
+- A Tramp Abroad By Mark Twain
+
+## INDIA
+
+- Aboriginal Tribes of India and Pakistan By Hawabai Mustafa Shah
+- Ancient and Mediaeval India By Charlotte Speir Manning
+- Ancient India, Its Language and Religions By Hermann Oldenberg
+- Antiquities of India By Lionel D. Barnett
+- Bihar Peasant Life By George A. Grierson
+- The Crest-Jewel of Wisdom By Charles Johnston
+- Darkest India By Commissioner Booth-Tucker
+- Ethnology of India By R. G. Latham
+- Folk-Tales of Bengal By Lal Behari Day
+- Indian Fairy Tales By Joseph Jacobs
+- Indian Myth and Legend By Donald A. Mackenzie
+- An Introduction to the Popular Religion and Folklore of Northern India By William Crooke
+- Kabir and the Kabir Panth By G. H. Westcott
+- Languages of India Including Aboriginal Tribes of Bengal By George Campbell
+- The Legends of the Panjab By R. C. Temple
+- A Memoir on the Indian Surveys, 1875-1890 By Charles E. D. Black
+- Modern India By William Eleroy Curtis
+- Old Deccan Days By Mary Frere
+- Omens and Superstitions of Southern India By Edgar Thurston
+- Studies from an Eastern Home By Sister Nivedita
+- Tales of the Punjab: Folklore of India By Flora Annie Steel
+- Thought Relics By Rabindranath Tagore
+- Twenty-Two Goblins By Arthur W. Ryder
+- Vikram and the Vampire By Richard Francis Burton
+- The Web of Indian Life By Sister Nivedita
+
+## IRELAND
+
+- The Ancient Irish Goddess of War By W. M. Hennessey
+- Ancient Legends, Mystic Charms, and Superstitions of Ireland By Lady Francesca Speranza Wilde
+- The Aran Islands By John M. Synge
+- Beside The Fire By Douglas Hyde
+- A Book Of Saints And Wonders By Lady Gregory
+- The Cattle-Raid of Cooley By Joseph Dunn
+- The Cattle Raid of Cualnge By L. Winifred Faraday
+- The Celtic Twilight By William Butler Yeats
+- Cuchulain of Muirthemne By Lady Gregory
+- The Destruction of Da Derga's Hostel By Whitely Stokes
+- The Druid Path By Marah Ellis Ryan
+- Fairy and Folk Tales of the Irish Peasantry By William Butler Yeats
+- Gods and Fighting Men By Lady Gregory
+- Heroic Romances of Ireland, Complete By A. H. Leahy
+- In Wicklow and West Kerry By John M. Synge
+- Irish Fairy Tales By James Stephens
+- The Irish Sketch-book By William Makepeace Thackeray
+- Irish Witchcraft and Demonology By St John D. Seymour
+- Legends and Stories of Ireland By Samuel Lover
+- Myths and Folk-lore of Ireland By Jeremiah Curtin
+- The Second Battle of Mag Tuired By Elizabeth A. Gray
+- Told at the Feis: Stories of Ancient Ireland By Unknown
+- Visions and Beliefs in the West of Ireland By Lady Gregory
+- West Irish Folk-Tales and Romances by William Larminie
+
+## ISLAM AND SUFISM
+
+- 2,500 Adages Of Imam Ali By Unknown
+- The Alchemy of Happiness By Al Ghazzali
+- Arabian Wisdom By John Wortabet
+- The Bible, The Koran, and the Talmud By Dr. G. Weil
+- The Bustan of Sadi By Sadi
+- Christianity and Islam By C.H. Becker
+- Christianity and Islam in Spain, A.D. 756-1031 By Charles Reginald Haines
+- Christ in Islam By James Robson
+- The Conference of the Birds By Farid Ud-Din Attar
+- Development of Muslim Theology, Jurisprudence and Constitutional Theory By Duncan B. MacDonald
+- The Diwan of Zeb-un-Nissa By Zeb-un-Nissa
+- The Enclosed Garden of the Truth By Hakim Abul-Majd Majdud ibn Adam Sana'i Ghaznavi
+- Epistle to the Son of the Wolf By Baha'u'llah
+- The Gulistan of Sadi By Sadi
+- The Hadith (Complete 9 Volumes) By Sahih Al-Bukhari
+- History of Philosophy in Islam By T. J. De Boer
+- The Improvement of Human Reason By Ibn Tufail
+- The Kasidah of Haji Abdu El-Yezdi By Richard Francis Burton
+- The Kitab-i-Aqdas By Baha'u'llah
+- The Kitab-i-Iqan By Baha'u'llah
+- Mahomet, Founder of Islam By Gladys M. Draycott
+- A Manual of Hadith By Maulana Muhammad Ali
+- The Masnavi I Ma'navi By Rumi
+- The Meaning of the Glorious Quran By Marmaduke Pickthall
+- The New World of Islam By Lothrop Stoddard
+- Oriental Mysticism By E. H. Palmer
+- Pan-Islam by George Wyman Bury
+- Poems from the Divan of Hafiz By Gertrude Lowthian Bell
+- The Qur'an Part 1 By E.H. Palmer
+- The Qur'an Part 2 By E.H. Palmer
+- The Religion of the Koran By Arthur N. Wollaston
+- The Rubaiyat of Omar Khayyam By Edward Fitzgerald
+- Salaman and Absal By Jami
+- Scroll of Wisdom By Sadi
+- The Secret Rose Garden By Sa'd Ud Din Mahmud Shabistari
+- The Secrets of the Self By Muhammad Iqbal
+- Selections from the Poetry of the Afghans By Henry George Raverty
+- Songs of Kabir By Rabindranath Tagore
+- The Splendour of God By Eric Hammond
+- A Sufi Message of Spiritual Liberty By Inayat Khan
+- The Tarjuman al-Ashwaq By Ibn al-Arabi
+
+## JAPAN
+
+- Aino Folk Tales By Basil Hall Chamberlain
+- Ancient Tales and Folk-lore of Japan By Richard Gordon Smith
+- The Book of Tea By Okakura Kakuzo
+- Bushido, The Soul of Japan By Inazo Nitobe
+- The Creed of Half Japan By Arthur Lloyd
+- Genji Monogatari By Murasaki Shikibu
+- The Gist of Japan By R. B. Peery
+- Gleanings in Buddha-Fields By Lafcadio Hearn
+- Glimpses of Unfamiliar Japan, Vol 1 By Lafcadio Hearn
+- A Handbook of Colloquial Japanese By Basil Hall Chamberlain
+- A Hundred Verses from Old Japan By William N. Porter
+- The Ideals of the East By Okakura Kakuzo
+- In Ghostly Japan By Lafcadio Hearn
+- Japan, An Attempt at Interpretation By Lafcadio Hearn
+- Japan, From the Age of the Gods to the Fall of Tsingtau By Frederick Hadland Davis
+- Japanese Fairy Tales By Yei Theodora Ozaki
+- Japanese Haiku By Peter Beilenson
+- Japanese Household Magic By W. L. Hildburgh
+- The Kojiki By Basil Hall Chamberlain
+- Kwaidan: Stories and Studies of Strange Things By Lafcadio Hearn
+- The Master-Singers of Japan By Clara A. Walsh
+- The Miscellany of a Japanese Priest By William N. Porter
+- Myths and Legends of Japan By Frederick Hadland Davis
+- The Shinto Cult By Milton S. Terry
+- Shinto: The Ancient Religion of Japan By W. G. Aston
+- Shinto, the Way of the Gods By W. G. Aston
+- An Unabridged Japanese-English Dictionary By F. Brinkley
+- Yukara, Epos of the Ainus By Kiyoko Miura
+
+## JOURNALS AND MEMOIRS
+
+- Captain Cook's Journal During the First Voyage Round the World By James Cook
+- A Complete Account of the Settlement at Port Jackson By Watkin Tench
+- De Profundis By Oscar Wilde
+- The Diary of Samuel Pepys
+- Down and Out in Paris and London by George Orwell
+- From the Caves and Jungles of Hindostan By H. P. Blavatsky
+- Hospital Sketches By Louisa May Alcott
+- The Journal of a Disappointed Man By W. N. P. Barbellion
+- The Land of Midian Revisited By Richard Francis Burton
+- Life on the Mississippi By Mark Twain
+- The Love Letters of Abelard and Heloise By Peter Abelard
+- A Negro Explorer at the North Pole By Matthew A. Henson
+- On the Writing of the Insane By G. Mackenzie Bacon
+- The Oregon Trail By Francis Parkman
+- The Private Memoirs of Madame Du Hausset By Nicole du Hausset
+- The Secret Life By Elizabeth Bisland
+- Speeches and Writings of M. K. Gandhi By M. K. Gandhi
+- Stanley in Africa By James P. Boyd
+- The Strange Adventures of Captain Quinton By Robert Quinton
+- Ten Days in a Mad-House By Nellie Bly
+- The Travels of Sir John Mandeville By John Mandeville
+- Two Years Before the Mast By Richard Henry Dana
+- Walden By Henry David Thoreau
+- A Week on the Concord and Merrimack Rivers By Henry David Thoreau
+
+## JUDAISM
+
+- Ancient Jewish Proverbs By Abraham Cohen
+- Babylonian Talmud Book 1 (Vols. I and II) By Michael L. Rodkinson
+- The Babylonian Talmud in Selection By Leo Auerbach
+- The Book of Delight and Other Papers By Israel Abrahams
+- Chapters on Jewish Literature By Israel Abrahams
+- Chronicles of Jerahmeel By Moses Gaster
+- The Duties of the Heart By Rabbi Bachye
+- Extra Biblical Sources for Hebrew and Jewish History By Samuel A. B. Mercer
+- The Golden Mountain By Meyer Levin
+- The Great March By Rose G. Lurie
+- The Guide for the Perplexed By Moses Maimonides
+- Hebraic Literature, Translations From the Talmud By Maurice H. Harris
+- Historical Sketch of the Jews Since the Destruction of Jerusalem By Bernhard Pick
+- History of the People of Israel By Carl Heinrich Cornill
+- The Jewish Child By W. M. Feldman
+- Jewish Magic and Superstition By Joshua Trachtenberg
+- Judaism By Israel Abrahams
+- Kitab Al Khazari By Judah Halevi
+- Legends of the Jews By Louis Ginzberg
+- Prolegomena to the History of Ancient Israel By Julius Wellhausen
+- A Rabbi's Impressions of the Oberammergau Passion Play By Joseph Krauskopf
+- Sayings of the Jewish Fathers By Charles Taylor
+- The Secret Doctrine in Israel By Arthur Edward Waite
+- Selected Religious Poems By Solomon Ibn Gabirol
+- Sepher Yezirah; A Book on Creation By Isidor Kalisch
+- Shabbethai Sebi, The Pseudo Messiah By N. E. B. Ezra
+- The Standard Prayer Book By Simeon Singer
+- Tales and Maxims from the Midrash By Samuel Rapaport
+- The Talmud: Selections By H. Polano
+- Tractate Sanhedrin, Mishnah and Tosefta By Herbert Danby
+- The Wandering Jew By Moncure Daniel Conway
+- The Wisdom of Israel By Edwin Collins
+- The Wisdom of the Talmud By Ben Zion Bokser
+
+## LAW AND CRIME
+
+- A Book Of Remarkable Criminals By H. B. Irving
+- Courts and Criminals By Arthur Train
+- Crime and its Causes By William Douglas Morrison
+- Crime, Its Cause and Treatment By Clarence Darrow
+
+## LIFE AFTER DEATH
+
+- After-Death Communications By L. M. Bazett
+- Astral City By Andre Luiz
+- The Blue Island: Experiences of a New Arrival Beyond the Veil By W. T. Stead
+- The Dead Have Never Died By Edward C. Randall
+- Death and its Mystery By Camille Flammarion
+- Experimental Investigation of the Spirit Manifestations By Robert Hare
+- The Future Life as Described and Portrayed by Spirits By Elizabeth Sweet
+- Ghosts in Solid Form By Gambier Bolton
+- Gone West: Three Narratives of After-Death Experiences By J. S. M Ward
+- Here and Hereafter By Anthony Borgia
+- The History of Spiritualism, Vol. I By Arthur Conan Doyle
+- The Last Crossing By Gladys Osborne Leonard
+- Last Letters From the Living Dead Man By Elsa Barker
+- The Life After Death By Charles Webster Leadbeater
+- The Life Beyond the Veil, Volume 1 By G. Vale Owen
+- Life in the World Unseen By Anthony Borgia
+- More About Life in the World Unseen By Anthony Borgia
+- The New Revelation By Arthur Conan Doyle
+- People from the Other World By Henry S. Olcott
+- Pheneas Speaks By Arthur Conan Doyle
+- Psycho-Phone Messages By Francis Grierson
+- Raymond; or, Life and Death By Oliver Lodge
+- The Reality of Psychic Phenomena By W. J. Crawford
+- Realms of the Living Dead By Frank Homer Curtiss and Harriette Augusta Curtiss
+- Reincarnation and the Law of Karma By William Walker Atkinson
+- There is No Death By Florence Marryatt
+- Thirty Years Among the Dead By Carl Wickland
+- A Wanderer in the Spirit Lands By Franchezzo
+
+## MEDITATION AND YOGA
+
+- Advanced Course in Yogi Philosophy and Oriental Occultism By Yogi Ramacharaka (William Walker Atkinson)
+- Anapanasati, Mindfulness of Breathing By Buddhadasa Bhikkhu
+- Bhakti Yoga By Swami Vivekananda
+- Buddhist Meditation and Depth Psychology By Douglas M. Burns
+- Concentration and Meditation By Swami Paramananda
+- Fourteen Lessons in Yogi Philosophy By Yogi Ramacharaka (William Walker Atkinson)
+- Great Systems of Yoga By Ernest Wood
+- Hatha Yoga By Yogi Ramacharaka (William Walker Atkinson)
+- Hatha Yoga Pradipika By Yoga Swami Svatmarama
+- The Hindu-Yogi Science of Breath By Yogi Ramacharaka (William Walker Atkinson)
+- The Hindu-Yogi System Of Practical Water Cure By Yogi Ramacharaka (William Walker Atkinson)
+- How to be a Yogi By Swami Abhedananda
+- Karma Yoga By Swami Vivekananda
+- Kundalini, The Mother of the Universe By Rishi Singh Gherwal
+- Lectures on Raja Yoga By Sri Swami Chidananda
+- Raja Yoga By Swami Vivekananda
+- Relax with Yoga By Arthur Liebers
+- The Science of Pranayama By Sri Swami Sivananda
+- A Series of Lessons in Gnani Yoga: The Yoga of Wisdom By Yogi Ramacharaka (William Walker Atkinson)
+- Thought Power By Sri Swami Sivananda
+- Yoga and Yoga Discipline, A Theosophical Interpretation By Charles J. Ryan
+- Yoga Lessons For Developing Spiritual Consciousness By A. P. Mukerji
+- The Yoga Sutras of Patanjali, An Interpretation By Charles Johnston
+
+## MILITARY AND WAR
+
+- Andersonville: A Story of Rebel Military Prisons By John McElroy
+- Army Life in a Black Regiment By Thomas Wentworth Higginson
+- The Art of War By Sun Tzu
+- The Backwash of War by Ellen N. La Motte
+- Cuba in War Time By Richard Harding Davis
+- The Great Boer War By Arthur Conan Doyle
+- In the Ranks of the C.I.V. By Erskine Childers
+- A Journal of Impressions in Belgium By May Sinclair
+- Labour, Finance, and the War By A. W. Kirkaldy
+- On War By Carl von Clausewitz
+- Over the Top With the Third Australian Division By G. P. Cuttriss
+- Real Soldiers of Fortune By Richard Harding Davis
+- Soldiers of Labour By Bart Kennedy
+- The War in the East By Trumbull White
+- War in the Garden of Eden By Kermit Roosevelt
+
+
+## MORMONISM
+
+- Book of Abraham By George Reynolds
+- The Book of Mormon By Joseph Smith
+- Pearl of Great Price By Joseph Smith
+- The Story and Philosophy of Mormonism By James E. Talmage
+- Under the Prophet in Utah By Frank J. Cannon and Harvey J. O'Higgins
+
+
+## MYSTICISM
+
+- The Adornment of the Spiritual Marriage By Jan van Ruysbroeck
+- Ancient and Modern Initiation By Max Heindel
+- Apocalypse Explained By Emanuel Swedenborg
+- Apocalypse Revealed By Emanuel Swedenborg
+- The Aquarian Gospel of Jesus the Christ By Levi H. Dowling
+- The Aquarian Message By Samael Aun Weor
+- Arcana Coelestia: Volume 1 By Emanuel Swedenborg
+- Arcana Coelestia: Volume 2 By Emanuel Swedenborg
+- Arcana Coelestia: Volume 3 By Emanuel Swedenborg
+- Arcana Coelestia: Volume 4 By Emanuel Swedenborg
+- Arcana Coelestia: Volume 5 By Emanuel Swedenborg
+- Arcana Coelestia: Volume 6 By Emanuel Swedenborg
+- Arcana Coelestia: Volume 7 By Emanuel Swedenborg
+- Arcana Coelestia: Volume 8 By Emanuel Swedenborg
+- Arcana Coelestia: Volume 9 By Emanuel Swedenborg
+- Arcana Coelestia: Volume 10 By Emanuel Swedenborg
+- Arcana Coelestia: Volume 11 By Emanuel Swedenborg
+- Arcana Coelestia: Volume 12 By Emanuel Swedenborg
+- Architecture Mysticism and Myth By W. R. Lethaby
+- Athanasian Creed By Emanuel Swedenborg
+- Bible Mystery and Bible Meaning By Thomas Troward
+- The Candle of Vision By George William Russell
+- The Cell of Self-Knowledge By Various
+- Christian Healing, The Science of Being By Charles Fillmore
+- Christian Mysticism By William Ralph Inge
+- The Cloud of Unknowing By Evelyn Underhill
+- The Cloud Upon the Sanctuary By Karl Von Eckartshausen
+- Coming World Changes By Frank Homer Curtiss and Harriette Augusta Curtiss
+- The Comte De Saint Germain By Isabel Cooper-Oakley
+- The Confessions of Jacob Boehme By Jacob Boehme
+- Coronis By Emanuel Swedenborg
+- Dialogues on the Supersensual Life By Jacob Boehme
+- The Diary of a Child of Sorrow By Elias Gewurz
+- Divine Love By Emanuel Swedenborg
+- The Doctrine of Life for the New Jerusalem By Emanuel Swedenborg
+- The Epistles of Jacob Boehme By Jacob Boehme
+- Esoteric Christianity By Annie Besant
+- The Floral Symbolism of the Great Masters By Elizabeth Haig
+- The Forerunner by Kahlil Gibran
+- Freher's Process in the Philosophical Work By Dionysius Andreas Freher
+- The Garden of Eden By Victoria Claflin Woodhull
+- The Gist of Swedenborg By Julian K. Smyth And William F. Wunsch
+- Gleanings of a Mystic By Max Heindel
+- The Goal of Life By Hiram Butler
+- The Great Rebellion By Samael Aun Weor
+- Heaven and Hell By Emanuel Swedenborg
+- Ideas of Good and Evil By William Butler Yeats
+- Interaction of the Soul and Body By Emanuel Swedenborg
+- An Introduction to the Study of Jacob Boehme's Writings By A. J. Penny
+- Invitation to the New Church By Emanuel Swedenborg
+- Lessons in Truth By H. Emilie Cady
+- Letters of Myrtle Fillmore By Myrtle Fillmore
+- The Marriage of Heaven and Hell By William Blake
+- Mysteries of Genesis By Charles Fillmore
+- Mysteries of John By Charles Fillmore
+- Mystic Christianity By Yogi Ramacharaka (William Walker Atkinson)
+- Mysticism By Evelyn Underhill
+- Mysticism: Christian and Buddhist By Daisetsu Teitaro Suzuki
+- Mysticism in English Literature By C. F. E. Spurgeon
+- The Mystic Life By Frank Homer Curtiss and Harriette Augusta Curtiss
+- Mystics of the Renaissance By Rudolf Steiner
+- Nature Mysticism By J. Edward Mercer
+- Oahspe By John Ballou Newbrough
+- The Pattern Life By Frank Homer Curtiss and Harriette Augusta Curtiss
+- Practical Mysticism By Evelyn Underhill
+- Prosperity By Charles Fillmore
+- The Red Book By Louis-Claude de Saint-Martin
+- Saint Martin the French Mystic By Arthur Edward Waite
+- Science of Being By Eugene Fersen
+- The Signature of All Things By Jacob Boehme
+- Songs of Innocence and of Experience By William Blake
+- Spiritual Diary By Emanuel Swedenborg
+- The Spiritual Guide By Miguel de Molinos
+- Studies of English Mystics By William Ralph Inge
+- Talks on Truth By Charles Fillmore
+- Teach Us to Pray By Charles Fillmore
+- The True Christian Religion By Emanuel Swedenborg
+- The Twelve Powers of Man By Charles Fillmore
+- The Unknown Life of Jesus Christ By Nicolas Notovitch
+- The Voice of Isis By Unknown
+- White Horse By Emanuel Swedenborg
+- The Works of Dionysius the Areopagite By John Parker
+
+
+## NATIVE AMERICAN
+
+- Achomawi and Atsugewi Tales and Achomawi Myths By Roland B. Dixon
+- The Algonquin Legends of New England By Charles G. Leland
+- American Indian Fairy Tales By Margaret Compton
+- Apu Ollantay By Clements Markham
+- Blackfoot Lodge Tales by George Bird Grinnell
+- Chinigchinich By Friar Geronimo Boscana
+- The Code of Handsome Lake, the Seneca Prophet By Arthur C. Parker
+- Coos Texts By Leo J. Frachtenberg
+- Creation Myths of Primitive America By Jeremiah Curtin
+- The Culture of the Luiseno Indians By Philip Stedman Sparkman
+- Dancing Gods, Indian Ceremonials of New Mexico and Arizona By Erna Fergusson
+- The Dawn of the World By C. Hart Merriam
+- The Dresden Codex By Ernst Forstemann
+- Ethnography of the Cahuilla Indians By Alfred L. Kroeber
+- Hupa Texts By Pliny Earle Goddard
+- Indian Myths of South Central California By Alfred L. Kroeber
+- Indian Why Stories By Frank B.Linderman
+- Indians of the Yosemite Valley and Vicinity By Galen Clark
+- Introduction to Zuni Ceremonialism By Ruth L. Bunzel
+- The Iroquois Book of Rites By Horatio Hale
+- Legends of The Kaw By Carrie de Voe
+- Legends of Vancouver By E. Pauline Johnson
+- The Lenâpé and Their Legends By Daniel G. Brinton
+- Life Among the Apaches By John C. Cremony
+- Maidu Texts By Roland B. Dixon
+- A Mission Record of the California Indians By Alfred L. Kroeber
+- Miwok Myths By Edward Winslow Gifford
+- Myths and Legends of the Sioux By Marie L. Mclaughlin
+- A Navaho Creation Myth By Stanley A. Fishler
+- The Path on the Rainbow By George W. Cronyn
+- The Peyote Cult By Paul Radin
+- Pomo Bear Doctors By S. A. Barrett
+- The Religion of the Indians of California By Alfred L. Kroeber
+- The Religion of the Luiseño Indians of Southern California By Constance Goddard DuBois
+- Religious Practices of the Diegueño Indians By T. T. Waterman
+- Rig Veda Americanus By Daniel G. Brinton
+- The Sacred Formulas of the Cherokees By James Mooney
+- The Seri Indians By W. J. McGee
+- Some Western Shoshoni Myths By Julian H. Steward
+- Spider Woman, A Story of Navajo Weavers and Chanters By Gladys A. Reichard
+- The Swimmer Manuscript: Cherokee Sacred Formulas and Medicinal Prescriptions By James Mooney
+- Tales of the North American Indians By Stith Thompson
+- The Thunder Bird Tootooch Legends By W. L. Webber
+- Tisayac of the Yosemite By M. B. M. Toland
+- Tlingit Myths and Texts By John R. Swanton
+- Traditions of the Arapaho By George A. Dorsey and Alfred L. Kroeber
+- The Traditions of the Hopi By H. R. Voth
+- Truth of a Hopi By Edmund Nequatewa
+- Tsimshian Texts By Franz Boas
+- Vestiges of the Mayas By Augustus Le Plongeon
+- When the Storm God Rides, Tejas and Other Indian Legends By Florence Stratton
+- Yana Texts By Edward Sapir
+- Yaqui Myths and Legends By Ruth Warner Giddings
+- Yucatan Before and After the Conquest By Diego de Landa
+- Zuni Folk Tales By Frank Hamilton Cushing
+- Zuni Ritual Poetry By Ruth L. Bunzel
+
+
+## OCEANIA
+
+- The Aborigines of Western Australia By Albert F. Calvert
+- Australia, Its History and Present Condition By William Pridden
+- An Australian Language as Spoken by the Awabakal By L. E. Threlkeld
+- Australian Legendary Tales By Katie Langloh Parker
+- The Australian Race By Edward M. Curr
+- Baloma; The Spirits of the Dead in the Trobriand Islands By Bronislaw Malinowski
+- The Customs and Traditions of the Aboriginal Natives of North Western Australia By John G. Withnell
+- The Euahlayi Tribe By Katie Langloh Parker
+- The Family among the Australian Aborigines By Bronislaw Malinowski
+- History of Australia and New Zealand By Alexander Sutherland And George Sutherland
+- Legends of Maui By William D. Westervelt
+- Maori Religion and Mythology By Edward Shortland
+- The Native Tribes of Central Australia By Baldwin Spencer
+- Native Tribes of the Northern Territory of Australia By Baldwin Spencer
+- Oceanic Mythology By Roland B. Dixon
+- The Passing of the Aborigines By Daisy Bates
+- Polynesian Mythology By George Grey
+- Samoa, A Hundred Years Ago And Long Before By George Turner
+- Some Myths and Legends of the Australian Aborigines By W. J. Thomas
+- A Source Book of Australian History By Gwendolen H. Swinburne
+- Town Life in Australia By R. E. N. Twopeny
+
+
+## PAGANISM
+
+- Aradia Or the Gospel of the Witches By Charles G. Leland
+- Cultus Arborum, A Descriptive Account of Phallic Tree Worship By Anonymous
+- A Dissertation upon the Druids By Esaias Pufendorff
+- Druidism: The Ancient Faith of Britain By Dudley Wright
+- An Essay on the Druids, the Ancient Churches and the Round Towers of Ireland By Richard Smiddy
+- The Gardnerian Book of Shadows By Gerald B. Gardner
+- Irish Druids and Old Irish Religions By James Bonwick
+- The Mythology and Rites of the British Druids By Edward Davies
+- Pagan Regeneration By Harold R. Willoughby
+- The Rollright Stones; The Stonehenge of Oxfordshire By Henry Taunt
+- Toland's History of the Druids By John Toland
+- The Veil of Isis, Or, Mysteries of the Druids By W. Winwood Reade
+
+
+## PARANORMAL
+
+- Adventurings in the Psychical By H. Addington Bruce
+- Astral Projection, A Complete Guide By Unknown
+- Beyond The Five Senses By L. M. Bazett
+- The Book of Dreams and Ghosts By Andrew Lang
+- The Book of the Damned By Charles Fort
+- Clairvoyance and Occult Powers By Swami Panchadasi (William Walker Atkinson)
+- Cock Lane and Common-Sense By Andrew Lang
+- Complete Hypnotism: Mesmerism, Mind-Reading and Spiritualism By A. Alpheus
+- Essays in Occultism, Spiritism and Demonology By Dean W. R. Harris
+- Fallacy of Ghosts, Dreams, and Omens By Charles Ollier
+- Fiends, Ghosts and Sprites By John Netten Radcliffe
+- Ghosts I Have Seen By Violet Tweedale
+- The Ghost World By Thomas Firminger Thiselton-Dyer
+- Historic Ghosts and Ghost Hunters By H. Addington Bruce
+- The History of Magic, Volume 1 By Joseph Ennemoser
+- The History of Magic, Volume 2 By Joseph Ennemoser
+- Hours with the Ghosts or, Nineteenth Century Witchcraft By Henry Ridgely Evans
+- The Human Atmosphere By Walter J. Kilner
+- Incidents in My Life By Daniel Dunglas Home
+- Insight; A Record of Psychic Experiences By Emma Crow Cushman
+- Light From the Spirit World By Charles Hammond
+- Lo! By Charles Fort
+- Mental Radio By Upton Sinclair
+- My Experiences While Out Of My Body By Cora L. V. Richmond
+- Mysterious Psychic Forces By Camille Flammarion
+- The New Black Magic and the Truth About The Ouija-Board By J. Godfrey Raupert
+- A New Heaven and a New Earth By Charles Brodie Patterson
+- New Lands By Charles Fort
+- The Night-Side of Nature; Or, Ghosts and Ghost-Seers By Catherine Crowe
+- Occultism and Common-Sense By Beckles Willson
+- Of Ghostes and Spirites, Walking by Night By Ludwig Lavatar
+- The Other World; or, Glimpses of the Supernatural By Frederick George Lee
+- The Phantom World By Augustin Calmet
+- The Philosophy of Mystery By Walter Cooper Dendy
+- Practical Psychomancy and Crystal Gazing By William Walker Atkinson
+- Practical Views On Psychic Phenomena By George E. Wright
+- Psychism, Analysis of Things Existing By Paul Gibier
+- Spiritism and the Cult of the Dead in Antiquity By Lewis Bayles Paton
+- The Spirit Land By Samuel B. Emmons
+- Telepathy, Genuine and Fraudulent By W. W. Baggally
+- Telepathy, Or, The Science of Thought Transference by J. C. F. Grumbine
+- True Ghost Stories By Hereward Carrington
+- True Irish Ghost Stories By St. John D. Seymour and Harry L. Neligan
+- The Unknown Guest By Maurice Maeterlinck
+- The Urantia Papers By Unknown
+- The Vital Message By Arthur Conan Doyle
+- Wild Talents By Charles Fort
+
+
+## PHILOSOPHY AND ETHICS
+
+- Aesthetical Essays By Friedrich Schiller
+- The Antichrist By Friedrich Nietzsche
+- Beyond Good and Evil By Friedrich Nietzsche
+- The Birth of Tragedy By Friedrich Nietzsche
+- The Conduct of Life By Ralph Waldo Emerson
+- A Confession By Leo Tolstoy
+- Correspondence By Benedict de Spinoza
+- Creative Unity By Rabindranath Tagore
+- The Critique of Judgement Part I: Critique of Aesthetic Judgement By Immanuel Kant
+- The Critique of Practical Reason By Immanuel Kant
+- The Dance of Life By Havelock Ellis
+- Dialogues Concerning Natural Religion By David Hume
+- Discourse on the Method By Rene Descartes
+- Emile By Jean-Jacques Rousseau
+- An Enquiry Concerning Human Understanding By David Hume
+- An Essay Concerning Human Understanding By John Locke
+- The Essays By Francis Bacon
+- Essays By Ralph Waldo Emerson
+- The Ethics By Benedict de Spinoza
+- Eugenics and Other Evils By G. K. Chesterton
+- First and Last Things By H. G. Wells
+- The Fountain of Life By Solomon Ibn Gabirol
+- Four Dimensional Vistas By Claude Bragdon
+- Fundamental Principles of the Metaphysic of Morals By Immanuel Kant
+- The Genealogy of Morals By Friedrich Nietzsche
+- The Heroic Enthusiasts By Giordano Bruno
+- How We Think By John Dewey
+- Human, All Too Human By Friedrich Nietzsche
+- Iamblichus' Life of Pythagoras By Thomas Taylor
+- The Kingdom of God is Within You By Leo Tolstoy
+- Letters to His Son By The Earl of Chesterfield
+- Meditations on First Philosophy By Rene Descartes
+- A Modern Theory of Ethics By W. Olaf Stapledon
+- The Monadology By Gottfried Wilhelm Leibniz
+- The Natural History of Religion By David Hume
+- Nature By Ralph Waldo Emerson
+- The New Organon By Francis Bacon
+- The New Word By Allen Upward
+- On the Improvement of Understanding By Benedict de Spinoza
+- Pensées By Blaise Pascal
+- Philosophical Dictionary By Voltaire
+- The Philosophy of Spiritual Activity By Rudolf Steiner
+- A Pluralistic Universe By William James
+- Pragmatism By William James
+- Prophets, Poets and Philosophers of the Ancient World By Henry Osborn Taylor
+- Reason, The Only Oracle of Man By Ethan Allen
+- Religion By Arthur Schopenhauer
+- The Science of Right By Immanuel Kant
+- Short Works By Voltaire
+- The Story of Oriental Philosophy By Lily Adams Beck
+- A Theologico-Political Treatise By Benedict de Spinoza
+- Three Dialogues between Hylas and Philonous By George Berkeley
+- Thus Spake Zarathustra By Friedrich Nietzsche
+- A Treatise Concerning the Principles of Human Knowledge By George Berkeley
+- A Treatise of Human Nature By David Hume
+- The Unseen World and Other Essays By John Fiske
+- Utilitarianism By John Stuart Mill
+- The Wisdom of Life By Arthur Schopenhauer
+- The Works of Philo Judaeus, Volume 1 By Philo Judaeus
+- The Works of Philo Judaeus, Volume 2 By Philo Judaeus
+- The Works of Philo Judaeus, Volume 3 By Philo Judaeus
+- The Works of Philo Judaeus, Volume 4 By Philo Judaeus
+- The World as Will and Idea By Arthur Schopenhauer
+
+
+## POETRY
+
+- Ballads of a Bohemian By Robert W. Service
+- Ballads of a Cheechako By Robert W. Service
+- The Ballad of the White Horse By G. K. Chesterton
+- Barrack-Room Ballads By Rudyard Kipling
+- The Bells and Other Poems By Edgar Allan Poe
+- The Book of American Negro Poetry By James Weldon Johnson
+- Collected Poems of William McGonagall
+- The Collected Poems, Volume 1 By Arthur Edward Waite
+- The Complete Poems By Emily Dickinson
+- The Complete Poems By Paul Laurence Dunbar
+- The Day of Doom By Michael Wigglesworth
+- The Divine Comedy By Dante Alighieri
+- Don Juan By George Byron
+- Each In His Own Tongue, and Other Poems By William Herbert Carruth
+- Eanthe: A Tale of the Druids and Other Poems By Sandford Earle
+- Elfin Music: An Anthology of English Fairy Poetry By Arthur Edward Waite
+- An Essay on Criticism By Alexander Pope
+- The Fables of La Fontaine By Jean de la Fontaine
+- The Faerie Queene By Edmund Spenser
+- Fruit-Gathering By Rabindranath Tagore
+- The Golden Treasury By Various Authors
+- In the Seven Woods By William Butler Yeats
+- John Brown's Body by Stephen Vincent Benét
+- The Lady of the Lake By Walter Scott
+- Later Poems By William Butler Yeats
+- Leaves of Grass By Walt Whitman
+- Lyrical Ballads By William Wordsworth and Samuel Taylor Coleridge
+- A Lyric of the Fairy Land, and Other Poems By Arthur Edward Waite
+- Marmion By Walter Scott
+- North of Boston By Robert Frost
+- Now the Day is Over By Sabine Baring-Gould
+- Paradise Lost By John Milton
+- Paradise Regained By John Milton
+- Poems By Oscar Wilde
+- Poems And Ballads (First Series) By Algernon Charles Swinburne
+- Poems of Paganism By L. Cranmer-Byng
+- Poetry By John Clare
+- The Princess by Alfred Tennyson
+- Rhymes of a Red Cross Man By Robert W. Service
+- Rhymes of a Rolling Stone By Robert W. Service
+- Songs and Poems of Fairyland By Arthur Edward Waite
+- Songs of a Semite: The Dance to Death and other Poems By Emma Lazarus
+- The Spell of the Yukon and Other Verses By Robert W. Service
+- Spoon River Anthology By Edgar Lee Masters
+- Strange Houses of Sleep By Arthur Edward Waite
+- Stray Birds By Rabindranath Tagore
+- A Treasury of War Poetry By Various
+
+
+## POLITICS AND SOCIETY
+
+- Ancient Society By Lewis H. Morgan
+- Anticipations By H. G. Wells
+- Areopagitica By John Milton
+- The Art of Worldly Wisdom By Balthasar Gracian
+- As We Are and As We May Be By Walter Besant
+- The City of the Sun By Tommaso Campanella
+- Civil Disobedience By Henry David Thoreau
+- Common Sense By Thomas Paine
+- The Commonwealth of Oceana By James Harrington
+- The Communist Manifesto By Karl Marx And Friedrich Engels
+- The Conquest of Bread By Peter Kropotkin
+- Considerations on Representative Government by John Stuart Mill
+- Discourses on Livy By Niccolo Machiavelli
+- Education for Self-Realisation and Social Service By Frank Watts
+- An Essay on the Principle of Population By Thomas Malthus
+- Homage to Catalonia By George Orwell
+- Leviathan By Thomas Hobbes
+- Life Without Principle By Henry David Thoreau
+- On Liberty By John Stuart Mill
+- Napoleon the Little By Victor Hugo
+- The People of the Abyss By Jack London
+- The Prince By Niccolo Machiavelli
+- The Psychology of Revolution By Gustave Le Bon
+- Public Opinion By Walter Lippmann
+- Rights of Man By Thomas Paine
+- Self-Help By Samuel Smiles
+- A Short History of the World By H. G. Wells
+- The Story of Utopias By Lewis Mumford
+- Table Talk By William Hazlitt
+- The Theory of Moral Sentiments by Adam Smith
+- The Theory of the Leisure Class By Thorstein Veblen
+- Two Treatises of Government By John Locke
+- Unto This Last, and Other Essays on Political Economy By John Ruskin
+- The Wealth of Nations By Adam Smith
+- What's Wrong With The World By G. K. Chesterton
+
+## PROPHECIES
+
+- Mother Shipton, The Yorkshire Sibyl Investigated By William H. Harrison
+- Oracles of Nostradamus By Charles A. Ward
+- The Prophecies By Nostradamus
+- The Prophecies of Paracelsus By Paracelsus
+- The Prophecies of the Brahan Seer By Alexander Mackenzie
+
+
+## PSYCHOLOGY
+
+- Applied Psychology By H. L. Hollingworth And A. T. Poffenberger
+- Applied Psychology: Driving Power of Thought By Warren Hilton
+- Dream Psychology By Sigmund Freud
+- The Erotic Motive in Literature By Albert Mordell
+- A General Introduction to Psychoanalysis By Sigmund Freud
+- How to Analyze People on Sight By Elsie Benedict
+- How to Read Human Nature By William Walker Atkinson
+- Human Nature and Conduct By John Dewey
+- Leonardo da Vinci By Sigmund Freud
+- The Machinery of the Mind By Violet M. Firth (Dion Fortune)
+- Memoirs of Extraordinary Popular Delusions and the Madness of Crowds By Charles Mackay
+- The Omnipotent Self, A Study in Self-Deception and Self-Cure By Paul Bousfield
+- The Principles of Psychology, Volume 1 By William James
+- The Principles of Psychology, Volume 2 By William James
+- Psychology and Social Practice By John Dewey
+- Psychology as a Natural Science By C. G. Raue
+- The Psychology Of Mans Possible Evolution By P. D. Ouspensky
+- The Psychology of Salesmanship By William Walker Atkinson
+- Psychology of the Unconscious By Carl Jung
+- Three Essays on the Theory of Sexuality By Sigmund Freud
+- Totem and Taboo By Sigmund Freud
+- The Varieties of Religious Experience By William James
+
+
+## QABALAH
+
+- The Anatomy of the Body of God By Frater Achad
+- Biblia Cabalistica By Walter Begley
+- The Cabala By Bernhard Pick
+- The Doctrine and Literature of the Kabalah By Arthur Edward Waite
+- The Hidden Treasures of the Ancient Qabalah By Elias Gewurz
+- An Introduction to the Study of the Kabalah By William Wynn Westcott
+- Jewish Mysticism By J. Abelson
+- The Kabbalah By Adolphe Franck
+- The Kabbalah Unveiled By Samuel Liddell MacGregor Mathers
+- The Kabbalah: Its Doctrines, Development and Literature By C. D. Ginsburg
+- Mysteries of the Qabalah By Elias Gewurz
+- The Mystical Qabalah By Dion Fortune
+- The Sepher Ha-Zohar Or The Book of Light By Nurho de Manhar
+- The Training and Work of an Initiate By Dion Fortune
+
+
+## RUSSIA AND EASTERN EUROPE
+
+- Armenian Legends and Poems By Zabelle C. Boyajian
+- Behind the Veil at the Russian Court By Catherine Radziwill
+- Chukchee Mythology By Waldemar Bogoras
+- The Eskimo of Siberia By Waldemar Bogoras
+- Folk Tales From the Russian By Verra de Blumenthal
+- Georgian Folk Tales By Marjory Wardrop
+- A Journey in Southern Siberia By Jeremiah Curtin
+- The Key of Gold, 23 Czech Folk Tales By Josef Baudis
+- The Knight in the Panther's Skin By Shota Rustaveli
+- Koryak Texts By Waldemar Bogoras
+- My Disillusionment in Russia By Emma Goldman
+- Our Revolution By Leon Trotsky
+- Roumanian Fairy Tales and Legends By Elizabeth B. Mawr
+- Russian Fairy Tales By W. R. S. Ralston
+- Sixty Folk-Tales from Slavonic Sources By A. H. Wratislaw
+- Songs of the Russian People By W. R. S. Ralston
+- Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia By Waldemar Bogoras
+- Ten Days That Shook the World By John Reed
+- Wonder Tales From Baltic Wizards By Frances Jenkins Olcott
+
+
+## SACRED SEXUALITY
+
+- A Discourse on the Worship of Priapus By Richard Payne Knight
+- Influence of the Phallic Idea in the Religions of Antiquity By C. Staniland Wake and Hodder M. Westropp
+- Mahanirvana Tantra By Arthur Avalon
+- The Masculine Cross and Ancient Sex Worship By Sha Rocco (Hargrave Jennings)
+- Phallic Worship By R. A. Campbell
+- The Priapeia By Richard Francis Burton and L. C. Smithers
+- Sex and Sex Worship By O. A. Wall
+- Sex=The Unknown Quantity By Ali Nomad (Alexander J. Mcivor-Tyndall)
+- The Sex Worship and Symbolism of Primitive Races By Sanger Brown
+- Shakti and Shakta By Arthur Avalon (John Woodroffe)
+- Treatise of Sexual Alchemy By Samael Aun Weor
+- The Worship of the Generative Powers By Thomas Wright
+
+
+## SCANDINAVIA
+
+- Asgard Stories: Tales from Norse Mythology By Mabel H. Cummings and Mary H. Foster
+- Beowulf By J. Lesslie Hall
+- The Danish History By Saxo Grammaticus
+- Eskimo Folk-Tales By Knud Rasmussen
+- Gisli the Outlaw By George Webbe Dasent
+- The Heroes of Asgard: Tales from Scandinavian Mythology By Annie Keary and E. Keary
+- In The Days of Giants by Abbie Farwell Brown
+- The Kalevala By John Martin Crawford
+- The Laxdaela Saga By Muriel Press
+- Legends of Norseland By Mara L. Pratt
+- The Life and Death of Cormac the Skald By W. G. Collingwood And J. Stefansson
+- Magic Songs of the West Finns, Volume 1 By John Abercromby
+- The Norse Discovery of America By Arthur Middleton Reeves
+- The Poetic Edda By Henry Adams Bellows
+- The Prose Edda of Snorri Sturlson By Arthur Gilchrist Brodeur
+- The Story of Burnt Njal By George Webbe Dasent
+- The Story of Sigurd the Volsung By William Morris
+- The Story of Viga-Glum By Edmund Head
+- Tales and Traditions of the Eskimo By Henry Rink
+- The Volsunga Saga By William Morris and Eirikr Magnusson
+- The World's Best Histories - Norway By Sigvart Sörensen
+
+## SCIENCE AND NATURAL PHILOSOPHY
+
+- The Advancement of Learning By Francis Bacon
+- The Art of Distillation By John French
+- The Biochemic System of Medicine By George W. Carey
+- The Chemistry of Human Life By George W. Carey
+- The Chemists Key By Henry Nollius
+- Coelum Philosophorum By Paracelsus
+- The Consciousness of the Atom By Alice A. Bailey
+- Creative Evolution By Henri Bergson
+- The Descent of Man By Charles Darwin
+- The Evil Eye, Thanatology, and Other Essays By Roswell Park
+- Fathers of Biology By Charles McRae
+- Friar Bacon, His Discovery of the Miracles of Art, Nature, and Magick By Roger Bacon
+- From the Closed World to the Infinite Universe By Alexandre Koyré
+- The Golden Chain of Homer By Anton Kirchweger
+- Great Astronomers By Robert S. Ball
+- Harmonies of the World By Johannes Kepler
+- Hypnotism, Mesmerism and the New Witchcraft By Ernest Hart
+- Instructions Respecting The Art Of Transmuting And Ameliorating The Metals By William Baron Von Shroeder
+- Lectures on Evolution By Thomas Henry Huxley
+- Letters on Natural Magic By David Brewster
+- The Life of Paracelsus By Franz Hartmann
+- Man's Place in the Universe By Alfred Russel Wallace
+- The Mathematical Principles of Natural Philosophy By Isaac Newton
+- Mimicry, and Other Protective Resemblances Among Animals By Alfred Russel Wallace
+- Natural Magick in Twenty Books By John Baptista Porta
+- On Astronomical Geomancy By Gerardus Cremonensis
+- On the Motion of the Heart and Blood in Animals By William Harvey
+- On the Origin of Species By Charles Darwin
+- On the Revolutions of the Heavenly Spheres By Nicolaus Copernicus
+- Physiology for Beginners By Walter Moore Coleman
+- The Place of Magic in the Intellectual History of Europe By Lynn Thorndike
+- The Quintessence of the Philosophers By Theodorus Mundanus
+- Radix Mundi By Roger Bacon
+- Religion and Science By John Charlton Hardwick
+- The Root of the World By Roger Bacon
+- Spagyric Medicine By John Pharamund Rhumelius
+- Studies in the Psychology of Sex, Volume 1 By Havelock Ellis
+- Studies in the Psychology of Sex, Volume 2 By Havelock Ellis
+- Studies in the Psychology of Sex, Volume 3 By Havelock Ellis
+- A System of Logic, Ratiocinative and Inductive By John Stuart Mill
+- Theory of the Earth By James Hutton
+- A Treatise of the Three Principles of Metals By John Rudolph Glauber
+- Triumphal Chariot of Antimony By Basil Valentine
+- The U.S. Patents of Nikola Tesla By Nikola Tesla
+- The Voyage of the Beagle By Charles Darwin
+
+
+## SECRET SOCIETIES
+
+- American Indian Freemasonry By Arthur C. Parker
+- The Ancient and Accepted Scottish Rite in Thirty-Three Degrees By Robert B. Folger
+- Ancient Mysteries and Modern Masonry By C. H. Vail
+- The Apocalypse of Freemasonry By F. de P. Castells
+- The Arcana of Freemasonry By Albert Churchward
+- Arcane Schools By John Yarker
+- Bacon, Shakespeare and the Rosicrucians By W. F. Wigston
+- Book of the Ancient and Accepted Scottish Rite By Charles T. McClenachan
+- The Book of the Words By Albert Pike
+- The Builders By Joseph Fort Newton
+- The Cathedral Builders; The Story of a Great Masonic Guild By Leader Scott
+- Comte de Gabalis By Abbe N. De Montfaucon De Villars
+- Devil Worship in France By Arthur Edward Waite
+- The Dionysian Artificers By Hippolyto Joseph Da Costa
+- Duncan's Masonic Ritual and Monitor By Malcolm C. Duncan
+- An Exposition of the Mysteries By John Fellows
+- The Freemasons Bible By Unknown
+- Freemasonry and Catholicism By Max Heindel
+- Freemasonry in the Holy Land By Robert Morris
+- Freemasonry, Its Symbolism, Religious Nature, and Law of Perfection By Chalmers Izett Paton
+- The General Ahiman Rezon By Daniel Sickels
+- A General History of Free-Masonry in Europe By Emmanuel Rebold
+- Glimpses of Masonic History By Charles Webster Leadbeater
+- The Hidden Life in Freemasonry By Charles Webster Leadbeater
+- The History of Freemasonry, Volume I By Albert Mackey
+- The History of Freemasonry, Volume II By Albert Mackey
+- The History of Freemasonry, Volume III By Albert Mackey
+- The History of Freemasonry, Volume IV By Albert Mackey
+- The History of Freemasonry, Volume V By Albert Mackey
+- The History of Freemasonry, Volume VI By Albert Mackey
+- The History of Freemasonry, Volume VII By Albert Mackey
+- The History of the Knights Templars By Charles G. Addison
+- Illustrations of Masonry By William Morgan
+- In the Pronaos of the Temple of Wisdom By Franz Hartmann
+- King Solomon and His Followers, A Valuable Aid to the Memory By J. A. Gavitt
+- The Knights Templars By Charles G. Addison
+- Leaflets of Masonic Biography or Sketches of Eminent Freemasons By C. Moore
+- A Legislative Investigation Into Masonry By Benjamin Franklin Hallett
+- The Masonic Ladder By John Sherer
+- The Master Mason's Handbook By J. S. M Ward
+- The Master's Carpet By Edmond Ronayne
+- The Meaning of Masonry By W. L. Wilmshurst
+- Morals and Dogma By Albert Pike
+- The Most Holy Trinosophia By Comte De Saint-Germain
+- The Mysticism of Masonry By Unknown
+- New England and the Bavarian Illuminati By Vernon Stauffer
+- Occult Theocrasy By Lady Queenborough
+- Official Monitor of the Grand Lodge of Ancient Free and Accepted Masons By The Grand Lodge Of Texas
+- Opinions on Speculative Masonry By James Odiorne
+- Primitive Secret Societies By Hutton Webster
+- The Principles Of The Yoga-Philosophy Of The Rosicrucians And Alchemists By Franz Hartmann
+- Readings XXXII; The Words Kadosh and Hierodom By Unknown
+- The Real History Of The Rosicrucians By Arthur Edward Waite
+- Rituals of the Societas Rosicrucianis in Anglia By Unknown
+- Robert Burns and Freemasonry By Dudley Wright
+- The Rosicrucian Cosmo Conception By Max Heindel
+- The Rosicrucian Mysteries By Max Heindel
+- The Rosicrucian Philosophy in Questions and Answers By Max Heindel
+- The Rosicrucians, Their Rites and Mysteries By Hargrave Jennings
+- The Secret Doctrine of the Rosicrucians By Magus Incognito (William Walker Atkinson)
+- Secret Instructions of the Jesuits By W. C. Brownlee
+- Secret Sects of Syria and the Lebanon By Bernhard H. Springett
+- Secret Societies of All Ages and Countries Vol II By Charles William Heckethorn
+- Secret Societies of the Middle Ages By Thomas Keightley
+- The Secret Tradition in Freemasonry Vol I By Arthur Edward Waite
+- The Secret Tradition in Freemasonry Vol II By Arthur Edward Waite
+- Shibboleth: A Templar Monitor By George Cooper Connor
+- Symbolical Masonry By H. L. Haywood
+- The Symbolism of Freemasonry By Albert Mackey
+- The Symbol of Glory By Rev. G. Oliver
+- Teachings of an Initiate By Max Heindel
+- The Teachings of the Rosicrucians of the 16th and 17th Centuries By Unknown
+- The Temple of the Rosy Cross By Freeman Benjamin Dowd
+- Traces of a Hidden Tradition in Masonry and Medieval Mysticism By Isabel Cooper-Oakley
+- World's Masonic Register By Leon Hyneman
+
+
+## SELF HELP AND NEW THOUGHT
+
+- Above Life's Turmoil By James Allen
+- All These Things Added By James Allen
+- The Arcane Formulas: Or Mental Alchemy By William Walker Atkinson
+- The Art and Science of Personal Magnetism By Theron Q. Dumont (William Walker Atkinson)
+- The Art of Money Getting By P. T. Barnum
+- The Art of Public Speaking By Dale Carnegie
+- As a Man Thinketh By James Allen
+- Atom-Smashing Power of Mind By Charles Fillmore
+- Awakened Imagination and The Search By Neville Goddard
+- Being and Becoming By Fenwicke L. Holmes
+- Book of Meditations for Every Day in the Year By James Allen
+- Byways to Blessedness By James Allen
+- Collected Works By James Allen
+- A Common-Sense View of the Mind Cure By Laura M. Westall
+- Concentration: The Road to Success By Henry Harrison Brown
+- Cosmic Continuum By Ernest L. Norman
+- Creative Mind By Ernest S. Holmes
+- Creative Mind and Success By Ernest S. Holmes
+- The Creative Process in the Individual By Thomas Troward
+- The Creative Use of Imagination By Neville Goddard
+- The Divine Companion By James Allen
+- Divine Science and Healing By Malinda Cramer
+- Dollars Want Me By Henry Harrison Brown
+- The Dore Lectures on Mental Science By Thomas Troward
+- Dynamic Thought By William Walker Atkinson
+- Dynamic Thought By Henry Thomas Hamblin
+- The Edinburgh Lectures on Mental Science By Thomas Troward
+- Eight Pillars of Prosperity By James Allen
+- An Eternal Career By Frank L. Hammer and Lydia Hammer
+- Freedom Talks No. II By Julia Seton
+- From Poverty to Power By James Allen
+- The Game of Life By Florence Scovel Shinn
+- The Heart of the New Thought By Ella Wheeler Wilcox
+- He Can Who Thinks He Can By Orison Swett Mardenx
+- The Hidden Power By Thomas Troward
+- The Higher Powers of Mind and Spirit By Ralph Waldo Trine
+- A History of the New Thought Movement By Horatio W. Dresser
+- How to Control Fate Through Suggestion By Henry Harrison Brown
+- How To Get What You Want By Orison Swett Marden
+- How to Live on 24 Hours a Day By Arnold Bennett
+- How to Stay Well By Christian D. Larson
+- How to Use New Thought in Home Life By Elizabeth Towne
+- The Ideal Made Real By Christian D. Larson
+- Infinite Perspectus By Ernest L. Norman
+- The Inner Consciousness By William Walker Atkinson
+- In Tune with the Infinite By Ralph Waldo Trine
+- Know Your Magnetic Field By William E. Gray
+- The Law and The Promise By Neville Goddard
+- The Law And The Word By Thomas Troward
+- The Law of Mind in Action By Fenwicke L. Holmes
+- The Law of the New Thought By William Walker Atkinson
+- Life and its Mysteries By Frank L. Hammer
+- The Life Power and How to Use It By Elizabeth Towne
+- The Life Triumphant: Mastering the Heart and Mind By James Allen
+- Light on Life's Difficulties By James Allen
+- The Master Key System By Charles F. Haanel
+- The Mastery of Destiny By James Allen
+- Mental Efficiency By Arnold Bennett
+- Mind and Body By William Walker Atkinson
+- The Mind Cure By Christian D. Larson
+- Mind Power: The Secret of Mental Magic By William Walker Atkinson
+- New Thought Healing Made Plain By Kate Atkinson Boehme
+- Nuggets of the New Thought By William Walker Atkinson
+- Out from the Heart By James Allen
+- The Power of Awareness By Neville Goddard
+- The Power of Concentration By Theron Q. Dumont (William Walker Atkinson)
+- The Power of the Spoken Word By Florence Scovel Shinn
+- Power of Will By Frank Channing Haddock
+- Practicing Mental Influence By William Walker Atkinson
+- Pushing to the Front By Orison Swett Marden
+- The Quimby Manuscripts By Phineas Parkhurst Quimby
+- Science and Health, With Key to the Scriptures By Mary Baker Eddy
+- The Science of Being Well By Wallace Delois Wattles
+- The Science of Getting Rich By Wallace Delois Wattles
+- The Science of Mind By Ernest S. Holmes
+- The Secret Door to Success By Florence Scovel Shinn
+- The Secret of the Ages By Robert Collier
+- The Secret of the Universe By Nathan R. Wood
+- Self Mastery Through Conscious Autosuggestion By Emile Coué
+- Self-Suggestion By Max Freedom Long
+- The Sixth Sense: Its Cultivation and Use By Charles Henry Brent
+- Think and Grow Rich By Napoleon Hill
+- Thinking For Results by Christian D. Larson
+- This Mystical Life of Ours By Ralph Waldo Trine
+- Thought-Force in Business and Everyday Life By William Walker Atkinson
+- Thoughts Are Things By Prentice Mulford
+- Thought Vibration or the Law of Attraction in the Thought World By William Walker Atkinson
+- Through the Gates of Good By James Allen
+- The Triumph of the Man Who Acts By Edward Earle Purinton
+- The Untroubled Mind by Herbert J. Hall
+- Vital Magnetic Cure: An Exposition of Vital Magnetism By Unknown
+- The Way of Peace By James Allen
+- What All the World's A-Seeking By Ralph Waldo Trine
+- Within You is the Power By Henry Thomas Hamblin
+- Your Forces and How to Use Them By Christian D. Larson
+- Your Invisible Power By Genevieve Behrend
+- Your Mind and How to Use It By William Walker Atkinson
+- Your Word is Your Wand By Florence Scovel Shinn
+
+
+## SEXUALITY AND RELATIONSHIPS
+
+- Ananga Ranga By Richard Francis Burton
+- The Collected Articles of Ida Craddock By Ida Craddock
+- Intermediate Types among Primitive Folk By Edward Carpenter
+- Iolaus, An Anthology of Friendship By Edward Carpenter
+- The Kama Sutra of Vatsyayana By Richard Francis Burton
+- Karezza, Ethics of Marriage By Alice B. Stockham
+- The Karezza Method By J. William Lloyd
+- Love's Coming-Of-Age By Edward Carpenter
+- Male Continence By John Humphrey Noyes
+- The Perfumed Garden of the Shaykh Nafzawi By Richard Francis Burton
+- A Problem in Greek Ethics By John Addington Symonds
+- A Problem in Modern Ethics By John Addington Symonds
+- Sex, Avoided Subjects Discussed in Plain English By Henry Stanton
+- Sexual Life of Primitive People By S. Herbert
+- What a Young Husband Ought to Know By Sylvanus Stall
+
+
+## SHAKESPEARE
+
+- All's Well That Ends Well By William Shakespeare
+- Antony and Cleopatra By William Shakespeare
+- As You Like It By William Shakespeare
+- The Comedy of Errors By William Shakespeare
+- Coriolanus By William Shakespeare
+- Cymbeline By William Shakespeare
+- Hamlet By William Shakespeare
+- Julius Caesar By William Shakespeare
+- King Henry the Eighth By William Shakespeare
+- King Henry the Fifth By William Shakespeare
+- King Henry the Fourth, Part 1 By William Shakespeare
+- King Henry the Fourth, Part 2 By William Shakespeare
+- King Henry the Sixth, Part 1 By William Shakespeare
+- King Henry the Sixth, Part 2 By William Shakespeare
+- King Henry the Sixth, Part 3 By William Shakespeare
+- King John By William Shakespeare
+- King Lear By William Shakespeare
+- King Richard the Second By William Shakespeare
+- King Richard the Third By William Shakespeare
+- A Lover's Complaint By William Shakespeare
+- Love's Labour's Lost By William Shakespeare
+- Macbeth By William Shakespeare
+- Measure For Measure By William Shakespeare
+- The Merchant of Venice By William Shakespeare
+- The Merry Wives of Windsor By William Shakespeare
+- A Midsummer Night’s Dream By William Shakespeare
+- Much Ado about Nothing By William Shakespeare
+- Othello, The Moor of Venice By William Shakespeare
+- Pericles, Prince of Tyre By William Shakespeare
+- The Rape of Lucrece By William Shakespeare
+- Romeo and Juliet By William Shakespeare
+- Sonnets By William Shakespeare
+- The Taming of the Shrew By William Shakespeare
+- The Tempest By William Shakespeare
+- Timon of Athens By William Shakespeare
+- Titus Andronicus By William Shakespeare
+- Troilus and Cressida By William Shakespeare
+- Twelfth Night By William Shakespeare
+- The Two Gentlemen of Verona By William Shakespeare
+- The Two Noble Kinsmen By William Shakespeare
+- Venus and Adonis By William Shakespeare
+- The Winter's Tale By William Shakespeare
+
+
+## SIKHISM
+
+- The Religion of the Sikhs By Dorothy Field
+- Shri Guru Granth Sahib By Khalsa Consensus Translation
+- The Sikh Religion, Volume 1 By Max Arthur MacAuliffe
+- The Sikh Religion, Volume 2 By Max Arthur MacAuliffe
+
+## SLAVERY
+
+- Black Rebellion By Thomas Wentworth Higginson
+- The History of the Rise, Progress and Accomplishment of the Abolition of the African Slave-Trade, by the British Parliament By Thomas Clarkson
+- Incidents in the Life of a Slave Girl By Harriet Jacobs
+- The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa By Olaudah Equiano
+- The Negro Problem By Various
+- A Plea for Captain John Brown By Henry David Thoreau
+- Twelve Years a Slave By Solomon Northup
+- Up from Slavery By Booker T Washington
+- Running a Thousand Miles for Freedom By Ellen Craft and William Craft
+- Walker's Appeal, With a Brief Sketch of His Life By David Walker and Henry Highland Garnet
+
+
+## SOUTHEAST ASIA
+
+- Malay Magic By Walter William Skeat
+- Philippine Folk Tales By Mable Cook Cole
+- Philippine Folklore Stories By John Maurice Miller
+- The Religions of South Vietnam in Faith and Fact By US Department of the Navy
+- Shaman, Saiva and Sufi, A Study of the Evolution of Malay Magic By R. O. Winstedt
+- A Study of Bagobo Ceremonial, Magic and Myth By Laura Watson Benedict
+- The Wild Tribes of Davao District, Mindanao By Fay-Cooper Cole
+
+
+## THEOSOPHY
+
+- The Ancient Wisdom By Annie Besant
+- The Astral Plane By Charles Webster Leadbeater
+- Building of the Cosmos and Other Lectures By Annie Besant
+- Clairvoyance By Charles Webster Leadbeater
+- Collected Fruits of Occult Teaching By A. P. Sinnett
+- A Commentary On 'Light On The Path' By Annie Besant and C. W. Leadbeater
+- The Devachanic Plane By Charles Webster Leadbeater
+- How Theosophy Came to Me By Charles Webster Leadbeater
+- The Immediate Future And Other Lectures By Annie Besant
+- Initiation and its Results By Rudolf Steiner
+- Initiation, The Perfecting of Man By Annie Besant
+- The Inner Life By Charles Webster Leadbeater
+- In the Outer Court By Annie Besant
+- Isis Unveiled By H. P. Blavatsky
+- The Key to Theosophy By H. P. Blavatsky
+- Knowledge of the Higher Worlds By Rudolf Steiner
+- Letters That Have Helped Me By William Q. Judge
+- Light On The Path, and Through the Gates of Gold By Mabel Collins
+- Man Visible and Invisible By Charles Webster Leadbeater
+- The Masters and the Path of Occultism By Gottfried de Purucker
+- A Modern Panarion: A Collection of Fugitive Fragments By H. P. Blavatsky
+- The Occult World By A. P. Sinnett
+- The Ocean of Theosophy By William Q. Judge
+- An Outline of Theosophy By Charles Webster Leadbeater
+- The Secret Doctrine, Volume I. Cosmogenesis By H. P. Blavatsky
+- The Secret Doctrine, Volume II. Anthropogenesis By H. P. Blavatsky
+- The Secret Doctrine, Volume III. By H. P. Blavatsky
+- Self and Its Sheaths By Annie Besant
+- Some Glimpses Of Occultism, Ancient And Modern By Charles Webster Leadbeater
+- Studies in Occultism By H. P. Blavatsky
+- Superhuman Men in History and in Religion By Annie Besant
+- A Textbook Of Theosophy By Charles Webster Leadbeater
+- Theosophical Glossary By H. P. Blavatsky
+- Theosophy By Annie Besant
+- Theosophy By Rudolf Steiner
+- Theosophy and the New Psychology By Annie Besant
+- Theosophy or Psychological Religion By F. Max Muller
+- Theosophy: Religion and Occult Science By Henry S. Olcott
+- Thought-Forms By Annie Besant and C. W. Leadbeater
+- The Way of Initiation By Rudolf Steiner
+- The Wisdom of the Upanishats By Annie Besant
+
+
+## TRAVEL
+
+- Following the Equator By Mark Twain
+- The Great Navigators of the 18th Century By Jules Verne
+- The Silverado Squatters by Robert Louis Stevenson
+- The Travels of Marco Polo By Hugh Murray
+
+
+## UFOS AND ALIENS
+
+- The Coming of the Saucers By Kenneth Arnold and Raymond Palmer
+- The Flying Saucers are Real By Donald Keyhoe
+- From India to the Planet Mars By Theodore Flournoy
+- In Days to Come By Ethel P. Hill
+- I Remember Lemuria and The Return of Sathanas By Richard S. Shaver
+- My Trip to Mars By William Ferguson
+- The Omega File: Greys, Nazis, Underground Bases, and the New World Order By Branton
+- Other Tongues, Other Flesh By George Hunt Williamson
+- The Planet Mars and Its Inhabitants By Eros Urides
+- The Report on Unidentified Flying Objects By Edward Ruppelt
+- Roswell Report: Fact Versus Fiction in the New Mexico Desert By The United States Airforce
+- The Secret of the Saucers By Ofreo M. Angelucci
+- The Voice of Venus By Ernest L. Norman
+
+
+## WESTERN EUROPE
+
+- Basque Legends By Wentworth Webster
+- Cliges By Chretien De Troyes
+- Epics and Romances of the Middle Ages By Wilhelm Wagner
+- Fairy Tales of Modern Greece By Theodore P. Gianakoulis and Georgia H. MacPherson
+- Famous Impostors By Bram Stoker
+- Festivals of Western Europe By Dorothy Gladys Spicer
+- Folk Tales of Brittany By Elsie Masson
+- From Ritual to Romance By Jessie L. Weston
+- Hero Tales and Legends of the Rhine By Lewis Spence
+- The High History of the Holy Graal By Sebastian Evans
+- A History of the Huguenots By W. Carlos Martyn
+- Italian Popular Tales By Thomas Frederick Crane
+- Legends and Popular Tales of the Basque People By Mariana Monteiro
+- Legends and Romances of Brittany By Lewis Spence
+- Legends and Romances of Spain By Lewis Spence
+- Mary Tudor, Queen of France By Mary Croom Brown
+- The Nibelungenlied By Daniel B. Shumway
+- The Recollections of Alexis de Tocqueville
+- Royalty in All Ages by Thomas Firminger Thiselton-Dyer
+- Secret Memoirs Of The Royal Family of France During The Revolution, Vol 1 By Unknown
+- Secret Memoirs Of The Royal Family of France During The Revolution, Vol 2 By Unknown
+- Siegfried and The Twilight of the Gods By Richard Wagner
+- The State of Society in France Before the Revolution of 1789 of Alexis de Tocqueville
+- Teutonic Myth and Legend By Donald A. Mackenzie
+- Twilight in Italy By D. H. Lawrence
+
+
+## WITCHCRAFT
+
+- An Essay on Demonology, Ghosts and Apparitions, and Popular Superstitions By James Thacher
+- The History of Witchcraft and Demonology By Montague Summers
+- A History of Witchcraft in England from 1558 to 1718 By Wallace Notestein
+- Witchcraft and Second Sight in the Highlands and Islands of Scotland By John Gregorson Campbell
+- Witchcraft and Superstitious Record in the South-Western District of Scotland By J. Maxwell Wood
+- The Witches' Pharmacopoeia By Robert Fletcher
+- Witch, Warlock, and Magician By W. H. Davenport Adams
+
+## WITCH HUNTS AND TRIALS
+
+- The Book of Witches By Oliver Madox Hueffer
+- A Collection of Rare and Curious Tracts on Witchcraft and the Second Sight By Unknown
+- A History of the Witches of Renfrewshire By Unknown
+- Magic and Witchcraft By George Moir
+- Malleus Maleficarum By Heinrich Kramer
+- Salem Witchcraft By Samuel P. Fowler
+- Salem Witchcraft and Cotton Mather By Charles W. Upham
+- The Salem Witchcraft, the Planchette Mystery, and Modern Spiritualism By Harriet Beecher Stowe
+- Satanism and Witchcraft By Jules Michelet
+- Scots Discovery of Witchcraft By Reginald Scot
+- The Witchcraft Delusion In Colonial Connecticut (1647-1697) By John M. Taylor
+- Witchcraft of New England Explained by Modern Spiritualism By Allen Putnam
+- The Witch-Persecutions By George L. Burr

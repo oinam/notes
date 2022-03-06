@@ -1,5 +1,34 @@
 # Bookmarks
 
+- __Media (Photos / Videos)__
+	+ [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) is a collection of links for free stock photography, video and Illustration websites.
+	+ Royalty-Free Photos
+		* [Image Finder](https://imagefinder.co)
+		* [Pexels](https://www.pexels.com)
+		* [Pixabay](https://pixabay.com)
+		* [Stock Snap](https://stocksnap.io)
+		* [Unsplash](https://unsplash.com)
+	+ Tools
+		* [Remove BG](https://www.remove.bg)
+- Naming (Domain)
+	+ [Lean Domain Search](https://leandomainsearch.com)
+	+ [Domain Word Maker](http://www.bustaname.com/word_maker)
+	+ [Domain Wheel](https://domainwheel.com)
+	+ [Business Name Generator](https://namelix.com)
+	+ [I Want my Name](https://iwantmyname.com)
+	+ [Park.io](https://park.io) Domain name backordering made simple.
+	+ [One-Word Domains](https://www.oneword.domains)
+	+ [TLD-Lists](https://tld-list.com) Compare Prices of All Top-Level Domains
+	+ [Pork Bun](https://porkbun.com) One of the cheapest Domain registrar
+- Tools
+	+ [QR Code Generator](https://qr-code-generator.org)
+	+ [Who is my ISP](https://www.whoismyisp.org)
+	+ [NSLookup](https://www.nslookup.io)
+	+ [Txtify](https://txtify.it) Convert web articles to plain text
+	+ [Archive](https://archive.is)
+	
+_Sort these_
+
 - [Atlas Obscura](https://www.atlasobscura.com/) The definitive guide to the world’s hidden wonders.
 - [Awesome CTO](https://github.com/kuchin/awesome-cto) is a curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups.
 - [Awesome Github Actions](https://github.com/sdras/awesome-actions)

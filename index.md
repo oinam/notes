@@ -97,14 +97,14 @@ title: Oinam's Notebook
   - [The Greatest Sales Deck from Zuora](/sales/the-greatest-sales-deck-from-zuora/)
   - [The Side Project Sales Checklist](/sales/the-side-project-sales-checklist/)
 
-# [Startup](/startup/) and Entrepreneurship
+# Startup and Entrepreneurship
   - [10 Types of Innovation](/entrepreneur/10-types-of-innovation/)
   - [Chekhov's Gun](/startup/chekhovs-gun/)
   - [Co-Founder](/startup/co-founder/)
+  - [Fundraise](/startup/fundraise/)
   - [How do you fix a broken company](/startup/how-do-you-fix-a-broken-company/)
   - [How to create successful Products and Services](/entrepreneur/how-to-create-successful-products-and-services/)
   - [Ideas](/startup/ideas/)
-  - [Pitch Deck Mistakes](/startup/pitch-deck-mistakes/)
   - [Pitch Deck](/startup/pitch-deck/)
   - [Pitching your early stage startup](/startup/pitching-your-early-stage-startup/)
   - [The Biggest Mistakes First-Time Founders Make](/entrepreneur/the-biggest-mistakes-first-time-founders-make/)

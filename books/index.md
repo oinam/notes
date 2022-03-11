@@ -37,6 +37,7 @@ Here are a few personal tips that worked for me while trying to read/learn the c
 - [Open Textbook Initiative](https://aimath.org/textbooks/) from The American Institute of Mathematics.
 - [LibriVox](https://librivox.org) free public domain Audiobooks.
 - [Wikisource](https://en.wikisource.org/wiki/Main_Page) is the free library that anyone can improve.
+- [The Society of Minds](http://aurellem.org/society-of-mind/) by [Marvin Minsky](https://web.media.mit.edu/~minsky/).
 
 #### References
 
@@ -52,4 +53,5 @@ Here are a few personal tips that worked for me while trying to read/learn the c
 
 
 [^speed-read]: [Speed Reading](https://en.wikipedia.org/wiki/Speed_reading) is the technique of chunking and minimizing subvocalization. The many available speed-reading training programs may utilize books, videos, software, and seminars. There is little scientific evidence regarding speed reading, and as a result its value seems uncertain.
+
 [^tsundoku]: [Tsundoku](https://en.wikipedia.org/wiki/Tsundoku) (Japanese: 積ん読) is the art of buying books and never reading them.

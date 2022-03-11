@@ -11,15 +11,16 @@
 	+ Tools
 		* [Remove BG](https://www.remove.bg)
 - Naming (Domain)
-	+ [Lean Domain Search](https://leandomainsearch.com)
-	+ [Domain Word Maker](http://www.bustaname.com/word_maker)
-	+ [Domain Wheel](https://domainwheel.com)
 	+ [Business Name Generator](https://namelix.com)
+	+ [Dan](https://dan.com) Buy and sell domains
+	+ [Domain Wheel](https://domainwheel.com)
+	+ [Domain Word Maker](http://www.bustaname.com/word_maker)
 	+ [I Want my Name](https://iwantmyname.com)
-	+ [Park.io](https://park.io) Domain name backordering made simple.
+	+ [Lean Domain Search](https://leandomainsearch.com)
 	+ [One-Word Domains](https://www.oneword.domains)
-	+ [TLD-Lists](https://tld-list.com) Compare Prices of All Top-Level Domains
+	+ [Park.io](https://park.io) Domain name backordering made simple.
 	+ [Pork Bun](https://porkbun.com) One of the cheapest Domain registrar
+	+ [TLD-Lists](https://tld-list.com) Compare Prices of All Top-Level Domains
 - Tools
 	+ [QR Code Generator](https://qr-code-generator.org)
 	+ [Who is my ISP](https://www.whoismyisp.org)

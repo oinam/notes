@@ -1,7 +1,5 @@
 # Startup
 
-> While you are starting up.
-
 ## References
 
 - [Advice on pitching](https://www.aaronkharris.com/advice-on-pitching) by YC Partner, Aaron Harris.
@@ -16,3 +14,4 @@
 - [The Art of Fundraising](https://trello.com/b/TSv8YPKQ/the-art-of-fundraising) is a well laid our Trello Board with a categorized process.
 - [The Non-Obvious Guide to Fundraising](https://www.nfx.com/post/the-non-obvious-guide-to-fundraising/)
 - [Y Combinator Seed Deck Template](https://docs.google.com/presentation/d/17nFIwCyf2Kz-Ao5HGnmvNZ74L8eSKA2C2Qdaoe-47OM/)
+- [Legal Concepts for Startups](https://handbook.clerky.com) is a handbook designed to help founders avoid common areas of confusion, by providing a solid foundation of legal knowledge.

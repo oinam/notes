@@ -6,6 +6,8 @@ This is kinda fun thing - screenshots of my Phone's Homescreen evolution and cha
 
 ![iPhone-13-Mini - iOS 15](/-/img/phone-homescreen-brajeshwar/iPhone-13-mini-iOS15-2022.jpeg)
 
+_Trying out the custom iOS shortcuts & icons._
+
 ## 2021 (iPhone 13 Mini)
 
 ![iPhone-13-Mini - iOS 15](/-/img/phone-homescreen-brajeshwar/iPhone-13-mini-iOS15-2021.jpeg)

@@ -12,7 +12,8 @@
 
 ### References
 
-- [Setup Static IP Address](https://pimylifeup.com/raspberry-pi-static-ip-address/)
-- [Raspberry Pi PCIe Devices](https://pipci.jeffgeerling.com)
 - [CutiePi Tablet](https://cutiepi.io)
 - [Internet Pi](https://github.com/geerlingguy/internet-pi) from Jeff Geerling.
+- [Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)
+- [Raspberry Pi PCIe Devices](https://pipci.jeffgeerling.com)
+- [Setup Static IP Address](https://pimylifeup.com/raspberry-pi-static-ip-address/)

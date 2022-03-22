@@ -1,16 +1,20 @@
 # Bookmarks
 
-- __Media (Photos / Videos)__
+- Media (Photos / Videos)
 	+ [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) is a collection of links for free stock photography, video and Illustration websites.
 	+ Royalty-Free Photos
 		* [Image Finder](https://imagefinder.co)
 		* [Pexels](https://www.pexels.com)
 		* [Pixabay](https://pixabay.com)
 		* [Stock Snap](https://stocksnap.io)
+		* [The Stocks](http://thestocks.im)
 		* [Unsplash](https://unsplash.com)
-	+ Tools
-		* [Remove BG](https://www.remove.bg)
-- Naming (Domain)
+	+ Editors
+		* [I Love IMG](https://www.iloveimg.com) is a free online Photo Editor.
+		* [I Love PDF](https://www.ilovepdf.com) is a free PDF toolset.
+		* [Photopea](https://www.photopea.com)
+		* [Remove BG](https://www.remove.bg) removes Image Background.
+- Naming
 	+ [Business Name Generator](https://namelix.com)
 	+ [Dan](https://dan.com) Buy and sell domains
 	+ [Domain Wheel](https://domainwheel.com)
@@ -21,14 +25,26 @@
 	+ [Park.io](https://park.io) Domain name backordering made simple.
 	+ [Pork Bun](https://porkbun.com) One of the cheapest Domain registrar
 	+ [TLD-Lists](https://tld-list.com) Compare Prices of All Top-Level Domains
+- Press / PR
+	+ [Aidem Network](https://www.aidem.network)
+	+ [Press Farm](https://press.farm)
+	+ [Press Notify](https://pressnotify.com)
+	+ [Promote Hour](https://www.promotehour.com)
+	+ [Startup Lister](https://startuplister.com)
+	+ [Startup Ranking Booster](https://www.startupranking.com/booster)
 - Tools
-	+ [Archive](https://archive.is)
+	+ [Archive.is](https://archive.is)
 	+ [NSLookup](https://www.nslookup.io)
 	+ [QR Code Generator](https://qr-code-generator.org)
 	+ [Txtify](https://txtify.it) Convert web articles to plain text
 	+ [What is IP Geolocation?](https://www.geolocation.com)
 	+ [Who is my ISP](https://www.whoismyisp.org)
-	
+	+ 
+- Web
+	+ [Nearly Free Speech](https://www.nearlyfreespeech.net)
+	+ [Stein](https://steinhq.com) use Google Sheets as a back-end database.
+	+ [Free Dev Tools](https://freetools.dev)
+
 _Sort these_
 
 - [Atlas Obscura](https://www.atlasobscura.com/) The definitive guide to the world’s hidden wonders.
@@ -56,6 +72,7 @@ _Sort these_
 - [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games) (Internet Archive)
 - [Nautilus](http://nautil.us) tells you about science and its endless connections to our lives.
 - [Open Culture](http://www.openculture.com) The best free cultural & educational media on the web.
+- [Open Source Alternative To](https://www.opensourcealternative.to)
 - [Open Source Music Production Tools](https://midination.com/free-music-production-software/)
 - [Open Source Stash](https://opensourcestash.com)
 - [Open Sustainable Technology](https://opensustain.tech), [Github Source](https://github.com/protontypes/awesome-sustainable-technology)

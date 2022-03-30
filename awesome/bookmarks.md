@@ -30,7 +30,6 @@
 	+ [Press Farm](https://press.farm)
 	+ [Press Notify](https://pressnotify.com)
 	+ [Promote Hour](https://www.promotehour.com)
-	+ [Startup Lister](https://startuplister.com)
 	+ [Startup Ranking Booster](https://www.startupranking.com/booster)
 - Tools
 	+ [Archive.is](https://archive.is)

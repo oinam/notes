@@ -4,6 +4,9 @@
 
 ## Common Operations
 
+LOTR Calendar
+`calendar -f /usr/share/calendar/calendar.lotr -A 365`
+
 Current OS Release version\
 `cat /etc/*release`
 

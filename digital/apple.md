@@ -24,4 +24,4 @@ Here are some of the key non-apple applications that we use regularly;
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/) to look at what the computer is connecting to. [Lulu](https://objective-see.com/products/lulu.html) is a free, open-source alternative firewall that aims to block unknown outgoing connections.
 - [Obsidian](https://obsidian.md) is a powerful knowledge base on top of a local folder of plain text Markdown files.
 - [Rectangle](https://rectangleapp.com)\
-  for windows management and positioning.
+  for windows management and positioning. This is a simple but fantastic tool, that you will also love the [Rectangle Pro](https://rectangleapp.com/pro) version.

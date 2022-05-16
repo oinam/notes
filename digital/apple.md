@@ -18,9 +18,8 @@ Here are some of the key non-apple applications that we use regularly;
 - [Dropbox](https://www.dropbox.com/)\
   used for file storage management and sync across devices. App specific, settings, common family files and documents are left on iCloud.
 - [Grammarly](https://app.grammarly.com) + [Hemingway App](http://www.hemingwayapp.com) + [iA Writer](https://ia.net/writer)\
-  for a simpler, cleaner, and clearer writing.
-- [Hazel](https://www.noodlesoft.com)\
-  automation organizational tool.
+  for a simpler, cleaner, and clearer writing.\
+  [Language Tool](https://languagetool.org) is decent Grammarly alternative (testing).
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/) to look at what the computer is connecting to. [Lulu](https://objective-see.com/products/lulu.html) is a free, open-source alternative firewall that aims to block unknown outgoing connections.
 - [Obsidian](https://obsidian.md) is a powerful knowledge base on top of a local folder of plain text Markdown files.
 - [Rectangle](https://rectangleapp.com)\

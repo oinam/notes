@@ -128,6 +128,11 @@ Disable animations when you open an application from the Dock\
 Make all animations faster that are used by Mission Control\
 `defaults write com.apple.dock expose-animation-duration -float 0.1`
 
+[Move a Window](https://mmazzarolo.com/blog/2022-04-16-drag-window-by-clicking-anywhere-on-macos/) by picking up anywhere (with CMD + Control)
+`defaults write -g NSWindowShouldDragOnGesture -bool true`\
+Reset to Default\
+`defaults delete -g NSWindowShouldDragOnGesture`
+
 ## Block Sites
 
 `sudo nano /etc/hosts`

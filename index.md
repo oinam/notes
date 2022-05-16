@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Oinam's Notebook
+title: Oinam Notes
 ---
 <div class="items-list" markdown="1">
 

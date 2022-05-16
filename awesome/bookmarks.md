@@ -38,7 +38,7 @@
 	+ [Txtify](https://txtify.it) Convert web articles to plain text
 	+ [What is IP Geolocation?](https://www.geolocation.com)
 	+ [Who is my ISP](https://www.whoismyisp.org)
-	+ 
+	+ [Look Scanned](https://lookscanned.io)
 - Web
 	+ [Nearly Free Speech](https://www.nearlyfreespeech.net)
 	+ [Stein](https://steinhq.com) use Google Sheets as a back-end database.

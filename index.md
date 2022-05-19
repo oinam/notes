@@ -60,6 +60,7 @@ title: Oinam Notes
   - [Have a life's Mission, and Persevere](/life/have-a-life-mission-and-persevere/)
   - [Hedonic Treadmill or Adaptation](/life/hedonic-treadmill)
   - [Matthew McConaughey's Motivational Speech](/life/matthew-mcconaughey-motivational-speech/)
+  - [Money](/life/money/)
   - [Stoicism](/life/stoicism/)
   - [Slow is Smooth; Smooth is Fast](/life/slow-is-smooth-and-smooth-is-fast/)
   - [Smart Enough to Look Stupid](/life/smart-enough-to-look-stupid/)

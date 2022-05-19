@@ -33,6 +33,7 @@
 	+ [Startup Ranking Booster](https://www.startupranking.com/booster)
 - Tools
 	+ [Archive.is](https://archive.is)
+	+ [DNSViz](https://dnsviz.net) is a tool for visualizing the status of a DNS zone.
 	+ [NSLookup](https://www.nslookup.io)
 	+ [QR Code Generator](https://qr-code-generator.org)
 	+ [Txtify](https://txtify.it) Convert web articles to plain text

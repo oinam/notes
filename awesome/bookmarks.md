@@ -31,21 +31,21 @@
 	+ [Press Notify](https://pressnotify.com)
 	+ [Promote Hour](https://www.promotehour.com)
 	+ [Startup Ranking Booster](https://www.startupranking.com/booster)
-- Tools
+- Web, Domains, Email
 	+ [Archive.is](https://archive.is)
 	+ [DNSViz](https://dnsviz.net) is a tool for visualizing the status of a DNS zone.
+	+ [Free Dev Tools](https://freetools.dev)
+	+ [Hello Inbox](helloinbox.email) is an Email Deliverability Checklist & Toolkit
+	+ [Look Scanned](https://lookscanned.io)
+	+ [Nearly Free Speech](https://www.nearlyfreespeech.net)
 	+ [NSLookup](https://www.nslookup.io)
 	+ [QR Code Generator](https://qr-code-generator.org)
+	+ [Stein](https://steinhq.com) a freemium service to use Google Sheets as a back-end database.
 	+ [Txtify](https://txtify.it) Convert web articles to plain text
 	+ [What is IP Geolocation?](https://www.geolocation.com)
 	+ [Who is my ISP](https://www.whoismyisp.org)
-	+ [Look Scanned](https://lookscanned.io)
-- Web
-	+ [Nearly Free Speech](https://www.nearlyfreespeech.net)
-	+ [Stein](https://steinhq.com) use Google Sheets as a back-end database.
-	+ [Free Dev Tools](https://freetools.dev)
 
-_Sort these_
+_I need to sort these_
 
 - [Atlas Obscura](https://www.atlasobscura.com/) The definitive guide to the world’s hidden wonders.
 - [Awesome CTO](https://github.com/kuchin/awesome-cto) is a curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups.

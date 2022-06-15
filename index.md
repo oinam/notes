@@ -60,6 +60,7 @@ title: Oinam Notes
   - [Hedonic Treadmill or Adaptation](/life/hedonic-treadmill)
   - [Matthew McConaughey's Motivational Speech](/life/matthew-mcconaughey-motivational-speech/)
   - [Money](/life/money/)
+  - [Occam’s Razor](/life/occams-razor/)
   - [Stoicism](/life/stoicism/)
   - [Slow is Smooth; Smooth is Fast](/life/slow-is-smooth-and-smooth-is-fast/)
   - [Smart Enough to Look Stupid](/life/smart-enough-to-look-stupid/)
@@ -97,7 +98,7 @@ title: Oinam Notes
   - [The Greatest Sales Deck from Zuora](/sales/the-greatest-sales-deck-from-zuora/)
   - [The Side Project Sales Checklist](/sales/the-side-project-sales-checklist/)
 
-# Startup and Entrepreneurship
+# Startup
   - [10 Types of Innovation](/entrepreneur/10-types-of-innovation/)
   - [Chekhov's Gun](/startup/chekhovs-gun/)
   - [Co-Founder](/startup/co-founder/)

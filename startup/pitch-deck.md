@@ -35,3 +35,5 @@ Counterintuitive as it may be, the __goal of your pitch deck is not to raise mon
 3. Production
 4. Make your slides unique
 5. Finalize and dry-run
+
+[The best startup pitch deck ever built](https://openvc.app/blog/best-startup-pitch-deck) is an amalgamation of some of the best sections of a Pitch Deck from successful companies.

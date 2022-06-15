@@ -13,18 +13,8 @@
 		* [I Love IMG](https://www.iloveimg.com) is a free online Photo Editor.
 		* [I Love PDF](https://www.ilovepdf.com) is a free PDF toolset.
 		* [Photopea](https://www.photopea.com)
+		* [Edit Photo](https://edit.photo)
 		* [Remove BG](https://www.remove.bg) removes Image Background.
-- Naming
-	+ [Business Name Generator](https://namelix.com)
-	+ [Dan](https://dan.com) Buy and sell domains
-	+ [Domain Wheel](https://domainwheel.com)
-	+ [Domain Word Maker](http://www.bustaname.com/word_maker)
-	+ [I Want my Name](https://iwantmyname.com)
-	+ [Lean Domain Search](https://leandomainsearch.com)
-	+ [One-Word Domains](https://www.oneword.domains)
-	+ [Park.io](https://park.io) Domain name backordering made simple.
-	+ [Pork Bun](https://porkbun.com) One of the cheapest Domain registrar
-	+ [TLD-Lists](https://tld-list.com) Compare Prices of All Top-Level Domains
 - Press / PR
 	+ [Aidem Network](https://www.aidem.network)
 	+ [Press Farm](https://press.farm)
@@ -33,20 +23,36 @@
 	+ [Startup Ranking Booster](https://www.startupranking.com/booster)
 - Web, Domains, Email
 	+ [Archive.is](https://archive.is)
+	+ [Business Name Generator](https://namelix.com)
+	+ [Dan](https://dan.com) Buy and sell domains
 	+ [DNSViz](https://dnsviz.net) is a tool for visualizing the status of a DNS zone.
+	+ [Domain Wheel](https://domainwheel.com)
+	+ [Domain Word Maker](http://www.bustaname.com/word_maker)
 	+ [Free Dev Tools](https://freetools.dev)
 	+ [Hello Inbox](helloinbox.email) is an Email Deliverability Checklist & Toolkit
+	+ [I Want my Name](https://iwantmyname.com)
+	+ [Instant Domain Search](https://instantdomainsearch.com)
+	+ [Lean Domain Search](https://leandomainsearch.com)
 	+ [Look Scanned](https://lookscanned.io)
 	+ [Nearly Free Speech](https://www.nearlyfreespeech.net)
 	+ [NSLookup](https://www.nslookup.io)
+	+ [One-Word Domains](https://www.oneword.domains)
+	+ [Park.io](https://park.io) Domain name backordering made simple.
+	+ [Pork Bun](https://porkbun.com) One of the cheapest Domain registrar
 	+ [QR Code Generator](https://qr-code-generator.org)
 	+ [Stein](https://steinhq.com) a freemium service to use Google Sheets as a back-end database.
+	+ [TLD-Lists](https://tld-list.com) Compare Prices of All Top-Level Domains
 	+ [Txtify](https://txtify.it) Convert web articles to plain text
 	+ [What is IP Geolocation?](https://www.geolocation.com)
 	+ [Who is my ISP](https://www.whoismyisp.org)
 
 _I need to sort these_
 
+- [AlternativeTo](https://alternativeto.net)
+- [Open Source Database](https://ossdatabase.com)
+- [Open Source Alternative to](https://www.opensourcealternative.to)
+
+- [ACM Digital Library](https://dl.acm.org) opened more than 117,500 articles published between 1951 and the end of 2000.
 - [Atlas Obscura](https://www.atlasobscura.com/) The definitive guide to the world’s hidden wonders.
 - [Awesome CTO](https://github.com/kuchin/awesome-cto) is a curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups.
 - [Awesome Github Actions](https://github.com/sdras/awesome-actions)
@@ -88,6 +94,5 @@ _I need to sort these_
 - [The Pudding](https://pudding.cool) is a digital publication that explains ideas debated in culture with visual essays.
 - [This X Does Not Exist](https://thisxdoesnotexist.com)
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) from HackerNews.
-- [Unsplash](https://unsplash.com) Over 2 million free high-resolution images brought to you by the world’s most generous community of photographers.
-- [Wait But Why](https://waitbutwhy.com) carefully produced for the true book lover.
+world’s most generous community of photographers.
 - [WinWorld Library](https://winworldpc.com/library/)

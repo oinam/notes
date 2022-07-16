@@ -24,27 +24,27 @@
 - Web, Domains, Email
 	+ [Archive.is](https://archive.is)
 	+ [Business Name Generator](https://namelix.com)
-	+ [Dan](https://dan.com) Buy and sell domains
 	+ [DNSViz](https://dnsviz.net) is a tool for visualizing the status of a DNS zone.
-	+ [Domain Wheel](https://domainwheel.com)
-	+ [Domain Word Maker](http://www.bustaname.com/word_maker)
 	+ [Free Dev Tools](https://freetools.dev)
 	+ [Hello Inbox](helloinbox.email) is an Email Deliverability Checklist & Toolkit
 	+ [I Want my Name](https://iwantmyname.com)
-	+ [Instant Domain Search](https://instantdomainsearch.com)
-	+ [Lean Domain Search](https://leandomainsearch.com)
 	+ [Look Scanned](https://lookscanned.io)
 	+ [Nearly Free Speech](https://www.nearlyfreespeech.net)
 	+ [NSLookup](https://www.nslookup.io)
-	+ [One-Word Domains](https://www.oneword.domains)
-	+ [Park.io](https://park.io) Domain name backordering made simple.
 	+ [Pork Bun](https://porkbun.com) One of the cheapest Domain registrar
 	+ [QR Code Generator](https://qr-code-generator.org)
 	+ [Stein](https://steinhq.com) a freemium service to use Google Sheets as a back-end database.
-	+ [TLD-Lists](https://tld-list.com) Compare Prices of All Top-Level Domains
 	+ [Txtify](https://txtify.it) Convert web articles to plain text
 	+ [What is IP Geolocation?](https://www.geolocation.com)
 	+ [Who is my ISP](https://www.whoismyisp.org)
+	+ Domains
+		* [Dan](https://dan.com) Buy and sell domains
+		* [Domain Word Maker](http://www.bustaname.com/word_maker)
+		* [Lean Domain Search](https://leandomainsearch.com)
+		* [Park.io](https://park.io) Domain name backordering made simple.
+		* [TLD-Lists](https://tld-list.com) Compare Prices of All Top-Level Domains
+- Fun
+	+ [How I Experience Web Today](https://how-i-experience-web-today.com)
 
 _I need to sort these_
 

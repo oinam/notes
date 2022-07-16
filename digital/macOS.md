@@ -1,12 +1,6 @@
 # macOS
 
-## Setup a new Mac
-
-Transfer From old MacOS
-- Root: Invisible Files/Folders
-- Applications (Better to install the apps afresh)
-- Library (both user and root)
-- Brew, NPM, and Ruby Modules
+- [Mac keyboard shortcuts](https://support.apple.com/en-au/HT201236)
 
 ## OS Defaults
 
@@ -89,10 +83,24 @@ Change default appointment duration in iCal (Calendar)\
 Revert to default\
 `defaults delete com.apple.iCal "Default duration in minutes for new event"`
 
-Screenshot location
+## Screenshot
+
+Customo Screenshot location\
 ```
 defaults write com.apple.screencapture location ~/Dropbox/Screenshots
 killall SystemUIServer
+```
+
+Remove/Reset Screenshot Shadow\
+```
+defaults write com.apple.screencapture disable-shadow -bool true; killall SystemUIServer
+defaults write com.apple.screencapture disable-shadow -bool false; killall SystemUIServer
+```
+
+Screenshot as JPEG or PNG\
+```
+defaults write com.apple.screencapture type jpg; killall SystemUIServer
+defaults write com.apple.screencapture type png; killall SystemUIServer
 ```
 
 Dock Appear Instantly\

@@ -43,6 +43,7 @@ Here are a few personal tips that worked for me while trying to read/learn the c
 
 - [HackerNews Book Recommendations](https://hacker-recommended-books.vercel.app)
 - [A Helpful Guide to Reading Better](https://fs.blog/reading/)
+- [Books by the Foot](https://booksbythefoot.com)
 - [Good Books](https://www.goodbooks.io) Recommended by Successful People.
 - [How to Gain More From Your Reading](https://psyche.co/guides/how-to-gain-more-from-reading-by-taking-it-all-in-more-slowly)
 - Brajeshwar's Books of

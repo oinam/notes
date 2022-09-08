@@ -12,9 +12,11 @@
 	+ Editors
 		* [I Love IMG](https://www.iloveimg.com) is a free online Photo Editor.
 		* [I Love PDF](https://www.ilovepdf.com) is a free PDF toolset.
+		* [PDF24 Tools](https://www.pdf24.org) Free and easy-to-use online PDF tools.
 		* [Photopea](https://www.photopea.com)
 		* [Edit Photo](https://edit.photo)
 		* [Remove BG](https://www.remove.bg) removes Image Background.
+		* [TinyWoW](https://tinywow.com) All-in-One utility tools for your files.
 - Press / PR
 	+ [Aidem Network](https://www.aidem.network)
 	+ [Press Farm](https://press.farm)
@@ -26,8 +28,7 @@
 	+ [Business Name Generator](https://namelix.com)
 	+ [DNSViz](https://dnsviz.net) is a tool for visualizing the status of a DNS zone.
 	+ [Free Dev Tools](https://freetools.dev)
-	+ [Hello Inbox](helloinbox.email) is an Email Deliverability Checklist & Toolkit
-	+ [I Want my Name](https://iwantmyname.com)
+	+ [Hello Inbox](https://helloinbox.email) is an Email Deliverability Checklist & Toolkit
 	+ [Look Scanned](https://lookscanned.io)
 	+ [Nearly Free Speech](https://www.nearlyfreespeech.net)
 	+ [NSLookup](https://www.nslookup.io)
@@ -48,10 +49,10 @@
 
 _I need to sort these_
 
+- [35mm](https://35mm.online/en) has thousands of classic Polish and other films.
 - [AlternativeTo](https://alternativeto.net)
 - [Open Source Database](https://ossdatabase.com)
 - [Open Source Alternative to](https://www.opensourcealternative.to)
-
 - [ACM Digital Library](https://dl.acm.org) opened more than 117,500 articles published between 1951 and the end of 2000.
 - [Atlas Obscura](https://www.atlasobscura.com/) The definitive guide to the world’s hidden wonders.
 - [Awesome CTO](https://github.com/kuchin/awesome-cto) is a curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups.
@@ -83,6 +84,7 @@ _I need to sort these_
 - [Open Source Stash](https://opensourcestash.com)
 - [Open Sustainable Technology](https://opensustain.tech), [Github Source](https://github.com/protontypes/awesome-sustainable-technology)
 - [Our World in Data](https://ourworldindata.org) Research and data to make progress against the world's largest problems.
+- Paper Airplane Designs at [Fold-n-Fly](https://www.foldnfly.com/)
 - [Produpedia](https://produpedia.org) Lists of everything
 - [Purism](https://puri.sm) is a company dedicated to digital freedom, privacy, and security.
 - [Radio Garden](http://radio.garden) invites you to tune into thousands of live radio stations across the globe.

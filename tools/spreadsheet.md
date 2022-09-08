@@ -31,6 +31,12 @@ No ₹, without decimals \
                                        DATEDIF(A1, B1, "D")&" day(s)"))
 ```
 
+#### Highlight rows that contains a phrase in a column
+
+1. Choose Conditional Formula
+2. Select the range -- A1:Z999
+3. "Custom Formula is" =$F$1:$F999="phrase"
+
 ### References
 
 - [Google Sheets Functions](https://support.google.com/docs/table/25273)

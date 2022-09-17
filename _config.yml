@@ -27,6 +27,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-titles-from-headings
+  - jekyll-browsersync
 
 exclude:
   - .jekyll-cache/

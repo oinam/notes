@@ -2,10 +2,9 @@
 
 [Oinam Notes](https://notes.oinam.com/)
 
-### References & Inspiration
+### References
 
 Interesting digital garden-ish, notebook, and collections;
 
 - [Startup Toolchain](https://startuptoolchain.com)
-- [Andy Matuschak](https://notes.andymatuschak.org/)
-- [Digital Gardeners](https://github.com/MaggieAppleton/digital-gardeners)
+- [Digital Gardening Tools and Resources](https://github.com/MaggieAppleton/digital-gardeners)

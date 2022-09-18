@@ -16,5 +16,3 @@ Here are the 10 types of innovation:
 8.  Channel -- How your offerings are delivered to customers and users
 9.  Brand -- Representation of your offerings and business
 10. Customer Engagement -- Distinctive interactions you foster
-
-![10 Types of Innovation](/-/img/10-types-of-innovation.jpg)

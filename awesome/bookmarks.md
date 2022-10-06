@@ -28,6 +28,8 @@
 	+ [Business Name Generator](https://namelix.com)
 	+ [DNSViz](https://dnsviz.net) is a tool for visualizing the status of a DNS zone.
 	+ [Free Dev Tools](https://freetools.dev)
+	+ [GCPing](https://gcping.com)
+	+ [CloudPing](https://www.cloudping.info)
 	+ [Hello Inbox](https://helloinbox.email) is an Email Deliverability Checklist & Toolkit
 	+ [Look Scanned](https://lookscanned.io)
 	+ [Nearly Free Speech](https://www.nearlyfreespeech.net)
@@ -39,7 +41,6 @@
 	+ [What is IP Geolocation?](https://www.geolocation.com)
 	+ [Who is my ISP](https://www.whoismyisp.org)
 	+ Domains
-		* [Dan](https://dan.com) Buy and sell domains
 		* [Domain Word Maker](http://www.bustaname.com/word_maker)
 		* [Lean Domain Search](https://leandomainsearch.com)
 		* [Park.io](https://park.io) Domain name backordering made simple.

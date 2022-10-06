@@ -2,7 +2,6 @@
 
 > Articles, writings found on the Web that are worth a thorough reading and re-reads.
 
-- [95th Percentile isn’t that Good](https://danluu.com/p95-skill/) by Dan Luu ([backup](/backup/95th-percentile-isnt-that-good.html)) on cultivating self-improvement mindset by reminding you how easy (in some sense) it is to make huge improvements at something.
 - [Becoming a Magician](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/) ([backup](/backup/becoming-a-magician)) on how to become a person that your current self would perceive as magical.
 - [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) by Sam Altman ([backup](/backup/how-to-be-successful)).
 - [Life is Short](http://paulgraham.com/vb.html) by Paul Graham ([backup](/backup/life-is-short)) inspires you to never to waste time on bullshit again.

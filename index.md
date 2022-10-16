@@ -2,6 +2,7 @@
 layout: default
 title: Oinam Notes
 ---
+
 <div class="items-list" markdown="1">
 
 # Awesome
@@ -26,9 +27,6 @@ title: Oinam Notes
 
   - [Farming](/agriculture/farming/)
   - [Farm Bot](/agriculture/farm-bot/)
-
-# Company
-  - [Tools, Services, and  Products](/company/tools-services-products/)
 
 # Design
   - [Dieter Rams' 10 "Good Design" Principles](/design/dieter-rams-good-design/)
@@ -90,9 +88,6 @@ title: Oinam Notes
 # Photography
   - [Photography](/photography/photography/)
   - [Cityscape Photography: The Comprehensive Guide](/backup/cityscape-photography-guide.pdf) (pdf 40MB)
-
-# Presentation
-  - [Presentation Rules](/presentation/presentation-rules/)
 
 # Sales
   - [Founders doing Sales](/sales/sales-by-founders/)

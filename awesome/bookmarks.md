@@ -17,12 +17,6 @@
 		* [Edit Photo](https://edit.photo)
 		* [Remove BG](https://www.remove.bg) removes Image Background.
 		* [TinyWoW](https://tinywow.com) All-in-One utility tools for your files.
-- Press / PR
-	+ [Aidem Network](https://www.aidem.network)
-	+ [Press Farm](https://press.farm)
-	+ [Press Notify](https://pressnotify.com)
-	+ [Promote Hour](https://www.promotehour.com)
-	+ [Startup Ranking Booster](https://www.startupranking.com/booster)
 - Web, Domains, Email
 	+ [Archive.is](https://archive.is)
 	+ [Business Name Generator](https://namelix.com)
@@ -47,6 +41,7 @@
 		* [TLD-Lists](https://tld-list.com) Compare Prices of All Top-Level Domains
 - Fun
 	+ [How I Experience Web Today](https://how-i-experience-web-today.com)
+	+ [America Road Trip Simulation](https://4m3ric4.com)
 
 _I need to sort these_
 
@@ -64,7 +59,14 @@ _I need to sort these_
 - [BBC Micro Games Archive](http://bbcmicro.co.uk) ([Source](https://github.com/pau1ie/bbcmicro.co.uk) at Github)
 - [BBC Sound Effects](http://bbcsfx.acropolis.org.uk) are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence. The Sound Effects are BBC copyright, but they may be used for personal, educational or research purposes, as detailed in the license.
 - [Behavioral Scientist](https://behavioralscientist.org)
-- [Better Explained](https://betterexplained.com)
+- [Better Explained](https://betterexplained.com) - Learn to understand math, not memorize it.
+	- [A Visual Guide to Simple, Compound and Continuous Interest Rates](https://betterexplained.com/articles/a-visual-guide-to-simple-compound-and-continuous-interest-rates/)
+	- [Brevity Is Beautiful](https://betterexplained.com/articles/brevity-is-beautiful/)
+	- [Combining Simplicity and Complexity](https://betterexplained.com/articles/combining-simplicity-and-complexity/)
+	- [Surviving (and thriving) on your own: Know Thyself](https://betterexplained.com/articles/surviving-and-thriving-on-your-own-know-thyself/)
+	- [Understanding Debt, Risk and Leverage](https://betterexplained.com/articles/understanding-debt-risk-and-leverage/)
+	- [Understanding the Pareto Principle](https://betterexplained.com/articles/understanding-the-pareto-principle-the-8020-rule/) (The 80/20 Rule)
+	- [The Rule of 72](https://betterexplained.com/articles/the-rule-of-72/)
 - [Book Search](https://books-search.typesense.org) over 28+ Million Books from [Open Library](https://openlibrary.org).
 - [Books - Programming](https://ebookfoundation.github.io/free-programming-books/) ([Source](https://github.com/EbookFoundation/free-programming-books))
 - [CC Hound](https://cchound.com) 100% free, quality CC audio.

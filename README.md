@@ -2,7 +2,7 @@
 
 [Oinam Notes](https://notes.oinam.com/)
 
-- Images, and other documents (pdf, images, audio, video) are served from either `cdn.oinam.com` or `archive.oinam.com`.
+- Images, static media, and documents (pdf, images, audio, video) are served from either `cdn.oinam.com` or `archive.oinam.com`.
 
 ### References
 

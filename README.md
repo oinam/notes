@@ -8,5 +8,6 @@
 
 Interesting digital garden-ish, notebook, and collections;
 
-- [Startup Toolchain](https://startuptoolchain.com)
 - [Digital Gardening Tools and Resources](https://github.com/MaggieAppleton/digital-gardeners)
+- [Digital Garden](https://maggieappleton.com/garden) by Maggie Appleton
+- [Startup Toolchain](https://startuptoolchain.com)

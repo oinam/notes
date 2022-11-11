@@ -10,15 +10,17 @@
 		* [The Stocks](http://thestocks.im)
 		* [Unsplash](https://unsplash.com)
 	+ Editors
+		* [Edit Photo](https://edit.photo)
 		* [I Love IMG](https://www.iloveimg.com) is a free online Photo Editor.
 		* [I Love PDF](https://www.ilovepdf.com) is a free PDF toolset.
+		* [Palette](https://palette.fm) AI-powered Photo Colorizer.
 		* [PDF24 Tools](https://www.pdf24.org) Free and easy-to-use online PDF tools.
 		* [Photopea](https://www.photopea.com)
-		* [Edit Photo](https://edit.photo)
 		* [Remove BG](https://www.remove.bg) removes Image Background.
 		* [TinyWoW](https://tinywow.com) All-in-One utility tools for your files.
 - Web, Domains, Email
 	+ [Archive.is](https://archive.is)
+	+ [blip](http://gfblip.appspot.com): a tool for seeing your Internet latency. [source](https://github.com/apenwarr/blip)
 	+ [Business Name Generator](https://namelix.com)
 	+ [DNSViz](https://dnsviz.net) is a tool for visualizing the status of a DNS zone.
 	+ [Free Dev Tools](https://freetools.dev)
@@ -94,6 +96,7 @@ _I need to sort these_
 - [Sci-Hub](https://sci-hub.st) provide mass and public access to tens of millions of research papers.
 - [Science X](https://sciencex.com/) is a leading web-based science, research and technology news service which covers a full range of topics -- physics, earth science, medicine, nanotechnology, electronics, space, biology, chemistry, computer sciences, engineering, mathematics and other sciences and technologies.
 - [Software Library](https://archive.org/details/softwarelibrary) (Internet Archive)
+- [Smithsonian Open Access](https://www.si.edu/openaccess) download, share, and reuse millions of the Smithsonian’s images, without asking.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) is a collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 - [The Daily Idea](https://thedailyidea.org/) aims to make learning about philosophy as easy as possible by bringing together the best philosophy resources from across the internet.
 - [The Pudding](https://pudding.cool) is a digital publication that explains ideas debated in culture with visual essays.

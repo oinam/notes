@@ -1,0 +1,5 @@
+# Open Source Seed
+
+The [Open Source Seed Initiative](https://osseeds.org/) (OSSI) is dedicated to maintaining fair and open access to plant genetic resources worldwide in order to ensure the availability of germplasm to farmers, gardeners, breeders, and communities of this and future generations.
+
+They engages in education and outreach that promotes sharing rather than restricting access to plant germplasm, recognizes and supports the work of plant breeders of all kinds, and supports a diversified and decentralized seed industry. The core strategy for achieving these goals is the dissemination and propagation of the OSSI Pledge and of OSSI-Pledged varieties, both of which preserve the rights of farmers, gardeners, and breeders to freely use, save, replant, and improve seed of OSSI-Pledged material.

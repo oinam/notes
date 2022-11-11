@@ -7,6 +7,7 @@
 - [Geospatial World](https://www.youtube.com/channel/UC2UaNw8A-fQhIBBnaZPKEmA) GIS, GPS, LiDAR, UAVs, BIM, Maps, Smart Cities, Artificial Intelligence, IoT, Autonomous vehicles, etc.
 - [How It's Made](https://www.youtube.com/channel/UCWBkudOTaVbvkCBc0pyZFMA/) is the YouTube adaptaion of the popular TV Channel, [How It's Made](https://en.wikipedia.org/wiki/How_It's_Made) (Wikipedia). I grew up glued to the TV just to watch this Channel.
 - [Jim Browning](https://www.youtube.com/channel/UCBNG0osIBAprVcZZ3ic84vw) is the hacker who hacks, tracks, and identify scammers. [Browning](https://en.wikipedia.org/wiki/Jim_Browning_(YouTuber)) carries out investigative scam baits in which he infiltrates computer networks run by technical support scammers and fraudsters posing as US IRS agents and random aliases through the use of remote access software and social engineering.
+- [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell) animates videos explaining things sparking curiosity about science and the world we live in.
 - [Mark Rober](https://www.youtube.com/c/MarkRober) is a former NASA engineer.
 - [NASA Harvest](https://www.youtube.com/channel/UC3zAA7T6jfkFiZ9lHqnhnKA) is a multidisciplinary Consortium commissioned by NASA and led by the University of Maryland.
 - [Physics Girl](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA) is a YouTube channel by [Dianna Cowern](https://en.wikipedia.org/wiki/Dianna_Cowern) that adventures into the physical sciences with experiments, demonstrations, and cool new discoveries.

@@ -19,6 +19,7 @@
 		* [Remove BG](https://www.remove.bg) removes Image Background.
 		* [TinyWoW](https://tinywow.com) All-in-One utility tools for your files.
 - Web, Domains, Email
+	+ [AdBlock Tester](https://adblock-tester.com)
 	+ [Archive.is](https://archive.is)
 	+ [blip](http://gfblip.appspot.com): a tool for seeing your Internet latency. [source](https://github.com/apenwarr/blip)
 	+ [Business Name Generator](https://namelix.com)

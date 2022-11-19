@@ -34,6 +34,7 @@
 	+ [Pork Bun](https://porkbun.com) One of the cheapest Domain registrar
 	+ [QR Code Generator](https://qr-code-generator.org)
 	+ [Stein](https://steinhq.com) a freemium service to use Google Sheets as a back-end database.
+	+ [Tineye](https://tineye.com) Reverse Image Search
 	+ [Txtify](https://txtify.it) Convert web articles to plain text
 	+ [What is IP Geolocation?](https://www.geolocation.com)
 	+ [Who is my ISP](https://www.whoismyisp.org)
@@ -82,6 +83,7 @@ _I need to sort these_
 - [Head](https://htmlhead.dev) A free guide to HTML5 `<head>` elements
 - [History of the Web](https://thehistoryoftheweb.com), [Timeline View](https://thehistoryoftheweb.com/timeline/)
 - [ICANN DOMAINS](https://publicsuffix.org/list/public_suffix_list.dat)
+- [Map of the Universe](https://mapoftheuniverse.net) charts a broad expanse of the universe, from the Milky Way to 'the edge of what can be seen'.
 - [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games) (Internet Archive)
 - [Nautilus](http://nautil.us) tells you about science and its endless connections to our lives.
 - [Open Culture](http://www.openculture.com) The best free cultural & educational media on the web.

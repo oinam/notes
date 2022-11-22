@@ -3,6 +3,7 @@
 > Articles, writings found on the Web that are worth a thorough reading and re-reads.
 
 - [Becoming a Magician](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/) ([backup](/backup/becoming-a-magician)) on how to become a person that your current self would perceive as magical.
+- [Betting on Things That Never Change](https://collabfund.com/blog/betting-on-things-that-never-change/) by Morgan Housel. In the last 100 years we've gone from horses to jets and mailing letters to video facetime. You can make big, long-term bets on these things that never things, because there's no chance people will stop caring about them in the future. But every sustainable business is accompanied by one of a handful of timeless strategies — read on.
 - [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) by Sam Altman ([backup](/backup/how-to-be-successful)).
 - [Life is Short](http://paulgraham.com/vb.html) by Paul Graham ([backup](/backup/life-is-short)) inspires you to never to waste time on bullshit again.
 - [Maker's Schedule, Manager's Schedule](http://paulgraham.com/makersschedule.html) by [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)).

@@ -1,6 +1,7 @@
 # Matthew McConaughey's Motivational Speech
 
-{% include video source="youtube" id="8fzGPwY40Cw" %}
+[!embed](https://www.youtube.com/embed/8fzGPwY40Cw)
+
 
 Transcript of the core points from Matthew McConaughey's speech.
 

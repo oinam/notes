@@ -14,7 +14,7 @@
 - Triangle (2009)
 - Windtalkers (2002)
 
-## 20th Century (1990-1999)
+## 20th Century (1900-1999)
 
 - 12 Angry Men (1957)
 - 2001: A Space Odyssey (1968)

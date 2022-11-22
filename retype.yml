@@ -9,9 +9,8 @@ links:
 - text: Home
   link: /
   icon: home
-- text: Contact
-  link: https://oinam.com/contact
-  icon: contact
 
 footer:
   copyright: "An ever work-in-progress by [Oinam](https://oinam.com/) ([Source](https://github.com/oinam/notes))."
+
+poweredByRetype: false

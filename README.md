@@ -5,6 +5,13 @@ An ever work-in-progress of _tit-bits, wiki-ish, data, learnings, and observatio
 ## Notes
 
 - Images, static media, and documents (pdf, images, audio, video) are served from either `cdn.oinam.com` or `archive.oinam.com`.
-- Interesting digital garden-ish, notebook, and collections;
-	+ [Digital Gardening Tools and Resources](https://github.com/MaggieAppleton/digital-gardeners)
-	+ [Digital Garden](https://maggieappleton.com/garden) by Maggie Appleton
+- [Octicons](https://primer.style/octicons/)
+
+## Inspiration
+
+- [Andyʼs Working Notes](https://notes.andymatuschak.org/)
+- [The Garden](https://maggieappleton.com/garden) of Maggie Appleton
+
+## References
+
+- [Digital Gardening Tools and Resources](https://github.com/MaggieAppleton/digital-gardeners)

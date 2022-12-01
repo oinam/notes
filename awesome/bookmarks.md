@@ -29,7 +29,7 @@
 	+ [CloudPing](https://www.cloudping.info)
 	+ [Hello Inbox](https://helloinbox.email) is an Email Deliverability Checklist & Toolkit
 	+ [I Know What You Downloaded](https://iknowwhatyoudownload.com/)
-	+ [Look Scanned](https://lookscanned.io)
+	+ [Look Scanned](https://lookscanned.io) makes your PDFs look scanned!
 	+ [Nearly Free Speech](https://www.nearlyfreespeech.net)
 	+ [NSLookup](https://www.nslookup.io)
 	+ [Pork Bun](https://porkbun.com) One of the cheapest Domain registrar
@@ -92,6 +92,7 @@ _I need to sort these_
 - [Open Source Music Production Tools](https://midination.com/free-music-production-software/)
 - [Open Source Stash](https://opensourcestash.com)
 - [Open Sustainable Technology](https://opensustain.tech), [Github Source](https://github.com/protontypes/awesome-sustainable-technology)
+- [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) is the world’s biggest collection of disappearing sounds and sounds that have become extinct – remixed and reimagined to create a brand new form of listening.
 - [Our World in Data](https://ourworldindata.org) Research and data to make progress against the world's largest problems.
 - Paper Airplane Designs at [Fold-n-Fly](https://www.foldnfly.com/)
 - [Produpedia](https://produpedia.org) Lists of everything

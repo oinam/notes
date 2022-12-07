@@ -9,11 +9,9 @@
 - [TinyPilot](https://mtlynch.io/tinypilot/) Build a KVM Over IP.
 - [TorBox](https://www.torbox.ch) is an easy to use, anonymizing router based on a Raspberry Pi. TorBox creates a separate WiFi that routes the encrypted network data over the Tor network.
 - [Twister OS](https://twisteros.com/) is built on the official Raspbian Pi OS with themes designed to appear like operating systems they are themed after, but they are no operating systems by themselves.
-
-### References
-
 - [CutiePi Tablet](https://cutiepi.io)
 - [Internet Pi](https://github.com/geerlingguy/internet-pi) from Jeff Geerling.
 - [Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)
 - [Raspberry Pi PCIe Devices](https://pipci.jeffgeerling.com)
 - [Setup Static IP Address](https://pimylifeup.com/raspberry-pi-static-ip-address/)
+- [The Great Pi Zero Showdown](https://bret.dk/pi-zero-showdown/) ([archive](https://archive.ph/5bBBt))

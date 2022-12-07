@@ -18,7 +18,7 @@
 		* [Photopea](https://www.photopea.com)
 		* [Remove BG](https://www.remove.bg) removes Image Background.
 		* [TinyWoW](https://tinywow.com) All-in-One utility tools for your files.
-- Web, Domains, Email
+- Internet
 	+ [AdBlock Tester](https://adblock-tester.com)
 	+ [Archive.is](https://archive.is)
 	+ [blip](http://gfblip.appspot.com): a tool for seeing your Internet latency. [source](https://github.com/apenwarr/blip)
@@ -34,6 +34,11 @@
 	+ [NSLookup](https://www.nslookup.io)
 	+ [Pork Bun](https://porkbun.com) One of the cheapest Domain registrar
 	+ [QR Code Generator](https://qr-code-generator.org)
+	+ Speedtest
+		* [Fast](https://fast.com) by NetFlix
+		* [Speed](https://speed.cloudflare.com) by Cloudflare
+		* [Speedtest](https://www.speedtest.net) by Ookla
+		* [Test My Net](https://testmy.net/)
 	+ [Stein](https://steinhq.com) a freemium service to use Google Sheets as a back-end database.
 	+ [Tineye](https://tineye.com) Reverse Image Search
 	+ [Txtify](https://txtify.it) Convert web articles to plain text

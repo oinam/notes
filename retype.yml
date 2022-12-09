@@ -1,26 +1,27 @@
 input: .
 output: _site
 url: notes.oinam.com
+favicon: favicon.ico
 
 branding:
-  title: Oinam Notes
+  title: Notes
+  logo: oinam-logo.svg
+  logoDark: oinam-logo.svg
 
 links:
-- text: Home
-  link: /
-  icon: home
+  - text: Home
+    link: /
+    icon: home
+  - text: Source
+    link: https://github.com/oinam/notes
+    icon: mark-github
 
 footer:
   copyright: "An ever work-in-progress by [Oinam](https://oinam.com/)."
   links:
-    - text: Source
-      link: https://github.com/oinam/notes
+    - text: Oinam.com
+      link: https://oinam.com/
     - text: Privacy
       link: https://oinam.com/privacy
     - text: Contact
       link: https://oinam.com/contact
-
-# poweredByRetype: false
-
-# Icons
-# https://primer.style/octicons/

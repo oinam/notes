@@ -2,7 +2,7 @@
 
 > Own your content, use eveything else as tools.
 
-Physical devices should be entirely replaceable. We believe in [owning our data](/backup/local-first-software.pdf), in spite of the "Cloud". However, at-least one copy of every content lives somewhere online/backup where we can easily get it back when needed. The idea is to be able to __use any computer easily instead of one computer perfectly__.
+Physical devices should be entirely replaceable. We believe in owning our data, in spite of the "Cloud". However, at-least one copy of every content lives somewhere online/backup where we can easily get it back when needed. The idea is to be able to __use any computer easily instead of one computer perfectly__.
 
 Here are the assumptions so you can be able to maintain something like our setup or better;
 

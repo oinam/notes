@@ -1,3 +1,3 @@
 # Chess
 
-An old fund game.
+An old fun game.

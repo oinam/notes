@@ -1,6 +1,6 @@
 # Ten Lessons I Wish I Had Been Taught
 
-_By Gian-Carlo Rota at MIT, April 20 , 1996 on the occasion of the Rotafest. [source](https://www.ams.org/notices/199701/comm-rota.pdf) • [cached](/life/10-lessons-i-wish-i-had-been-taught.pdf) (pdf)_
+_By Gian-Carlo Rota at MIT, April 20 , 1996 on the occasion of the Rotafest. [source](https://www.ams.org/notices/199701/comm-rota.pdf) • [cached](/assets/pdf/10-lessons-i-wish-i-had-been-taught.pdf) (pdf)_
 
 The talk was delivered on the occasion of the Rotafest at MIT in April, 1996. However, this applies to life in general and holds key to some of the best lessons one can learn for a more meaningful life.
 

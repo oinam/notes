@@ -28,12 +28,7 @@ You can grow your wealth by;
 
 ## The Ladders of Wealth Creation
 
-<figure>
-  <img src="/life/the-leaders-of-wealth-creation.png" alt="The Ladders of Wealth Creation">
-  <figcaption>
-    The Ladders of Wealth Creation
-  </figcaption>
-</figure>
+![](/assets/img/the-leaders-of-wealth-creation.png "The Ladders of Wealth Creation")
 
 _Inspired by an article by Nathan Barry, [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/)._
 

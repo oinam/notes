@@ -22,3 +22,4 @@ Here are some of the key non-apple applications that we use regularly;
 
 - A curated directory of 700+ Mac [menu bar apps](https://macmenubar.com).
 - [Stats](https://github.com/exelban/stats) is a free and open source macOS system monitor in your menu bar.
+- [Sindre Sorhus](https://sindresorhus.com) is a one-guy wonder that builds some of the most well-designed macOS Apps (many free ones).

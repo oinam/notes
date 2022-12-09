@@ -1,5 +1,9 @@
 # Bookmarks
 
+- Search (Not Google) Primary selling point is privacy and data protection
+	- [You](https://you.com)
+	- [Neeva](https://neeva.com)
+	- [DuckDuckGo](https://duckduckgo.com)
 - Media (Photos / Videos)
 	+ [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) is a collection of links for free stock photography, video and Illustration websites.
 	+ Royalty-Free Photos
@@ -44,11 +48,6 @@
 	+ [Txtify](https://txtify.it) Convert web articles to plain text
 	+ [What is IP Geolocation?](https://www.geolocation.com)
 	+ [Who is my ISP](https://www.whoismyisp.org)
-	+ Domains
-		* [Domain Word Maker](http://www.bustaname.com/word_maker)
-		* [Lean Domain Search](https://leandomainsearch.com)
-		* [Park.io](https://park.io) Domain name backordering made simple.
-		* [TLD-Lists](https://tld-list.com) Compare Prices of All Top-Level Domains
 - Fun
 	+ [How I Experience Web Today](https://how-i-experience-web-today.com)
 	+ [America Road Trip Simulation](https://4m3ric4.com)
@@ -114,3 +113,4 @@ _I need to sort these_
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) from HackerNews.
 world’s most generous community of photographers.
 - [WinWorld Library](https://winworldpc.com/library/)
+- [Web Captioner](https://webcaptioner.com) makes your event, speech, classroom lecture, or church service accessible with real-time captioning. It is free and they rely on ongoing [donations](https://webcaptioner.com/donate) to keep things running.

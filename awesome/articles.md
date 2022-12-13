@@ -7,6 +7,7 @@
 - [Don't End The Week With Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing) ([archive](https://archive.ph/4LkFW)) is an interesting article by [Patrick McKenzie](https://www.kalzumeus.com) for the entrepreneurial mindset who wants meaning and outsized returns from their efforts. The idea is to work on things you can show, where people can see you, and to work on things you can own.
 - [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) by Sam Altman ([archive](https://archive.ph/CJCpG)).
 - [Paul Graham](http://www.paulgraham.com) ([Wikipedia](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)))
+	+ [Keep Your Identity Small](http://www.paulgraham.com/identity.html) ([archive](https://archive.ph/e6k2d)) If people can't think clearly about anything that has become part of their identity, then all other things being equal, the best plan is to let as few things into your identity as possible.
 	+ [Life is Short](http://paulgraham.com/vb.html) ([archive](https://archive.ph/ar3Gh)) inspires you to never to waste time on bullshit again.
 	+ [Maker's Schedule, Manager's Schedule](http://paulgraham.com/makersschedule.html) ([archive](https://archive.ph/YOVZk))
 - [Seeking Advice in Startups](https://nuances.substack.com/p/seeking-advice-in-startups) ([archive](https://archive.ph/76zAf)) is a simple article yet powerful advice. If you have the option or luxury of picking advisors, then find Expert Advisors with a reflective method.

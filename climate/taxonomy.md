@@ -11,7 +11,9 @@ In my effort to help fight Climate Change, I came across a lot of term and defin
 
 ## 0-9
 ## A
+- ABACUS from Amazon is a Verified Carbon Unit (VCU), which goes above and beyond [Verra](https://verra.org)’s methodology and will focus on ensuring additionality, leakage, and durability standards in the market. That group comprises Amazon research scientists and experts at the University of California Berkeley, The Nature Conservancy, and other organizations. The new carbon credit label will focus on two project types – agroforestry and reforestation. 
 ## B
+- Biomass Carbon Removal and Storage (BiCRS) is a process that removes CO₂ from the air through biomass and stores it.
 ## C
 ## D
 ## E
@@ -37,6 +39,9 @@ In my effort to help fight Climate Change, I came across a lot of term and defin
 ## T
 ## U
 ## V
+
+- [VEERA](https://verra.org/) sets the world’s leading standards for climate action and sustainable development.
+	- [The Sustainable Development Verified Impact Standard](https://verra.org/programs/sd-verified-impact-standard/) (SD VISta) facilitates large-scale investment in sustainable development.
 ## W
 ## X
 ## Y

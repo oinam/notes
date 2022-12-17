@@ -1,5 +1,7 @@
 # Wi-Fi
 
+> Once you get serious, pretty much, all consumer grade routers will piss you off eventually. Get a business grade router and get your wifi via access points.
+
 Wi-Fi makes you feel like living in the future, where Internet just works in the air. But if you happen to peel and look just underneath, it is one of the worst offender for your bad Internet. It gives no warning, and there is no easy way to know what the prolem is until it totally stops working. Time and again, a wired connection has always triumph over a wireless connection.
 
 Wi-Fi suffers from problems that are not trivial to solve;

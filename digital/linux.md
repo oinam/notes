@@ -4,11 +4,14 @@
 
 ## Common Operations
 
-LOTR Calendar
-`calendar -f /usr/share/calendar/calendar.lotr -A 365`
+Check DNS of local computer\
+`scutil --dns | grep 'nameserver\[[0-9]*\]'`
 
 Current OS Release version\
 `cat /etc/*release`
+
+Check a Domain
+`dscacheutil -q host -a name example.com`
 
 Change Hostname\
 https://phoenixnap.com/kb/ubuntu-20-04-change-hostname

@@ -1,116 +1,120 @@
 # Bookmarks
 
-- Search (Not Google) Primary selling point is privacy and data protection
-	- [You](https://you.com)
-	- [Neeva](https://neeva.com)
-	- [DuckDuckGo](https://duckduckgo.com)
-- Media (Photos / Videos)
-	+ [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) is a collection of links for free stock photography, video and Illustration websites.
-	+ Royalty-Free Photos
-		* [Image Finder](https://imagefinder.co)
-		* [Pexels](https://www.pexels.com)
-		* [Pixabay](https://pixabay.com)
-		* [Stock Snap](https://stocksnap.io)
-		* [The Stocks](http://thestocks.im)
-		* [Unsplash](https://unsplash.com)
-	+ Editors
-		* [Edit Photo](https://edit.photo)
-		* [I Love IMG](https://www.iloveimg.com) is a free online Photo Editor.
-		* [I Love PDF](https://www.ilovepdf.com) is a free PDF toolset.
-		* [Palette](https://palette.fm) AI-powered Photo Colorizer.
-		* [PDF24 Tools](https://www.pdf24.org) Free and easy-to-use online PDF tools.
-		* [Photopea](https://www.photopea.com)
-		* [Remove BG](https://www.remove.bg) removes Image Background.
-		* [TinyWoW](https://tinywow.com) All-in-One utility tools for your files.
-- Internet
-	+ [AdBlock Tester](https://adblock-tester.com)
-	+ [Archive.is](https://archive.is)
-	+ [blip](http://gfblip.appspot.com): a tool for seeing your Internet latency. [source](https://github.com/apenwarr/blip)
-	+ [Business Name Generator](https://namelix.com)
-	+ [DNSViz](https://dnsviz.net) is a tool for visualizing the status of a DNS zone.
-	+ [Free Dev Tools](https://freetools.dev)
-	+ [GCPing](https://gcping.com)
-	+ [CloudPing](https://www.cloudping.info)
-	+ [Hello Inbox](https://helloinbox.email) is an Email Deliverability Checklist & Toolkit
-	+ [I Know What You Downloaded](https://iknowwhatyoudownload.com/)
-	+ [Look Scanned](https://lookscanned.io) makes your PDFs look scanned!
-	+ [Nearly Free Speech](https://www.nearlyfreespeech.net)
-	+ [NSLookup](https://www.nslookup.io)
-	+ [Pork Bun](https://porkbun.com) One of the cheapest Domain registrar
-	+ [QR Code Generator](https://qr-code-generator.org)
-	+ Speedtest
-		* [Fast](https://fast.com) by NetFlix
-		* [Speed](https://speed.cloudflare.com) by Cloudflare
-		* [Speedtest](https://www.speedtest.net) by Ookla
-		* [Test My Net](https://testmy.net/)
-	+ [Stein](https://steinhq.com) a freemium service to use Google Sheets as a back-end database.
-	+ [Tineye](https://tineye.com) Reverse Image Search
-	+ [Txtify](https://txtify.it) Convert web articles to plain text
-	+ [What is IP Geolocation?](https://www.geolocation.com)
-	+ [Who is my ISP](https://www.whoismyisp.org)
-- Fun
-	+ [How I Experience Web Today](https://how-i-experience-web-today.com)
-	+ [America Road Trip Simulation](https://4m3ric4.com)
-
-_I need to sort these_
+## 0-9
 
 - [35mm](https://35mm.online/en) has thousands of classic Polish and other films.
-- [AlternativeTo](https://alternativeto.net)
-- [Open Source Database](https://ossdatabase.com)
-- [Open Source Alternative to](https://www.opensourcealternative.to)
+
+## A
+
+- [A Visual Guide to Simple, Compound and Continuous Interest Rates](https://betterexplained.com/articles/a-visual-guide-to-simple-compound-and-continuous-interest-rates/)
 - [ACM Digital Library](https://dl.acm.org) opened more than 117,500 articles published between 1951 and the end of 2000.
-- [Atlas Obscura](https://www.atlasobscura.com/) The definitive guide to the world’s hidden wonders.
-- [Awesome CTO](https://github.com/kuchin/awesome-cto) is a curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups.
+- [AdBlock Tester](https://adblock-tester.com)
+- [America Road Trip Simulation](https://4m3ric4.com)
+- [Awesome CTO](https://github.com/kuchin/awesome-cto) resources for Startup CTOs.
 - [Awesome Github Actions](https://github.com/sdras/awesome-actions)
 - [Awesome List](https://github.com/sindresorhus/awesome) about all kinds of interesting topics.
 - [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps)
-- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) is a list of topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses.
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
+## B
+
 - [BBC Micro Games Archive](http://bbcmicro.co.uk) ([Source](https://github.com/pau1ie/bbcmicro.co.uk) at Github)
 - [BBC Sound Effects](http://bbcsfx.acropolis.org.uk) are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence. The Sound Effects are BBC copyright, but they may be used for personal, educational or research purposes, as detailed in the license.
-- [Behavioral Scientist](https://behavioralscientist.org)
 - [Better Explained](https://betterexplained.com) - Learn to understand math, not memorize it.
-	- [A Visual Guide to Simple, Compound and Continuous Interest Rates](https://betterexplained.com/articles/a-visual-guide-to-simple-compound-and-continuous-interest-rates/)
-	- [Brevity Is Beautiful](https://betterexplained.com/articles/brevity-is-beautiful/)
-	- [Combining Simplicity and Complexity](https://betterexplained.com/articles/combining-simplicity-and-complexity/)
-	- [Surviving (and thriving) on your own: Know Thyself](https://betterexplained.com/articles/surviving-and-thriving-on-your-own-know-thyself/)
-	- [Understanding Debt, Risk and Leverage](https://betterexplained.com/articles/understanding-debt-risk-and-leverage/)
-	- [Understanding the Pareto Principle](https://betterexplained.com/articles/understanding-the-pareto-principle-the-8020-rule/) (The 80/20 Rule)
-	- [The Rule of 72](https://betterexplained.com/articles/the-rule-of-72/)
+- [blip](http://gfblip.appspot.com): a tool for seeing your Internet latency. [source](https://github.com/apenwarr/blip)
+- [Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) is a collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 - [Book Search](https://books-search.typesense.org) over 28+ Million Books from [Open Library](https://openlibrary.org).
 - [Books - Programming](https://ebookfoundation.github.io/free-programming-books/) ([Source](https://github.com/EbookFoundation/free-programming-books))
-- [CC Hound](https://cchound.com) 100% free, quality CC audio.
-- [Climate Desk](http://theclimatedesk.org) is a journalistic collaboration dedicated to exploring the impact — human, enviornmental, economic, political — of a changing climate.
+- [Brevity Is Beautiful](https://betterexplained.com/articles/brevity-is-beautiful/)
+
+## C
+
 - [Collosal](https://www.thisiscolossal.com) is an international platform for contemporary art and visual expression that explores a vast range of creative disciplines.
+- [Combining Simplicity and Complexity](https://betterexplained.com/articles/combining-simplicity-and-complexity/)
+
+## D
+
 - [Datasette](https://datasette.io) is an open source multi-tool for exploring and publishing data.
-- [Epidemic Sound](https://www.epidemicsound.com)
+- [DNSViz](https://dnsviz.net) is a tool for visualizing the status of a DNS zone.
+
+## E
+## F
+
+- [Fold-n-Fly](https://www.foldnfly.com/) Paper Airplane Designs
+- [Free Dev Tools](https://freetools.dev)
 - [Free Software and Self-Hosted Web Apps](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- [Hacker News](https://news.ycombinator.com/)
-- [Head](https://htmlhead.dev) A free guide to HTML5 `<head>` elements
+
+## G
+## H
+
+- [Hello Inbox](https://helloinbox.email) is an Email Deliverability Checklist & Toolkit
 - [History of the Web](https://thehistoryoftheweb.com), [Timeline View](https://thehistoryoftheweb.com/timeline/)
+- [How I Experience Web Today](https://how-i-experience-web-today.com)
+
+## I
+
+- [I Know What You Downloaded](https://iknowwhatyoudownload.com/)
 - [ICANN DOMAINS](https://publicsuffix.org/list/public_suffix_list.dat)
-- [Map of the Universe](https://mapoftheuniverse.net) charts a broad expanse of the universe, from the Milky Way to 'the edge of what can be seen'.
+
+## J
+## K
+## L
+
+- [Look Scanned](https://lookscanned.io) makes your PDFs look scanned!
+
+## M
+
 - [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games) (Internet Archive)
+
+## N
+
 - [Nautilus](http://nautil.us) tells you about science and its endless connections to our lives.
+- [Nearly Free Speech](https://www.nearlyfreespeech.net) is about three things: fairness, innovation, and free speech.
+- [NSLookup](https://www.nslookup.io)
+
+## O
+
+- [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) is the world’s biggest collection of disappearing sounds and sounds that have become extinct – remixed and reimagined to create a brand new form of listening.
 - [Open Culture](http://www.openculture.com) The best free cultural & educational media on the web.
-- [Open Source Alternative To](https://www.opensourcealternative.to)
 - [Open Source Music Production Tools](https://midination.com/free-music-production-software/)
 - [Open Source Stash](https://opensourcestash.com)
 - [Open Sustainable Technology](https://opensustain.tech), [Github Source](https://github.com/protontypes/awesome-sustainable-technology)
-- [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) is the world’s biggest collection of disappearing sounds and sounds that have become extinct – remixed and reimagined to create a brand new form of listening.
 - [Our World in Data](https://ourworldindata.org) Research and data to make progress against the world's largest problems.
-- Paper Airplane Designs at [Fold-n-Fly](https://www.foldnfly.com/)
-- [Produpedia](https://produpedia.org) Lists of everything
-- [Purism](https://puri.sm) is a company dedicated to digital freedom, privacy, and security.
+
+## P
+## Q
+
+- [QR Code Generator](https://qr-code-generator.org)
+
+## R
+
 - [Radio Garden](http://radio.garden) invites you to tune into thousands of live radio stations across the globe.
-- [Sci-Hub](https://sci-hub.st) provide mass and public access to tens of millions of research papers.
-- [Science X](https://sciencex.com/) is a leading web-based science, research and technology news service which covers a full range of topics -- physics, earth science, medicine, nanotechnology, electronics, space, biology, chemistry, computer sciences, engineering, mathematics and other sciences and technologies.
-- [Software Library](https://archive.org/details/softwarelibrary) (Internet Archive)
+
+## S
+
 - [Smithsonian Open Access](https://www.si.edu/openaccess) download, share, and reuse millions of the Smithsonian’s images, without asking.
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) is a collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
-- [The Daily Idea](https://thedailyidea.org/) aims to make learning about philosophy as easy as possible by bringing together the best philosophy resources from across the internet.
+- [Software Library](https://archive.org/details/softwarelibrary) (Internet Archive)
+- Speedtest: [Fast](https://fast.com), [Speed](https://speed.cloudflare.com), [Speedtest](https://www.speedtest.net), [Test My Net](https://testmy.net/)
+- [Surviving (and thriving) on your own: Know Thyself](https://betterexplained.com/articles/surviving-and-thriving-on-your-own-know-thyself/)
+
+## T
+
 - [The Pudding](https://pudding.cool) is a digital publication that explains ideas debated in culture with visual essays.
-- [This X Does Not Exist](https://thisxdoesnotexist.com)
-- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) from HackerNews.
-world’s most generous community of photographers.
+- [The Rule of 72](https://betterexplained.com/articles/the-rule-of-72/)
+- [Tineye](https://tineye.com) Reverse Image Search
+- [Txtify](https://txtify.it) Convert web articles to plain text
+
+## U
+
+- [Understanding Debt, Risk and Leverage](https://betterexplained.com/articles/understanding-debt-risk-and-leverage/)
+- [Understanding the Pareto Principle](https://betterexplained.com/articles/understanding-the-pareto-principle-the-8020-rule/) (The 80/20 Rule)
+
+## V
+## W
+
+- [Who is my ISP](https://www.whoismyisp.org)
 - [WinWorld Library](https://winworldpc.com/library/)
-- [Web Captioner](https://webcaptioner.com) makes your event, speech, classroom lecture, or church service accessible with real-time captioning. It is free and they rely on ongoing [donations](https://webcaptioner.com/donate) to keep things running.
+
+## X
+## Y
+## Z

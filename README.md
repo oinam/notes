@@ -4,7 +4,7 @@ An ever work-in-progress of _tit-bits, wiki-ish, data, learnings, and observatio
 
 ---
 
-#### References
+#### Inspiration & References
 
 - [Digital Gardening Tools and Resources](https://github.com/MaggieAppleton/digital-gardeners)
 - [Andyʼs Working Notes](https://notes.andymatuschak.org/)

@@ -1,16 +1,16 @@
 # How to Lead a Happy Life
 
-A nice article[1] by Michael Plant, a PhD student, specializing on the nature and causes of happiness at the University of Oxford's Philosophy Department.
+[An interview](https://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant) ([archive](https://archive.ph/PU8kA)) with Michael Plant, a PhD student, specializing on the nature and causes of happiness at the University of Oxford's Philosophy Department.
 
 > If you look at what people actually do to be happier, it seems nearly everyone tries to change the external facts: we try to become richer, thinner, more successful, to find a better house in a nicer area, and so on. A few of us think about trying to spend less time working, and more time on hobbies or with friends and family. Almost no one thinks about actively retraining the way they think. In fact, I don’t think this last idea even crosses most of our minds.
 
 If we want to be happier, I think the first place to start is looking at the available options and then working out which to pursue. The way I see it, there are only three avenues to take.
 
-1. We can change how we think
-2. how we spend our time
+1. We can change how we think.
+2. how we spend our time.
 3. or the external facts of our life.
 
-## Top practical suggestions are:
+## Top practical suggestions;
 
 1. Write down three things you’re grateful for each day.
 2. Practise mindfulness.
@@ -19,7 +19,9 @@ If we want to be happier, I think the first place to start is looking at the ava
 
 These are the things I think everyone could and should do if they want to be happier. They do require a bit of effort – you have to put some work into your habits – but they’re free and will likely have a bigger effort than almost any external changes. 
 
-## [Hedonic Adaptation](https://en.wikipedia.org/wiki/Hedonic_treadmill)
+## Hedonic Adaptation
+
+> [Hedonic Adaptation](https://en.wikipedia.org/wiki/Hedonic_treadmill) is the observed tendency of humans to quickly return to a relatively stable level of happiness despite major positive or negative events or life changes. According to this theory, as a person makes more money, expectations and desires rise in tandem, which results in no permanent gain in happiness. The hedonic treadmill viewpoint suggests that wealth does not increase the level of happiness.
 
 As a species, we are extraordinary good at getting used to things, such that very few events in life have a long-term impact on our happiness: births, marriages, deaths, promotions, demotions, etc can all occur to us or around us and typically, after 6 months, our self-reported happiness levels will be back where there were before. If you don’t believe me, think how annoyed you get when the WiFi doesn’t work, then consider that humanity existed quite happily without it for hundreds of thousands of years.
 
@@ -39,7 +41,7 @@ We seem happiest when we’re socialising with other people, outside or doing so
 
 Happy people are more likely to get married, get promoted, earn more, have more friends, be healthier, live longer, etc. The basic explanation is that we like being around happy people, and this small difference has a long-term advantage. So, if you want to become richer, become happier. I stress being richer won’t do much for your happiness but it does mean, if you’re a high-flying executive and you think your colleagues will make fun of you for practising mindfulness and writing down three things each day you’re grateful, you could always tell them you’re just doing it to make more money. 
 
-## There are different kinds of happiness
+## There kinds of happiness
 
 There are two main senses of happiness: we use the word as an evaluative term to describe what makes someone’s life go well for them, or as a descriptive term to refer to a set of psychological states. For the first sense, philosophers tend to use the word ‘wellbeing’ – it’s equivalent to flourishing or ‘eudaimonia’, sometimes called prudential value. The second sense describes things that are more like enjoyment or contentment – and the opposite of suffering and pain. In other words, we can use ‘happiness’ either to talk about the meaning of life or about some sort of pleasant feeling. Following philosophical convention, when I talk about ‘happiness’ I’m only referring to psychological states, not wellbeing. 
 
@@ -53,11 +55,13 @@ Interestingly, time spent with children is pretty neutral, time watching TV is f
 
 I take being happy as just being in a mental state that feels good to the person feeling it (which may be a combination of pleasure and meaning). Contentment is a happy and relaxed state, and so you might see it as the opposite of elation, which is a happy and excited state. One is aroused, the other unaroused, but they are both types of happiness because both feel good.
 
-_The topic was also discussed at HackerNews[2] on Jul 3, 2020._
+_The topic was also discussed at [HackerNews on Jul 3, 2020](https://news.ycombinator.com/item?id=23700043)._
 
 ## Key points from the Hackernews discussion
 
-Insight meditation, which focuses on noticing thoughts and feelings without action or reaction. Part of the wisdom of meditation lies in the following: There is baggage we all carry, the self, this belief we're the center of it all, the author of (and subservient to) our own thoughts. How do I stop doing what makes me unhappy, if that's "who I am"? But, in reality, I can abandon "who I am" and find new processes of living and new ways of thinking about the world.
+https://news.ycombinator.com/item?id=23715297
+
+Insight meditation, which focuses on noticing thoughts and feelings without action or reaction. Part of the wisdom of meditation lies in the following: There is baggage we all carry, the self, this belief we're the center of it all. How do I stop doing what makes me unhappy, if that's "who I am"? But, in reality, I can abandon "who I am" and find new processes of living and new ways of thinking about the world.
 
 In practice, this resetting of your mind is achieved without training by various psychdelic drugs, which peel back the layers of the onion in an effortless fashion. In meditation, you train your mind to actually pay close attention, eventually achieving an effortless open-ness that drugs achieve very simply. Once you're good at following your breath, you can turn to thoughts and feelings, recognizing them as mere arisings in consciousness.
 
@@ -65,13 +69,8 @@ Mere arisings in the mind do not require response: there's no need to act upon o
 
 Negative thoughts may become crystallized into negative actions. However, if you know what behaviors of your own contribute to unhappiness, you can always pause for 10-15 seconds, meditate briefly, drawing upon your training of the brain's meditative ability, and you will notice the actual feeling of the urge to behave, and not act upon it. It will disappear like very other appearance in consciousness.
 
-Some overlap with Stoicism here. From the Enchiridion of Epictetus:
+Some overlap with Stoicism here. From the [Enchiridion of Epictetus](https://en.wikipedia.org/wiki/Enchiridion_of_Epictetus):
 
 Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions.
 
 The things in our control are by nature free, unrestrained, unhindered; but those not in our control are weak, slavish, restrained, belonging to others. Remember, then, that if you suppose that things which are slavish by nature are also free, and that what belongs to others is your own, then you will be hindered. You will lament, you will be disturbed, and you will find fault both with gods and men. But if you suppose that only to be your own which is your own, and what belongs to others such as it really is, then no one will ever compel you or restrain you. Further, you will find fault with no one or accuse no one. You will do nothing against your will. No one will hurt you, you will have no enemies, and you not be harmed.
-
-#### Footnotes
-
-1. [What practical tips would you offer for how to live a happy life? ](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
-2. https://news.ycombinator.com/item?id=23700043

@@ -60,6 +60,7 @@
 ## K
 ## L
 
+- [LinkChecker](https://linkchecker.github.io/linkchecker/) is a free, GPL licensed website validator. LinkChecker checks links in web documents or full websites. It runs on Python 3 systems, requiring Python 3.7 or later. ([Source](https://github.com/linkchecker/linkchecker))
 - [Look Scanned](https://lookscanned.io) makes your PDFs look scanned!
 
 ## M

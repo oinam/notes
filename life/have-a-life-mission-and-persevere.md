@@ -4,12 +4,14 @@ I chuckled at a very [truthful comment](https://news.ycombinator.com/item?id=239
 
 > It's rarely said that marriage, kids, job, degree, a house, car, and most physical things are not missions. And in fact, most of these things -- unless accompanied by a "why am i doing this" and attendant missions/goals do not lead to happiness.
 
-- Marriage without goals = divorce
-- Kids without mission = abandonment
-- Money without a plan = poverty
-- Degree without a plan = debt/sadness
-- Relationship without a mission = break up
-- Programming without a mission = abandoned code
+| Action                         | Result         |
+| ------------------------------ | -------------- |
+| Marriage without goals         | Divorce        |
+| Kids without mission           | Abandonment    |
+| Money without a plan           | Poverty        |
+| Degree without a plan          | Debt/Sadness   |
+| Relationship without a mission | Break Up       |
+| Programming without a mission  | Abandoned Code |
 
 This all started with a well articulated article, [Perseverance Toward Life Goals Can Fend Off Depression, Anxiety, Panic Disorders](https://www.apa.org/news/press/releases/2019/05/goals-perseverance).
 

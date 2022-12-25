@@ -1,6 +1,6 @@
 input: ./
 output: _site
-url: https://notes.oinam.com
+url: notes.oinam.com
 favicon: favicon.ico
 
 branding:

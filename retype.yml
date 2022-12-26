@@ -3,9 +3,6 @@ output: _site
 url: notes.oinam.com
 favicon: favicon.ico
 
-cache:
-  strategy: path
-
 branding:
   title: Notes
   logo: /oinam-logo-light-on-dark.svg

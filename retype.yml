@@ -1,7 +1,10 @@
-input: ./
+input: .
 output: _site
 url: notes.oinam.com
 favicon: favicon.ico
+
+cache:
+  strategy: path
 
 branding:
   title: Notes

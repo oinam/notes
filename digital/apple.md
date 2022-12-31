@@ -16,7 +16,7 @@ Here are some of the key non-apple applications that we use regularly;
 - [Grammarly](https://app.grammarly.com) + [Hemingway App](http://www.hemingwayapp.com) + [iA Writer](https://ia.net/writer) for a simpler, cleaner, and clearer writing. [Language Tool](https://languagetool.org) is decent Grammarly alternative (testing).
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/) to look at what the computer is connecting to. [Lulu](https://objective-see.com/products/lulu.html) from [Objective-See](https://objective-see.org/) is a free, open-source alternative firewall that aims to block unknown outgoing connections.
 - [Obsidian](https://obsidian.md) is a powerful knowledge base on top of a local folder of plain text Markdown files.
-- [Rectangle](https://rectangleapp.com) for windows management and positioning. This is a simple but fantastic tool, that you will also love the [Rectangle Pro](https://rectangleapp.com/pro) version.
+- [Rectangle](https://rectangleapp.com) for windows management and positioning. This is a simple but fantastic tool. If you are looking for a few more features and customization will also like the paid [Rectangle Pro](https://rectangleapp.com/pro) version.
 
 #### References
 

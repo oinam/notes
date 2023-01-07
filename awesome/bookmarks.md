@@ -44,6 +44,8 @@
 	- [Smithsonian Open Access](https://www.si.edu/openaccess) download, share, and reuse millions of the Smithsonian’s images, without asking.
 - Security & Privacy
 	- [Simple Opt Out](https://simpleoptout.com) ([source](https://github.com/troy/simpleoptout)) Opt out of all the data sharing you wouldn't opt in to. This is very USA-Specific but, well, almost all of Internet tools that we use are USA-ed.
+	- [AmIUnique](https://www.amiunique.org) Learn how identifiable you are on the Internet.
+	- [Cover Your Tracks](https://coveryourtracks.eff.org) See how trackers view your browser.
 - Sort ’EM
 	- [America Road Trip Simulation](https://4m3ric4.com)
 	- [Awesome CTO](https://github.com/kuchin/awesome-cto) resources for Startup CTOs.

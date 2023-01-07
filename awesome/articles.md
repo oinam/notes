@@ -1,7 +1,5 @@
 # Articles
 
-> Articles, writings found on the Web that are worth a thorough reading and re-reads.
-
 - [1,000 True Fans](https://kk.org/thetechnium/1000-true-fans/) ([archive](https://archive.ph/2Exr6)) concept will be useful to anyone making things, or making things happen.
 - [Becoming a Magician](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/) ([archive](https://archive.ph/UzJfb)) on how to become a person that your current self would perceive as magical.
 - [Betting on Things That Never Change](https://collabfund.com/blog/betting-on-things-that-never-change/) by Morgan Housel ([archive](https://archive.ph/rDuMr)). In the last 100 years we've gone from horses to jets and mailing letters to video facetime. You can make big, long-term bets on these things that never things, because there's no chance people will stop caring about them in the future. But every sustainable business is accompanied by one of a handful of timeless strategies — read on.

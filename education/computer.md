@@ -13,7 +13,7 @@
 ## Intermediate to Advanced
 
 - [Open Syllabus](https://opensyllabus.org/result/field?id=Computer+Science)
-- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) ([Backup Link](https://oinam.github.io/CS-curriculum/)) ([Original Source](https://github.com/functionalCS/curriculum), [Backup Fork](https://github.com/oinam/CS-curriculum))
+- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) ([Archive](https://archive.ph/cp90z)) [Source](https://github.com/functionalCS/curriculum)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
 - [Roadmap to becoming a Web Developer](https://roadmap.sh) ([Source](https://github.com/kamranahmedse/developer-roadmap))
 - [Computer Science, Harvard](https://cs50.harvard.edu/)

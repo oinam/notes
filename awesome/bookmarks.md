@@ -14,12 +14,20 @@
 	- [Books - Programming](https://ebookfoundation.github.io/free-programming-books/) ([Source](https://github.com/EbookFoundation/free-programming-books))
 - Entertainment (Movies, TV)
 	- [35mm](https://35mm.online/en) has thousands of classic Polish and other films.
+	- [Netflix-Codes](https://www.netflix-codes.com)
 	- [Radio Garden](http://radio.garden) invites you to tune into thousands of live radio stations across the globe.
-- Internet
+- Data
+	- [Smithsonian Open Access](https://www.si.edu/openaccess) download, share, and reuse millions of the Smithsonian’s images, without asking.
+- Security & Privacy
+	- [Simple Opt Out](https://simpleoptout.com) ([source](https://github.com/troy/simpleoptout)) Opt out of all the data sharing you wouldn't opt in to. This is very USA-Specific but, well, almost all of Internet tools that we use are USA-ed.
+	- [AmIUnique](https://www.amiunique.org) Learn how identifiable you are on the Internet.
+	- [Cover Your Tracks](https://coveryourtracks.eff.org) See how trackers view your browser.
+- Tools
 	- [AdBlock Tester](https://adblock-tester.com)
 	- [BBC Sound Effects](http://bbcsfx.acropolis.org.uk) are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence. The Sound Effects are BBC copyright, but they may be used for personal, educational or research purposes, as detailed in the license.
 	- [blip](http://gfblip.appspot.com): a tool for seeing your Internet latency. [source](https://github.com/apenwarr/blip)
 	- [DNSViz](https://dnsviz.net) is a tool for visualizing the status of a DNS zone.
+	- [DocSend2PDF](https://docsend2pdf.com/)
 	- [How I Experience Web Today](https://how-i-experience-web-today.com)
 	- [I Know What You Downloaded](https://iknowwhatyoudownload.com/)
 	- [ICANN DOMAINS](https://publicsuffix.org/list/public_suffix_list.dat)
@@ -27,6 +35,7 @@
 	- [Look Scanned](https://lookscanned.io) makes your PDFs look scanned!
 	- [Nearly Free Speech](https://www.nearlyfreespeech.net) is about three things: fairness, innovation, and free speech.
 	- [NSLookup](https://www.nslookup.io)
+	- [Online PDF Editor](https://www.sejda.com/pdf-editor) from Sedja is a free and private PDF editor.
 	- [Open Culture](http://www.openculture.com) The best free cultural & educational media on the web.
 	- [Open Source Music Production Tools](https://midination.com/free-music-production-software/)
 	- [Open Source Stash](https://opensourcestash.com)
@@ -39,15 +48,15 @@
 		- [Test My Net](https://testmy.net/)
 	- [Tineye](https://tineye.com) Reverse Image Search
 	- [Txtify](https://txtify.it) Convert web articles to plain text
+	- [USB-C](https://usbc.wtf) tries to help you find the right USB-C for you or you can just browse and learn more.
 	- [Who is my ISP](https://www.whoismyisp.org)
-- Data
-	- [Smithsonian Open Access](https://www.si.edu/openaccess) download, share, and reuse millions of the Smithsonian’s images, without asking.
-- Security & Privacy
-	- [Simple Opt Out](https://simpleoptout.com) ([source](https://github.com/troy/simpleoptout)) Opt out of all the data sharing you wouldn't opt in to. This is very USA-Specific but, well, almost all of Internet tools that we use are USA-ed.
-	- [AmIUnique](https://www.amiunique.org) Learn how identifiable you are on the Internet.
-	- [Cover Your Tracks](https://coveryourtracks.eff.org) See how trackers view your browser.
-- Sort ’EM
+- Fun, Lab & Experiments
 	- [America Road Trip Simulation](https://4m3ric4.com)
+	- [How Stuff Works](https://www.howstuffworks.com)
+	- [Printable Puzzle Project](https://www.puzzlehub.org) A curated collection of designer mechanical puzzles, rendered in precisely tuned, fully tested models for 3D printing.
+	- [Tomu](https://tomu.im) is a family of devices which fit inside your USB port. The Tomu family are a group of tiny boards designed to fit inside your USB port. All of the Tomu family have both open source firmware and open source hardware.
+- Sort ’EM
+	- [2050.Earth](https://2050.earth/) is a site about the future as seen through the eyes of futurologists, scientists, and Internet users from all corners of the globe.
 	- [Awesome CTO](https://github.com/kuchin/awesome-cto) resources for Startup CTOs.
 	- [Awesome Github Actions](https://github.com/sdras/awesome-actions)
 	- [Awesome List](https://github.com/sindresorhus/awesome) about all kinds of interesting topics.

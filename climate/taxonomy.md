@@ -41,6 +41,12 @@ In my effort to help fight Climate Change, I came across a lot of term and defin
 ## Q
 ## R
 ## S
+
+- Scopes (Emissions) are standards set by the [Greenhouse Gas Protocol](https://ghgprotocol.org).
+	- __Scope 1__ refers to the direct emissions from company activities - this may include fuel combustion, industrial process emissions, fugitive emissions, agriculture and other direct emissions from within company boundaries.
+	- __Scope 2__ captures all of the indirect emissions a company creates, from the energy purchased used for heating, cooling, and general electricity
+	- __Scope 3__ emissions are the most complex of the categories – it involves measuring a company’s indirect upstream and downstream emissions
+
 ## T
 ## U
 ## V

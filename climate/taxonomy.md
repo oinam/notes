@@ -51,8 +51,13 @@ In my effort to help fight Climate Change, I came across a lot of term and defin
 ## U
 ## V
 
-- [VEERA](https://verra.org/) sets the world’s leading standards for climate action and sustainable development.
-	- [The Sustainable Development Verified Impact Standard](https://verra.org/programs/sd-verified-impact-standard/) (SD VISta) facilitates large-scale investment in sustainable development.
+- Verification for Carbon Market Credits
+	- [VEERA](https://verra.org/) sets the world’s leading standards for climate action and sustainable development.
+	- Plan Vivo
+	- The Gold Standard
+	- The American Carbon Registry
+	- Climate Action Reserve
+	- The Verified Carbon Standard Program
 
 ## W
 ## X

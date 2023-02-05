@@ -58,6 +58,10 @@ defaults write -g PMPrintingExpandedStateForPrint2 -bool true
 Quit Printer App After Print Jobs Complete
 `defaults write com.apple.print.PrintingPrefs "Quit When Finished" -bool true`
 
+#### Screenshots
+
+`defaults write com.apple.screencapture location <custom-folder-location>`
+
 ---
 #### Block Sites
 

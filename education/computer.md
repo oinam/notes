@@ -17,6 +17,7 @@
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
 - [Roadmap to becoming a Web Developer](https://roadmap.sh) ([Source](https://github.com/kamranahmedse/developer-roadmap))
 - [Computer Science, Harvard](https://cs50.harvard.edu/)
+- Free [Computer Science Curriculum](https://academy.cs.cmu.edu), Carnegie Mellon University
 
 ## Python
 

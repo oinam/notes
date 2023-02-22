@@ -8,6 +8,7 @@
 	- [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) is the world’s biggest collection of disappearing sounds and sounds that have become extinct – remixed and reimagined to create a brand new form of listening.
 	- [Software Library](https://archive.org/details/softwarelibrary) (Internet Archive)
 	- [BBC Micro Games Archive](http://bbcmicro.co.uk) ([Source](https://github.com/pau1ie/bbcmicro.co.uk) at Github)
+	- [Web Design Museum](https://www.webdesignmuseum.org) Discover Forgotten Trends in Web Design.
 - Books
 	- [Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) is a collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 	- [Book Search](https://books-search.typesense.org) over 28+ Million Books from [Open Library](https://openlibrary.org).
@@ -22,9 +23,11 @@
 	- [Simple Opt Out](https://simpleoptout.com) ([source](https://github.com/troy/simpleoptout)) Opt out of all the data sharing you wouldn't opt in to. This is very USA-Specific but, well, almost all of Internet tools that we use are USA-ed.
 	- [AmIUnique](https://www.amiunique.org) Learn how identifiable you are on the Internet.
 	- [Cover Your Tracks](https://coveryourtracks.eff.org) See how trackers view your browser.
+	- [Email Marketing Regulations](https://github.com/threeheartsdigital/email-marketing-regulations) around the world.
 - Tools
 	- [AdBlock Tester](https://adblock-tester.com)
 	- [BBC Sound Effects](http://bbcsfx.acropolis.org.uk) are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence. The Sound Effects are BBC copyright, but they may be used for personal, educational or research purposes, as detailed in the license.
+	- [CyberChef](https://cyberchef.org) - The Cyber Swiss Army Knife.
 	- [blip](http://gfblip.appspot.com): a tool for seeing your Internet latency. [source](https://github.com/apenwarr/blip)
 	- [DNSViz](https://dnsviz.net) is a tool for visualizing the status of a DNS zone.
 	- [DocSend2PDF](https://docsend2pdf.com/)
@@ -40,6 +43,7 @@
 	- [Open Source Music Production Tools](https://midination.com/free-music-production-software/)
 	- [Open Source Stash](https://opensourcestash.com)
 	- [Open Sustainable Technology](https://opensustain.tech), [Github Source](https://github.com/protontypes/awesome-sustainable-technology)
+	- [PDFUX](https://pdfux.com) Powerful and easy to use PDF tools.
 	- [QR Code Generator](https://qr-code-generator.org)
 	- Speedtest
 		- [Fast](https://fast.com)
@@ -55,6 +59,7 @@
 	- [How Stuff Works](https://www.howstuffworks.com)
 	- [Printable Puzzle Project](https://www.puzzlehub.org) A curated collection of designer mechanical puzzles, rendered in precisely tuned, fully tested models for 3D printing.
 	- [Tomu](https://tomu.im) is a family of devices which fit inside your USB port. The Tomu family are a group of tiny boards designed to fit inside your USB port. All of the Tomu family have both open source firmware and open source hardware.
+	- [Satellite Tracker](https://satellitetracker3d.com) in 3D
 - Sort ’EM
 	- [2050.Earth](https://2050.earth/) is a site about the future as seen through the eyes of futurologists, scientists, and Internet users from all corners of the globe.
 	- [Awesome CTO](https://github.com/kuchin/awesome-cto) resources for Startup CTOs.

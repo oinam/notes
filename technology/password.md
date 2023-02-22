@@ -44,3 +44,4 @@ Let’s hope that the new world of passwordless login will make some steps forwa
 
 - [Practical Recommendations for Stronger, More Usable Passwords Combining Minimum-strength, Minimum-length, and Blocklist Requirements](http://www.andrew.cmu.edu/user/nicolasc/publications/Tan-CCS20.pdf) (pdf)
 - [NIST Password Guidelines](https://www.auditboard.com/blog/nist-password-guidelines/) is a password that meets the regulations set out by the National Institution for Standards in Technology’s Digital Identity Guidelines.
+- [Dumb Password Rules](https://dumbpasswordrules.com) has a list of websites with, well, dumb password rules.

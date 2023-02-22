@@ -17,6 +17,10 @@ In my effort to help fight Climate Change, I came across a lot of term and defin
 
 - Biomass Carbon Removal and Storage (BiCRS) is a process that removes CO₂ from the air through biomass and stores it.
 ## C
+
+- [CORSIA](https://www.icao.int/environmental-protection/CORSIA/pages/default.aspx) is the first global market-based measure for any sector and represents a cooperative approach that moves away from a “patchwork” of national or regional regulatory initiatives. It offers a harmonized way to reduce emissions from international aviation, minimizing market distortion, while respecting the special circumstances and respective capabilities of ICAO Member States.
+- 
+
 ## D
 ## E
 ## F
@@ -35,6 +39,7 @@ In my effort to help fight Climate Change, I came across a lot of term and defin
 ## N
 
 - NBS or Nature-Based Solutions are actions to protect, sustainably manage, and restore natural and modified ecosystems that address societal challenges effectively and adaptively, simultaneously benefiting people and nature.
+- Net-Zero aka [Carbon Neutrality](https://en.wikipedia.org/wiki/Carbon_neutrality) - cutting greenhouse gas emissions to as close to zero as possible with any remaining emissions re-absorbed from the atmosphere, by oceans and forests for instance. The global temperature increase needs to be limited to 1.5°C above pre-industrial levels. To keep global warming to no more than 1.5°C, emissions need to be reduced by 45% by 2030 and reach net zero by 2050.
 
 ## O
 ## P

@@ -70,6 +70,12 @@ Quit Printer App After Print Jobs Complete
 Add `0.0.0.0 siteToBlock.com`\
 Save > Exit (CTRL + x > y)
 
+#### Misc
+
+Bitcoin Whitepaper in macOS
+
+`open /System/Library/Image\ Capture/Devices/VirtualScanner.app/Contents/Resources/simpledoc.pdf`
+
 ---
 #### References
 

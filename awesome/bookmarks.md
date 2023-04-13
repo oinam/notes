@@ -2,6 +2,7 @@
 
 - Archives
 	- [ACM Digital Library](https://dl.acm.org) opened more than 117,500 articles published between 1951 and the end of 2000.
+	- [DPLA](https://dp.la) (Digital Public Library of America) has over 45+ millions of images, texts, videos, and sounds from across the United States.
 	- [History of the Web](https://thehistoryoftheweb.com), [Timeline View](https://thehistoryoftheweb.com/timeline/)
 	- [WinWorld Library](https://winworldpc.com/library/)
 	- [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games) (Internet Archive)
@@ -45,6 +46,10 @@
 	- [Open Sustainable Technology](https://opensustain.tech), [Github Source](https://github.com/protontypes/awesome-sustainable-technology)
 	- [PDFUX](https://pdfux.com) Powerful and easy to use PDF tools.
 	- [QR Code Generator](https://qr-code-generator.org)
+	- Safety
+		- [URLScan](https://urlscan.io)
+		- [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/overview)
+		- [VirusTotal](https://www.virustotal.com) Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches.
 	- Speedtest
 		- [Fast](https://fast.com)
 		- [Speed](https://speed.cloudflare.com)

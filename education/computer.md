@@ -19,6 +19,10 @@
 - [Computer Science, Harvard](https://cs50.harvard.edu/)
 - Free [Computer Science Curriculum](https://academy.cs.cmu.edu), Carnegie Mellon University
 
+## Javascript
+
+- [A book that teaches JavaScript](https://javascript.sumankunwar.com.np) ([source](https://github.com/sumn2u/learn-javascript))
+
 ## Python
 
 - Python for absolute beginners; [FutureCoder](https://futurecoder.io/toc/), [FutureCoder on Github](https://github.com/alexmojaki/futurecoder)

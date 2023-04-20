@@ -30,6 +30,7 @@
 	- [BBC Sound Effects](http://bbcsfx.acropolis.org.uk) are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence. The Sound Effects are BBC copyright, but they may be used for personal, educational or research purposes, as detailed in the license.
 	- [CyberChef](https://cyberchef.org) - The Cyber Swiss Army Knife.
 	- [blip](http://gfblip.appspot.com): a tool for seeing your Internet latency. [source](https://github.com/apenwarr/blip)
+	- [DNSChecker](https://dnschecker.org) provides a free DNS propagation check service to check Domain Name System records against a selected list of DNS servers in multiple regions worldwide.
 	- [DNSViz](https://dnsviz.net) is a tool for visualizing the status of a DNS zone.
 	- [DocSend2PDF](https://docsend2pdf.com/)
 	- [How I Experience Web Today](https://how-i-experience-web-today.com)
@@ -38,7 +39,7 @@
 	- [LinkChecker](https://linkchecker.github.io/linkchecker/) is a free, GPL licensed website validator. LinkChecker checks links in web documents or full websites. It runs on Python 3 systems, requiring Python 3.7 or later. ([Source](https://github.com/linkchecker/linkchecker))
 	- [Look Scanned](https://lookscanned.io) makes your PDFs look scanned!
 	- [Nearly Free Speech](https://www.nearlyfreespeech.net) is about three things: fairness, innovation, and free speech.
-	- [NSLookup](https://www.nslookup.io)
+	- [NSLookup](https://www.nslookup.io) - find all DNS records for a domain name.
 	- [Online PDF Editor](https://www.sejda.com/pdf-editor) from Sedja is a free and private PDF editor.
 	- [Open Culture](http://www.openculture.com) The best free cultural & educational media on the web.
 	- [Open Source Music Production Tools](https://midination.com/free-music-production-software/)

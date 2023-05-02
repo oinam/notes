@@ -70,11 +70,12 @@ Quit Printer App After Print Jobs Complete
 Add `0.0.0.0 siteToBlock.com`\
 Save > Exit (CTRL + x > y)
 
-#### Misc
+#### Disable Boot on MacBook Lid Open
 
-Bitcoin Whitepaper in macOS
+`sudo nvram AutoBoot=%00`
 
-`open /System/Library/Image\ Capture/Devices/VirtualScanner.app/Contents/Resources/simpledoc.pdf`
+Reset back to default\
+`sudo nvram AutoBoot=%03`
 
 ---
 #### References

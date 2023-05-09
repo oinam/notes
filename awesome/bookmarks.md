@@ -47,6 +47,7 @@
 	- [Open Sustainable Technology](https://opensustain.tech), [Github Source](https://github.com/protontypes/awesome-sustainable-technology)
 	- [PDFUX](https://pdfux.com) Powerful and easy to use PDF tools.
 	- [QR Code Generator](https://qr-code-generator.org)
+	- [Quick Reference](https://quickref.me/) cheatsheets and quick references contributed by open source angels.
 	- Safety
 		- [URLScan](https://urlscan.io)
 		- [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/overview)
@@ -59,6 +60,7 @@
 	- [Tineye](https://tineye.com) Reverse Image Search
 	- [Txtify](https://txtify.it) Convert web articles to plain text
 	- [USB-C](https://usbc.wtf) tries to help you find the right USB-C for you or you can just browse and learn more.
+	- [Webperf Tests](https://www.swyx.io/webperf-tests) tools to test Webpage Performance.
 	- [Who is my ISP](https://www.whoismyisp.org)
 - Fun, Lab & Experiments
 	- [America Road Trip Simulation](https://4m3ric4.com)

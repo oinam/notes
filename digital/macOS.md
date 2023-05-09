@@ -70,13 +70,6 @@ Quit Printer App After Print Jobs Complete
 Add `0.0.0.0 siteToBlock.com`\
 Save > Exit (CTRL + x > y)
 
-#### Disable Boot on MacBook Lid Open
-
-`sudo nvram AutoBoot=%00`
-
-Reset back to default\
-`sudo nvram AutoBoot=%03`
-
 ---
 #### References
 

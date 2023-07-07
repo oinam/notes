@@ -1,0 +1,444 @@
+{
+  "version": "3.0.3",
+  "created": "2023-07-07T05:34:54Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "android-chrome-192x192.png"
+    },
+    {
+      "path": "android-chrome-512x512.png"
+    },
+    {
+      "path": "apple-touch-icon.png"
+    },
+    {
+      "path": "assets/.ds_store"
+    },
+    {
+      "path": "assets/html/95th-percentile-isnt-that-good.html"
+    },
+    {
+      "path": "assets/html/betting-on-things-that-never-change-2017-07-20.html"
+    },
+    {
+      "path": "assets/html/every-company-is-a-fintech-company.html"
+    },
+    {
+      "path": "assets/html/gtd-in-15min.html"
+    },
+    {
+      "path": "assets/html/old-css-new-css-2020feb01.html"
+    },
+    {
+      "path": "assets/html/wi-fi.html"
+    },
+    {
+      "path": "assets/html/willingness-to-look-stupid.html"
+    },
+    {
+      "path": "assets/img/how-to-get-motivated-7100x5000.png"
+    },
+    {
+      "path": "assets/img/the-leaders-of-wealth-creation.png"
+    },
+    {
+      "path": "assets/pdf/10-lessons-i-wish-i-had-been-taught.pdf"
+    },
+    {
+      "path": "assets/pdf/7-simple-exercises-to-undo-the-damage-of-sitting.pdf"
+    },
+    {
+      "path": "assets/pdf/8760-hours-v2.pdf"
+    },
+    {
+      "path": "assets/pdf/adept.pdf"
+    },
+    {
+      "path": "assets/pdf/all-the-best-engineering-advice-i-stole-from-non-technical-people.pdf"
+    },
+    {
+      "path": "assets/pdf/cityscape-photography-guide.pdf"
+    },
+    {
+      "path": "assets/pdf/compound-effect-worksheets.pdf"
+    },
+    {
+      "path": "assets/pdf/every-company-is-a-fintech-company-article-backup.pdf"
+    },
+    {
+      "path": "assets/pdf/every-company-is-a-fintech-company-deck.pdf"
+    },
+    {
+      "path": "assets/pdf/extraordinary-checklist.pdf"
+    },
+    {
+      "path": "assets/pdf/getting-real.pdf"
+    },
+    {
+      "path": "assets/pdf/how-to-be-a-better-leader-by-developing-radical-candor.pdf"
+    },
+    {
+      "path": "assets/pdf/how-to-be-an-effective-executive.pdf"
+    },
+    {
+      "path": "assets/pdf/leadership-training-by-keith-rabois-v5.pdf"
+    },
+    {
+      "path": "assets/pdf/local-first-software.pdf"
+    },
+    {
+      "path": "assets/pdf/math-problem-for-children-5-15.pdf"
+    },
+    {
+      "path": "assets/pdf/monetizing-innovation-summary-diagram.pdf"
+    },
+    {
+      "path": "assets/pdf/morning-peak-state-checklist.pdf"
+    },
+    {
+      "path": "assets/pdf/nsa-mobile-device-best-practices.pdf"
+    },
+    {
+      "path": "assets/pdf/shape-up-from-basecamp.pdf"
+    },
+    {
+      "path": "assets/pdf/speechless.pdf"
+    },
+    {
+      "path": "assets/pdf/the-almanack-of-naval-ravikant.pdf"
+    },
+    {
+      "path": "assets/pdf/the-best-startup-pitch-deck-ever-built.pdf"
+    },
+    {
+      "path": "assets/pdf/this-pitch-deck-made-climate-risk-startup-cervest-30-million.pdf"
+    },
+    {
+      "path": "assets/pdf/ultimate-startup-marketing-strategy-guide.pdf"
+    },
+    {
+      "path": "assets/pdf/write-think-learn.pdf"
+    },
+    {
+      "path": "awesome/articles/index.html"
+    },
+    {
+      "path": "awesome/bookmarks/index.html"
+    },
+    {
+      "path": "awesome/video/index.html"
+    },
+    {
+      "path": "climate/taxonomy/index.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "design/dieter-rams-good-design/index.html"
+    },
+    {
+      "path": "digital/apple/index.html"
+    },
+    {
+      "path": "digital/email/index.html"
+    },
+    {
+      "path": "digital/index.html"
+    },
+    {
+      "path": "digital/linux/index.html"
+    },
+    {
+      "path": "digital/macos/index.html"
+    },
+    {
+      "path": "earth/agriculture/index.html"
+    },
+    {
+      "path": "education/adept/index.html"
+    },
+    {
+      "path": "education/computer/index.html"
+    },
+    {
+      "path": "education/index.html"
+    },
+    {
+      "path": "education/learn-new/index.html"
+    },
+    {
+      "path": "favicon-16x16.png"
+    },
+    {
+      "path": "favicon-32x32.png"
+    },
+    {
+      "path": "health/breathing/index.html"
+    },
+    {
+      "path": "health/seating/index.html"
+    },
+    {
+      "path": "history/mary-somerville/index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "internet/index.html"
+    },
+    {
+      "path": "internet/internet-etiquette/index.html"
+    },
+    {
+      "path": "leadership/index.html"
+    },
+    {
+      "path": "leadership/top-10-traits-of-the-perfect-leader/index.html"
+    },
+    {
+      "path": "life/10-lessons-i-wish-i-had-been-taught/index.html"
+    },
+    {
+      "path": "life/5-whys/index.html"
+    },
+    {
+      "path": "life/5s/index.html"
+    },
+    {
+      "path": "life/6-ways-to-think-long-term/index.html"
+    },
+    {
+      "path": "life/argue-constructively-original.html"
+    },
+    {
+      "path": "life/argue-constructively/index.html"
+    },
+    {
+      "path": "life/be-curious-not-judgmental/index.html"
+    },
+    {
+      "path": "life/community/index.html"
+    },
+    {
+      "path": "life/cost-per-use-vs-price/index.html"
+    },
+    {
+      "path": "life/dddd/index.html"
+    },
+    {
+      "path": "life/decisions-automation/index.html"
+    },
+    {
+      "path": "life/email-etiquette/index.html"
+    },
+    {
+      "path": "life/first-principles/index.html"
+    },
+    {
+      "path": "life/ganbaru/index.html"
+    },
+    {
+      "path": "life/go-bag/index.html"
+    },
+    {
+      "path": "life/happy-life/index.html"
+    },
+    {
+      "path": "life/have-a-life-mission-and-persevere/index.html"
+    },
+    {
+      "path": "life/hedonic-treadmill/index.html"
+    },
+    {
+      "path": "life/how-to-assess-someones-character/index.html"
+    },
+    {
+      "path": "life/how-to-be-successful-by-sam-altman.html"
+    },
+    {
+      "path": "life/living-on-purpose/index.html"
+    },
+    {
+      "path": "life/matthew-mcconaughey-motivational-speech/index.html"
+    },
+    {
+      "path": "life/memory-techniques/index.html"
+    },
+    {
+      "path": "life/mental-models/index.html"
+    },
+    {
+      "path": "life/money/index.html"
+    },
+    {
+      "path": "life/movies/index.html"
+    },
+    {
+      "path": "life/nagare/index.html"
+    },
+    {
+      "path": "life/occams-razor/index.html"
+    },
+    {
+      "path": "life/privacy/index.html"
+    },
+    {
+      "path": "life/religion/index.html"
+    },
+    {
+      "path": "life/routine/index.html"
+    },
+    {
+      "path": "life/shu-ha-ri/index.html"
+    },
+    {
+      "path": "life/silence/index.html"
+    },
+    {
+      "path": "life/slow-is-smooth-smooth-is-fast/index.html"
+    },
+    {
+      "path": "life/smart-enough-to-look-stupid/index.html"
+    },
+    {
+      "path": "life/stoicism/index.html"
+    },
+    {
+      "path": "life/the-master-does-his-job---tao-te-ching/index.html"
+    },
+    {
+      "path": "life/tips-for-a-better-life/index.html"
+    },
+    {
+      "path": "life/wardrobe-essentialism/index.html"
+    },
+    {
+      "path": "life/wealthy-rich/index.html"
+    },
+    {
+      "path": "life/what-to-work-on/index.html"
+    },
+    {
+      "path": "mstile-150x150.png"
+    },
+    {
+      "path": "oinam-logo-light-on-dark.svg"
+    },
+    {
+      "path": "oinam-logo.svg"
+    },
+    {
+      "path": "parenting/10-life-skills-to-teach-your-child-by-age-10/index.html"
+    },
+    {
+      "path": "parenting/daughters/index.html"
+    },
+    {
+      "path": "parenting/digital-literacy/index.html"
+    },
+    {
+      "path": "parenting/kids-online/index.html"
+    },
+    {
+      "path": "photography/index.html"
+    },
+    {
+      "path": "play/chess/index.html"
+    },
+    {
+      "path": "play/rubiks-cube/index.html"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "safari-pinned-tab.svg"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "technology/latex/index.html"
+    },
+    {
+      "path": "technology/markdown/index.html"
+    },
+    {
+      "path": "technology/pandoc/index.html"
+    },
+    {
+      "path": "technology/password/index.html"
+    },
+    {
+      "path": "technology/raspberry-pi/index.html"
+    },
+    {
+      "path": "technology/spreadsheet/index.html"
+    },
+    {
+      "path": "technology/text/index.html"
+    },
+    {
+      "path": "technology/wi-fi/index.html"
+    },
+    {
+      "path": "writing/bluf/index.html"
+    },
+    {
+      "path": "writing/newsletter/index.html"
+    },
+    {
+      "path": "writing/rule-of-three/index.html"
+    },
+    {
+      "path": "writing/write-to-express-not-to-impress/index.html"
+    },
+    {
+      "path": "writing/writing-business/index.html"
+    }
+  ]
+}

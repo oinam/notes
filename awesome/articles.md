@@ -8,6 +8,7 @@
 - [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) by Sam Altman ([archive](https://archive.ph/CJCpG))
 - [Nobody Cares](https://a16z.com/2011/10/08/nobody-cares/) by Ben Horowitz ([archive](https://archive.ph/1Ck52)). When things go wrong in your company, nobody cares. The press doesn’t care, your investors don’t care, your board doesn’t care, your employees don’t care, even your mama doesn’t care. Nobody cares.
 - [Paul Graham](http://www.paulgraham.com) ([Wikipedia](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)))
+	+ [How to Do Great Work](http://www.paulgraham.com/greatwork.html) ([archive](https://archive.is/Tf1aD))
 	+ [Keep Your Identity Small](http://www.paulgraham.com/identity.html) ([archive](https://archive.ph/e6k2d)) If people can't think clearly about anything that has become part of their identity, then all other things being equal, the best plan is to let as few things into your identity as possible.
 	+ [Life is Short](http://paulgraham.com/vb.html) ([archive](https://archive.ph/ar3Gh)) inspires you to never to waste time on bullshit again. An interesting to read, similar article is by Sam Altman — [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short) ([archive](https://archive.ph/IkdUN)).
 	+ [Maker's Schedule, Manager's Schedule](http://paulgraham.com/makersschedule.html) ([archive](https://archive.ph/YOVZk))

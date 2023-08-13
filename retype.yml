@@ -8,8 +8,8 @@ cache:
 
 branding:
   title: Notes
-  logo: oinam-logo-light-on-dark.svg
-  logoDark: oinam-logo-light-on-dark.svg
+  logo: oinam-logo.svg
+  logoDark: oinam-logo-light.svg
 
 links:
   - text: Home

@@ -1,13 +1,12 @@
 # Email
 
-- Act on it right away, is possible.
+- Act on it right away (whenever possible)
 - Flag > Act Later.
 - Ignore
 - Unsubscribe
 
 
-Email is critical infrastructure for the Internet
-https://utcc.utoronto.ca/~cks/space/blog/tech/EmailCriticalInfrastructure
+[A realization of why email is critical infrastructure for the Internet](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailCriticalInfrastructure) ([archive](https://archive.is/8MblW))
 
 Email is our only reliable communication method between different organizations. There are a huge variety of intra-organizational communication systems, to the point where pretty much every large enterprise provider seems to have one (Slack, Microsoft Teams, Discord, etc etc). These work fine inside an organization or a closed group of people, and they can be better than email in various ways (hence their popularity). But all of them are at best cumbersome when you want to reach out for inter-organizational communication, to work with an outsider, and they always will be because they aren't federated (especially across service boundaries).
 

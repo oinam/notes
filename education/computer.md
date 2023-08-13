@@ -30,6 +30,7 @@
 - [Python-For-Kids](https://github.com/mytechnotalent/Python-For-Kids)
 - [BlockPy](https://think.cs.vt.edu/blockpy/), [BlockMirror Example](https://blockpy-edu.github.io/BlockMirror/docs/)
 - [Raspberry Pi's CodeClub - Python](https://projects.raspberrypi.org/en/codeclub/python-module-1)
+- [PyFlo](https://pyflo.net) is a free, interactive guide to learning Python.
 
 ## Tools
 

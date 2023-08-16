@@ -11,3 +11,7 @@ Physical devices should be entirely replaceable. We believe in owning our data, 
 We leverage the [Apple Ecosystem](/digital/apple/) to get things done. We do maintain backups of most options, so we can walk out of the ecosystem when needed. We will lose the seamlessness but things should still work.
 
 We run most other services in the [Linux Ecosystem](/digital/linux/), while leaving the content part easily accessible across environments.
+
+---
+
+`A Work-in-Progress; last updated: Aug 15, 2023.`

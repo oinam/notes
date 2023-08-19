@@ -12,6 +12,4 @@ We leverage the [Apple Ecosystem](/digital/apple/) to get things done. We do mai
 
 We run most other services in the [Linux Ecosystem](/digital/linux/), while leaving the content part easily accessible across environments.
 
----
-
-`A Work-in-Progress; last updated: Aug 15, 2023.`
+[!badge variant="warning" text="A Work-in-Progress; last updated: Aug 15, 2023."]

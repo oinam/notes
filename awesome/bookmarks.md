@@ -33,7 +33,6 @@
 	- [blip](http://gfblip.appspot.com): a tool for seeing your Internet latency. [source](https://github.com/apenwarr/blip)
 	- [DNSChecker](https://dnschecker.org) provides a free DNS propagation check service to check Domain Name System records against a selected list of DNS servers in multiple regions worldwide.
 	- [DNSViz](https://dnsviz.net) is a tool for visualizing the status of a DNS zone.
-	- [DocSend2PDF](https://docsend2pdf.com/)
 	- [How I Experience Web Today](https://how-i-experience-web-today.com)
 	- [I Know What You Downloaded](https://iknowwhatyoudownload.com/)
 	- [ICANN DOMAINS](https://publicsuffix.org/list/public_suffix_list.dat)
@@ -41,12 +40,15 @@
 	- [Look Scanned](https://lookscanned.io) makes your PDFs look scanned!
 	- [Nearly Free Speech](https://www.nearlyfreespeech.net) is about three things: fairness, innovation, and free speech.
 	- [NSLookup](https://www.nslookup.io) - find all DNS records for a domain name.
-	- [Online PDF Editor](https://www.sejda.com/pdf-editor) from Sedja is a free and private PDF editor.
 	- [Open Culture](http://www.openculture.com) The best free cultural & educational media on the web.
 	- [Open Source Music Production Tools](https://midination.com/free-music-production-software/)
 	- [Open Source Stash](https://opensourcestash.com)
 	- [Open Sustainable Technology](https://opensustain.tech), [Github Source](https://github.com/protontypes/awesome-sustainable-technology)
-	- [PDFUX](https://pdfux.com) Powerful and easy to use PDF tools.
+	- PDF
+		- [PDFUX](https://pdfux.com) Powerful and easy to use PDF tools.
+		- [Online PDF Editor](https://www.sejda.com/pdf-editor) from Sedja is a free and private PDF editor.
+		- [DocSend2PDF](https://docsend2pdf.com/)
+		- [Small PDF](https://smallpdf.com/)
 	- [QR Code Generator](https://qr-code-generator.org)
 	- [Quick Reference](https://quickref.me/) cheatsheets and quick references contributed by open source angels.
 	- Safety

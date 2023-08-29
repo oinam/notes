@@ -24,3 +24,4 @@ I think a corollary of this is that it's to the advantage of all of the big cent
 - An interactive tutorial on how email's [DMARC, SPF, and DKIM work](https://www.learndmarc.com).
 - https://dmarcian.com
 - https://easydmarc.com
+- [Use plaintext email](https://useplaintext.email)

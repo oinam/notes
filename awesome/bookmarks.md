@@ -55,6 +55,7 @@
 		- [URLScan](https://urlscan.io)
 		- [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/overview)
 		- [VirusTotal](https://www.virustotal.com) Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches.
+	- [ShareDrop](https://www.sharedrop.io) P2P File transfer across devices in the same Network.
 	- Speedtest
 		- [Fast](https://fast.com)
 		- [Speed](https://speed.cloudflare.com)
@@ -66,18 +67,19 @@
 	- [Webperf Tests](https://www.swyx.io/webperf-tests) tools to test Webpage Performance.
 	- [Who is my ISP](https://www.whoismyisp.org)
 - Fun, Lab & Experiments
+	- [2050.Earth](https://2050.earth/) is a site about the future as seen through the eyes of futurologists, scientists, and Internet users from all corners of the globe.
 	- [America Road Trip Simulation](https://4m3ric4.com)
 	- [How Stuff Works](https://www.howstuffworks.com)
 	- [Printable Puzzle Project](https://www.puzzlehub.org) A curated collection of designer mechanical puzzles, rendered in precisely tuned, fully tested models for 3D printing.
 	- [Tomu](https://tomu.im) is a family of devices which fit inside your USB port. The Tomu family are a group of tiny boards designed to fit inside your USB port. All of the Tomu family have both open source firmware and open source hardware.
 	- [Satellite Tracker](https://satellitetracker3d.com) in 3D
 - Sort ’EM
-	- [2050.Earth](https://2050.earth/) is a site about the future as seen through the eyes of futurologists, scientists, and Internet users from all corners of the globe.
 	- [Awesome CTO](https://github.com/kuchin/awesome-cto) resources for Startup CTOs.
 	- [Awesome Github Actions](https://github.com/sdras/awesome-actions)
 	- [Awesome List](https://github.com/sindresorhus/awesome) about all kinds of interesting topics.
 	- [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 	- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+	- [Awesome Selfhosted](https://awesome-selfhosted.net) ([source](https://github.com/awesome-selfhosted/awesome-selfhosted-html))
 	- [Datasette](https://datasette.io) is an open source multi-tool for exploring and publishing data.
 	- [Fold-n-Fly](https://www.foldnfly.com/) Paper Airplane Designs
 	- [Free Dev Tools](https://freetools.dev)

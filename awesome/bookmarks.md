@@ -21,6 +21,10 @@
 	- [Radio Garden](http://radio.garden) invites you to tune into thousands of live radio stations across the globe.
 - Data
 	- [Smithsonian Open Access](https://www.si.edu/openaccess) download, share, and reuse millions of the Smithsonian’s images, without asking.
+- Printable
+	- [Printable Puzzle Project](https://www.puzzlehub.org) A curated collection of designer mechanical puzzles, rendered in precisely tuned, fully tested models for 3D printing.
+	- [Sketchize](https://www.sketchize.com) is built for UI/UX Designers to help them design lovely apps for mobile, tablet, and desktop devices.
+	- [PaperQuik](https://paperquik.com/) The Paper You Need - Available Right Away.
 - Security & Privacy
 	- [Simple Opt Out](https://simpleoptout.com) ([source](https://github.com/troy/simpleoptout)) Opt out of all the data sharing you wouldn't opt in to. This is very USA-Specific but, well, almost all of Internet tools that we use are USA-ed.
 	- [AmIUnique](https://www.amiunique.org) Learn how identifiable you are on the Internet.
@@ -44,11 +48,15 @@
 	- [Open Source Music Production Tools](https://midination.com/free-music-production-software/)
 	- [Open Source Stash](https://opensourcestash.com)
 	- [Open Sustainable Technology](https://opensustain.tech), [Github Source](https://github.com/protontypes/awesome-sustainable-technology)
+	- Audio
+		- [Wavacity](https://wavacity.com) – a FOSS port of Audacity to the web.
 	- PDF
 		- [PDFUX](https://pdfux.com) Powerful and easy to use PDF tools.
 		- [Online PDF Editor](https://www.sejda.com/pdf-editor) from Sedja is a free and private PDF editor.
 		- [DocSend2PDF](https://docsend2pdf.com/)
 		- [Small PDF](https://smallpdf.com/)
+	- Pictures
+		- [Photopea](https://www.photopea.com) is a free (donate-ware) online Photo editor.
 	- [QR Code Generator](https://qr-code-generator.org)
 	- [Quick Reference](https://quickref.me/) cheatsheets and quick references contributed by open source angels.
 	- Safety
@@ -70,7 +78,7 @@
 	- [2050.Earth](https://2050.earth/) is a site about the future as seen through the eyes of futurologists, scientists, and Internet users from all corners of the globe.
 	- [America Road Trip Simulation](https://4m3ric4.com)
 	- [How Stuff Works](https://www.howstuffworks.com)
-	- [Printable Puzzle Project](https://www.puzzlehub.org) A curated collection of designer mechanical puzzles, rendered in precisely tuned, fully tested models for 3D printing.
+	- [Population](https://population.io) - The journey of your life in numbers and dates!
 	- [Tomu](https://tomu.im) is a family of devices which fit inside your USB port. The Tomu family are a group of tiny boards designed to fit inside your USB port. All of the Tomu family have both open source firmware and open source hardware.
 	- [Satellite Tracker](https://satellitetracker3d.com) in 3D
 - Sort ’EM

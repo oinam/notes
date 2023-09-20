@@ -56,6 +56,7 @@
 		- [DocSend2PDF](https://docsend2pdf.com/)
 		- [Small PDF](https://smallpdf.com/)
 	- Pictures
+		- [Colourise](https://colourise.com) - Colorize Photo Online Free with AI.
 		- [Photopea](https://www.photopea.com) is a free (donate-ware) online Photo editor.
 	- [QR Code Generator](https://qr-code-generator.org)
 	- [Quick Reference](https://quickref.me/) cheatsheets and quick references contributed by open source angels.
@@ -71,7 +72,7 @@
 		- [Test My Net](https://testmy.net/)
 	- [Tineye](https://tineye.com) Reverse Image Search
 	- [Txtify](https://txtify.it) Convert web articles to plain text
-	- [USB-C](https://usbc.wtf) tries to help you find the right USB-C for you or you can just browse and learn more.
+		- [USB-C](https://usbc.guide) tries to help you find the right USB-C for you or you can just browse and learn more.
 	- [Webperf Tests](https://www.swyx.io/webperf-tests) tools to test Webpage Performance.
 	- [Who is my ISP](https://www.whoismyisp.org)
 - Fun, Lab & Experiments
@@ -81,7 +82,8 @@
 	- [Population](https://population.io) - The journey of your life in numbers and dates!
 	- [Tomu](https://tomu.im) is a family of devices which fit inside your USB port. The Tomu family are a group of tiny boards designed to fit inside your USB port. All of the Tomu family have both open source firmware and open source hardware.
 	- [Satellite Tracker](https://satellitetracker3d.com) in 3D
-- Sort ’EM
+- Others (Sort ’EM)
+	- [Simple Mobile Tools](https://www.simplemobiletools.com) - a group of simple, open source Android apps without ads and unnecessary permissions, with customizable colors.
 	- [Awesome CTO](https://github.com/kuchin/awesome-cto) resources for Startup CTOs.
 	- [Awesome Github Actions](https://github.com/sdras/awesome-actions)
 	- [Awesome List](https://github.com/sindresorhus/awesome) about all kinds of interesting topics.

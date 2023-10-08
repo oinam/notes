@@ -1,6 +1,6 @@
 {
-  "version": "3.0.3",
-  "created": "2023-07-15T04:21:14Z",
+  "version": "3.1.0",
+  "created": "2023-10-08T05:03:56Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -42,10 +42,12 @@
       "path": "assets/html/willingness-to-look-stupid.html"
     },
     {
-      "path": "assets/img/how-to-get-motivated-7100x5000.png"
+      "path": "assets/img/how-to-get-motivated-7100x5000.png",
+      "old": true
     },
     {
-      "path": "assets/img/the-leaders-of-wealth-creation.png"
+      "path": "assets/img/the-leaders-of-wealth-creation.png",
+      "old": true
     },
     {
       "path": "assets/pdf/10-lessons-i-wish-i-had-been-taught.pdf"
@@ -132,10 +134,14 @@
       "path": "awesome/bookmarks/index.html"
     },
     {
+      "path": "awesome/fun/index.html"
+    },
+    {
       "path": "awesome/video/index.html"
     },
     {
-      "path": "climate/taxonomy/index.html"
+      "path": "climate/taxonomy/index.html",
+      "old": true
     },
     {
       "path": "CNAME"
@@ -180,6 +186,12 @@
       "path": "favicon-32x32.png"
     },
     {
+      "path": "finance/money/index.html"
+    },
+    {
+      "path": "finance/wealthy-rich/index.html"
+    },
+    {
       "path": "health/breathing/index.html"
     },
     {
@@ -192,16 +204,21 @@
       "path": "index.html"
     },
     {
+      "path": "india/index.html"
+    },
+    {
       "path": "internet/index.html"
     },
     {
       "path": "internet/internet-etiquette/index.html"
     },
     {
-      "path": "leadership/index.html"
+      "path": "leadership/index.html",
+      "old": true
     },
     {
-      "path": "leadership/top-10-traits-of-the-perfect-leader/index.html"
+      "path": "leadership/top-10-traits-of-the-perfect-leader/index.html",
+      "old": true
     },
     {
       "path": "life/10-lessons-i-wish-i-had-been-taught/index.html"
@@ -216,10 +233,12 @@
       "path": "life/6-ways-to-think-long-term/index.html"
     },
     {
-      "path": "life/argue-constructively-original.html"
+      "path": "life/argue-constructively-original.html",
+      "old": true
     },
     {
-      "path": "life/argue-constructively/index.html"
+      "path": "life/argue-constructively/index.html",
+      "old": true
     },
     {
       "path": "life/be-curious-not-judgmental/index.html"
@@ -261,7 +280,11 @@
       "path": "life/how-to-assess-someones-character/index.html"
     },
     {
-      "path": "life/how-to-be-successful-by-sam-altman.html"
+      "path": "life/how-to-be-successful-by-sam-altman.html",
+      "old": true
+    },
+    {
+      "path": "life/leadership/index.html"
     },
     {
       "path": "life/living-on-purpose/index.html"
@@ -276,7 +299,8 @@
       "path": "life/mental-models/index.html"
     },
     {
-      "path": "life/money/index.html"
+      "path": "life/money/index.html",
+      "old": true
     },
     {
       "path": "life/movies/index.html"
@@ -309,7 +333,8 @@
       "path": "life/smart-enough-to-look-stupid/index.html"
     },
     {
-      "path": "life/stoicism/index.html"
+      "path": "life/stoicism/index.html",
+      "old": true
     },
     {
       "path": "life/the-master-does-his-job---tao-te-ching/index.html"
@@ -318,10 +343,14 @@
       "path": "life/tips-for-a-better-life/index.html"
     },
     {
+      "path": "life/top-10-traits-of-the-perfect-leader/index.html"
+    },
+    {
       "path": "life/wardrobe-essentialism/index.html"
     },
     {
-      "path": "life/wealthy-rich/index.html"
+      "path": "life/wealthy-rich/index.html",
+      "old": true
     },
     {
       "path": "life/what-to-work-on/index.html"
@@ -330,7 +359,11 @@
       "path": "mstile-150x150.png"
     },
     {
-      "path": "oinam-logo-light-on-dark.svg"
+      "path": "oinam-logo-light-on-dark.svg",
+      "old": true
+    },
+    {
+      "path": "oinam-logo-light.svg"
     },
     {
       "path": "oinam-logo.svg"
@@ -400,6 +433,9 @@
     },
     {
       "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "technology/html/index.html"
     },
     {
       "path": "technology/latex/index.html"

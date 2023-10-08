@@ -2,7 +2,7 @@
 
 > We are not religious. We respect everyone’s religious beliefs, faiths, and practices.
 
-We, however, do not force our kids nor anyone near to us into either believing (or not believeing) in anything. If our kids become religious, we will respect that and it is upto them to choose their paths.
+We, however, do not force our kids nor anyone near to us into either believing (or not believing) in anything. If our kids become religious, we will respect that and it is up to them to choose their paths.
 
 In the words of [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan);
 

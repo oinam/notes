@@ -13,3 +13,9 @@ We leverage the [Apple Ecosystem](/digital/apple/) to get things done. We do mai
 We run most other services in the [Linux Ecosystem](/digital/linux/), while leaving the content part easily accessible across environments.
 
 [!badge variant="warning" text="A Work-in-Progress; last updated: Aug 15, 2023."]
+
+### References
+
+*Interesting ideas that resonate with our philosophy of owning the content, tools on top, the ability to have a local-first content (in spite of the Cloud).*
+
+- [Ink & Switch](https://www.inkandswitch.com)

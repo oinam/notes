@@ -1,3 +1,32 @@
+.vite_opt_cache
+cache
+dist
+node_modules
+
+# Ignore OS generated files #
 .DS_Store*
-.obsidian
-_site/
+ehthumbs.dbw
+Icon?
+Thumbs.db
+
+# Ignore packages #
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Always-ignore these #
+*.diff
+*.err
+*.log
+*.orig
+*.rej
+*.swn
+*.swo
+*.swp
+._*
+*~

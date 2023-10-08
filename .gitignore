@@ -1,5 +1,6 @@
 .vite_opt_cache
 cache
+dist
 node_modules
 
 # Ignore OS generated files #

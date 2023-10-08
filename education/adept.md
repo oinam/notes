@@ -1,4 +1,4 @@
-# ADEPT (Analogy, Diagram, Example, Plain-English, Technical)
+# ADEPT
 
 Kalid Azad has a really nice methodology to learn difficult concepts -- [ADEPT](https://betterexplained.com/articles/adept-method/) -- Use an Analogy, Diagram, Example, Plain-English description, and then a Technical description.
 

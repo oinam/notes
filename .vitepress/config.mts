@@ -9,7 +9,7 @@ export default defineConfig({
   description: "",
 
   ignoreDeadLinks: true,
-  lastUpdated: true,
+  lastUpdated: false,
   cleanUrls: true,
   sitemap: { hostname: 'https://notes.oinam.com' },
 

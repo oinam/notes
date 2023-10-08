@@ -5,8 +5,8 @@
 
 ## Phones
 
-| Phone | Helpline |
-| --- | --- |
+| **Phone** | **Helpline** |
+| --------- | ------------ |
 | 112 | Police (National) |
 | 181 | Women Helpline |
 | 1930 | Cyber Crime |

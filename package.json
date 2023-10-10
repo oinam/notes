@@ -5,7 +5,6 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-rc.20",
-    "vitepress-sidebar": "^1.18.0"
+    "vitepress": "^1.0.0-rc.20"
   }
 }

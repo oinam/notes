@@ -25,6 +25,7 @@
 	- [Printable Puzzle Project](https://www.puzzlehub.org) A curated collection of designer mechanical puzzles, rendered in precisely tuned, fully tested models for 3D printing.
 	- [Sketchize](https://www.sketchize.com) is built for UI/UX Designers to help them design lovely apps for mobile, tablet, and desktop devices.
 	- [PaperQuik](https://paperquik.com/) The Paper You Need - Available Right Away.
+	- [Graph Paper](https://incompetech.com/graphpaper/)
 - Security & Privacy
 	- [Simple Opt Out](https://simpleoptout.com) ([source](https://github.com/troy/simpleoptout)) Opt out of all the data sharing you wouldn't opt in to. This is very USA-Specific but, well, almost all of Internet tools that we use are USA-ed.
 	- [AmIUnique](https://www.amiunique.org) Learn how identifiable you are on the Internet.

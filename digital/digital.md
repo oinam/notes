@@ -19,3 +19,4 @@ We run most other services in the [Linux Ecosystem](/digital/linux/), while leav
 *Interesting ideas that resonate with our philosophy of owning the content, tools on top, the ability to have a local-first content (in spite of the Cloud).*
 
 - [Ink & Switch](https://www.inkandswitch.com)
+	- [Local-first software](https://www.inkandswitch.com/local-first/) - You own your data, in spite of the cloud ([archive](https://archive.ph/3MAER) | [pdf](https://www.inkandswitch.com/local-first/static/local-first.pdf))

@@ -15,3 +15,10 @@ Powered by [VitePress](https://vitepress.dev). Install the necessary modules to 
 ### Sidebar (auto-generate)
 
 `npm i -D vitepress-sidebar` to install [VitePress Sidebar](https://github.com/jooy2/vitepress-sidebar). Follow instructions to generate the sidebar automatically.
+
+#### Inspiration & References
+
+- [Digital Gardening Tools and Resources](https://github.com/MaggieAppleton/digital-gardeners)
+- [Andyʼs Working Notes](https://notes.andymatuschak.org/)
+- [The Garden](https://maggieappleton.com/garden) of Maggie Appleton
+- [Buster's Notes](https://busterbenson.com)

@@ -1,8 +1,6 @@
-# Dieter Rams' 10 "Good Design" Principles
+# Dieter Rams’ Design Principles
 
-Dieter Rams is one of the greatest designers of our times.
-
-Dieter Rams is a German industrial designer and academic associated with the consumer products company [Braun](https://braun.com), the furniture company [Vitsœ](https://www.vitsoe.com), and the functionalist school of industrial design. His unobtrusive approach and belief in “Less, but better” design generated a timeless quality in his products and have influenced the design of many products.
+[Dieter Rams](https://en.wikipedia.org/wiki/Dieter_Rams) is one of the greatest designers of our times. He is a German industrial designer and academic associated with the consumer products company [Braun](https://braun.com), the furniture company [Vitsœ](https://www.vitsoe.com), and the functionalist school of industrial design. His unobtrusive approach and belief in “Less, but better” design generated a timeless quality in his products and have influenced the design of many products.
 
 Dieter Rams’ 10 “Good Design” principles;
 
@@ -17,7 +15,7 @@ Dieter Rams’ 10 “Good Design” principles;
 9. is environmentally-friendly.
 10. is as little design as possible.
 
-## 10 principles for design that could save the world
+---
 
 Recently in 2021-Dec, [Jo Barnard](https://www.jobarnard.com) updated Dieter Ram's famous ten principles for the modern era. Here is the [excellent checklist](https://www.maddyness.com/uk/2021/12/01/10-principles-for-design-to-save-the-world/) of your responsibilities when starting out on a brand new project.
 

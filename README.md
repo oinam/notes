@@ -12,9 +12,12 @@ Powered by [VitePress](https://vitepress.dev). Install the necessary modules to 
 - Build: `npm run docs:build`
 - Preview the build: `npm run docs:preview`
 
-### Sidebar (auto-generate)
+### Plugins
 
-`npm i -D vitepress-sidebar` to install [VitePress Sidebar](https://github.com/jooy2/vitepress-sidebar). Follow instructions to generate the sidebar automatically.
+Install the needed plugins with `npm i -D plugin-name` and follow their usage instructions.
+
+- [vitepress-sidebar](https://github.com/jooy2/vitepress-sidebar)
+- [markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote)
 
 #### Inspiration & References
 

@@ -1,6 +1,8 @@
 import { defineConfig } from 'vitepress'
 import { defineConfig, type DefaultTheme } from 'vitepress'
+
 import { generateSidebar } from 'vitepress-sidebar'
+import footnote from 'markdown-it-footnote'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -14,6 +16,12 @@ export default defineConfig({
   sitemap: { hostname: 'https://notes.oinam.com' },
 
   srcExclude: [ 'README.md' ],
+
+  markdown: {
+    config: (md) => {
+      md.use(footnote)
+    }
+  },
 
   // https://vitepress.dev/reference/default-theme-config
   themeConfig: {

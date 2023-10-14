@@ -74,6 +74,15 @@ export default defineConfig({
         ],
       },
       {
+        text: 'Internet',
+        link: '/internet/',
+        collapsed: false,
+        items: [
+          { text: 'Email Etiquette', link: '/internet/email-etiquette' },
+          { text: 'Internet Etiquette', link: '/internet/internet-etiquette' },
+        ],
+      },
+      {
         text: 'Life',
         collapsed: true,
         items: [

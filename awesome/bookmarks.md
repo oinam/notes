@@ -10,6 +10,7 @@
 	- [Software Library](https://archive.org/details/softwarelibrary) (Internet Archive)
 	- [BBC Micro Games Archive](http://bbcmicro.co.uk) ([Source](https://github.com/pau1ie/bbcmicro.co.uk) at Github)
 	- [Web Design Museum](https://www.webdesignmuseum.org) Discover Forgotten Trends in Web Design.
+	- [Whole Earth](https://wholeearth.info) is a nearly-complete archive of Whole Earth publications, a series of journals and magazines descended from the Whole Earth Catalog, published by Stewart Brand and the POINT Foundation between 1970 and 2002. Also at [The Internet Archive's Whole Earth collection](https://archive.org/details/wholeearth).
 - Books
 	- [Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) is a collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 	- [Book Search](https://books-search.typesense.org) over 28+ Million Books from [Open Library](https://openlibrary.org).
@@ -80,9 +81,10 @@
 	- [2050.Earth](https://2050.earth/) is a site about the future as seen through the eyes of futurologists, scientists, and Internet users from all corners of the globe.
 	- [America Road Trip Simulation](https://4m3ric4.com)
 	- [How Stuff Works](https://www.howstuffworks.com)
+	- [Let’s get Creative](https://www.bryanbraun.com/lets-get-creative/) is a collection of high-quality, free, online creativity tools.
 	- [Population](https://population.io) - The journey of your life in numbers and dates!
-	- [Tomu](https://tomu.im) is a family of devices which fit inside your USB port. The Tomu family are a group of tiny boards designed to fit inside your USB port. All of the Tomu family have both open source firmware and open source hardware.
 	- [Satellite Tracker](https://satellitetracker3d.com) in 3D
+	- [Tomu](https://tomu.im) is a family of devices which fit inside your USB port. The Tomu family are a group of tiny boards designed to fit inside your USB port. All of the Tomu family have both open source firmware and open source hardware.
 - Others (Sort ’EM)
 	- [Simple Mobile Tools](https://www.simplemobiletools.com) - a group of simple, open source Android apps without ads and unnecessary permissions, with customizable colors.
 	- [Awesome CTO](https://github.com/kuchin/awesome-cto) resources for Startup CTOs.

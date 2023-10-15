@@ -1,10 +1,10 @@
-# Ten Lessons I Wish I Had Been Taught
+# 10 Lessons I Wish I Had Been Taught
 
-_By Gian-Carlo Rota at MIT, April 20 , 1996 on the occasion of the Rotafest. [source](https://www.ams.org/notices/199701/comm-rota.pdf) • [cached](/assets/pdf/10-lessons-i-wish-i-had-been-taught.pdf) (pdf)_
+_By Gian-Carlo Rota at MIT, April 20 , 1996 on the occasion of the Rotafest. [source](https://www.ams.org/notices/199701/comm-rota.pdf) • [cached](https://cdn.oinam.com/pdf/10-lessons-i-wish-i-had-been-taught.pdf) (pdf)_
 
 The talk was delivered on the occasion of the Rotafest at MIT in April, 1996. However, this applies to life in general and holds key to some of the best lessons one can learn for a more meaningful life.
 
-You should read the original source. Here is a representation with a generic point-of-view.
+Here is the summarized version;
 
 1. __Lecturing__ -- Be as direct as possible.
 2. __Blackboard Technique__ -- Be clear and conscise.

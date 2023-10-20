@@ -2,15 +2,16 @@
 
 - Archives
 	- [ACM Digital Library](https://dl.acm.org) opened more than 117,500 articles published between 1951 and the end of 2000.
+	- [BBC Micro Games Archive](http://bbcmicro.co.uk) ([Source](https://github.com/pau1ie/bbcmicro.co.uk) at Github)
 	- [DPLA](https://dp.la) (Digital Public Library of America) has over 45+ millions of images, texts, videos, and sounds from across the United States.
 	- [History of the Web](https://thehistoryoftheweb.com), [Timeline View](https://thehistoryoftheweb.com/timeline/)
-	- [WinWorld Library](https://winworldpc.com/library/)
 	- [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games) (Internet Archive)
 	- [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) is the world’s biggest collection of disappearing sounds and sounds that have become extinct – remixed and reimagined to create a brand new form of listening.
 	- [Software Library](https://archive.org/details/softwarelibrary) (Internet Archive)
-	- [BBC Micro Games Archive](http://bbcmicro.co.uk) ([Source](https://github.com/pau1ie/bbcmicro.co.uk) at Github)
+	- [Version Museum](https://www.versionmuseum.com/) showcases the visual history of popular websites, operating systems, applications, and games that have shaped our lives.
 	- [Web Design Museum](https://www.webdesignmuseum.org) Discover Forgotten Trends in Web Design.
 	- [Whole Earth](https://wholeearth.info) is a nearly-complete archive of Whole Earth publications, a series of journals and magazines descended from the Whole Earth Catalog, published by Stewart Brand and the POINT Foundation between 1970 and 2002. Also at [The Internet Archive's Whole Earth collection](https://archive.org/details/wholeearth).
+	- [WinWorld Library](https://winworldpc.com/library/)
 - Books
 	- [Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) is a collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 	- [Book Search](https://books-search.typesense.org) over 28+ Million Books from [Open Library](https://openlibrary.org).
@@ -32,6 +33,8 @@
 	- [AmIUnique](https://www.amiunique.org) Learn how identifiable you are on the Internet.
 	- [Cover Your Tracks](https://coveryourtracks.eff.org) See how trackers view your browser.
 	- [Email Marketing Regulations](https://github.com/threeheartsdigital/email-marketing-regulations) around the world.
+	- [Is BGP safe yet?](https://isbgpsafeyet.com) Test if your ISP implements BGP safely.
+	- [Unblock Domain](https://gist.github.com/grovesNL/2d00b568038bd28896d44d1b5b3299cd) If you've recently registered a domain, you might want to contact common security filters proactively and request that the domain be categorized with some appropriate category.
 - Tools
 	- [AdBlock Tester](https://adblock-tester.com)
 	- [BBC Sound Effects](http://bbcsfx.acropolis.org.uk) are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence. The Sound Effects are BBC copyright, but they may be used for personal, educational or research purposes, as detailed in the license.
@@ -43,6 +46,7 @@
 	- [I Know What You Downloaded](https://iknowwhatyoudownload.com/)
 	- [ICANN DOMAINS](https://publicsuffix.org/list/public_suffix_list.dat)
 	- [LinkChecker](https://linkchecker.github.io/linkchecker/) is a free, GPL licensed website validator. LinkChecker checks links in web documents or full websites. It runs on Python 3 systems, requiring Python 3.7 or later. ([Source](https://github.com/linkchecker/linkchecker))
+	- [LocalSend](https://localsend.org/#/) Share files to nearby devices. Free, [open source](https://github.com/localsend/localsend), cross-platform.
 	- [Look Scanned](https://lookscanned.io) makes your PDFs look scanned!
 	- [Nearly Free Speech](https://www.nearlyfreespeech.net) is about three things: fairness, innovation, and free speech.
 	- [NSLookup](https://www.nslookup.io) - find all DNS records for a domain name.
@@ -60,6 +64,7 @@
 	- Pictures
 		- [Colourise](https://colourise.com) - Colorize Photo Online Free with AI.
 		- [Photopea](https://www.photopea.com) is a free (donate-ware) online Photo editor.
+		- [Vectorpea](https://www.vectorpea.com) is a free (donate-ware) online vector graphics editor.
 	- [QR Code Generator](https://qr-code-generator.org)
 	- [Quick Reference](https://quickref.me/) cheatsheets and quick references contributed by open source angels.
 	- Safety

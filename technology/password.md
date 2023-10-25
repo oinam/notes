@@ -1,6 +1,6 @@
 # Password
 
-In an ideal world, hopefully sommetime in the near future, we will never need to create or remember passwords.
+In an ideal world, hopefully sometime in the near future, we will never need to create or remember passwords.
 
 Until then, we need to be aware of the fact that weak passwords can be easier to hack.
 
@@ -38,10 +38,15 @@ Nowadays, it's not recommended any more: unless there has been a known leak, if 
 
 ## Passkeys
 
-Let’s hope that the new world of passwordless login will make some steps forward in the next years. The Fido alliance, [Passkeys](https://www.passkeys.io), backed by the likes of Google, Microsoft, and Apple is the way forward.
+Since 2022, a passwordless experience might become a reality with the introduction of [Passkeys](https://www.passkeys.io)[^passkeys]. 
+
+Let’s hope that the new world of passwordless login will make some steps forward in the next years. The Fido alliance, Passkeys, backed by the likes of Google, Microsoft, and Apple is the way forward.
 
 ### References
 
 - [Practical Recommendations for Stronger, More Usable Passwords Combining Minimum-strength, Minimum-length, and Blocklist Requirements](http://www.andrew.cmu.edu/user/nicolasc/publications/Tan-CCS20.pdf) (pdf)
 - [NIST Password Guidelines](https://www.auditboard.com/blog/nist-password-guidelines/) is a password that meets the regulations set out by the National Institution for Standards in Technology’s Digital Identity Guidelines.
 - [Dumb Password Rules](https://dumbpasswordrules.com) has a list of websites with, well, dumb password rules.
+
+
+[^passkeys]: A [passkey](https://en.wikipedia.org/wiki/Passkey_(authentication)) is a digital credential that is used as an authentication method for a website or application. The passkeys standard is a type of passwordless authentication, promoted by the World Wide Web Consortium and the FIDO Alliance. They are often stored by the operating system or web browser and synchronized between devices from the same ecosystem using the cloud, however they can also be confined to a single device such as a physical security key.

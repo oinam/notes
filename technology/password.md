@@ -47,6 +47,7 @@ Let’s hope that the new world of passwordless login will make some steps forwa
 - [Practical Recommendations for Stronger, More Usable Passwords Combining Minimum-strength, Minimum-length, and Blocklist Requirements](http://www.andrew.cmu.edu/user/nicolasc/publications/Tan-CCS20.pdf) (pdf)
 - [NIST Password Guidelines](https://www.auditboard.com/blog/nist-password-guidelines/) is a password that meets the regulations set out by the National Institution for Standards in Technology’s Digital Identity Guidelines.
 - [Dumb Password Rules](https://dumbpasswordrules.com) has a list of websites with, well, dumb password rules.
+- Apple WWDC 2022 [Developer Focused Talk on Passkeys](https://developer.apple.com/videos/play/wwdc2022/10092/).
 
 
 [^passkeys]: A [passkey](https://en.wikipedia.org/wiki/Passkey_(authentication)) is a digital credential that is used as an authentication method for a website or application. The passkeys standard is a type of passwordless authentication, promoted by the World Wide Web Consortium and the FIDO Alliance. They are often stored by the operating system or web browser and synchronized between devices from the same ecosystem using the cloud, however they can also be confined to a single device such as a physical security key.

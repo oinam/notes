@@ -80,7 +80,7 @@
 		- [Test My Net](https://testmy.net/)
 	- [Tineye](https://tineye.com) Reverse Image Search
 	- [Txtify](https://txtify.it) Convert web articles to plain text
-		- [USB-C](https://usbc.guide) tries to help you find the right USB-C for you or you can just browse and learn more.
+	- [USB-C](https://usbc.guide) tries to help you find the right USB-C for you or you can just browse and learn more.
 	- [Webperf Tests](https://www.swyx.io/webperf-tests) tools to test Webpage Performance.
 	- [Who is my ISP](https://www.whoismyisp.org)
 - Fun, Lab & Experiments
@@ -90,9 +90,9 @@
 	- [Let’s get Creative](https://www.bryanbraun.com/lets-get-creative/) is a collection of high-quality, free, online creativity tools.
 	- [Population](https://population.io) - The journey of your life in numbers and dates!
 	- [Satellite Tracker](https://satellitetracker3d.com) in 3D
+	- [Sunset Videos](https://sunset.funwebsite.fun) (live) from around the world.
 	- [Tomu](https://tomu.im) is a family of devices which fit inside your USB port. The Tomu family are a group of tiny boards designed to fit inside your USB port. All of the Tomu family have both open source firmware and open source hardware.
 - Others (Sort ’EM)
-	- [Simple Mobile Tools](https://www.simplemobiletools.com) - a group of simple, open source Android apps without ads and unnecessary permissions, with customizable colors.
 	- [Awesome CTO](https://github.com/kuchin/awesome-cto) resources for Startup CTOs.
 	- [Awesome Github Actions](https://github.com/sdras/awesome-actions)
 	- [Awesome List](https://github.com/sindresorhus/awesome) about all kinds of interesting topics.
@@ -100,8 +100,10 @@
 	- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 	- [Awesome Selfhosted](https://awesome-selfhosted.net) ([source](https://github.com/awesome-selfhosted/awesome-selfhosted-html))
 	- [Datasette](https://datasette.io) is an open source multi-tool for exploring and publishing data.
+	- [Diamonds Suck!](https://diamondssuck.com/) [Web Archive](https://web.archive.org/web/20230000000000*/https://diamondssuck.com/)
 	- [Fold-n-Fly](https://www.foldnfly.com/) Paper Airplane Designs
 	- [Free Dev Tools](https://freetools.dev)
 	- [Free Software and Self-Hosted Web Apps](https://github.com/awesome-selfhosted/awesome-selfhosted)
 	- [Hello Inbox](https://helloinbox.email) is an Email Deliverability Checklist & Toolkit
+	- [Simple Mobile Tools](https://www.simplemobiletools.com) - a group of simple, open source Android apps without ads and unnecessary permissions, with customizable colors.
 	- [Source Codes](https://dunfield.themindfactory.com/dnldsrc.htm) of very old programs by [Dave Dunfield](https://dunfield.themindfactory.com/dave.htm) of Dunfield Development Services.

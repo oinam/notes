@@ -33,9 +33,9 @@ No ₹, without decimals \
 
 #### Highlight rows that contains a phrase in a column
 
-1. Choose Conditional Formula
-2. Select the range -- A1:Z999
-3. "Custom Formula is" =$F$1:$F999="phrase"
+1. Choose “Conditional Formatting”
+2. Select the Range. e.g. “A1:Z999”
+3. Format Rules as “Custom Formula is” `=$F$1:$F999="phrase"`
 
 ### References
 

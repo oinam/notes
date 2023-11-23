@@ -2,6 +2,7 @@
 
 - Archives
 	- [ACM Digital Library](https://dl.acm.org) opened more than 117,500 articles published between 1951 and the end of 2000.
+	- [Animate Archive](https://animatearchive.neocities.org/) is a collection of Flash Installers from FutureSplash Animator (1996) to Adobe Flash CS6 Professional (2012).
 	- [BBC Micro Games Archive](http://bbcmicro.co.uk) ([Source](https://github.com/pau1ie/bbcmicro.co.uk) at Github)
 	- [DPLA](https://dp.la) (Digital Public Library of America) has over 45+ millions of images, texts, videos, and sounds from across the United States.
 	- [History of the Web](https://thehistoryoftheweb.com), [Timeline View](https://thehistoryoftheweb.com/timeline/)

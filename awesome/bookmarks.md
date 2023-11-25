@@ -75,8 +75,8 @@
 		- [VirusTotal](https://www.virustotal.com) Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches.
 	- [ShareDrop](https://www.sharedrop.io) P2P File transfer across devices in the same Network.
 	- Speedtest
-		- [Fast](https://fast.com)
-		- [Speed](https://speed.cloudflare.com)
+		- [Fast](https://fast.com) by Netflix
+		- [Speed](https://speed.cloudflare.com) by Cloudflare
 		- [Speedtest](https://www.speedtest.net)
 		- [Test My Net](https://testmy.net/)
 	- [Tineye](https://tineye.com) Reverse Image Search

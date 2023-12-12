@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress'
 import { defineConfig, type DefaultTheme } from 'vitepress'
-
 import { generateSidebar } from 'vitepress-sidebar'
 import footnote from 'markdown-it-footnote'
 
@@ -72,7 +71,7 @@ export default defineConfig({
       // includeDotFiles: false,
       // includeRootIndexFile: false,
       // includeFolderIndexFile: false,
-      includeEmptyFolder: true,
+      // includeEmptyFolder: true,
       // rootGroupText: 'Contents',
       // rootGroupLink: 'https://github.com/jooy2',
       // rootGroupCollapsed: false,

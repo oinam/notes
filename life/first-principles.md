@@ -9,7 +9,3 @@ In mathematics, first principles are referred to as axioms or postulates.
 In physics and other sciences, theoretical work is said to be from first principles, or _ab initio_, if it starts directly at the level of established science and does not make assumptions such as empirical model and parameter fitting.
 
 > “I think it’s important to reason from first principles rather than by analogy. The normal way we conduct our lives is we reason by analogy.” - Elon Musk
-
-### References
-
-- [The Ultimate Guide to First-Principles Thinking](https://fpt.guide)

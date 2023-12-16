@@ -13,6 +13,7 @@
 	- [Web Design Museum](https://www.webdesignmuseum.org) Discover Forgotten Trends in Web Design.
 	- [Whole Earth](https://wholeearth.info) is a nearly-complete archive of Whole Earth publications, a series of journals and magazines descended from the Whole Earth Catalog, published by Stewart Brand and the POINT Foundation between 1970 and 2002. Also at [The Internet Archive's Whole Earth collection](https://archive.org/details/wholeearth).
 	- [WinWorld Library](https://winworldpc.com/library/)
+	- [World Wide Web Project Proposal](http://info.cern.ch/hypertext/WWW/TheProject.html) - [history](http://info.cern.ch/hypertext/WWW/History.html), [Proposal for a HyperText Project](http://info.cern.ch/hypertext/WWW/Proposal.html) by [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) (1989)
 - Books
 	- [Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) is a collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 	- [Book Search](https://books-search.typesense.org) over 28+ Million Books from [Open Library](https://openlibrary.org).

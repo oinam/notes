@@ -1,3 +1,0 @@
-# Community
-
-The [Experimental Farm Network](https://experimentalfarmnetwork.org/) (EFN) works to facilitate collaborative plant breeding and sustainable agriculture research in order to fight global climate change, preserve the natural environment, and ensure food security for humanity into the distant future. They believe participatory plant breeding on a massive scale can lead to breakthroughs to help us not only adapt to climate change, but one day actually stabilize the climate. They are a non-profit organization based in Philadelphia, PA, USA.

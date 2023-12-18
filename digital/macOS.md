@@ -2,7 +2,7 @@
 
 ## User Interface
 
-**Dark Theme fro Menubar and Dock but overall Light Theme.**
+**Dark Theme for Menubar and Dock but overall Light Theme.**
 
 1. System Preferences, then set the theme to **LIGHT**, then run
 2. `defaults write -g NSRequiresAquaSystemAppearance -bool Yes`

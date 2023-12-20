@@ -58,6 +58,7 @@
 	- [Open Source Music Production Tools](https://midination.com/free-music-production-software/)
 	- [Open Source Stash](https://opensourcestash.com)
 	- [Open Sustainable Technology](https://opensustain.tech), [Github Source](https://github.com/protontypes/awesome-sustainable-technology)
+	- [PageSpeed Insights](https://pagespeed.web.dev) by Google
 	- Audio
 		- [Wavacity](https://wavacity.com) – a FOSS port of Audacity to the web.
 	- PDF
@@ -96,6 +97,7 @@
 	- [Sunset Videos](https://sunset.funwebsite.fun) (live) from around the world.
 	- [Tomu](https://tomu.im) is a family of devices which fit inside your USB port. The Tomu family are a group of tiny boards designed to fit inside your USB port. All of the Tomu family have both open source firmware and open source hardware.
 	- [The Electronic Connector Book](https://connectorbook.com) by Davide Andrea is a practical guide and catalog of all the connecting components used in the electronic industry.
+	- [xLights](https://xlights.org) is a free and open source program that enables you to design, create and play amazing lighting displays through the use of DMX controllers, E1.31 Ethernet controllers and more.
 - Others (Sort ’EM)
 	- [Awesome CTO](https://github.com/kuchin/awesome-cto) resources for Startup CTOs.
 	- [Awesome Github Actions](https://github.com/sdras/awesome-actions)

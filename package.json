@@ -5,7 +5,7 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-rc.31",
+    "vitepress": "^1.0.0-rc.33",
     "markdown-it-footnote": "^4.0.0",
     "vitepress-sidebar": "^1.18.5"
   }

@@ -1,13 +1,13 @@
 # PARA
 
-While there are a lot of organizational patterns and processes, I found [PARA](https://fortelabs.com/blog/para/) to be simple enough, easy to get started, and extend when needed.
+While there are a lot of organizational patterns and processes, [PARA](https://fortelabs.com/blog/para/) is a simple, easy to get started, and extends when needed.
 
 - Projects
-	- For each folder in the project folder, there is a clear definition of “done.” To keep a chronological overview, you label each folder with start and end dates.
+	- For each folder in the `PROJECTS` folder, there is a clear definition of “done.” To keep a chronological overview, you label each folder with start and end dates.
 	- Folder: “Project Name (YYYY-MM)”
 	- Folder for Completed: “Project Name (YYYY-MM - YYYY-MM)”
 - Areas
-	- Folders in the “Area” are kind of the opposite of projects. Area folders label ongoing work without predefined end dates. You never finish “area folders” because of the work’s repetitive nature.
+	- Folders in the `AREAS` are kind of the opposite of projects. Area folders label ongoing work without predefined end dates. You never finish “area folders” because of the work’s repetitive nature.
 	- In your private storage, folders in your Area would be house, car, travel, hobbies, friends, product development. As a business owner, you would have a folder for employees or office management here.
 - Resources
 	- `RESOURCES` is where the bundled knowledge comes together.

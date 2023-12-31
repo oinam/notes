@@ -9,7 +9,7 @@ We also try to backups of our content in either open or universal formats to be 
 Here are some of the key non-apple applications that we use regularly;
 
 - [1Password](https://1password.com). At the start of the 21st century, we started with [Keepass](https://keepass.info) as the entry into the world of Password Management but moved to 1Password (2006) since its beta and haven't looked back.
-  [Bitwarden](https://bitwarden.com) is Open Source Password Manager. Waiting for Bitwarden to polish its UX a little bit more and will likely transition from 1Password.
+- [Bitwarden](https://bitwarden.com) is Open Source Password Manager. Waiting for Bitwarden to polish its UX a little bit more and will likely transition from 1Password.
 - [Alfred](https://www.alfredapp.com), with its PowerPack, is the primary utility that drives the regular task that happens on the MacOS. If you do have PowerPack, look into its [WorkFlows](https://www.alfredapp.com/workflows/).
 - [Bartender](https://www.macbartender.com) (Free Alternatives: [Hidden Bar](https://superbits.co/hidden/)) for Better Menubar management, hide infrequently used apps.
 - [Dropbox](https://www.dropbox.com/) for file storage management and sync across devices. App specific, settings, common family files and documents are left on iCloud.
@@ -24,3 +24,7 @@ Here are some of the key non-apple applications that we use regularly;
 - [Stats](https://github.com/exelban/stats) is a free and open source macOS system monitor in your menu bar.
 - [Sindre Sorhus](https://sindresorhus.com) is a one-guy wonder that builds some of the most well-designed macOS Apps (many free ones).
 - [Low Tech Guys](https://lowtechguys.com) are two smart guys with some pretty nice macOS apps.
+- Awesome
+	- [macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps)
+	- [macOS apps](https://github.com/learn-anything/macos-apps)
+	- [Mac](https://wangchujiang.com/awesome-mac/) ([source](https://github.com/jaywcjlove/awesome-mac))

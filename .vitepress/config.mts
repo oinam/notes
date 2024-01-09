@@ -43,7 +43,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/oinam/notes/' },
       { icon: 'twitter', link: 'https://twitter.com/oinam/' },
-      { icon: 'instagram', link: 'https://www.instagram.com/oinam/' },
+      { icon: 'instagram', link: 'https://www.instagram.com/oinam' },
     ],
 
     // https://github.com/jooy2/vitepress-sidebar

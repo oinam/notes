@@ -42,6 +42,8 @@
 	- [Is BGP safe yet?](https://isbgpsafeyet.com) Test if your ISP implements BGP safely.
 	- [Unblock Domain](https://gist.github.com/grovesNL/2d00b568038bd28896d44d1b5b3299cd) If you've recently registered a domain, you might want to contact common security filters proactively and request that the domain be categorized with some appropriate category.
 - Tools
+	- [ADDR.tools](https://addr.tools) - possibly useful tools for the Internet.
+		- [DNSCheck.tools](https://dnscheck.tools/) is a tool to test for DNS leaks, DNSSEC validation, and more.
 	- [AdBlock Tester](https://adblock-tester.com)
 	- [ASCIInema](asciinema.org) - record and share your terminal sessions, the simple way.
 	- [BBC Sound Effects](http://bbcsfx.acropolis.org.uk) are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence. The Sound Effects are BBC copyright, but they may be used for personal, educational or research purposes, as detailed in the license.

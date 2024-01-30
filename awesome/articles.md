@@ -9,6 +9,7 @@
 - [Extreme questions to trigger new, better ideas](https://longform.asmartbear.com/posts/extreme-questions/) by Jason Cohen is a brilliant article on how to come up with fresh, transformative ideas? ([archive](https://archive.ph/kVVMT))
 - [Fast](https://patrickcollison.com/fast) - Some examples of people quickly accomplishing ambitious things together. ([archive](https://archive.ph/0m6GN))
 - [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) by Sam Altman ([archive](https://archive.ph/CJCpG))
+- [How to do things if you're not that smart and don't have any talent](https://adaobi.substack.com/p/how-to-do-things-if-youre-not-that) ([archive](https://archive.ph/ZSziF))
 - [Nobody Cares](https://a16z.com/2011/10/08/nobody-cares/) by Ben Horowitz. When things go wrong in your company, nobody cares. The press doesn’t care, your investors don’t care, your board doesn’t care, your employees don’t care, even your mama doesn’t care. Nobody cares. ([archive](https://archive.ph/1Ck52))
 - [Paul Graham](http://www.paulgraham.com) has some pretty great [essays](http://www.paulgraham.com/articles.html), especially for founders and entrepreneurs.
 	+ [Cities and Ambition](http://paulgraham.com/cities.html) ([archive](https://archive.ph/MsL0h))

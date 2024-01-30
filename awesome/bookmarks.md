@@ -56,6 +56,7 @@
 	- [ICANN DOMAINS](https://publicsuffix.org/list/public_suffix_list.dat)
 	- [LinkChecker](https://linkchecker.github.io/linkchecker/) is a free, GPL licensed website validator. LinkChecker checks links in web documents or full websites. It runs on Python 3 systems, requiring Python 3.7 or later. ([Source](https://github.com/linkchecker/linkchecker))
 	- [LocalSend](https://localsend.org/#/) Share files to nearby devices. Free, [open source](https://github.com/localsend/localsend), cross-platform.
+	- [ShareDrop](https://www.sharedrop.io) is a free, [open-source](https://github.com/szimek/sharedrop) web app that allows you to easily and securely share files directly between devices without uploading them to any server first.
 	- [Look Scanned](https://lookscanned.io) makes your PDFs look scanned!
 	- [Nearly Free Speech](https://www.nearlyfreespeech.net) is about three things: fairness, innovation, and free speech.
 	- [NSLookup](https://www.nslookup.io) - find all DNS records for a domain name.
@@ -96,7 +97,9 @@
 - Fun, Lab & Experiments
 	- [2050.Earth](https://2050.earth/) is a site about the future as seen through the eyes of futurologists, scientists, and Internet users from all corners of the globe.
 	- [America Road Trip Simulation](https://4m3ric4.com)
+	- Copy-n-Paste [TextArt](https://textart.sh)
 	- [How Stuff Works](https://www.howstuffworks.com)
+	- [I have NO TV](https://ihavenotv.com) - watch free online documentaries.
 	- [Let’s get Creative](https://www.bryanbraun.com/lets-get-creative/) is a collection of high-quality, free, online creativity tools.
 	- [Population](https://population.io) - The journey of your life in numbers and dates!
 	- [Satellite Tracker](https://satellitetracker3d.com) in 3D

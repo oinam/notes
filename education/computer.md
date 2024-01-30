@@ -19,6 +19,7 @@
 - [Computer Science, Harvard](https://cs50.harvard.edu/)
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com) ([source](https://github.com/ianw/bottomupcs)) by Ian Wienand
 - Free [Computer Science Curriculum](https://academy.cs.cmu.edu), Carnegie Mellon University
+- [Teach Yourself Computer Science](https://teachyourselfcs.com) If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program.
 
 ## Javascript
 

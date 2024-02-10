@@ -10,4 +10,4 @@
 - Please respond to the strongest plausible interpretation of what someone says, not a weaker one that's easier to criticize. Assume good faith.
 - Eschew [flamebait](https://www.urbandictionary.com/define.php?term=flame%20bait). Avoid unrelated controversies and generic tangents.
 - Don’t use UPPERCASE for emphasis. If you want to emphasize a word or phrase, make it **bold** or *italic*. Most of the times, it is never needed.
-- [Don't ask to ask, just ask](https://dontasktoask.com).
+- [Don't ask to ask, just ask](https://dontasktoask.com). ([archive](https://web.archive.org/web/20190118064639/https://www.dontasktoask.com/))

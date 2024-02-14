@@ -64,3 +64,4 @@ disable the service\
 
 - [Mac keyboard shortcuts](https://support.apple.com/en-au/HT201236)
 - [Awesome macOS Command Line](https://git.herrbischoff.com/awesome-macos-command-line/about/) ([archive](https://archive.ph/PXzE7))
+- [Solving Trash Problems](http://www.thexlab.com/faqs/trash.html#Anchor-Trash-33869

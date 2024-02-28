@@ -55,8 +55,6 @@
 	- [I Know What You Downloaded](https://iknowwhatyoudownload.com/)
 	- [ICANN DOMAINS](https://publicsuffix.org/list/public_suffix_list.dat)
 	- [LinkChecker](https://linkchecker.github.io/linkchecker/) is a free, GPL licensed website validator. LinkChecker checks links in web documents or full websites. It runs on Python 3 systems, requiring Python 3.7 or later. ([Source](https://github.com/linkchecker/linkchecker))
-	- [LocalSend](https://localsend.org/#/) Share files to nearby devices. Free, [open source](https://github.com/localsend/localsend), cross-platform.
-	- [ShareDrop](https://www.sharedrop.io) is a free, [open-source](https://github.com/szimek/sharedrop) web app that allows you to easily and securely share files directly between devices without uploading them to any server first.
 	- [Look Scanned](https://lookscanned.io) makes your PDFs look scanned!
 	- [Nearly Free Speech](https://www.nearlyfreespeech.net) is about three things: fairness, innovation, and free speech.
 	- [NSLookup](https://www.nslookup.io) - find all DNS records for a domain name.
@@ -65,6 +63,15 @@
 	- [Open Source Stash](https://opensourcestash.com)
 	- [Open Sustainable Technology](https://opensustain.tech), [Github Source](https://github.com/protontypes/awesome-sustainable-technology)
 	- [PageSpeed Insights](https://pagespeed.web.dev) by Google
+	- Devices
+		- [Monitor Test](https://www.eizo.be/monitor-test/)
+	- Files
+		- [File Pizza](https://file.pizza) is an [open-source](https://github.com/kern/filepizza) peer-to-peer file transfers in your browser.
+		- [LocalSend](https://localsend.org/#/) Share files to nearby devices. Free, [open source](https://github.com/localsend/localsend), cross-platform.
+		- [ShareDrop](https://www.sharedrop.io) is a free, [open-source](https://github.com/szimek/sharedrop) web app that allows you to easily and securely share files directly between devices without uploading them to any server first.
+		- [Snapdrop](https://snapdrop.net) is an [open-source](https://github.com/RobinLinus/snapdrop) Progressive Web App for local file sharing.
+		- [WebWormhole](https://webwormhole.io) is an [open-source](https://github.com/saljam/webwormhole) utility that lets you send files from one computer to another.
+		- [Wormhole](https://wormhole.app) lets you share files with end-to-end encryption and a link that automatically expires.
 	- Audio
 		- [Wavacity](https://wavacity.com) – a FOSS port of Audacity to the web.
 	- PDF

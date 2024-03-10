@@ -10,10 +10,14 @@
 	- [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) is the world’s biggest collection of disappearing sounds and sounds that have become extinct – remixed and reimagined to create a brand new form of listening.
 	- [Software Library](https://archive.org/details/softwarelibrary) (Internet Archive)
 	- [Version Museum](https://www.versionmuseum.com/) showcases the visual history of popular websites, operating systems, applications, and games that have shaped our lives.
+	- [Vintage Apple](https://vintageapple.org) collects information from the early Apple era.
 	- [Web Design Museum](https://www.webdesignmuseum.org) Discover Forgotten Trends in Web Design.
 	- [Whole Earth](https://wholeearth.info) is a nearly-complete archive of Whole Earth publications, a series of journals and magazines descended from the Whole Earth Catalog, published by Stewart Brand and the POINT Foundation between 1970 and 2002. Also at [The Internet Archive's Whole Earth collection](https://archive.org/details/wholeearth).
 	- [WinWorld Library](https://winworldpc.com/library/)
 	- [World Wide Web Project Proposal](http://info.cern.ch/hypertext/WWW/TheProject.html) - [history](http://info.cern.ch/hypertext/WWW/History.html), [Proposal for a HyperText Project](http://info.cern.ch/hypertext/WWW/Proposal.html) by [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) (1989)
+- Alternatives
+	- [Alternative To](https://alternativeto.net)
+	- [Open Source Alternative To](https://www.opensourcealternative.to) - Discover 500+ popular open source alternatives to your proprietary SaaS.
 - Books
 	- [Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) is a collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 	- [Book Search](https://books-search.typesense.org) over 28+ Million Books from [Open Library](https://openlibrary.org).
@@ -46,6 +50,7 @@
 		- [DNSCheck.tools](https://dnscheck.tools/) is a tool to test for DNS leaks, DNSSEC validation, and more.
 	- [AdBlock Tester](https://adblock-tester.com)
 	- [ASCIInema](asciinema.org) - record and share your terminal sessions, the simple way.
+	- [ASCIIFlow](https://asciiflow.com/)
 	- [BBC Sound Effects](http://bbcsfx.acropolis.org.uk) are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence. The Sound Effects are BBC copyright, but they may be used for personal, educational or research purposes, as detailed in the license.
 	- [CyberChef](https://cyberchef.org) - The Cyber Swiss Army Knife.
 	- [blip](http://gfblip.appspot.com): a tool for seeing your Internet latency. [source](https://github.com/apenwarr/blip)

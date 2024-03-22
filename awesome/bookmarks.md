@@ -72,7 +72,8 @@
 		- [Monitor Test](https://www.eizo.be/monitor-test/)
 	- Files
 		- [File Pizza](https://file.pizza) is an [open-source](https://github.com/kern/filepizza) peer-to-peer file transfers in your browser.
-		- [LocalSend](https://localsend.org/#/) Share files to nearby devices. Free, [open source](https://github.com/localsend/localsend), cross-platform.
+		- [LanDrop](https://landrop.app) is an [open-source](https://github.com/LANDrop) way to drop any files to any devices on your LAN.
+		- [LocalSend](https://localsend.org/) Share files to nearby devices. Free, [open source](https://github.com/localsend/localsend), cross-platform.
 		- [ShareDrop](https://www.sharedrop.io) is a free, [open-source](https://github.com/szimek/sharedrop) web app that allows you to easily and securely share files directly between devices without uploading them to any server first.
 		- [Snapdrop](https://snapdrop.net) is an [open-source](https://github.com/RobinLinus/snapdrop) Progressive Web App for local file sharing.
 		- [WebWormhole](https://webwormhole.io) is an [open-source](https://github.com/saljam/webwormhole) utility that lets you send files from one computer to another.
@@ -116,6 +117,7 @@
 	- [Population](https://population.io) - The journey of your life in numbers and dates!
 	- [Satellite Tracker](https://satellitetracker3d.com) in 3D
 	- [Sunset Videos](https://sunset.funwebsite.fun) (live) from around the world.
+	- [Tiny Undervalued Hardware Companions](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/) appreciate the small but handy valuable stuff, like adapters or handlers. ([archive](https://archive.ph/lkiA6))
 	- [Tomu](https://tomu.im) is a family of devices which fit inside your USB port. The Tomu family are a group of tiny boards designed to fit inside your USB port. All of the Tomu family have both open source firmware and open source hardware.
 	- [The Electronic Connector Book](https://connectorbook.com) by Davide Andrea is a practical guide and catalog of all the connecting components used in the electronic industry.
 	- [xLights](https://xlights.org) is a free and open source program that enables you to design, create and play amazing lighting displays through the use of DMX controllers, E1.31 Ethernet controllers and more.

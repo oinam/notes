@@ -64,7 +64,7 @@ export default defineConfig({
       sortMenusByName: true,
       // sortMenusByFrontmatterOrder: false,
       // sortMenusOrderByDescending: false,
-      sortMenusOrderNumerically: true,
+      sortMenusOrderNumericallyFromTitle: true,
       // manualSortFileNameByPriority: ['first.md', 'second', 'third.md'],
       excludeFiles: ['README.md'],
       excludeFolders: ['node_modules', 'public'],
@@ -80,6 +80,6 @@ export default defineConfig({
       // keepMarkdownSyntaxFromTitle: false,
       debugPrint: false,
     }),
-    
+
   }
 })

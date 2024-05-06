@@ -48,6 +48,7 @@
 - Tools
 	- [ADDR.tools](https://addr.tools) - possibly useful tools for the Internet.
 		- [DNSCheck.tools](https://dnscheck.tools/) is a tool to test for DNS leaks, DNSSEC validation, and more.
+		- [myip.addr.tools](https://myip.addr.tools/help) get your public IP address
 	- [AdBlock Tester](https://adblock-tester.com)
 	- [ASCIInema](asciinema.org) - record and share your terminal sessions, the simple way.
 	- [ASCIIFlow](https://asciiflow.com/)
@@ -74,6 +75,7 @@
 		- [File Pizza](https://file.pizza) is an [open-source](https://github.com/kern/filepizza) peer-to-peer file transfers in your browser.
 		- [LanDrop](https://landrop.app) is an [open-source](https://github.com/LANDrop) way to drop any files to any devices on your LAN.
 		- [LocalSend](https://localsend.org/) Share files to nearby devices. Free, [open source](https://github.com/localsend/localsend), cross-platform.
+		- [Pairdrop](https://pairdrop.net)
 		- [ShareDrop](https://www.sharedrop.io) is a free, [open-source](https://github.com/szimek/sharedrop) web app that allows you to easily and securely share files directly between devices without uploading them to any server first.
 		- [Snapdrop](https://snapdrop.net) is an [open-source](https://github.com/RobinLinus/snapdrop) Progressive Web App for local file sharing.
 		- [WebWormhole](https://webwormhole.io) is an [open-source](https://github.com/saljam/webwormhole) utility that lets you send files from one computer to another.
@@ -102,6 +104,8 @@
 		- [Speed](https://speed.cloudflare.com) by Cloudflare
 		- [Speedtest](https://www.speedtest.net)
 		- [Test My Net](https://testmy.net/)
+	- SVG
+		- [SVGViewer](https://www.svgviewer.dev) is an online SVG Optimizer.
 	- [Tineye](https://tineye.com) Reverse Image Search
 	- [Txtify](https://txtify.it) Convert web articles to plain text
 	- [USB-C](https://usbc.guide) tries to help you find the right USB-C for you or you can just browse and learn more.
@@ -125,6 +129,7 @@
 	- [Awesome CTO](https://github.com/kuchin/awesome-cto) resources for Startup CTOs.
 	- [Awesome Github Actions](https://github.com/sdras/awesome-actions)
 	- [Awesome List](https://github.com/sindresorhus/awesome) about all kinds of interesting topics.
+	- [Awesome Mac](https://wangchujiang.com/awesome-mac/) ([source](https://github.com/jaywcjlove/awesome-mac))
 	- [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 	- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 	- [Awesome Selfhosted](https://awesome-selfhosted.net) ([source](https://github.com/awesome-selfhosted/awesome-selfhosted-html))

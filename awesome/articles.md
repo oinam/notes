@@ -1,5 +1,6 @@
 # Articles
 
+- [7 Reasons Why You Will Never Do Anything Amazing With Your Life](https://medium.com/raymmars-reads/7-reasons-why-you-will-never-do-anything-amazing-with-your-life-2a1841f1335d) ([archive](https://archive.ph/IwLfp))
 - [95%-ile isn't that good](https://danluu.com/p95-skill/) ([archive](https://archive.ph/siizR))
 - [Becoming a Magician](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/) on how to become a person that your current self would perceive as magical. ([archive](https://archive.ph/UzJfb))
 - [Beginner's Guide to Arguing Constructively](https://liamrosen.com/arguments.html) is an interesting article on how to treat arguments as an opportunity to expand knowledge, finding points of disagreement, and collaborating towards a common truth. ([archive](https://archive.ph/uWYFf))

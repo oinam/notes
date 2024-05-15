@@ -32,6 +32,7 @@
 	- [Smithsonian Open Access](https://www.si.edu/openaccess) download, share, and reuse millions of the Smithsonian’s images, without asking.
 - Information
 	- [WikEM](https://wikem.org/), The Global Emergency Medicine Wiki, is the world's largest and most popular emergency medicine open-access reference resource.
+	- [Instead of Very](https://insteadofvery.com) help you use the correct words instead of using the intensifiers “very”.
 - Printable
 	- [Graph Paper](https://incompetech.com/graphpaper/)
 	- [PaperQuik](https://paperquik.com/) The Paper You Need - Available Right Away.

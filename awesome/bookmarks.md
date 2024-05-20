@@ -39,6 +39,9 @@
 	- [Printable Puzzle Project](https://www.puzzlehub.org) A curated collection of designer mechanical puzzles, rendered in precisely tuned, fully tested models for 3D printing.
 	- [Sketchize](https://www.sketchize.com) is built for UI/UX Designers to help them design lovely apps for mobile, tablet, and desktop devices.
 	- David Shea’s [Downloadable Productivity Tools](https://davidseah.com/productivity-tools/) are designed to be used throughout the day in printed form. You can use them with an existing system, and you don’t have to use all of them together.
+- Satellites
+	- [Satellite Tracker](https://satellitetracker3d.com) in 3D
+	- [Satellite Tracker](https://platform.leolabs.space/visualizations/leo) by LeoLabs.
 - Security & Privacy
 	- [Simple Opt Out](https://simpleoptout.com) ([source](https://github.com/troy/simpleoptout)) Opt out of all the data sharing you wouldn't opt in to. This is very USA-Specific but, well, almost all of Internet tools that we use are USA-ed.
 	- [AmIUnique](https://www.amiunique.org) Learn how identifiable you are on the Internet.
@@ -120,7 +123,6 @@
 	- [I have NO TV](https://ihavenotv.com) - watch free online documentaries.
 	- [Let’s get Creative](https://www.bryanbraun.com/lets-get-creative/) is a collection of high-quality, free, online creativity tools.
 	- [Population](https://population.io) - The journey of your life in numbers and dates!
-	- [Satellite Tracker](https://satellitetracker3d.com) in 3D
 	- [Sunset Videos](https://sunset.funwebsite.fun) (live) from around the world.
 	- [Tiny Undervalued Hardware Companions](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/) appreciate the small but handy valuable stuff, like adapters or handlers. ([archive](https://archive.ph/lkiA6))
 	- [Tomu](https://tomu.im) is a family of devices which fit inside your USB port. The Tomu family are a group of tiny boards designed to fit inside your USB port. All of the Tomu family have both open source firmware and open source hardware.

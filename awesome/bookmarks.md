@@ -50,6 +50,8 @@
 	- [Is BGP safe yet?](https://isbgpsafeyet.com) Test if your ISP implements BGP safely.
 	- [Unblock Domain](https://gist.github.com/grovesNL/2d00b568038bd28896d44d1b5b3299cd) If you've recently registered a domain, you might want to contact common security filters proactively and request that the domain be categorized with some appropriate category.
 - Tools
+	- [What is my ZIP](https://www.whatismyzip.com)
+	- [What is my Address](https://whatismyaddress.net)
 	- [ADDR.tools](https://addr.tools) - possibly useful tools for the Internet.
 		- [DNSCheck.tools](https://dnscheck.tools/) is a tool to test for DNS leaks, DNSSEC validation, and more.
 		- [myip.addr.tools](https://myip.addr.tools/help) get your public IP address

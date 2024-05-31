@@ -43,12 +43,16 @@
 	- [Satellite Tracker](https://satellitetracker3d.com) in 3D
 	- [Satellite Tracker](https://platform.leolabs.space/visualizations/leo) by LeoLabs.
 - Security & Privacy
-	- [Simple Opt Out](https://simpleoptout.com) ([source](https://github.com/troy/simpleoptout)) Opt out of all the data sharing you wouldn't opt in to. This is very USA-Specific but, well, almost all of Internet tools that we use are USA-ed.
 	- [AmIUnique](https://www.amiunique.org) Learn how identifiable you are on the Internet.
 	- [Cover Your Tracks](https://coveryourtracks.eff.org) See how trackers view your browser.
+	- [CyberSecTools](https://cybersectools.com) - The Largest Curated Directory of Cybersecurity Tools and Resources.
 	- [Email Marketing Regulations](https://github.com/threeheartsdigital/email-marketing-regulations) around the world.
+	- [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/overview)
 	- [Is BGP safe yet?](https://isbgpsafeyet.com) Test if your ISP implements BGP safely.
+	- [Simple Opt Out](https://simpleoptout.com) ([source](https://github.com/troy/simpleoptout)) Opt out of all the data sharing you wouldn't opt in to. This is very USA-Specific but, well, almost all of Internet tools that we use are USA-ed.
 	- [Unblock Domain](https://gist.github.com/grovesNL/2d00b568038bd28896d44d1b5b3299cd) If you've recently registered a domain, you might want to contact common security filters proactively and request that the domain be categorized with some appropriate category.
+	- [URLScan](https://urlscan.io)
+	- [VirusTotal](https://www.virustotal.com) Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches.
 - Tools
 	- [What is my ZIP](https://www.whatismyzip.com)
 	- [What is my Address](https://whatismyaddress.net)
@@ -100,10 +104,6 @@
 		- [Photoroom](https://www.photoroom.com) - create professional images with AI photo editor.
 	- [QR Code Generator](https://qr-code-generator.org)
 	- [Quick Reference](https://quickref.me/) cheatsheets and quick references contributed by open source angels.
-	- Safety
-		- [URLScan](https://urlscan.io)
-		- [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/overview)
-		- [VirusTotal](https://www.virustotal.com) Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches.
 	- [ShareDrop](https://www.sharedrop.io) P2P File transfer across devices in the same Network.
 	- Speedtest
 		- [Fast](https://fast.com) by Netflix
@@ -117,6 +117,8 @@
 	- [USB-C](https://usbc.guide) tries to help you find the right USB-C for you or you can just browse and learn more.
 	- [Webperf Tests](https://www.swyx.io/webperf-tests) tools to test Webpage Performance.
 	- [Who is my ISP](https://www.whoismyisp.org)
+- Environment
+	- [ShadeMap](https://shademap.app/) Simulate sun shadows for any time and place on Earth.
 - Fun, Lab & Experiments
 	- [2050.Earth](https://2050.earth/) is a site about the future as seen through the eyes of futurologists, scientists, and Internet users from all corners of the globe.
 	- [America Road Trip Simulation](https://4m3ric4.com)

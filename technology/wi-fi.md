@@ -22,3 +22,4 @@ For more detailed reading, here are the references;
 - [Small Net Builder](https://www.smallnetbuilder.com)
 - [Wireless is a Trap](https://www.benkuhn.net/wireless/) ([archive](https://archive.ph/lRNHd))
 - [Router Security Checklist](https://routersecurity.org/checklist.php) ([archive](https://archive.ph/Qvqyn))
+- [Routers Cyber Security Best Practices](https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019) ([archive](https://archive.is/oTPkb))

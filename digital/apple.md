@@ -9,7 +9,6 @@ We also try to backups of our content in either open or universal formats to be 
 Here are some of the key non-apple applications that we use regularly;
 
 - [Alfred](https://www.alfredapp.com), with its PowerPack, is the primary utility that drives the regular task that happens on the MacOS. If you do have PowerPack, look into its [WorkFlows](https://www.alfredapp.com/workflows/).
-- [Bartender](https://www.macbartender.com) (free Alternatives: [Hidden Bar](https://superbits.co/hidden/)) for Better Menubar management, hide infrequently used apps.
 - [Rectangle](https://rectangleapp.com) for windows management and positioning. This is a simple but fantastic tool. If you are looking for a few more features and customization will also like the paid [Rectangle Pro](https://rectangleapp.com/pro) version.
 
 #### References

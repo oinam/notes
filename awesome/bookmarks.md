@@ -62,6 +62,7 @@
 	- [AdBlock Tester](https://adblock-tester.com)
 	- [ASCIInema](asciinema.org) - record and share your terminal sessions, the simple way.
 	- [ASCIIFlow](https://asciiflow.com/)
+	- [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/) is an app that converts images into ASCII silhouettes, a style of ASCII art distinguished by uniformly filled geometric shapes rather than lines or textures.
 	- [BBC Sound Effects](http://bbcsfx.acropolis.org.uk) are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence. The Sound Effects are BBC copyright, but they may be used for personal, educational or research purposes, as detailed in the license.
 	- [CyberChef](https://cyberchef.org) - The Cyber Swiss Army Knife.
 	- [blip](http://gfblip.appspot.com): a tool for seeing your Internet latency. [source](https://github.com/apenwarr/blip)

@@ -67,6 +67,7 @@
 	- [CyberChef](https://cyberchef.org) - The Cyber Swiss Army Knife.
 	- [blip](http://gfblip.appspot.com): a tool for seeing your Internet latency. [source](https://github.com/apenwarr/blip)
 	- [DNSChecker](https://dnschecker.org) provides a free DNS propagation check service to check Domain Name System records against a selected list of DNS servers in multiple regions worldwide.
+	- [DNSPerf](https://www.dnsperf.com/) - DNS Performance Analytics and Comparison.
 	- [DNSViz](https://dnsviz.net) is a tool for visualizing the status of a DNS zone.
 	- [How I Experience Web Today](https://how-i-experience-web-today.com)
 	- [I Know What You Downloaded](https://iknowwhatyoudownload.com/)

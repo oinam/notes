@@ -23,6 +23,14 @@ Screenshots Location\
 Quit Printer App After Print Jobs Complete\
 `defaults write com.apple.print.PrintingPrefs "Quit When Finished" -bool true`
 
+## Finder
+
+Stop ds_store creation on shared network drives\
+`defaults write com.apple.desktopservices DSDontWriteNetworkStores true`
+
+Revert back to default\
+`defaults write com.apple.desktopservices DSDontWriteNetworkStores false`
+
 ## Dock
 
 Disable Dock Auto Hide Animation\

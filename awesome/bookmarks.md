@@ -22,6 +22,7 @@
 	- [Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) is a collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 	- [Book Search](https://books-search.typesense.org) over 28+ Million Books from [Open Library](https://openlibrary.org).
 	- [Books - Programming](https://ebookfoundation.github.io/free-programming-books/) ([Source](https://github.com/EbookFoundation/free-programming-books))
+	- [Project Gutenberg](https://www.gutenberg.org) is a library of over 70,000 free eBooks.
 	- [Standard Books](https://standardebooks.org) is a project that takes transcriptions of public domain literature, like the kind typically available at [Project Gutenberg](https://gutenberg.org), and creates beautiful, modern ebooks out of them using a detailed [style manual](https://standardebooks.org/manual/). 
 - Entertainment (Movies, TV)
 	- [35mm](https://35mm.online/en) has thousands of classic Polish and other films.

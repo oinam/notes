@@ -25,3 +25,5 @@ Install the needed plugins with `npm i -D plugin-name` and follow their usage in
 - [Andyʼs Working Notes](https://notes.andymatuschak.org/)
 - [The Garden](https://maggieappleton.com/garden) of Maggie Appleton
 - [Buster's Notes](https://busterbenson.com)
+
+Host: Netlify (2024JUL)

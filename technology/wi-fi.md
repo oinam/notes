@@ -1,6 +1,6 @@
 # Wi-Fi
 
-“Behind every good wi-fi network is an excellent wired backbond infrastructure.” - the Tao of Wi-Fi
+“Behind every good wi-fi network is an excellent wired backbone infrastructure.” - the Tao of Wi-Fi
 
 > Once you get serious, pretty much, all consumer grade routers will piss you off eventually. Get a business grade router and get your wifi via access points.
 

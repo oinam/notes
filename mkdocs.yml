@@ -1,0 +1,37 @@
+# MkDocs, https://www.mkdocs.org/
+# Configuration, https://www.mkdocs.org/user-guide/configuration/
+
+site_name: Oinam Notes
+site_url: https://notes.oinam.com/
+site_author: Oinam
+
+use_directory_urls: true
+
+theme:
+  name: material # https://squidfunk.github.io/mkdocs-material/
+  logo: assets/oinam-logo.svg
+  favicon: assets/favicon.png
+
+  features:
+    - navigation.footer
+
+  font:
+    text: Inter
+
+  palette:
+    primary: white
+    accent: blue
+
+# plugins:
+
+copyright: Oinam — Since 2003
+  
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/oinam
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/oinam
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/oinam

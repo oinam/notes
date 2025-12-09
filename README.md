@@ -2,19 +2,6 @@
 
 An ever work-in-progress of _tit-bits, wiki-ish, data, learnings, and observations_ by [Oinam](https://oinam.com/). The [Notes](https://notes.oinam.com) are [open source](https://github.com/oinam/notes).
 
-## Development
-
-Powered by [MkDocs](https://www.mkdocs.org) with the theme [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
-
-- Run locally: `mkdocs serve`
-- Build: `mkdocs build`
-
-## Deployment (CloudFlare as of Dec 9, 2025)
-
-- In local Dev run, `pip freeze > requirements.txt`
-- Go to Environment variables (advanced) > Add variable > and add the variable `PYTHON_VERSION` with a value of `3.7`.
-- Cloudflare Build `pip install -r requirements.txt && mkdocs build --site-dir site`
-
 ### Inspiration & References
 
 - [Digital Gardening Tools and Resources](https://github.com/MaggieAppleton/digital-gardeners)

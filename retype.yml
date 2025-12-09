@@ -1,19 +1,36 @@
 input: .
 output: .retype
 
-url: docs.example.com # Use your website address here
+url: notes.oinam.com
 
 start:
   # Uncomment the next line to try Retype Pro features
   # pro: true
 
 branding:
-  title: Project Name
-  label: &1959871358 Docs
+  title: Oinam
+  label: Notes
+
+  logo: assets/oinam-logo.svg
+  logoDark: assets/oinam-logo.svg
+
+theme:
+  base:
+    base-color: "#7c3aed"
+    base-bg: "#eff1f5"
+  dark:
+    base-color: "#ca9ee6"
+    base-bg: "#303446"
 
 links:
-- text: Docs
-  link: /docs
+  - text: oinam.com
+    link: https://oinam.com
+  - text: Twitter
+    link: https://x.com/oinam
+    icon: twitter
+    target: blank
 
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; Copyright [Oinam](https://oinam.com) (2003 - {{ year }})"
+
+poweredByRetype: false

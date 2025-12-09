@@ -1,5 +1,7 @@
 # Bookmarks
 
+> Interesting, random, quirky, stumbles from the Internet.
+
 - Archives
 	- [ACM Digital Library](https://dl.acm.org) opened more than 117,500 articles published between 1951 and the end of 2000.
 	- [Animate Archive](https://animatearchive.neocities.org/) is a collection of Flash Installers from FutureSplash Animator (1996) to Adobe Flash CS6 Professional (2012).

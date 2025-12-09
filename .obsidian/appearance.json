@@ -4,5 +4,10 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Atkinson Hyperlegible Next",
   "baseFontSize": 18,
-  "showRibbon": false
+  "showRibbon": false,
+  "showViewHeader": false,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "obsidian-bg-grids-dots"
+  ]
 }

@@ -1,0 +1,5 @@
+# Y
+
+- [You Want My Password or a Dead Patient?](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf) (pdf) [archive](https://web.archive.org/web/20151124082621/https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf) An interesting read on a work of ethnography, where the authors studied how people in medical settings did their work interacting with computers, and denoted all sorts of workarounds they’d take to bypass security rules that they judge are a hindrance to their work. The idea behind the paper is that clearly, people behind the computer systems are not working from a realistic understanding of what medical professionals have to contend with to do their job. Mostly, the idea is that computer and security experts rarely happen to also be clinical care experts.
+- [YaCy](https://yacy.net) is free software for your own search engine.
+- [YTCH](https://ytch.xyz) If YouTube had actual channels, just 12 channels.

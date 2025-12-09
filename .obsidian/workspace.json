@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "950c35408587d1ba",
+        "id": "de6c93109f1dbc86",
         "type": "tabs",
         "children": [
           {
-            "id": "207122571b8c4de5",
+            "id": "eef362ef45d3595f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ]
@@ -180,11 +173,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "207122571b8c4de5",
+  "active": "eef362ef45d3595f",
   "lastOpenFiles": [
+    "docs/bookmarks/y.md",
+    "docs/bookmarks/01.md",
+    "docs/bookmarks/index.md",
+    "docs/awesome/articles.md",
+    "docs/awesome/video.md",
+    "docs/assets/oinam-logo.svg",
+    "docs/index.md",
+    "README.md",
     "site/search/search_index.json",
     "site/search",
     "site/writing/writing-business/index.html",
@@ -195,7 +197,6 @@
     "site/writing/bluf/index.html",
     "site/writing/write-to-express-not-to-impress",
     "site/writing/rule-of-three",
-    "site/writing/newsletter",
     "site/assets/img/car-door-lock-with-seatbelt.webp",
     "site/assets/images/favicon.png",
     "site/public/safari-pinned-tab.svg",
@@ -204,7 +205,6 @@
     "site/public/favicon-32x32.png",
     "site/public/favicon-16x16.png",
     "site/public/apple-touch-icon.png",
-    "site/public/android-chrome-512x512.png",
-    "site/public/android-chrome-192x192.png"
+    "site/public/android-chrome-512x512.png"
   ]
 }

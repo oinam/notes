@@ -1,3 +1,8 @@
 {
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Atkinson Hyperlegible Next",
+  "baseFontSize": 18,
+  "showRibbon": false
 }

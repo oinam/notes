@@ -1,0 +1,397 @@
+{
+  "version": "3.11.0",
+  "created": "2025-12-09T11:01:55Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "assets/.ds_store",
+      "old": true
+    },
+    {
+      "path": "awesome/articles/index.html"
+    },
+    {
+      "path": "awesome/video/index.html"
+    },
+    {
+      "path": "bookmarks/01/index.html"
+    },
+    {
+      "path": "bookmarks/index.html"
+    },
+    {
+      "path": "bookmarks/y/index.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "design/dieter-rams-good-design/index.html"
+    },
+    {
+      "path": "devices/computer/index.html"
+    },
+    {
+      "path": "digital/apple/index.html"
+    },
+    {
+      "path": "digital/email/index.html"
+    },
+    {
+      "path": "digital/index.html"
+    },
+    {
+      "path": "digital/linux/index.html"
+    },
+    {
+      "path": "digital/macos/index.html"
+    },
+    {
+      "path": "digital/para/index.html"
+    },
+    {
+      "path": "education/adept/index.html"
+    },
+    {
+      "path": "education/computer/index.html"
+    },
+    {
+      "path": "education/english/index.html"
+    },
+    {
+      "path": "education/index.html"
+    },
+    {
+      "path": "education/learn-new/index.html"
+    },
+    {
+      "path": "finance/money/index.html"
+    },
+    {
+      "path": "finance/wealthy-rich/index.html"
+    },
+    {
+      "path": "food/cooking/index.html"
+    },
+    {
+      "path": "food/index.html"
+    },
+    {
+      "path": "food/meat/index.html"
+    },
+    {
+      "path": "greenage/index.html"
+    },
+    {
+      "path": "greenage/internet/index.html"
+    },
+    {
+      "path": "health/breathing/index.html"
+    },
+    {
+      "path": "health/seating/index.html"
+    },
+    {
+      "path": "history/mary-somerville/index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "india/bangalore/index.html"
+    },
+    {
+      "path": "india/index.html"
+    },
+    {
+      "path": "internet/email-etiquette/index.html"
+    },
+    {
+      "path": "internet/index.html"
+    },
+    {
+      "path": "internet/internet-etiquette/index.html"
+    },
+    {
+      "path": "life/10-lessons-i-wish-i-had-been-taught/index.html"
+    },
+    {
+      "path": "life/5-whys/index.html"
+    },
+    {
+      "path": "life/5s/index.html"
+    },
+    {
+      "path": "life/6-ways-to-think-long-term/index.html"
+    },
+    {
+      "path": "life/be-curious-not-judgmental/index.html"
+    },
+    {
+      "path": "life/cost-per-use-vs-price/index.html"
+    },
+    {
+      "path": "life/cult-of-done/index.html"
+    },
+    {
+      "path": "life/dddd/index.html"
+    },
+    {
+      "path": "life/decisions-automation/index.html"
+    },
+    {
+      "path": "life/defaults/index.html"
+    },
+    {
+      "path": "life/first-principles/index.html"
+    },
+    {
+      "path": "life/ganbaru/index.html"
+    },
+    {
+      "path": "life/go-bag/index.html"
+    },
+    {
+      "path": "life/god/index.html"
+    },
+    {
+      "path": "life/happy-life/index.html"
+    },
+    {
+      "path": "life/have-a-life-mission-and-persevere/index.html"
+    },
+    {
+      "path": "life/hedonic-treadmill/index.html"
+    },
+    {
+      "path": "life/how-to-assess-someones-character/index.html"
+    },
+    {
+      "path": "life/huha/index.html"
+    },
+    {
+      "path": "life/laws/index.html"
+    },
+    {
+      "path": "life/leadership/index.html"
+    },
+    {
+      "path": "life/living-on-purpose/index.html"
+    },
+    {
+      "path": "life/matthew-mcconaughey-motivational-speech/index.html"
+    },
+    {
+      "path": "life/memory-techniques/index.html"
+    },
+    {
+      "path": "life/mental-models/index.html"
+    },
+    {
+      "path": "life/nagare/index.html"
+    },
+    {
+      "path": "life/occams-razor/index.html"
+    },
+    {
+      "path": "life/organize/index.html"
+    },
+    {
+      "path": "life/privacy/index.html"
+    },
+    {
+      "path": "life/religion/index.html"
+    },
+    {
+      "path": "life/routine/index.html"
+    },
+    {
+      "path": "life/shu-ha-ri/index.html"
+    },
+    {
+      "path": "life/silence/index.html"
+    },
+    {
+      "path": "life/slow-is-smooth-smooth-is-fast/index.html"
+    },
+    {
+      "path": "life/smart-enough-to-look-stupid/index.html"
+    },
+    {
+      "path": "life/the-master-does-his-job-tao-te-ching/index.html"
+    },
+    {
+      "path": "life/tips-for-a-better-life/index.html"
+    },
+    {
+      "path": "life/top-10-traits-of-the-perfect-leader/index.html"
+    },
+    {
+      "path": "life/wardrobe-essentialism/index.html"
+    },
+    {
+      "path": "life/what-to-work-on/index.html"
+    },
+    {
+      "path": "nature/agriculture/index.html"
+    },
+    {
+      "path": "oinam-logo.svg"
+    },
+    {
+      "path": "parenting/10-life-skills-to-teach-your-child-by-age-10/index.html"
+    },
+    {
+      "path": "parenting/daughters/index.html"
+    },
+    {
+      "path": "parenting/digital-literacy/index.html"
+    },
+    {
+      "path": "parenting/index.html"
+    },
+    {
+      "path": "parenting/kids-online/index.html"
+    },
+    {
+      "path": "parenting/school/index.html"
+    },
+    {
+      "path": "photography/index.html"
+    },
+    {
+      "path": "play/chess/index.html"
+    },
+    {
+      "path": "play/rubiks-cube/index.html"
+    },
+    {
+      "path": "public/.ds_store"
+    },
+    {
+      "path": "public/android-chrome-192x192.png"
+    },
+    {
+      "path": "public/android-chrome-512x512.png"
+    },
+    {
+      "path": "public/apple-touch-icon.png"
+    },
+    {
+      "path": "public/browserconfig.xml"
+    },
+    {
+      "path": "public/favicon-16x16.png"
+    },
+    {
+      "path": "public/favicon-32x32.png"
+    },
+    {
+      "path": "public/favicon.ico"
+    },
+    {
+      "path": "public/mstile-150x150.png"
+    },
+    {
+      "path": "public/oinam-logo.svg"
+    },
+    {
+      "path": "public/safari-pinned-tab.svg"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "social/parties/index.html"
+    },
+    {
+      "path": "technology/asciidoc/index.html"
+    },
+    {
+      "path": "technology/html/index.html"
+    },
+    {
+      "path": "technology/markdown/index.html"
+    },
+    {
+      "path": "technology/pandoc/index.html"
+    },
+    {
+      "path": "technology/password/index.html"
+    },
+    {
+      "path": "technology/raspberry-pi/index.html"
+    },
+    {
+      "path": "technology/spreadsheet/index.html"
+    },
+    {
+      "path": "technology/text/index.html"
+    },
+    {
+      "path": "technology/wi-fi/index.html"
+    },
+    {
+      "path": "writing/bluf/index.html"
+    },
+    {
+      "path": "writing/index.html"
+    },
+    {
+      "path": "writing/newsletter/index.html"
+    },
+    {
+      "path": "writing/rule-of-three/index.html"
+    },
+    {
+      "path": "writing/write-to-express-not-to-impress/index.html"
+    },
+    {
+      "path": "writing/writing-business/index.html"
+    }
+  ]
+}

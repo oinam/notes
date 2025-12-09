@@ -2,6 +2,7 @@ input: .
 output: .retype
 
 url: notes.oinam.com
+favicon: favicon.ico
 
 start:
   # Uncomment the next line to try Retype Pro features
@@ -11,26 +12,20 @@ branding:
   title: Oinam
   label: Notes
 
-  logo: assets/oinam-logo.svg
-  logoDark: assets/oinam-logo.svg
-
-theme:
-  base:
-    base-color: "#7c3aed"
-    base-bg: "#eff1f5"
-  dark:
-    base-color: "#ca9ee6"
-    base-bg: "#303446"
+  logo: oinam-logo.svg
+  logoDark: oinam-logo.svg
 
 links:
   - text: oinam.com
     link: https://oinam.com
-  - text: Twitter
-    link: https://x.com/oinam
-    icon: twitter
-    target: blank
+    icon: globe
+    target: self
+  - text: Contact
+    link: https://oinam.com/contact
+    icon: mail
+    target: self
 
-footer:
-  copyright: "&copy; Copyright [Oinam](https://oinam.com) (2003 - {{ year }})"
+# footer:
+#   copyright: "&copy; Copyright [Oinam](https://oinam.com) (2003 - {{ year }})"
 
-poweredByRetype: false
+# poweredByRetype: false

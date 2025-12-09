@@ -1,6 +1,6 @@
 # Breathing
 
-[!embed](https://www.youtube.com/watch?v=nd5U7mDhFi4)
+https://www.youtube.com/watch?v=nd5U7mDhFi4
 
 [POWERbreathe](https://www.powerbreathe.com) is a breathing exercise device for lungs, breathing trainer and therapy tool to strengthen breathing muscles and help lung capacity, inspiratory muscle trainer.
 

@@ -9,14 +9,14 @@ Powered by [MkDocs](https://www.mkdocs.org) with the theme [Material for MkDocs]
 - Run locally: `mkdocs serve`
 - Build: `mkdocs build`
 
+## Deployment (CloudFlare as of Dec 9, 2025)
+
+- In local Dev run, `pip freeze > requirements.txt`
+- Go to Environment variables (advanced) > Add variable > and add the variable `PYTHON_VERSION` with a value of `3.7`.
+
 ### Inspiration & References
 
 - [Digital Gardening Tools and Resources](https://github.com/MaggieAppleton/digital-gardeners)
 - [Andyʼs Working Notes](https://notes.andymatuschak.org/)
 - [The Garden](https://maggieappleton.com/garden) of Maggie Appleton
 - [Buster's Notes](https://busterbenson.com)
-
-## Hosts
-
-2026JAN - PRESENT: CloudFlare Pages
-2024JUL - 2025DEC: Netlify

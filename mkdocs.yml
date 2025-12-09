@@ -4,6 +4,7 @@
 site_name: Oinam Notes
 site_url: https://notes.oinam.com/
 site_author: Oinam
+site_dir: site
 
 use_directory_urls: true
 

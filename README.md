@@ -13,6 +13,7 @@ Powered by [MkDocs](https://www.mkdocs.org) with the theme [Material for MkDocs]
 
 - In local Dev run, `pip freeze > requirements.txt`
 - Go to Environment variables (advanced) > Add variable > and add the variable `PYTHON_VERSION` with a value of `3.7`.
+- Cloudflare Build `pip install -r requirements.txt && mkdocs build --site-dir site`
 
 ### Inspiration & References
 

@@ -178,6 +178,26 @@
   },
   "active": "207122571b8c4de5",
   "lastOpenFiles": [
-    "requirements.txt"
+    "site/search/search_index.json",
+    "site/search",
+    "site/writing/writing-business/index.html",
+    "site/writing/writing-business",
+    "site/writing/write-to-express-not-to-impress/index.html",
+    "site/writing/rule-of-three/index.html",
+    "site/writing/newsletter/index.html",
+    "site/writing/bluf/index.html",
+    "site/writing/write-to-express-not-to-impress",
+    "site/writing/rule-of-three",
+    "site/writing/newsletter",
+    "site/assets/img/car-door-lock-with-seatbelt.webp",
+    "site/assets/images/favicon.png",
+    "site/public/safari-pinned-tab.svg",
+    "site/public/oinam-logo.svg",
+    "site/public/mstile-150x150.png",
+    "site/public/favicon-32x32.png",
+    "site/public/favicon-16x16.png",
+    "site/public/apple-touch-icon.png",
+    "site/public/android-chrome-512x512.png",
+    "site/public/android-chrome-192x192.png"
   ]
 }

@@ -12,8 +12,8 @@ branding:
   title: Oinam
   label: Notes
 
-  logo: oinam-logo.svg
-  logoDark: oinam-logo.svg
+  # logo: oinam-logo.svg
+  # logoDark: oinam-logo.svg
 
 links:
   - text: oinam.com

@@ -4,26 +4,19 @@ An ever work-in-progress of _tit-bits, wiki-ish, data, learnings, and observatio
 
 ## Development
 
-Powered by [VitePress](https://vitepress.dev). Install the necessary modules to be able to run VitePress. Here is a quick reference for the simplest way to develop locally.
+Powered by [MkDocs](https://www.mkdocs.org) with the theme [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
-### Command
+- Run locally: `mkdocs serve`
+- Build: `mkdocs build`
 
-- Run locally: `npm run docs:dev`
-- Build: `npm run docs:build`
-- Preview the build: `npm run docs:preview`
-
-### Plugins
-
-Install the needed plugins with `npm i -D plugin-name` and follow their usage instructions.
-
-- [vitepress-sidebar](https://github.com/jooy2/vitepress-sidebar)
-- [markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote)
-
-#### Inspiration & References
+### Inspiration & References
 
 - [Digital Gardening Tools and Resources](https://github.com/MaggieAppleton/digital-gardeners)
 - [Andyʼs Working Notes](https://notes.andymatuschak.org/)
 - [The Garden](https://maggieappleton.com/garden) of Maggie Appleton
 - [Buster's Notes](https://busterbenson.com)
 
-Host: Netlify (2024JUL)
+## Hosts
+
+2026JAN - PRESENT: CloudFlare Pages
+2024JUL - 2025DEC: Netlify

@@ -5,8 +5,7 @@ url: notes.oinam.com
 favicon: favicon.ico
 
 start:
-  # Uncomment the next line to try Retype Pro features
-  # pro: true
+  pro: true
 
 branding:
   title: Oinam
@@ -19,13 +18,14 @@ links:
   - text: oinam.com
     link: https://oinam.com
     icon: globe
-    target: self
+  - text: Twitter
+    icon: mention
+    link: https://x.com/oinam
   - text: Contact
     link: https://oinam.com/contact
-    icon: mail
-    target: self
-
+    icon: unread
+  
 # footer:
 #   copyright: "&copy; Copyright [Oinam](https://oinam.com) (2003 - {{ year }})"
 
-# poweredByRetype: false
+poweredByRetype: false

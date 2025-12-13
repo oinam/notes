@@ -9,7 +9,6 @@ use_directory_urls: true
 
 theme:
   name: material # https://squidfunk.github.io/mkdocs-material/
-  custom_dir: overrides
   
   logo: assets/images/oinam-logo.svg
   favicon: assets/images/favicon.png

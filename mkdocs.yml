@@ -1,0 +1,55 @@
+# MkDocs, https://www.mkdocs.org/
+# Configuration, https://www.mkdocs.org/user-guide/configuration/
+
+site_name: Oinam
+site_url: https://notes.oinam.com
+site_author: Oinam
+
+use_directory_urls: true
+
+theme:
+  name: material # https://squidfunk.github.io/mkdocs-material/
+  custom_dir: overrides
+  logo: assets/images/oinam-logo.svg
+  favicon: assets/images/favicon.png
+
+  features:
+    - navigation.footer
+
+  font:
+    text: Inter
+
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: black
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+copyright: Oinam — Since 2003
+  
+extra:
+  generator: false
+
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/oinam
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/oinam
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/oinam

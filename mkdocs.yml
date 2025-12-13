@@ -48,6 +48,7 @@ copyright: Oinam — Since 2003
   
 extra:
   generator: false
+  homepage: https://notes.oinam.com
 
   social:
     - icon: fontawesome/brands/github

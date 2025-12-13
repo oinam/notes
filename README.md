@@ -5,7 +5,7 @@ An ever work-in-progress of _tit-bits, wiki-ish, data, learnings, and observatio
 ## Development
 
 - [MkDocs](https://www.mkdocs.org)
-- Deploy to Github Pages with `mkdocs gh-deploy`
+- Deploy to Github Pages with `mkdocs gh-deploy` or `mkdocs gh-deploy --force`
 
 ### Inspiration & References
 

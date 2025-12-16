@@ -4,7 +4,7 @@ Greenage Internet is served by Act Fibernet, Airtel, Jio, and Tata.
 
 ## Wi-Fi
 
-“Behind every good Wi-Fi network is an excellent wired backbone infrastructure.” — [the Tao of Wi-Fi](/technology/wi-fi)
+“Behind every good Wi-Fi network is an excellent wired backbone infrastructure.” — [the Tao of Wi-Fi](/technology/wi-fi/)
 
 This is one of those simple topics that gets serious as one goes deeper. The best would be to ask, “How important is my Internet connectivity in our home?”
 

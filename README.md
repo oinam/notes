@@ -5,7 +5,8 @@ An ever work-in-progress of _tit-bits, wiki-ish, data, learnings, and observatio
 ## Development
 
 - [MkDocs](https://www.mkdocs.org)
-- Deploy to Github Pages with `mkdocs gh-deploy` or `mkdocs gh-deploy --force`
+- `mkdocs serve`
+- Deploy to folder `site` on Cloudflare pages with custom build `pip install -r requirements.txt && mkdocs build`
 
 ### Inspiration & References
 

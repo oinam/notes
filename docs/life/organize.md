@@ -1,10 +1,10 @@
 # Organize
 
-[PARA](/digital/para)
+[PARA](/digital/para/)
 
 [Diátaxis](https://diataxis.fr) suggests organizing documentation into four modes: tutorials, how-to guides, technical reference, and explanations.
 
-![Diátaxis](https://cdn.oinam.com/img/web/diataxis.png "Diátaxis")
+![Diátaxis Quadrant Diagram](https://cdn.oinam.com/img/web/diataxis.png "Diátaxis")
 
 ## References
 

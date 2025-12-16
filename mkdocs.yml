@@ -49,7 +49,7 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
-copyright: Oinam — Since 2003
+copyright: Since 2003 — Oinam
   
 extra:
   generator: false

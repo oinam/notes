@@ -9,7 +9,8 @@ use_directory_urls: true
 
 theme:
   name: material # https://squidfunk.github.io/mkdocs-material/
-  
+  font: false
+
   logo: assets/images/oinam-logo.svg
   favicon: assets/images/favicon.png
 
@@ -19,20 +20,22 @@ theme:
   head:
     er.autohide
 
-  font:
-    text: Inter
-
   palette:
 
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
+      scheme: default
+      primary: black
+      accent: white
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: black
+      scheme: default
+      primary: black
+      accent: white
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -40,6 +43,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: black
+      accent: grey
       toggle:
         icon: material/brightness-4
         name: Switch to system preference

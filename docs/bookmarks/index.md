@@ -27,7 +27,6 @@
 	- [Project Gutenberg](https://www.gutenberg.org) is a library of over 70,000 free eBooks.
 	- [Standard Books](https://standardebooks.org) is a project that takes transcriptions of public domain literature, like the kind typically available at [Project Gutenberg](https://gutenberg.org), and creates beautiful, modern ebooks out of them using a detailed [style manual](https://standardebooks.org/manual/). 
 - Entertainment (Movies, TV)
-	- [35mm](https://35mm.online/en) has thousands of classic Polish and other films.
 	- [My 90s TV](https://my90stv.com/)
 	- [Netflix-Codes](https://www.netflix-codes.com)
 	- [Radio Garden](http://radio.garden) invites you to tune into thousands of live radio stations across the globe.

@@ -1,3 +1,4 @@
 # Bookmarks › S
 
 - [Sim](https://sim.ai/) is an [open-source](https://github.com/simstudioai/sim/) visual editor to build agentic workflows. Under the hood, the workflow is a DAG with concurrent execution by default. Nodes run as soon as their dependencies (upstream blocks) are satisfied. Loops (for, forEach, while, do-while) and parallel fan-out/join are also first-class primitives. An Apache-2.0 n8n alternative.
+- [Stash](https://github.com/shakedlokits/stash) is an open-source tool that can Bidirectionally sync Markdown files with Apple Notes.

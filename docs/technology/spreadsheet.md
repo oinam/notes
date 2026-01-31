@@ -4,7 +4,6 @@
 
 ## Tit-Bits
 
-
 #### Format in Indian Currency (Lakhs, Crores)
 
 ₹ with decimals \
@@ -18,7 +17,6 @@ No ₹, with decimals \
 
 No ₹, without decimals \
 `[>9999999]##\,##\,##\,##0;[>99999]##\,##\,##0;##,##0`
-
 
 #### Year(s), Month(s), and Day(s) between dates
 

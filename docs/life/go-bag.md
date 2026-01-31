@@ -1,6 +1,6 @@
 # Go Bag (Bug-out Bag)
 
-A [bug-out bag](https://en.wikipedia.org/wiki/Bug-out_bag) (BOB) or in a more common term, *Go Bag* is a portable kit that normally contains the items one would require to survive for 72 hours when evacuating from a disaster, although some kits are designed to last longer periods. Other names for such a bag are a 72-hour kit, battle box, grab bag, GOOD bag (get out of dodge), personal emergency relocation kit (PERK), or quick run bag (QRB).
+A [bug-out bag](https://en.wikipedia.org/wiki/Bug-out_bag) (BOB), or in a more common term, a Go Bag, is a portable kit that normally contains the items one would require to survive for 72 hours when evacuating from a disaster, although some kits are designed to last longer periods. Other names for such a bag are a 72-hour kit, battle box, grab bag, GOOD bag (get out of dodge), personal emergency relocation kit (PERK), or quick run bag (QRB).
 
 The focus is on evacuation, rather than long-term survival, distinguishing the Go Bag from a survival kit, an aviation or a boating emergency kit, or a fixed-site disaster supplies kit.
 
@@ -12,7 +12,7 @@ The suggested contents of a Go Bag vary, but most of the following are usually i
   + Air filtration mask
   + Water and food to last for at least 72 hours.
     * Water for drinking and cooking.
-    * Water purification supplies or water filtration system.
+    * Water purification supplies or a water filtration system.
     * Non-perishable food.
 - First Aid
   + Enough medicine to last an extended evacuation period.
@@ -65,3 +65,4 @@ The suggested contents of a Go Bag vary, but most of the following are usually i
 ### References
 
 - [The Go Bag Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-go-bag)
+- [The 72h concept](https://72tuntia.fi/en/) details the level of home preparedness recommended by the authorities and NGOs.

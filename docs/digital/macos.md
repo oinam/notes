@@ -1,47 +1,54 @@
 # macOS
 
-## User Interface
-
-**Dark Theme for Menubar and Dock but overall Light Theme.**
+## Dark Theme for Menubar and Dock but overall Light Theme.
 
 1. System Preferences, then set the theme to **LIGHT**, then run
 2. `defaults write -g NSRequiresAquaSystemAppearance -bool Yes`
 3. Logout, then System Preferences, then set the theme to **DARK**.
 
-Reset back to the default theme.\
+Reset back to the default theme.
+
 `defaults write -g NSRequiresAquaSystemAppearance -bool No`
 
 Expand Print Panel by Default
+
 ```
-defaults write -g PMPrintingExpandedStateForPrint -bool true && \
+defaults write -g PMPrintingExpandedStateForPrint -bool true &&
 defaults write -g PMPrintingExpandedStateForPrint2 -bool true
 ```
 
-Screenshots Location\
+Screenshots Location
+
 `defaults write com.apple.screencapture location <custom-folder-location>`
 
-Quit Printer App After Print Jobs Complete\
+Quit Printer App After Print Jobs Complete
+
 `defaults write com.apple.print.PrintingPrefs "Quit When Finished" -bool true`
 
 ## Finder
 
-Stop ds_store creation on shared network drives\
+Stop ds_store creation on shared network drives
+
 `defaults write com.apple.desktopservices DSDontWriteNetworkStores true`
 
-Revert back to default\
+Reset
+
 `defaults write com.apple.desktopservices DSDontWriteNetworkStores false`
 
 ## Dock
 
-Disable Dock Auto Hide Animation\
+Disable Dock Auto Hide Animation
+
 `defaults write com.apple.dock autohide-time-modifier -int 0;killall Dock`
 
-Reset Back to Default\
+Reset
+
 `defaults delete com.apple.dock autohide-time-modifier;killall Dock`
 
 ## Menu
 
 Clean up the "Open With" Menu
+
 ```
 /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user
 ```
@@ -49,18 +56,10 @@ Clean up the "Open With" Menu
 ## Misc
 
 Flush DNS Cache
+
 ```
 sudo killall -HUP mDNSResponder; sudo killall mDNSResponderHelper; sudo dscacheutil -flushcache
 ```
-
-## Turn off ‘Microsoft AutoUpdate’
-
-check status\
-`launchctl print-disabled gui/$(id -u) | grep microsoft`
-
-disable the service\
-`launchctl disable gui/$(id -u)/com.microsoft.update.agent`
-
 
 ## Block Websites
 
@@ -68,7 +67,25 @@ disable the service\
 2. Add `0.0.0.0 siteToBlock.com`
 3. Save > Exit (CTRL + x > y)
 
-## References
+## Apple Silicon Macs: ON on opening lid or connect to power
+
+To prevent startup when opening the lid or connecting to power
+
+`sudo nvram BootPreference=%00`
+
+To prevent startup only when opening the lid
+
+`sudo nvram BootPreference=%01`
+
+To prevent startup only when connecting to power
+
+`sudo nvram BootPreference=%02`
+
+Reset the behavior to defaults
+
+`sudo nvram -d BootPreference`
+
+### References
 
 - [Mac keyboard shortcuts](https://support.apple.com/en-au/HT201236)
 - [Awesome macOS Command Line](https://git.herrbischoff.com/awesome-macos-command-line/about/) ([archive](https://archive.ph/PXzE7))

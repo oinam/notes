@@ -4,3 +4,4 @@
 - [Mephisto](https://mephistomail.site) is a RAM-only, ad-free disposable email service.
 - [Muky](https://muky.app) is an iPhone/iPad app for creating and managing parent-controlled music playlists with Apple Music or Spotify sync and offline support.
 - [Mac Mouse Fix](https://macmousefix.com/) is an [open-source](https://github.com/noah-nuebling/mac-mouse-fix) app that makes your mouse better.
+- [MonoSketch](https://monosketch.io) is an [open-source](https://github.com/tuanchauict/MonoSketch) ASCII sketching and diagramming app that lets you effortlessly transform your ideas into visually stunning designs.

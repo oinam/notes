@@ -5,7 +5,7 @@
   "input": ".",
   "output": "dist",
   "site": {
-    "title": "Oinam",
+    "title": "Oinam Notes",
     "description": "An ever work-in-progress of tit-bits, wiki-ish, data, learnings, and observations by Oinam.",
     "baseUrl": "https://notes.oinam.com",
     "ignoreFolders": ["node_modules", "dist", ".git", ".github", ".claude", ".obsidian"],

@@ -13,7 +13,6 @@
     "palette": "eink",
     "favicon": "/favicon.ico",
     "logo": "/oinam-logo.svg",
-    "headExtra": "<link rel=\"icon\" href=\"/favicon.ico\" sizes=\"any\">",
     "footer": "Since 2003 — Oinam",
     "footerNav": [
       { "label": "GitHub", "href": "https://github.com/oinam", "external": true },

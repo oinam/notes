@@ -4,11 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "ovellum dev",
-    "build": "ovellum build && npm run postbuild",
-    "postbuild": "rm -f dist/package.json dist/package-lock.json dist/ovellum.config.json dist/.gitignore && find dist -name .DS_Store -delete",
+    "build": "ovellum build",
     "check": "ovellum check"
   },
   "devDependencies": {
-    "ovellum": "^0.4.0"
+    "ovellum": "^0.5.0"
   }
 }

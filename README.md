@@ -14,5 +14,3 @@ An ever work-in-progress of _tit-bits, wiki-ish, data, learnings, and observatio
 - [Andyʼs Working Notes](https://notes.andymatuschak.org/)
 - [The Garden](https://maggieappleton.com/garden) of Maggie Appleton
 - [Buster's Notes](https://busterbenson.com)
-
-→ 

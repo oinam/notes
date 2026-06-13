@@ -1,3 +1,3 @@
-# # Bookmarks › D
+# Bookmarks › D
 
 - [Docus](https://docus.dev/) is a Nuxt-based documentation framework that delivers a polished, modern documentation experience with built-in features like search, SEO optimization, dark mode, and clean default theming. It supports enhanced Markdown with Vue component integration, making it suitable for interactive or product-centric docs while still deployable as a static site. It strikes a balance between aesthetics and flexibility, though it assumes familiarity with the Nuxt ecosystem.

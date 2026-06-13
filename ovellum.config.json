@@ -1,0 +1,21 @@
+{
+  "$schema": "https://ovellum.oss.oinam.com/schema/ovellum.config.schema.json",
+  "name": "oinam-notes",
+  "mode": "manual",
+  "input": "docs",
+  "output": "dist",
+  "site": {
+    "title": "Oinam",
+    "description": "An ever work-in-progress of tit-bits, wiki-ish, data, learnings, and observations by Oinam.",
+    "baseUrl": "https://notes.oinam.com",
+    "defaultTheme": "auto",
+    "palette": "eink",
+    "headExtra": "<link rel=\"icon\" href=\"/assets/images/favicon.ico\" sizes=\"any\"><link rel=\"icon\" type=\"image/png\" href=\"/assets/images/favicon.png\">",
+    "footer": "Since 2003 — Oinam",
+    "footerNav": [
+      { "label": "GitHub", "href": "https://github.com/oinam", "external": true },
+      { "label": "X", "href": "https://x.com/oinam", "external": true },
+      { "label": "Instagram", "href": "https://instagram.com/oinam", "external": true }
+    ]
+  }
+}

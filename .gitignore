@@ -1,5 +1,8 @@
 .obsidian
-site/
+
+# Node / Ovellum build #
+node_modules/
+dist/
 
 # Ignore OS generated files #
 .DS_Store*

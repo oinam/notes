@@ -4,9 +4,10 @@ An ever work-in-progress of _tit-bits, wiki-ish, data, learnings, and observatio
 
 ## Development
 
-- [MkDocs](https://www.mkdocs.org)
-- `mkdocs serve`
-- Deploy to folder `site` on Cloudflare pages with custom build `pip install -r requirements.txt && mkdocs build`
+- [Ovellum](https://ovellum.oss.oinam.com) — our own documentation generator (manual mode)
+- `npm install`, then `npm run dev` to preview locally with live reload
+- `npm run build` outputs the static site to `dist/`; `npm run check` validates internal links
+- Deploy on Cloudflare Pages with build command `npm install && npm run build` and output directory `dist`
 
 ## Inspiration & References
 

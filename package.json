@@ -1,0 +1,13 @@
+{
+  "name": "oinam-notes",
+  "description": "Notes by Oinam — built with Ovellum.",
+  "private": true,
+  "scripts": {
+    "dev": "ovellum dev",
+    "build": "ovellum build",
+    "check": "ovellum check"
+  },
+  "devDependencies": {
+    "ovellum": "^0.4.0"
+  }
+}

@@ -10,7 +10,9 @@
     "baseUrl": "https://notes.oinam.com",
     "defaultTheme": "auto",
     "palette": "eink",
-    "headExtra": "<link rel=\"icon\" href=\"/assets/images/favicon.ico\" sizes=\"any\"><link rel=\"icon\" type=\"image/png\" href=\"/assets/images/favicon.png\">",
+    "favicon": "/favicon.ico",
+    "logo": "/oinam-logo.svg",
+    "headExtra": "<link rel=\"icon\" href=\"/favicon.ico\" sizes=\"any\">",
     "footer": "Since 2003 — Oinam",
     "footerNav": [
       { "label": "GitHub", "href": "https://github.com/oinam", "external": true },

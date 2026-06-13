@@ -8,6 +8,6 @@
     "check": "ovellum check"
   },
   "devDependencies": {
-    "ovellum": "^0.5.0"
+    "ovellum": "^0.5.1"
   }
 }

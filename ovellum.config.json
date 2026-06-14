@@ -8,6 +8,7 @@
     "title": "Oinam Notes",
     "description": "An ever work-in-progress of tit-bits, wiki-ish, data, learnings, and observations by Oinam.",
     "baseUrl": "https://notes.oinam.com",
+    "search": { "enabled": true },
     "ignoreFolders": ["node_modules", "dist", ".git", ".github", ".claude", ".obsidian"],
     "defaultTheme": "auto",
     "palette": "eink",

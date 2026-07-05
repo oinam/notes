@@ -2,7 +2,7 @@
 
 # Node / Ovellum build #
 node_modules/
-dist/
+_site/
 
 # Ignore OS generated files #
 .DS_Store*
